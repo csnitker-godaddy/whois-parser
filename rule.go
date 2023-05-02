@@ -1,5 +1,5 @@
 /*
- * Copyright 2014-2024 Li Kexian
+ * Copyright 2014-2023 Li Kexian
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -190,5 +190,6 @@ var (
 		"registrant contact e mail":              "registrant_email",
 		"registrant abuse contact email":         "registrant_email",
 		"registrar authorised registrar":         "registrar_id",
+		"reseller":                               "reseller_name",
 	}
 )
