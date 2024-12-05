@@ -1,0 +1,83 @@
+{
+    "domain": {
+        "id": "DO_d38ceb1792123ed266f49fb27261d153-MUSIC",
+        "domain": "nic.music",
+        "punycode": "nic.music",
+        "name": "nic",
+        "extension": "music",
+        "whois_server": "whois.registryservices.music",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns03.trs-dns.com",
+            "ns03.trs-dns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2024-08-05T19:06:37.900Z",
+        "created_date_in_time": "2024-08-05T19:06:37.9Z",
+        "updated_date": "2024-09-03T17:20:55.813Z",
+        "updated_date_in_time": "2024-09-03T17:20:55.813Z",
+        "expiration_date": "2034-08-05T19:06:37.900Z",
+        "expiration_date_in_time": "2034-08-05T19:06:37.9Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "DotMusic Limited,",
+        "phone": "+1.6042831139",
+        "email": "registrarsupport@registryservices.music",
+        "referral_url": "http://registryservices.music/"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "DotMusic Limited,",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "BC",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "CA",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

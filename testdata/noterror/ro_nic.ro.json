@@ -1,0 +1,26 @@
+{
+    "domain": {
+        "domain": "nic.ro",
+        "punycode": "nic.ro",
+        "name": "nic",
+        "extension": "ro",
+        "status": [
+            "DeleteProhibited",
+            "Locked",
+            "RegistrantTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.eunoc.net",
+            "ns2.eunoc.net",
+            "ns3.eunoc.net"
+        ],
+        "created_date": "Before 2001",
+        "created_date_in_time": "2001-01-01T00:00:00Z",
+        "expiration_date": "2028-05-29",
+        "expiration_date_in_time": "2028-05-29T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Instra Corporation Pty Ltd",
+        "referral_url": "www.instra.com"
+    }
+}

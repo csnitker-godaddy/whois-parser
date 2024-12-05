@@ -1,0 +1,64 @@
+{
+    "domain": {
+        "id": "D5E571325A4DA4D66AE53E6800D42BD09-ARI",
+        "domain": "nic.xn--mgbca7dzdo",
+        "punycode": "nic.xn--mgbca7dzdo",
+        "name": "nic",
+        "extension": "xn--mgbca7dzdo",
+        "whois_server": "gwhois.aeda.net.ae",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.nic.xn--mgbca7dzdo",
+            "ns2.nic.xn--mgbca7dzdo",
+            "ns3.nic.xn--mgbca7dzdo",
+            "ns4.nic.xn--mgbca7dzdo"
+        ],
+        "dnssec": true,
+        "created_date": "2015-09-27T07:48:40Z",
+        "created_date_in_time": "2015-09-27T07:48:40Z",
+        "updated_date": "2022-11-10T19:32:19Z",
+        "updated_date_in_time": "2022-11-10T19:32:19Z",
+        "expiration_date": "2025-09-27T07:48:40Z",
+        "expiration_date_in_time": "2025-09-27T07:48:40Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "ADSIC Registry Operator",
+        "referral_url": "http://aeda.ae"
+    },
+    "registrant": {
+        "id": "C2F595250076944619E985B73ECCC29FA-ARI",
+        "name": "Abu Dhabi Top Level Domains",
+        "organization": "Abu Dhabi Systems and Information Centre",
+        "street": "Al Karama Street, International Tower, 6th & 7th Floor, P.O. Box 3133",
+        "city": "Abu Dhabi",
+        "country": "ae",
+        "phone": "+971.26717000",
+        "fax": "+971.26717333",
+        "email": "infra.management@adsic.abudhabi.ae"
+    },
+    "administrative": {
+        "id": "C2F595250076944619E985B73ECCC29FA-ARI",
+        "name": "Abu Dhabi Top Level Domains",
+        "organization": "Abu Dhabi Systems and Information Centre",
+        "street": "Al Karama Street, International Tower, 6th & 7th Floor, P.O. Box 3133",
+        "city": "Abu Dhabi",
+        "country": "ae",
+        "phone": "+971.26717000",
+        "fax": "+971.26717333",
+        "email": "infra.management@adsic.abudhabi.ae"
+    },
+    "technical": {
+        "id": "CF7825F3FA0844B03B9F2F7311E1B66B3-ARI",
+        "name": "Abu Dhabi Top Level Domains",
+        "organization": "Abu Dhabi Systems and Information Centre",
+        "street": "Al Karama Street, International Tower, 6th & 7th Floor, P.O. Box 3133",
+        "city": "Abu Dhabi",
+        "country": "ae",
+        "phone": "+971.26717000",
+        "fax": "+971.26717333",
+        "email": "adtld@adsic.abudhabi.ae"
+    }
+}

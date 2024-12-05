@@ -1,0 +1,31 @@
+{
+    "domain": {
+        "id": "DO34729-GMO",
+        "domain": "nic.infiniti",
+        "punycode": "nic.infiniti",
+        "name": "nic",
+        "extension": "infiniti",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.jp",
+            "ns1.gmointernet.com"
+        ],
+        "created_date": "2014-02-27T05:15:00.0Z",
+        "created_date_in_time": "2014-02-27T05:15:00Z",
+        "updated_date": "2024-04-13T00:52:29.0Z",
+        "updated_date_in_time": "2024-04-13T00:52:29Z",
+        "expiration_date": "2025-02-27T23:59:59.0Z",
+        "expiration_date_in_time": "2025-02-27T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "NISSAN MOTOR CO., LTD.",
+        "referral_url": "http://www.nissan-global.com/"
+    },
+    "registrant": {
+        "province": "Kanagawa",
+        "country": "JP"
+    }
+}

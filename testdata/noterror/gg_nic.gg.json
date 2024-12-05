@@ -1,0 +1,19 @@
+{
+    "domain": {
+        "domain": "nic.gg",
+        "punycode": "nic.gg",
+        "name": "nic",
+        "extension": "gg",
+        "status": [
+            "Active",
+            "Registered"
+        ],
+        "name_servers": [
+            "ns1.livedns.co.uk",
+            "ns2.livedns.co.uk"
+        ]
+    },
+    "registrant": {
+        "organization": "Redacted for privacy"
+    }
+}

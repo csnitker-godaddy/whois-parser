@@ -1,0 +1,87 @@
+{
+    "domain": {
+        "id": "D8882560-PIONEER",
+        "domain": "nic.pioneer",
+        "punycode": "nic.pioneer",
+        "name": "nic",
+        "extension": "pioneer",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.pioneer",
+            "dns2.nic.pioneer",
+            "dns3.nic.pioneer",
+            "dns4.nic.pioneer",
+            "dnsa.nic.pioneer",
+            "dnsb.nic.pioneer",
+            "dnsc.nic.pioneer",
+            "dnsd.nic.pioneer"
+        ],
+        "dnssec": true,
+        "created_date": "2022-07-20T13:26:39Z",
+        "created_date_in_time": "2022-07-20T13:26:39Z",
+        "updated_date": "2024-10-10T09:23:38Z",
+        "updated_date_in_time": "2024-10-10T09:23:38Z",
+        "expiration_date": "2031-07-20T13:26:39Z",
+        "expiration_date_in_time": "2031-07-20T13:26:39Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Pioneer Corporation",
+        "phone": "+81.366348777",
+        "email": "japan@comlaude.com",
+        "referral_url": "http://pioneer.jp"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "Pioneer Corporation",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "GB",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "japan@comlaude.com"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "Pioneer Corporation",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "japan@comlaude.com"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "Pioneer Corporation",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "japan@comlaude.com"
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "Pioneer Corporation",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "japan@comlaude.com"
+    }
+}

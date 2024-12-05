@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "D1-EUS",
+        "domain": "nic.eus",
+        "punycode": "nic.eus",
+        "name": "nic",
+        "extension": "eus",
+        "whois_server": "whois.nic.eus",
+        "status": [
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-02-07T12:39:03.948Z",
+        "created_date_in_time": "2014-02-07T12:39:03.948Z",
+        "updated_date": "2024-03-23T13:38:47.510Z",
+        "updated_date_in_time": "2024-03-23T13:38:47.51Z",
+        "expiration_date": "2025-02-07T12:39:03.948Z",
+        "expiration_date_in_time": "2025-02-07T12:39:03.948Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry self-allocated",
+        "phone": "+34.665770945",
+        "email": "fake-email1@unicart.bg",
+        "referral_url": "http://nic.eus/"
+    },
+    "registrant": {
+        "province": "Gipuzkoa",
+        "country": "ES",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

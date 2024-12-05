@@ -1,0 +1,46 @@
+{
+    "domain": {
+        "id": "D77414594-CNIC",
+        "domain": "nic.fo",
+        "punycode": "nic.fo",
+        "name": "nic",
+        "extension": "fo",
+        "whois_server": "whois.nic.fo",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.fo",
+            "b.nic.fo",
+            "c.nic.fo",
+            "d.nic.fo"
+        ],
+        "created_date": "2010-06-03T02:34:05.0Z",
+        "created_date_in_time": "2010-06-03T02:34:05Z",
+        "updated_date": "2024-07-02T12:41:43.0Z",
+        "updated_date_in_time": "2024-07-02T12:41:43Z",
+        "expiration_date": "2028-01-03T23:59:59.0Z",
+        "expiration_date_in_time": "2028-01-03T23:59:59Z"
+    },
+    "registrar": {
+        "name": "FO Umsitingin",
+        "phone": "+298.898900",
+        "email": "gudrun@nic.fo",
+        "referral_url": "https://okisnavn.fo/"
+    },
+    "registrant": {
+        "email": "https://whois.nic.fo/contact/nic.fo/registrant"
+    },
+    "administrative": {
+        "email": "https://whois.nic.fo/contact/nic.fo/admin"
+    },
+    "technical": {
+        "email": "https://whois.nic.fo/contact/nic.fo/tech"
+    },
+    "billing": {
+        "email": "https://whois.nic.fo/contact/nic.fo/billing"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "domain": {
+        "id": "aceaa50c88ad42ff9b292ff35ca4be09-DONUTS",
+        "domain": "nic.ferrari",
+        "punycode": "nic.ferrari",
+        "name": "nic",
+        "extension": "ferrari",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.ferrari",
+            "b0.nic.ferrari",
+            "c0.nic.ferrari",
+            "a2.nic.ferrari"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-22T22:38:29Z",
+        "created_date_in_time": "2016-01-22T22:38:29Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-22T22:38:29Z",
+        "expiration_date_in_time": "2025-01-22T22:38:29Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "f9852d69d6de4e2fa90b8cbd91ff1249-DONUTS",
+        "name": "Digital Department",
+        "organization": "Ferrari S.p.A",
+        "street": "Via Abetone Inf. n.4",
+        "city": "Maranello",
+        "postal_code": "41053",
+        "country": "IT",
+        "phone": "+29.0536949111",
+        "fax": "+44.2079251756",
+        "email": "ngtld-ferrari@cscglobal.com"
+    },
+    "administrative": {
+        "id": "f9852d69d6de4e2fa90b8cbd91ff1249-DONUTS",
+        "name": "Digital Department",
+        "organization": "Ferrari S.p.A",
+        "street": "Via Abetone Inf. n.4",
+        "city": "Maranello",
+        "postal_code": "41053",
+        "country": "IT",
+        "phone": "+29.0536949111",
+        "fax": "+44.2079251756",
+        "email": "ngtld-ferrari@cscglobal.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

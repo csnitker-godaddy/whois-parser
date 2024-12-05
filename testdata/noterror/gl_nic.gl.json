@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "D327750028-CNIC",
+        "domain": "nic.gl",
+        "punycode": "nic.gl",
+        "name": "nic",
+        "extension": "gl",
+        "whois_server": "whois.nic.gl",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "jake.ns.cloudflare.com",
+            "kristin.ns.cloudflare.com"
+        ],
+        "created_date": "2009-09-03T12:51:55.0Z",
+        "created_date_in_time": "2009-09-03T12:51:55Z",
+        "updated_date": "2023-08-31T17:00:37.0Z",
+        "updated_date_in_time": "2023-08-31T17:00:37Z",
+        "expiration_date": "2032-09-19T23:59:59.0Z",
+        "expiration_date_in_time": "2032-09-19T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Tusass",
+        "phone": "+44.123456789",
+        "email": "gl-admin@tusass.gl",
+        "referral_url": "https://www.tusass.gl/"
+    },
+    "registrant": {
+        "email": "https://whois.nic.gl/contact/nic.gl/registrant"
+    },
+    "administrative": {
+        "email": "https://whois.nic.gl/contact/nic.gl/admin"
+    },
+    "technical": {
+        "email": "https://whois.nic.gl/contact/nic.gl/tech"
+    },
+    "billing": {
+        "email": "https://whois.nic.gl/contact/nic.gl/billing"
+    }
+}

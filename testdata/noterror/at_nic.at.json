@@ -1,0 +1,33 @@
+{
+    "domain": {
+        "domain": "nic.at",
+        "punycode": "nic.at",
+        "name": "nic",
+        "extension": "at",
+        "name_servers": [
+            "ns1.nic.at",
+            "ns10.univie.ac.at",
+            "ns2.nic.at",
+            "ns5.nic.at",
+            "ns5.univie.ac.at"
+        ],
+        "dnssec": true,
+        "updated_date": "20200427 16:03:40",
+        "updated_date_in_time": "2020-04-27T16:03:40Z"
+    },
+    "registrant": {
+        "id": "NG8867695-NICAT",
+        "organization": "NIC.AT GmbH",
+        "street": "Jakob-Haringerstrasse 8, A-5020, Salzburg, Austria",
+        "phone": "+4366246690",
+        "fax": "+43662466929",
+        "email": "service@nic.at"
+    },
+    "technical": {
+        "id": "UH567003-NICAT",
+        "name": "UNIVIE Hostmaster",
+        "street": "Universitaetsstrasse 7, A-1010, Vienna, Austria",
+        "phone": "+431427714277",
+        "email": "domain-admin@univie.ac.at"
+    }
+}

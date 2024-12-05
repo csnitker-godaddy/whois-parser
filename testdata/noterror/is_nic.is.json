@@ -1,0 +1,31 @@
+{
+    "domain": {
+        "domain": "nic.is",
+        "punycode": "nic.is",
+        "name": "nic",
+        "extension": "is",
+        "name_servers": [
+            "tg-secondary01.isnic.is",
+            "ht-secondary01.isnic.is",
+            "nsp.dnsnode.net",
+            "sec1.rcode0.net"
+        ],
+        "dnssec": true,
+        "created_date": "September  5 2000",
+        "created_date_in_time": "2000-09-05T00:00:00Z",
+        "expiration_date": "September  5 2025",
+        "expiration_date_in_time": "2025-09-05T00:00:00Z"
+    },
+    "registrant": {
+        "organization": "IIH33-IS"
+    },
+    "administrative": {
+        "id": "JENS-IS"
+    },
+    "technical": {
+        "id": "ISHM-IS"
+    },
+    "billing": {
+        "id": "ISBC-IS"
+    }
+}

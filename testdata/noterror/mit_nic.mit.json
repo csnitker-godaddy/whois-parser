@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "1ef569984bcd497d9b7c672f57c2b8f8-DONUTS",
+        "domain": "nic.mit",
+        "punycode": "nic.mit",
+        "name": "nic",
+        "extension": "mit",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.mit",
+            "b0.nic.mit",
+            "c0.nic.mit",
+            "a2.nic.mit"
+        ],
+        "dnssec": true,
+        "created_date": "2016-10-04T21:53:25Z",
+        "created_date_in_time": "2016-10-04T21:53:25Z",
+        "updated_date": "2024-11-18T21:54:08Z",
+        "updated_date_in_time": "2024-11-18T21:54:08Z",
+        "expiration_date": "2025-10-04T21:53:25Z",
+        "expiration_date_in_time": "2025-10-04T21:53:25Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "49743893564a4af7b6c59af7dbcd4b7d-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "Massachusetts Institute of Technology",
+        "street": "1000 Potomac St NW Suite 350",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": "20007",
+        "country": "US",
+        "phone": "+1.2022239252",
+        "fax": "+1.2022239256",
+        "email": "mitregistry@fairwindspartners.com"
+    },
+    "administrative": {
+        "id": "49743893564a4af7b6c59af7dbcd4b7d-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "Massachusetts Institute of Technology",
+        "street": "1000 Potomac St NW Suite 350",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": "20007",
+        "country": "US",
+        "phone": "+1.2022239252",
+        "fax": "+1.2022239256",
+        "email": "mitregistry@fairwindspartners.com"
+    },
+    "technical": {
+        "id": "49743893564a4af7b6c59af7dbcd4b7d-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "Massachusetts Institute of Technology",
+        "street": "1000 Potomac St NW Suite 350",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": "20007",
+        "country": "US",
+        "phone": "+1.2022239252",
+        "fax": "+1.2022239256",
+        "email": "mitregistry@fairwindspartners.com"
+    }
+}

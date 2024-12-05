@@ -1,0 +1,39 @@
+{
+    "domain": {
+        "id": "106676RICTA",
+        "domain": "nic.rw",
+        "punycode": "nic.rw",
+        "name": "nic",
+        "extension": "rw",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns1.desec.io",
+            "ns2.desec.org"
+        ],
+        "dnssec": true,
+        "created_date": "2024-01-15T19:57:51Z",
+        "created_date_in_time": "2024-01-15T19:57:51Z",
+        "updated_date": "2024-01-21T00:00:15Z",
+        "updated_date_in_time": "2024-01-21T00:00:15Z",
+        "expiration_date": "2025-01-15T19:57:51Z",
+        "expiration_date_in_time": "2025-01-15T19:57:51Z"
+    },
+    "registrar": {
+        "name": "RICTA Reserved",
+        "country": "AF",
+        "email": "cocca@ricta.org.rw"
+    },
+    "registrant": {
+        "id": "23942RICTA",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    }
+}

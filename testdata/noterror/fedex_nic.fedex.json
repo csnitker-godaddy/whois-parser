@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "875a6c49999d4313b528825234ff9bec-DONUTS",
+        "domain": "nic.fedex",
+        "punycode": "nic.fedex",
+        "name": "nic",
+        "extension": "fedex",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.fedex",
+            "b0.nic.fedex",
+            "c0.nic.fedex",
+            "a2.nic.fedex"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-22T22:32:47Z",
+        "created_date_in_time": "2016-01-22T22:32:47Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-22T22:32:47Z",
+        "expiration_date_in_time": "2025-01-22T22:32:47Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "113e0f9cbb1b4a13abc22d0730074ae4-DONUTS",
+        "name": "Marketing Principal",
+        "organization": "Federal Express Corporation",
+        "street": "3610 Hacks Cross Road",
+        "city": "Memphis",
+        "province": "TN",
+        "postal_code": "38125",
+        "country": "US",
+        "phone": "+1.9013693600",
+        "fax": "+1.8005483020",
+        "email": "ngtld-fedex@cscglobal.com"
+    },
+    "administrative": {
+        "id": "9ff666b0e1ad4b73b536d39a33073e0e-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Federal Express Corporation",
+        "street": "3610 Hacks Cross Road",
+        "city": "Memphis",
+        "province": "TN",
+        "postal_code": "38125",
+        "country": "US",
+        "phone": "+1.9013693600",
+        "fax": "+1.8005483020",
+        "email": "ngtld-fedex@cscglobal.com"
+    },
+    "technical": {
+        "id": "9ff666b0e1ad4b73b536d39a33073e0e-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Federal Express Corporation",
+        "street": "3610 Hacks Cross Road",
+        "city": "Memphis",
+        "province": "TN",
+        "postal_code": "38125",
+        "country": "US",
+        "phone": "+1.9013693600",
+        "fax": "+1.8005483020",
+        "email": "ngtld-fedex@cscglobal.com"
+    }
+}

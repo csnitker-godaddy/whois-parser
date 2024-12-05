@@ -1,0 +1,30 @@
+{
+    "domain": {
+        "id": "DO31180-GMO",
+        "domain": "nic.nagoya",
+        "punycode": "nic.nagoya",
+        "name": "nic",
+        "extension": "nagoya",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2014-01-31T03:00:00.0Z",
+        "created_date_in_time": "2014-01-31T03:00:00Z",
+        "updated_date": "2024-03-18T00:26:30.0Z",
+        "updated_date_in_time": "2024-03-18T00:26:30Z",
+        "expiration_date": "2025-01-31T23:59:59.0Z",
+        "expiration_date_in_time": "2025-01-31T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "GMO Registry, Inc.",
+        "referral_url": "http://www.gmoregistry.com"
+    },
+    "registrant": {
+        "country": "JP"
+    }
+}

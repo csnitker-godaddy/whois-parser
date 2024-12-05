@@ -1,0 +1,28 @@
+{
+    "domain": {
+        "domain": "nic.mx",
+        "punycode": "nic.mx",
+        "name": "nic",
+        "extension": "mx",
+        "status": [
+            "Nuevo"
+        ],
+        "name_servers": [
+            "a.nic.mx",
+            "207.248.65.1",
+            "b.nic.mx",
+            "201.131.250.1",
+            "c.nic.mx",
+            "201.131.248.1"
+        ],
+        "created_date": "1997-01-15",
+        "created_date_in_time": "1997-01-15T00:00:00Z",
+        "updated_date": "2024-03-01",
+        "updated_date_in_time": "2024-03-01T00:00:00Z",
+        "expiration_date": "2025-01-14",
+        "expiration_date_in_time": "2025-01-14T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Registry .MX"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "domain": {
+        "id": "D132629901-CNIC",
+        "domain": "nic.bond",
+        "punycode": "nic.bond",
+        "name": "nic",
+        "extension": "bond",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.bond",
+            "d.nic.bond",
+            "b.nic.bond",
+            "c.nic.bond"
+        ],
+        "dnssec": true,
+        "created_date": "2015-02-17T01:05:27.0Z",
+        "created_date_in_time": "2015-02-17T01:05:27Z",
+        "updated_date": "2024-02-11T00:04:59.0Z",
+        "updated_date_in_time": "2024-02-11T00:04:59Z",
+        "expiration_date": "2025-02-17T23:59:59.0Z",
+        "expiration_date_in_time": "2025-02-17T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "country": "au",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

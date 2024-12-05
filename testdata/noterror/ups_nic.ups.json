@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "ceed13d5d84142a3842686dc8b59bd3e-DONUTS",
+        "domain": "nic.ups",
+        "punycode": "nic.ups",
+        "name": "nic",
+        "extension": "ups",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "autoRenewPeriod"
+        ],
+        "name_servers": [
+            "a0.nic.ups",
+            "b0.nic.ups",
+            "c0.nic.ups",
+            "a2.nic.ups"
+        ],
+        "dnssec": true,
+        "created_date": "2017-11-07T18:36:17Z",
+        "created_date_in_time": "2017-11-07T18:36:17Z",
+        "updated_date": "2024-11-07T18:36:28Z",
+        "updated_date_in_time": "2024-11-07T18:36:28Z",
+        "expiration_date": "2025-11-07T18:36:17Z",
+        "expiration_date_in_time": "2025-11-07T18:36:17Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "b708ace2d8b04cb981e30fe07636fab0-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "UPS Market Driver, Inc.",
+        "street": "55 Glenlake Parkway",
+        "city": "Atlanta",
+        "postal_code": "30328",
+        "country": "US",
+        "phone": "+1.3026365401",
+        "email": "ngtld-ups@cscglobal.com"
+    },
+    "administrative": {
+        "id": "b708ace2d8b04cb981e30fe07636fab0-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "UPS Market Driver, Inc.",
+        "street": "55 Glenlake Parkway",
+        "city": "Atlanta",
+        "postal_code": "30328",
+        "country": "US",
+        "phone": "+1.3026365401",
+        "email": "ngtld-ups@cscglobal.com"
+    },
+    "technical": {
+        "id": "b708ace2d8b04cb981e30fe07636fab0-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "UPS Market Driver, Inc.",
+        "street": "55 Glenlake Parkway",
+        "city": "Atlanta",
+        "postal_code": "30328",
+        "country": "US",
+        "phone": "+1.3026365401",
+        "email": "ngtld-ups@cscglobal.com"
+    }
+}

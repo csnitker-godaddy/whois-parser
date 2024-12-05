@@ -1,15 +1,18 @@
 Domain Name: godaddy.nyc
-Registry Domain ID: D116947-NYC
+Registry Domain ID: REDACTED FOR PRIVACY
 Registrar WHOIS Server: whois.godaddy.com
 Registrar URL: whois.godaddy.com
-Updated Date: 2023-07-15T23:31:22Z
+Updated Date: 2024-09-17T18:38:14Z
 Creation Date: 2014-10-03T15:38:57Z
-Registry Expiry Date: 2024-10-02T23:59:59Z
+Registry Expiry Date: 2025-10-02T23:59:59Z
 Registrar: GoDaddy.com, LLC
 Registrar IANA ID: 146
 Registrar Abuse Contact Email: abuse@godaddy.com
 Registrar Abuse Contact Phone: +1.4806242505
-Domain Status: ok https://icann.org/epp#ok
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
 Registry Registrant ID: REDACTED FOR PRIVACY
 Registrant Name: REDACTED FOR PRIVACY
 Registrant Organization: Go Daddy Operating Company, LLC
@@ -58,7 +61,7 @@ Tech Email: Please query the RDDS service of the Registrar of Record identified 
 Name Server: cns2.secureserver.net
 Name Server: cns1.secureserver.net
 DNSSEC: unsigned
-nyc ID: C116919-NYC
+nyc ID: REDACTED FOR PRIVACY
 nyc Name: REDACTED FOR PRIVACY
 nyc Organization: REDACTED FOR PRIVACY
 nyc Street: REDACTED FOR PRIVACY
@@ -72,10 +75,10 @@ nyc Phone: REDACTED FOR PRIVACY
 nyc Phone Ext: REDACTED FOR PRIVACY
 nyc Fax: REDACTED FOR PRIVACY
 nyc Fax Ext: REDACTED FOR PRIVACY
-nyc Email:
+nyc Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
 nyc Nexus Category: ORG
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2024-02-26T15:54:00Z <<<
+>>> Last update of WHOIS database: 2024-12-05T16:37:49Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 

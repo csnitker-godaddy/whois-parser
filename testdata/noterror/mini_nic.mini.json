@@ -1,0 +1,48 @@
+{
+    "domain": {
+        "id": "D96378679-CNIC",
+        "domain": "nic.mini",
+        "punycode": "nic.mini",
+        "name": "nic",
+        "extension": "mini",
+        "whois_server": "whois.nic.mini",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "anycast1.dnsres.net",
+            "anycast2.dnsres.net"
+        ],
+        "created_date": "2014-02-05T10:50:47.0Z",
+        "created_date_in_time": "2014-02-05T10:50:47Z",
+        "updated_date": "2024-01-30T00:05:29.0Z",
+        "updated_date_in_time": "2024-01-30T00:05:29Z",
+        "expiration_date": "2025-02-05T23:59:59.0Z",
+        "expiration_date_in_time": "2025-02-05T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Bayerische Motoren Werke",
+        "phone": "+49.8938230465",
+        "email": "domains@bmw.de",
+        "referral_url": "http://www.bmwgroup.com"
+    },
+    "registrant": {
+        "organization": "Bayerische Motoren Werke AG",
+        "province": "Bayern",
+        "country": "DE",
+        "email": "https://whois.nic.mini/contact/nic.mini/registrant"
+    },
+    "administrative": {
+        "email": "https://whois.nic.mini/contact/nic.mini/admin"
+    },
+    "technical": {
+        "email": "https://whois.nic.mini/contact/nic.mini/tech"
+    },
+    "billing": {
+        "email": "https://whois.nic.mini/contact/nic.mini/billing"
+    }
+}

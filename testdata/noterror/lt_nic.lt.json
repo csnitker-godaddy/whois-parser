@@ -1,0 +1,25 @@
+{
+    "domain": {
+        "domain": "nic.lt",
+        "punycode": "nic.lt",
+        "name": "nic",
+        "extension": "lt",
+        "status": [
+            "registered"
+        ],
+        "name_servers": [
+            "ns1.domreg.lt",
+            "ns2.domreg.lt",
+            "nsa.domreg.lt"
+        ],
+        "created_date": "2002-01-08",
+        "created_date_in_time": "2002-01-08T00:00:00Z",
+        "expiration_date": "2025-01-08",
+        "expiration_date_in_time": "2025-01-08T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Kauno technologijos universitetas",
+        "email": "hostmaster@domains.lt",
+        "referral_url": "https://www.domains.lt"
+    }
+}

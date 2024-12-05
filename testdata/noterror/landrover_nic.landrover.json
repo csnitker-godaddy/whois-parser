@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "8edd7f06f7e840eeb7ef5b5693ea99d6-DONUTS",
+        "domain": "nic.landrover",
+        "punycode": "nic.landrover",
+        "name": "nic",
+        "extension": "landrover",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.landrover",
+            "a2.nic.landrover",
+            "b0.nic.landrover",
+            "c0.nic.landrover"
+        ],
+        "created_date": "2015-09-14T16:35:00Z",
+        "created_date_in_time": "2015-09-14T16:35:00Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-09-14T16:35:00Z",
+        "expiration_date_in_time": "2025-09-14T16:35:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "a6754e9c4a0c4aa4a5d86fecf94d7d49-DONUTS",
+        "name": "Digital Portfolio Manager",
+        "organization": "Jaguar Land Rover Ltd",
+        "street": "Abbey Road",
+        "city": "Whitley",
+        "province": "Coventry",
+        "postal_code": "CV3 4LF",
+        "country": "GB",
+        "phone": "+44.2476303080",
+        "email": "ngtld-landrover@cscinfo.com"
+    },
+    "administrative": {
+        "id": "a6754e9c4a0c4aa4a5d86fecf94d7d49-DONUTS",
+        "name": "Digital Portfolio Manager",
+        "organization": "Jaguar Land Rover Ltd",
+        "street": "Abbey Road",
+        "city": "Whitley",
+        "province": "Coventry",
+        "postal_code": "CV3 4LF",
+        "country": "GB",
+        "phone": "+44.2476303080",
+        "email": "ngtld-landrover@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

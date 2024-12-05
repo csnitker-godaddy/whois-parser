@@ -1,0 +1,12 @@
+{
+    "domain": {
+        "domain": "nic.ir",
+        "punycode": "nic.ir",
+        "name": "nic",
+        "extension": "ir",
+        "name_servers": [
+            "ns1.nic.ir",
+            "ns2.nic.ir"
+        ]
+    }
+}

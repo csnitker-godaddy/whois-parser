@@ -1,0 +1,62 @@
+{
+    "domain": {
+        "id": "DO355055-GMO",
+        "domain": "nic.toray",
+        "punycode": "nic.toray",
+        "name": "nic",
+        "extension": "toray",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2015-02-17T02:21:32.0Z",
+        "created_date_in_time": "2015-02-17T02:21:32Z",
+        "updated_date": "2024-04-03T00:26:48.0Z",
+        "updated_date_in_time": "2024-04-03T00:26:48Z",
+        "expiration_date": "2025-02-17T23:59:59.0Z",
+        "expiration_date_in_time": "2025-02-17T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Toray Registry Registrar"
+    },
+    "registrant": {
+        "id": "HA1263465-GMO",
+        "name": "Domain Administrator",
+        "organization": "Toray Industries, Inc.",
+        "street": "Nihonbashi Mitsui Tower, 1-1,, Nihonbashi-Muromachi 2-chome,, Chuo-ku,",
+        "city": "Tokyo",
+        "postal_code": "103-8666",
+        "country": "JP",
+        "phone": "+81.355210107",
+        "fax": "+81.355210117",
+        "email": "domain.master@brights.jp"
+    },
+    "administrative": {
+        "id": "HA1263467-GMO",
+        "name": "Mitsuaki Nakagawa",
+        "organization": "GMO BRAND SECURITY Inc.",
+        "street": "Cerulean Tower, 26-1 Sakuragaokacho",
+        "city": "Shibuya ku",
+        "province": "Tokyo",
+        "postal_code": "150-8512",
+        "country": "JP",
+        "phone": "+81.355210107",
+        "email": "domain.master@brights.jp"
+    },
+    "technical": {
+        "id": "HA1263467-GMO",
+        "name": "Mitsuaki Nakagawa",
+        "organization": "GMO BRAND SECURITY Inc.",
+        "street": "Cerulean Tower, 26-1 Sakuragaokacho",
+        "city": "Shibuya ku",
+        "province": "Tokyo",
+        "postal_code": "150-8512",
+        "country": "JP",
+        "phone": "+81.355210107",
+        "email": "domain.master@brights.jp"
+    }
+}

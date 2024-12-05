@@ -1,0 +1,24 @@
+{
+    "domain": {
+        "domain": "nic.dk",
+        "punycode": "nic.dk",
+        "name": "nic",
+        "extension": "dk",
+        "status": [
+            "Active"
+        ],
+        "name_servers": [
+            "b.nic.dk",
+            "c.nic.dk",
+            "h.nic.dk",
+            "l.nic.dk",
+            "s.nic.dk",
+            "t.nic.dk"
+        ],
+        "dnssec": true,
+        "created_date": "1996-05-07",
+        "created_date_in_time": "1996-05-07T00:00:00Z",
+        "expiration_date": "2027-06-30",
+        "expiration_date_in_time": "2027-06-30T00:00:00Z"
+    }
+}

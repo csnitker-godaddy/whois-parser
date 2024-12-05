@@ -11,8 +11,10 @@
             "kristin.ns.cloudflare.com",
             "paul.ns.cloudflare.com"
         ],
-        "created_date": "2008-05-23 (YYYY-MM-DD)",
-        "expiration_date": "2020-05-23 (YYYY-MM-DD)"
+        "created_date": "2008-05-23",
+        "created_date_in_time": "2008-05-23T00:00:00Z",
+        "expiration_date": "2020-05-23",
+        "expiration_date_in_time": "2020-05-23T00:00:00Z"
     },
     "registrar": {
         "name": "GANDI SAS",

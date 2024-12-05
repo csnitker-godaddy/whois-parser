@@ -1,0 +1,79 @@
+{
+    "domain": {
+        "id": "DF17C672731D7429296FCC3087EB464D3-GDREG",
+        "domain": "nic.merckmsd",
+        "punycode": "nic.merckmsd",
+        "name": "nic",
+        "extension": "merckmsd",
+        "whois_server": "whois.nic.msd",
+        "status": [
+            "serverRenewProhibited",
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a.nic.merckmsd",
+            "b.nic.merckmsd",
+            "c.nic.merckmsd",
+            "x.nic.merckmsd",
+            "y.nic.merckmsd",
+            "z.nic.merckmsd"
+        ],
+        "dnssec": true,
+        "created_date": "2023-04-11T01:58:43Z",
+        "created_date_in_time": "2023-04-11T01:58:43Z",
+        "updated_date": "2024-05-26T01:58:44Z",
+        "updated_date_in_time": "2024-05-26T01:58:44Z",
+        "expiration_date": "2025-04-11T01:58:43Z",
+        "expiration_date_in_time": "2025-04-11T01:58:43Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "MSD Registry Holdings, Inc",
+        "phone": "+1.9082432545",
+        "email": "techsupport@registry.godaddy",
+        "referral_url": "nic.msd"
+    },
+    "registrant": {
+        "id": "C53ECA2AD22D444D187614F4AECAA9B44-GDREG",
+        "name": "MSD Registry Holdings, Inc",
+        "street": "One Merck Drive",
+        "city": "Whitehouse Station",
+        "province": "NJ",
+        "postal_code": "08889",
+        "country": "US",
+        "phone": "+1.8009084000",
+        "email": "merckdomains@merck.com"
+    },
+    "administrative": {
+        "id": "C2FEF6C3EC3BF484EBC2FD5F89D17F3B2-NSR",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155, E, GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85264",
+        "country": "us",
+        "phone": "+1.4806519999",
+        "phone_ext": "1234",
+        "fax": "+1.4806519999",
+        "fax_ext": "1234",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C2FEF6C3EC3BF484EBC2FD5F89D17F3B2-NSR",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155, E, GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85264",
+        "country": "us",
+        "phone": "+1.4806519999",
+        "phone_ext": "1234",
+        "fax": "+1.4806519999",
+        "fax_ext": "1234",
+        "email": "registry-help@registry.godaddy"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "domain": {
+        "id": "D55-UOL",
+        "domain": "nic.uol",
+        "punycode": "nic.uol",
+        "name": "nic",
+        "extension": "uol",
+        "whois_server": "whois.gtlds.nic.br",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns.dns.br",
+            "ns2.dns.br"
+        ],
+        "dnssec": true,
+        "created_date": "2014-08-06T20:51:20Z",
+        "created_date_in_time": "2014-08-06T20:51:20Z",
+        "updated_date": "2018-04-09T19:02:06Z",
+        "updated_date_in_time": "2018-04-09T19:02:06Z",
+        "expiration_date": "2025-08-06T21:05:37Z",
+        "expiration_date_in_time": "2025-08-06T21:05:37Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "NIC.br New gTLD Back-End Registry Services",
+        "phone": "+55.1155093511",
+        "email": "novossufixos@registro.br",
+        "referral_url": "http://gtlds.nic.br"
+    },
+    "registrant": {
+        "id": "C5R3-NICBR",
+        "name": "UBN INTERNET LTDA.",
+        "organization": "03.629.758/0001-81",
+        "street": "Av. Marcos Penteado Ulhoa Rodrigues 700",
+        "city": "Santana do Parnaba",
+        "province": "SP",
+        "postal_code": "06543-001",
+        "country": "BR",
+        "phone": "+55.1130388627",
+        "email": "l-adm-dns@uolinc.com"
+    },
+    "administrative": {
+        "id": "C5R3-NICBR",
+        "name": "UBN INTERNET LTDA.",
+        "organization": "03.629.758/0001-81",
+        "street": "Av. Marcos Penteado Ulhoa Rodrigues 700",
+        "city": "Santana do Parnaba",
+        "province": "SP",
+        "postal_code": "06543-001",
+        "country": "BR",
+        "phone": "+55.1130388627",
+        "email": "l-adm-dns@uolinc.com"
+    },
+    "technical": {
+        "id": "C5R3-NICBR",
+        "name": "UBN INTERNET LTDA.",
+        "organization": "03.629.758/0001-81",
+        "street": "Av. Marcos Penteado Ulhoa Rodrigues 700",
+        "city": "Santana do Parnaba",
+        "province": "SP",
+        "postal_code": "06543-001",
+        "country": "BR",
+        "phone": "+55.1130388627",
+        "email": "l-adm-dns@uolinc.com"
+    }
+}

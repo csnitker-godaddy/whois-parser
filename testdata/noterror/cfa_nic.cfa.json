@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "dd6da890e58b49a9a79fde11ba5293cb-DONUTS",
+        "domain": "nic.cfa",
+        "punycode": "nic.cfa",
+        "name": "nic",
+        "extension": "cfa",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n1.nic.cfa",
+            "v2n0.nic.cfa",
+            "v2n1.nic.cfa",
+            "v0n0.nic.cfa",
+            "v0n3.nic.cfa",
+            "v0n2.nic.cfa"
+        ],
+        "dnssec": true,
+        "created_date": "2015-03-02T23:29:23Z",
+        "created_date_in_time": "2015-03-02T23:29:23Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-03-02T23:29:23Z",
+        "expiration_date_in_time": "2025-03-02T23:29:23Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "28ce00ecaf9a4f82bf882168c1374857-DONUTS",
+        "name": "CFA Institute",
+        "street": "915 East High Street",
+        "city": "Charlottesville",
+        "province": "VA",
+        "postal_code": "22902",
+        "country": "US",
+        "phone": "+1.4349515414",
+        "email": "ngtld-cfa@cscinfo.com"
+    },
+    "administrative": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "technical": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

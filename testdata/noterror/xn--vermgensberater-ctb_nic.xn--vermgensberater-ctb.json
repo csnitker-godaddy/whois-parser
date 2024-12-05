@@ -1,0 +1,77 @@
+{
+    "domain": {
+        "id": "D97219054-CNIC",
+        "domain": "nic.xn--vermgensberater-ctb",
+        "punycode": "nic.xn--vermgensberater-ctb",
+        "name": "nic",
+        "extension": "xn--vermgensberater-ctb",
+        "whois_server": "whois.nic.allfinanz",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "anycast1.dnsres.net",
+            "anycast2.dnsres.net"
+        ],
+        "created_date": "2014-06-23T08:26:16.0Z",
+        "created_date_in_time": "2014-06-23T08:26:16Z",
+        "updated_date": "2024-06-17T00:10:09.0Z",
+        "updated_date_in_time": "2024-06-17T00:10:09Z",
+        "expiration_date": "2025-06-23T23:59:59.0Z",
+        "expiration_date_in_time": "2025-06-23T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Deutsche Vermögensberatung AG",
+        "phone": "+49.8954886700",
+        "email": "bettinger@bettinger.de",
+        "referral_url": "http://www.nic.allfinanz"
+    },
+    "registrant": {
+        "name": "Deutsche  Vermögensberatung AG",
+        "organization": "Deutsche Vermögensberatung AG",
+        "street": "Münchener Straße 1",
+        "city": "Frankfurt am Main",
+        "province": "Hessen",
+        "postal_code": "60329",
+        "country": "DE",
+        "phone": "+49.6923840",
+        "email": "domains@dvag.com"
+    },
+    "administrative": {
+        "name": "Deutsche  Vermögensberatung AG",
+        "organization": "Deutsche Vermögensberatung AG",
+        "street": "Münchener Straße 1",
+        "city": "Frankfurt am Main",
+        "province": "Hessen",
+        "postal_code": "60329",
+        "country": "DE",
+        "phone": "+49.6923840",
+        "email": "domains@dvag.com"
+    },
+    "technical": {
+        "name": "Deutsche  Vermögensberatung AG",
+        "organization": "Deutsche Vermögensberatung AG",
+        "street": "Münchener Straße 1",
+        "city": "Frankfurt am Main",
+        "province": "Hessen",
+        "postal_code": "60329",
+        "country": "DE",
+        "phone": "+49.6923840",
+        "email": "domains@dvag.com"
+    },
+    "billing": {
+        "name": "Deutsche  Vermögensberatung AG",
+        "organization": "Deutsche Vermögensberatung AG",
+        "street": "Münchener Straße 1",
+        "city": "Frankfurt am Main",
+        "province": "Hessen",
+        "postal_code": "60329",
+        "country": "DE",
+        "phone": "+49.6923840",
+        "email": "domains@dvag.com"
+    }
+}

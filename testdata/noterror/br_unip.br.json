@@ -11,8 +11,10 @@
             "datcenter.unip.br",
             "datcenter2.unip.br"
         ],
-        "created_date": "19990717 #175298",
-        "updated_date": "20190523"
+        "created_date": "19990717",
+        "created_date_in_time": "1999-07-17T00:00:00Z",
+        "updated_date": "20190523",
+        "updated_date_in_time": "2019-05-23T00:00:00Z"
     },
     "registrant": {
         "name": "Leonardo Barbosa Santos",

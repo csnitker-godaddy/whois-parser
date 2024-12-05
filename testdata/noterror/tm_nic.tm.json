@@ -1,0 +1,11 @@
+{
+    "domain": {
+        "domain": "nic.tm",
+        "punycode": "nic.tm",
+        "name": "nic",
+        "extension": "tm",
+        "status": [
+            "Permanent/Reserved"
+        ]
+    }
+}

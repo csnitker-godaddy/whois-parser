@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "801711-CoCCA",
+        "domain": "nic.hn",
+        "punycode": "nic.hn",
+        "name": "nic",
+        "extension": "hn",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "pat.ns.cloudflare.com",
+            "evan.ns.cloudflare.com"
+        ],
+        "dnssec": true,
+        "created_date": "2002-02-26T05:00:00Z",
+        "created_date_in_time": "2002-02-26T05:00:00Z",
+        "updated_date": "2021-06-23T20:16:43Z",
+        "updated_date_in_time": "2021-06-23T20:16:43Z",
+        "expiration_date": "2025-02-26T05:00:00Z",
+        "expiration_date_in_time": "2025-02-26T05:00:00Z"
+    },
+    "registrar": {
+        "name": "Honduras Adminstrators",
+        "street": "Col. Las Colinas Bloque RR #2016, Blvd. Francia",
+        "country": "HN",
+        "email": "raquel@rds.org.hn"
+    },
+    "registrant": {
+        "id": "946859-CoCCA",
+        "name": "Maria Raquel Isaula Peralta",
+        "organization": "Red de Desarrollo Sostenible Honduras",
+        "street": "Col. Las Colinas, Bloque RR, Casa 2016",
+        "city": "Tegucigalpa",
+        "province": "Francisco Morazan",
+        "postal_code": "4959",
+        "country": "HN",
+        "phone": "+504 22354141",
+        "email": "raquel@rds.org.hn"
+    },
+    "administrative": {
+        "id": "946859-CoCCA",
+        "name": "Maria Raquel Isaula Peralta",
+        "organization": "Red de Desarrollo Sostenible Honduras",
+        "street": "Col. Las Colinas, Bloque RR, Casa 2016",
+        "city": "Tegucigalpa",
+        "province": "Francisco Morazan",
+        "postal_code": "4959",
+        "country": "HN",
+        "phone": "+504 22354141",
+        "email": "raquel@rds.org.hn"
+    },
+    "technical": {
+        "id": "946859-CoCCA",
+        "name": "Maria Raquel Isaula Peralta",
+        "organization": "Red de Desarrollo Sostenible Honduras",
+        "street": "Col. Las Colinas, Bloque RR, Casa 2016",
+        "city": "Tegucigalpa",
+        "province": "Francisco Morazan",
+        "postal_code": "4959",
+        "country": "HN",
+        "phone": "+504 22354141",
+        "email": "raquel@rds.org.hn"
+    }
+}

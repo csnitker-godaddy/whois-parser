@@ -1,0 +1,85 @@
+{
+    "domain": {
+        "id": "DO_3e1ee947b5fb0d3fda877056a00fb4e9-UR",
+        "domain": "nic.yandex",
+        "punycode": "nic.yandex",
+        "name": "nic",
+        "extension": "yandex",
+        "whois_server": "whois.uniregistry.com",
+        "status": [
+            "serverUpdateProhibited",
+            "serverTransferProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns03.trs-dns.com",
+            "ns03.trs-dns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2020-02-11T22:39:03.565Z",
+        "created_date_in_time": "2020-02-11T22:39:03.565Z",
+        "updated_date": "2024-02-27T17:39:34.971Z",
+        "updated_date_in_time": "2024-02-27T17:39:34.971Z",
+        "expiration_date": "2030-02-11T22:39:03.565Z",
+        "expiration_date_in_time": "2030-02-11T22:39:03.565Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Uniregistry, Corp.",
+        "phone": "+1.3457496263",
+        "email": "info+whois@uniregistry.com",
+        "referral_url": "http://uniregistry.com/"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Uniregistry, Corp",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "George Town",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "KY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

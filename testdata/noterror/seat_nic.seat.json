@@ -1,0 +1,43 @@
+{
+    "domain": {
+        "id": "D1-SEAT",
+        "domain": "nic.seat",
+        "punycode": "nic.seat",
+        "name": "nic",
+        "extension": "seat",
+        "whois_server": "whois.nic.seat",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-08-14T10:21:22.433Z",
+        "created_date_in_time": "2014-08-14T10:21:22.433Z",
+        "updated_date": "2024-09-28T11:01:53.187Z",
+        "updated_date_in_time": "2024-09-28T11:01:53.187Z",
+        "expiration_date": "2025-08-14T10:21:22.433Z",
+        "expiration_date_in_time": "2025-08-14T10:21:22.433Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Seat, S.A.",
+        "phone": "+34.7085382",
+        "email": "notifications.seat@seat.es",
+        "referral_url": "https://seat.es"
+    },
+    "registrant": {
+        "country": "ES",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

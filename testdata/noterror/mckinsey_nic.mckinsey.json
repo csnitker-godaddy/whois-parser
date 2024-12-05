@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "da439bd9fbf2495ca7f4f0bdee3c341f-DONUTS",
+        "domain": "nic.mckinsey",
+        "punycode": "nic.mckinsey",
+        "name": "nic",
+        "extension": "mckinsey",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.mckinsey",
+            "b0.nic.mckinsey",
+            "c0.nic.mckinsey",
+            "a2.nic.mckinsey"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-23T00:02:42Z",
+        "created_date_in_time": "2016-01-23T00:02:42Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-23T00:02:42Z",
+        "expiration_date_in_time": "2025-01-23T00:02:42Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "39802c6d21b944318ad6f391a6cae7dc-DONUTS",
+        "name": "Associate General Counsel",
+        "organization": "McKinsey Holdings, Inc.",
+        "street": "555 California Street",
+        "city": "San Francisco",
+        "postal_code": "94192",
+        "country": "US",
+        "phone": "+1.4043353000",
+        "fax": "+1.4045211743",
+        "email": "ngtld-mckinsey@cscglobal.com"
+    },
+    "administrative": {
+        "id": "1e206e7065e3486887fb3ec6141d5942-DONUTS",
+        "name": "Registry Operator",
+        "organization": "McKinsey Holdings, Inc.",
+        "street": "555 California Street",
+        "city": "San Francisco",
+        "province": "CA",
+        "postal_code": "94192",
+        "country": "US",
+        "phone": "+1.40403353000",
+        "fax": "+1.4045211743",
+        "email": "ngtld-mckinsey@cscglobal.com"
+    },
+    "technical": {
+        "id": "1e206e7065e3486887fb3ec6141d5942-DONUTS",
+        "name": "Registry Operator",
+        "organization": "McKinsey Holdings, Inc.",
+        "street": "555 California Street",
+        "city": "San Francisco",
+        "province": "CA",
+        "postal_code": "94192",
+        "country": "US",
+        "phone": "+1.40403353000",
+        "fax": "+1.4045211743",
+        "email": "ngtld-mckinsey@cscglobal.com"
+    }
+}

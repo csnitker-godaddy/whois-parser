@@ -1,0 +1,53 @@
+{
+    "domain": {
+        "id": "D120013691-CNIC",
+        "domain": "nic.blog",
+        "punycode": "nic.blog",
+        "name": "nic",
+        "extension": "blog",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "a.nic.blog",
+            "b.nic.blog",
+            "c.nic.blog",
+            "d.nic.blog"
+        ],
+        "dnssec": true,
+        "created_date": "2016-04-14T09:26:54.0Z",
+        "created_date_in_time": "2016-04-14T09:26:54Z",
+        "updated_date": "2024-04-08T00:04:56.0Z",
+        "updated_date_in_time": "2024-04-08T00:04:56Z",
+        "expiration_date": "2025-04-14T23:59:59.0Z",
+        "expiration_date_in_time": "2025-04-14T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "organization": "Knock Knock WHOIS There, LLC",
+        "province": "CA",
+        "country": "US",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

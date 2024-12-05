@@ -5,9 +5,9 @@
         "name": "godaddy",
         "extension": "sg",
         "status": [
-            "ok",
-            "verifiedid@sg-mandatory",
-            "verifiedid@sg-ok(verifiedbyadmincontact)"
+            "OK",
+            "VerifiedID@SG-Mandatory",
+            "VerifiedID@SG-OK(VERIFIEDBYADMINCONTACT)"
         ],
         "name_servers": [
             "cns1.secureserver.net",

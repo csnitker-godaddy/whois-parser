@@ -1,0 +1,31 @@
+{
+    "domain": {
+        "id": "DO34728-GMO",
+        "domain": "nic.nhk",
+        "punycode": "nic.nhk",
+        "name": "nic",
+        "extension": "nhk",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.jp",
+            "ns1.gmointernet.com"
+        ],
+        "created_date": "2014-02-27T05:15:00.0Z",
+        "created_date_in_time": "2014-02-27T05:15:00Z",
+        "updated_date": "2024-06-28T06:55:37.0Z",
+        "updated_date_in_time": "2024-06-28T06:55:37Z",
+        "expiration_date": "2025-02-27T23:59:59.0Z",
+        "expiration_date_in_time": "2025-02-27T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Japan Broadcasting Corporation (NHK)",
+        "referral_url": "http://www.nhk.or.jp/"
+    },
+    "registrant": {
+        "province": "Tokyo",
+        "country": "JP"
+    }
+}

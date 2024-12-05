@@ -1,0 +1,16 @@
+{
+    "domain": {
+        "domain": "nic.tn",
+        "punycode": "nic.tn",
+        "name": "nic",
+        "extension": "tn",
+        "status": [
+            "Active"
+        ],
+        "dnssec": true,
+        "created_date": "14-07-2009 00:00:00 +1:00"
+    },
+    "registrar": {
+        "name": "At-Tounessya Internet"
+    }
+}

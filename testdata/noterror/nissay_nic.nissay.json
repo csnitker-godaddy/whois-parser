@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "118317786_DOMAIN_NISSAY-VRSN",
+        "domain": "nic.nissay",
+        "punycode": "nic.nissay",
+        "name": "nic",
+        "extension": "nissay",
+        "whois_server": "www.verisigninc.com",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "av1.nstld.com",
+            "av2.nstld.com",
+            "av3.nstld.com",
+            "av4.nstld.com"
+        ],
+        "created_date": "2015-11-24T05:26:59Z",
+        "created_date_in_time": "2015-11-24T05:26:59Z",
+        "updated_date": "2020-04-20T17:52:37Z",
+        "updated_date_in_time": "2020-04-20T17:52:37Z",
+        "expiration_date": "2025-11-24T05:26:59Z",
+        "expiration_date_in_time": "2025-11-24T05:26:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator Reserved Non-Billable",
+        "referral_url": "http://www.verisign.com"
+    },
+    "registrant": {
+        "id": "489929_CONTACT_NISSAY-VRSN",
+        "name": "Domain Administrator",
+        "organization": "Nippon Life Insurance Company",
+        "street": "3-5-12, Imabashi, Chuo-ku",
+        "city": "Osaka",
+        "postal_code": "541-8501",
+        "country": "JP",
+        "phone": "+81.355339829",
+        "email": "admin@internationaladmin.com"
+    },
+    "administrative": {
+        "id": "488124_CONTACT_NISSAY-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "technical": {
+        "id": "488124_CONTACT_NISSAY-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "billing": {
+        "id": "488124_CONTACT_NISSAY-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    }
+}

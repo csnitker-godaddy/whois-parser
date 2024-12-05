@@ -1,0 +1,84 @@
+{
+    "domain": {
+        "id": "22414-SX",
+        "domain": "nic.sx",
+        "punycode": "nic.sx",
+        "name": "nic",
+        "extension": "sx",
+        "whois_server": "whois.sx",
+        "status": [
+            "inactive"
+        ],
+        "dnssec": true,
+        "created_date": "2011-12-09T15:07:07Z",
+        "created_date_in_time": "2011-12-09T15:07:07Z",
+        "updated_date": "2024-01-23T15:09:06Z",
+        "updated_date_in_time": "2024-01-23T15:09:06Z",
+        "expiration_date": "2024-12-09T15:07:07Z",
+        "expiration_date_in_time": "2024-12-09T15:07:07Z"
+    },
+    "registrar": {
+        "id": "not applicable",
+        "name": "SX Registry O",
+        "referral_url": "www.registry.sx"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "SX Registry SA",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "LU",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    }
+}

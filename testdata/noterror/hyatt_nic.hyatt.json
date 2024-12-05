@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "D412-HYATT",
+        "domain": "nic.hyatt",
+        "punycode": "nic.hyatt",
+        "name": "nic",
+        "extension": "hyatt",
+        "whois_server": "whois.brandsight.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.hyatt",
+            "ns2.dns.nic.hyatt",
+            "ns3.dns.nic.hyatt",
+            "ns4.dns.nic.hyatt",
+            "ns5.dns.nic.hyatt",
+            "ns6.dns.nic.hyatt"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T22:09:56Z",
+        "created_date_in_time": "2013-08-09T22:09:56Z",
+        "updated_date": "2024-10-09T15:38:07Z",
+        "updated_date_in_time": "2024-10-09T15:38:07Z",
+        "expiration_date": "2025-08-08T23:59:59Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Hyatt GTLD L.L.C."
+    },
+    "registrant": {
+        "id": "C1883-HYATT",
+        "name": "Hyatt Corporation",
+        "organization": "Hyatt GTLD L.L.C.",
+        "street": "71 S. Wacker Drive",
+        "city": "Chicago",
+        "province": "IL",
+        "postal_code": "60606",
+        "country": "US",
+        "phone": "+1.3127501234",
+        "fax": "+1.3127805284",
+        "email": "hyattgtld@brandsight.com"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

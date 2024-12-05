@@ -1,0 +1,48 @@
+{
+    "domain": {
+        "id": "D96409144-CNIC",
+        "domain": "nic.bmw",
+        "punycode": "nic.bmw",
+        "name": "nic",
+        "extension": "bmw",
+        "whois_server": "whois.nic.bmw",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "anycast1.dnsres.net",
+            "anycast2.dnsres.net"
+        ],
+        "created_date": "2014-02-05T10:28:08.0Z",
+        "created_date_in_time": "2014-02-05T10:28:08Z",
+        "updated_date": "2024-01-30T00:05:29.0Z",
+        "updated_date_in_time": "2024-01-30T00:05:29Z",
+        "expiration_date": "2025-02-05T23:59:59.0Z",
+        "expiration_date_in_time": "2025-02-05T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Bayerische Motoren Werke AG",
+        "phone": "+49.8938230465",
+        "email": "domains@bmw.de",
+        "referral_url": "http://www.bmwgroup.com"
+    },
+    "registrant": {
+        "organization": "Bayerische Motoren Werke AG",
+        "province": "Bayern",
+        "country": "DE",
+        "email": "https://whois.nic.bmw/contact/nic.bmw/registrant"
+    },
+    "administrative": {
+        "email": "https://whois.nic.bmw/contact/nic.bmw/admin"
+    },
+    "technical": {
+        "email": "https://whois.nic.bmw/contact/nic.bmw/tech"
+    },
+    "billing": {
+        "email": "https://whois.nic.bmw/contact/nic.bmw/billing"
+    }
+}

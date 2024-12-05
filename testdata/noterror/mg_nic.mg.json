@@ -1,0 +1,47 @@
+{
+    "domain": {
+        "id": "8-nicmg",
+        "domain": "nic.mg",
+        "punycode": "nic.mg",
+        "name": "nic",
+        "extension": "mg",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns.nic.mg",
+            "ns.dts.mg"
+        ],
+        "created_date": "2009-06-18T07:58:26.290Z",
+        "created_date_in_time": "2009-06-18T07:58:26.29Z",
+        "updated_date": "2023-11-15T06:09:51.57Z",
+        "updated_date_in_time": "2023-11-15T06:09:51.57Z",
+        "expiration_date": "2040-12-30T21:00:00.0Z",
+        "expiration_date_in_time": "2040-12-30T21:00:00Z"
+    },
+    "registrar": {
+        "name": "NIC MG"
+    },
+    "registrant": {
+        "id": "wF146-L4Y6u",
+        "name": "Redacted | Registry Policy",
+        "organization": "NIC-MG",
+        "street": "BP 7735 Antanimena",
+        "city": "Antananarivo",
+        "postal_code": "101",
+        "country": "MG",
+        "phone": "Redacted | Registry Policy",
+        "email": "redacted | registry policy"
+    },
+    "administrative": {
+        "id": "QuQHs-E7PZb",
+        "name": "Ramboasalama Hajanirina",
+        "organization": "NIC-MG",
+        "street": "BP 7735 Antanimena",
+        "city": "Antananarivo",
+        "postal_code": "101",
+        "country": "MG",
+        "phone": "+261.202601606",
+        "email": "support(@)nic.mg"
+    }
+}

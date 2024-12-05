@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "248b33090fb446cc8512d012a4dcbf60-DONUTS",
+        "domain": "nic.alibaba",
+        "punycode": "nic.alibaba",
+        "name": "nic",
+        "extension": "alibaba",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.alibaba",
+            "b0.nic.alibaba",
+            "c0.nic.alibaba",
+            "a2.nic.alibaba"
+        ],
+        "dnssec": true,
+        "created_date": "2019-06-07T13:18:05Z",
+        "created_date_in_time": "2019-06-07T13:18:05Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-06-07T13:18:05Z",
+        "expiration_date_in_time": "2025-06-07T13:18:05Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "57d9a02b35a144cfba4b0151d033d8c3-DONUTS",
+        "name": "Project & Process Manager",
+        "organization": "Alibaba Group Holding Limited",
+        "street": "Fourth Floor, One Capital Place, P.O Box 847",
+        "city": "George Town",
+        "province": "Grand Cayman",
+        "postal_code": "KY1-1103",
+        "country": "KY",
+        "phone": "+8.5222155100",
+        "fax": "+8.5222155200",
+        "email": "ngtld-alibaba@cscglobal.com"
+    },
+    "administrative": {
+        "id": "57d9a02b35a144cfba4b0151d033d8c3-DONUTS",
+        "name": "Project & Process Manager",
+        "organization": "Alibaba Group Holding Limited",
+        "street": "Fourth Floor, One Capital Place, P.O Box 847",
+        "city": "George Town",
+        "province": "Grand Cayman",
+        "postal_code": "KY1-1103",
+        "country": "KY",
+        "phone": "+8.5222155100",
+        "fax": "+8.5222155200",
+        "email": "ngtld-alibaba@cscglobal.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

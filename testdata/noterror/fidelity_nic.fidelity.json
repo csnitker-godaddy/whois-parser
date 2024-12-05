@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "7f81b2a1b7f6443f8fa52f938dfa647d-DONUTS",
+        "domain": "nic.fidelity",
+        "punycode": "nic.fidelity",
+        "name": "nic",
+        "extension": "fidelity",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a2.nic.fidelity",
+            "a0.nic.fidelity",
+            "b0.nic.fidelity",
+            "c0.nic.fidelity"
+        ],
+        "created_date": "2016-06-22T18:50:04Z",
+        "created_date_in_time": "2016-06-22T18:50:04Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2026-06-22T18:50:04Z",
+        "expiration_date_in_time": "2026-06-22T18:50:04Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "af386752d0f24171af037f3220304a19-DONUTS",
+        "name": "Director Product Management",
+        "organization": "Fidelity Brokerage Services LLC",
+        "street": "82 Devonshire Street",
+        "city": "Boston",
+        "province": "MA",
+        "postal_code": "2109",
+        "country": "US",
+        "phone": "+1.6175637000",
+        "email": "ngtld-fidelity@cscinfo.com"
+    },
+    "administrative": {
+        "id": "af386752d0f24171af037f3220304a19-DONUTS",
+        "name": "Director Product Management",
+        "organization": "Fidelity Brokerage Services LLC",
+        "street": "82 Devonshire Street",
+        "city": "Boston",
+        "province": "MA",
+        "postal_code": "2109",
+        "country": "US",
+        "phone": "+1.6175637000",
+        "email": "ngtld-fidelity@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

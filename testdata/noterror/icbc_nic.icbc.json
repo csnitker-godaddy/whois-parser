@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "D20221017G10001G_89685922-AGRS",
+        "domain": "nic.icbc",
+        "punycode": "nic.icbc",
+        "name": "nic",
+        "extension": "icbc",
+        "whois_server": "202.173.11.141",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "a.zdnscloud.com",
+            "b.zdnscloud.com",
+            "c.zdnscloud.com",
+            "d.zdnscloud.com",
+            "i.zdnscloud.com",
+            "f.zdnscloud.com",
+            "j.zdnscloud.com"
+        ],
+        "dnssec": true,
+        "created_date": "2022-10-17T08:27:59Z",
+        "created_date_in_time": "2022-10-17T08:27:59Z",
+        "updated_date": "2022-11-18T03:56:48Z",
+        "updated_date_in_time": "2022-11-18T03:56:48Z",
+        "expiration_date": "2032-10-17T08:27:59Z",
+        "expiration_date_in_time": "2032-10-17T08:27:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "knet",
+        "phone": "+86.01058813521",
+        "email": "tech-supprot@zdns.cn",
+        "referral_url": "http://www.knet.cn"
+    },
+    "registrant": {
+        "id": "C20221017C_77088149-AGRS",
+        "name": "Operation Manager",
+        "organization": "Industrial and Commercial Bank of China Limited",
+        "street": "15F，Tower D, Desheng International Center, No.77 DeshengMenWai Avenue,Xicheng District",
+        "city": "Beijing",
+        "province": "Beijing",
+        "postal_code": "100088",
+        "country": "CN",
+        "phone": "+86.01082096303",
+        "fax": "+86.01082096262",
+        "email": "web.yy4b@wjyy.icbc.com.cn"
+    },
+    "administrative": {
+        "id": "C20221017C_77088149-AGRS",
+        "name": "Operation Manager",
+        "organization": "Industrial and Commercial Bank of China Limited",
+        "street": "15F，Tower D, Desheng International Center, No.77 DeshengMenWai Avenue,Xicheng District",
+        "city": "Beijing",
+        "province": "Beijing",
+        "postal_code": "100088",
+        "country": "CN",
+        "phone": "+86.01082096303",
+        "fax": "+86.01082096262",
+        "email": "web.yy4b@wjyy.icbc.com.cn"
+    },
+    "technical": {
+        "id": "C20221017C_77088149-AGRS",
+        "name": "Operation Manager",
+        "organization": "Industrial and Commercial Bank of China Limited",
+        "street": "15F，Tower D, Desheng International Center, No.77 DeshengMenWai Avenue,Xicheng District",
+        "city": "Beijing",
+        "province": "Beijing",
+        "postal_code": "100088",
+        "country": "CN",
+        "phone": "+86.01082096303",
+        "fax": "+86.01082096262",
+        "email": "web.yy4b@wjyy.icbc.com.cn"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "domain": {
+        "id": "6320-CoCCA",
+        "domain": "nic.ci",
+        "punycode": "nic.ci",
+        "name": "nic",
+        "extension": "ci",
+        "whois_server": "whois.nic.ci",
+        "status": [
+            "serverUpdateProhibited",
+            "serverTransferProhibited",
+            "serverRenewProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns1.desec.io",
+            "ns2.desec.org"
+        ],
+        "created_date": "2016-06-17T04:00:00.0Z",
+        "created_date_in_time": "2016-06-17T04:00:00Z",
+        "updated_date": "2022-06-14T16:15:41.703Z",
+        "updated_date_in_time": "2022-06-14T16:15:41.703Z",
+        "expiration_date": "2027-06-17T00:00:00.0Z",
+        "expiration_date_in_time": "2027-06-17T00:00:00Z"
+    },
+    "registrar": {
+        "name": "ARTCI Reserved"
+    },
+    "registrant": {
+        "id": "C7oKV-LkZ8i",
+        "name": "Redacted | Registry Policy",
+        "street": "Redacted | Registry Policy, Redacted | Registry Policy",
+        "city": "Redacted | Registry Policy",
+        "country": "CI",
+        "phone": "Redacted | Registry Policy",
+        "email": "redacted | registry policy"
+    },
+    "administrative": {
+        "id": "BOeOM-TCJwq",
+        "name": "Redacted | Registry Policy",
+        "street": "Redacted | Registry Policy",
+        "city": "Redacted | Registry Policy",
+        "country": "CI",
+        "phone": "Redacted | Registry Policy",
+        "email": "registrant@nic.ci"
+    },
+    "technical": {
+        "id": "1OMWP-dXK2b",
+        "name": "Redacted | Registry Policy",
+        "street": "Redacted | Registry Policy",
+        "city": "Redacted | Registry Policy",
+        "country": "CI",
+        "phone": "Redacted | Registry Policy",
+        "email": "registrant@nic.ci"
+    }
+}

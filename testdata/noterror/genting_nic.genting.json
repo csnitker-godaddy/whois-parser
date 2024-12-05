@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "7519fa4f87a0465fa08fc8a1365efd69-DONUTS",
+        "domain": "nic.genting",
+        "punycode": "nic.genting",
+        "name": "nic",
+        "extension": "genting",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n1.nic.genting",
+            "v2n0.nic.genting",
+            "v2n1.nic.genting",
+            "v0n0.nic.genting",
+            "v0n3.nic.genting",
+            "v0n2.nic.genting"
+        ],
+        "dnssec": true,
+        "created_date": "2015-04-24T18:50:40Z",
+        "created_date_in_time": "2015-04-24T18:50:40Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-04-24T18:50:40Z",
+        "expiration_date_in_time": "2025-04-24T18:50:40Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "3290b220db2240caabffffde0e9ea5dc-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "Resorts World Inc Pte. Ltd.",
+        "street": "9 Penang Road #13-10 Park Mall",
+        "city": "Singapore",
+        "country": "SG",
+        "phone": "+1.60127727492",
+        "email": "admin@internationaladmin.com"
+    },
+    "administrative": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "technical": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

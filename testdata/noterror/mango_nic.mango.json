@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "D5-MANGO",
+        "domain": "nic.mango",
+        "punycode": "nic.mango",
+        "name": "nic",
+        "extension": "mango",
+        "whois_server": "whois.nic.mango",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2013-12-17T10:01:36.11Z",
+        "created_date_in_time": "2013-12-17T10:01:36.11Z",
+        "updated_date": "2024-01-31T10:25:12.15Z",
+        "updated_date_in_time": "2024-01-31T10:25:12.15Z",
+        "expiration_date": "2024-12-17T10:01:36.11Z",
+        "expiration_date_in_time": "2024-12-17T10:01:36.11Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry self-allocated",
+        "phone": "+34.932654145",
+        "email": "mangogtld@ubilibet.com",
+        "referral_url": "http://mango.com/"
+    },
+    "registrant": {
+        "organization": "PuntoFA, S.L.",
+        "country": "ES",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

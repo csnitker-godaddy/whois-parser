@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "D81926559-CNIC",
+        "domain": "nic.gd",
+        "punycode": "nic.gd",
+        "name": "nic",
+        "extension": "gd",
+        "whois_server": "whois.ntrc.gd",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns0.centralnic-dns.com",
+            "ns1.centralnic-dns.com"
+        ],
+        "dnssec": true,
+        "created_date": "2013-04-12T08:47:06.0Z",
+        "created_date_in_time": "2013-04-12T08:47:06Z",
+        "updated_date": "2024-04-06T00:06:32.0Z",
+        "updated_date_in_time": "2024-04-06T00:06:32Z",
+        "expiration_date": "2025-04-12T23:59:59.0Z",
+        "expiration_date_in_time": "2025-04-12T23:59:59Z"
+    },
+    "registrar": {
+        "name": "The National Telecommunications Regulatory Commission (NTRC)",
+        "phone": "+1.4734356872",
+        "email": "ltelesford@ectel.int",
+        "referral_url": "http://ntrc.gd/"
+    },
+    "registrant": {
+        "email": "https://whois.nic.gd/contact/nic.gd/registrant"
+    },
+    "administrative": {
+        "email": "https://whois.nic.gd/contact/nic.gd/admin"
+    },
+    "technical": {
+        "email": "https://whois.nic.gd/contact/nic.gd/tech"
+    },
+    "billing": {
+        "email": "https://whois.nic.gd/contact/nic.gd/billing"
+    }
+}

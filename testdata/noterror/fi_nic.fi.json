@@ -1,0 +1,37 @@
+{
+    "domain": {
+        "domain": "nic.fi",
+        "punycode": "nic.fi",
+        "name": "nic",
+        "extension": "fi",
+        "status": [
+            "Registered"
+        ],
+        "name_servers": [
+            "ns-se.elisa.net",
+            "ns-fi.elisa.net"
+        ],
+        "created_date": "16.2.1999 00:00:00",
+        "created_date_in_time": "1999-02-16T00:00:00Z",
+        "updated_date": "1.2.2024 16:08:30",
+        "updated_date_in_time": "2024-01-02T16:08:30Z",
+        "expiration_date": "2.3.2025 14:08:22",
+        "expiration_date_in_time": "2025-02-03T14:08:22Z"
+    },
+    "registrar": {
+        "name": "Ascio Technologies",
+        "email": "domain-admin@elisa.fi",
+        "referral_url": "www.ascio.com"
+    },
+    "registrant": {
+        "id": "0116510-6",
+        "name": "Elisa Oyj",
+        "street": "PL 1",
+        "city": "ELISA",
+        "country": "Finland"
+    },
+    "technical": {
+        "name": "Elisa Oyj",
+        "email": "domain-admin@elisa.fi"
+    }
+}

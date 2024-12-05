@@ -1,0 +1,27 @@
+{
+    "domain": {
+        "domain": "nic.am",
+        "punycode": "nic.am",
+        "name": "nic",
+        "extension": "am",
+        "status": [
+            "active"
+        ],
+        "created_date": "1997-01-01",
+        "created_date_in_time": "1997-01-01T00:00:00Z",
+        "updated_date": "2017-12-28",
+        "updated_date_in_time": "2017-12-28T00:00:00Z"
+    },
+    "registrar": {
+        "name": "amnic"
+    },
+    "registrant": {
+        "organization": "Internet Society NGO,17/3 A. Khachatryan str.,Yerevan,  0012,AM"
+    },
+    "administrative": {
+        "name": "Anna Karakhanyan,Internet Society NGO,17/3 A. Khachatryan str.,Yerevan, 0012,AM,hostmaster@amnic.net,+374 91 427743"
+    },
+    "technical": {
+        "name": "Misak Khachatryan,Internet Society NGO,17/3 A. Khachatryan str.,Yerevan, 0012,AM,hostmaster@amnic.net,+374-93-199840,,No name servers provided"
+    }
+}

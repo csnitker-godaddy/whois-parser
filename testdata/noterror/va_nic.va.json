@@ -1,0 +1,41 @@
+{
+    "domain": {
+        "domain": "va",
+        "punycode": "va",
+        "name": "va",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "a.nic.va",
+            "b.nic.va",
+            "c.nic.va",
+            "osiris.namex.it",
+            "seth.namex.it"
+        ],
+        "created_date": "1995-09-11",
+        "created_date_in_time": "1995-09-11T00:00:00Z",
+        "updated_date": "2024-12-03",
+        "updated_date_in_time": "2024-12-03T00:00:00Z"
+    },
+    "registrant": {
+        "organization": "Holy See - Vatican City State",
+        "street": "Governatorato S.C.V., Vatican City Vatican City State V-00120, Holy See (the)"
+    },
+    "administrative": {
+        "name": "Director",
+        "organization": "Department of Telecommunications",
+        "street": "Palazzo del Belvedere, Vatican City Vatican City State V-00120, Holy See (the)",
+        "phone": "+39 (06) 69890153",
+        "fax": "+39 (06) 69885299",
+        "email": "direzione.tlc@scv.va"
+    },
+    "technical": {
+        "name": "Responsible of the Vatican Internet Service Provider",
+        "organization": "Department of Telecommunications - Vatican Internet Service Provider",
+        "street": "Cortile del Triangolo, Vatican City, Vatican City Vatican City State V-00120, Holy See (the)",
+        "phone": "+39 (06) 69890506",
+        "fax": "+39 (06) 69882934",
+        "email": "dnsop@net.va"
+    }
+}

@@ -18,8 +18,11 @@
             "ns3-09.azure-dns.org"
         ],
         "created_date": "2008-09-27T09:16:00-0700",
+        "created_date_in_time": "2008-09-27T09:16:00-07:00",
         "updated_date": "2019-08-26T02:49:35-0700",
-        "expiration_date": "2020-09-27T00:00:00-0700"
+        "updated_date_in_time": "2019-08-26T02:49:35-07:00",
+        "expiration_date": "2020-09-27T00:00:00-0700",
+        "expiration_date_in_time": "2020-09-27T00:00:00-07:00"
     },
     "registrar": {
         "id": "292",

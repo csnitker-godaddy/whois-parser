@@ -1,0 +1,20 @@
+{
+    "domain": {
+        "domain": "nic.ye",
+        "punycode": "nic.ye",
+        "name": "nic",
+        "extension": "ye",
+        "name_servers": [
+            "sah1.ye",
+            "2a02:e280:8:d000::34)",
+            "sah2.ye",
+            "2a02:e280:8:d000::35)"
+        ]
+    },
+    "registrar": {
+        "name": "Y.Net - Sales"
+    },
+    "registrant": {
+        "organization": "REDACTED"
+    }
+}

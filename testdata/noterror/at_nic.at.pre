@@ -1,0 +1,47 @@
+domain name: nic.at
+domain registrar: 
+name_servers: ns1.nic.at
+domain remarks: 192.174.68.98
+name_servers: ns1.nic.at
+domain remarks: 2001:67c:1bc::98
+name_servers: ns10.univie.ac.at
+name_servers: ns2.nic.at
+domain remarks: 176.97.158.98
+name_servers: ns2.nic.at
+domain remarks: 2001:67c:10b8::98
+name_servers: ns5.nic.at
+domain remarks: 194.58.198.32
+name_servers: ns5.nic.at
+domain remarks: 2a01:3f1:3032::53
+name_servers: ns5.univie.ac.at
+updated_date: 20200427 16:03:40
+domain DNSSEC: Signed
+domain DS key tag  1: 53116
+domain algorithm   1: 13
+domain digest type 1: 2
+domain digest      1: ad2d103749d7915a92d5b2eba79db8e01fc41b2452f9bb9930b2649c70eb39fe
+domain source: AT-DOM
+registrant name: 
+registrant organization: NIC.AT GmbH
+registrant address: Jakob-Haringerstrasse 8
+registrant address: A-5020
+registrant address: Salzburg
+registrant address: Austria
+registrant phone: +4366246690
+registrant fax-no: +43662466929
+registrant email: service@nic.at
+registrant id: NG8867695-NICAT
+registrant changed: 20121116 16:58:21
+registrant source: AT-DOM
+technical contact name: UNIVIE Hostmaster
+technical contact organization: 
+technical contact address: Universitaetsstrasse 7
+technical contact address: A-1010
+technical contact address: Vienna
+technical contact address: Austria
+technical contact phone: +431427714277
+technical contact fax-no: +431427714279
+technical contact email: domain-admin@univie.ac.at
+technical contact id: UH567003-NICAT
+technical contact changed: 20100625 15:57:11
+technical contact source: AT-DOM

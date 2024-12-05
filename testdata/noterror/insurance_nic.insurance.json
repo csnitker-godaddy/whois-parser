@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "D37F3FBCC425540E6810DE4FF0C671648-NSR",
+        "domain": "nic.insurance",
+        "punycode": "nic.insurance",
+        "name": "nic",
+        "extension": "insurance",
+        "status": [
+            "serverRenewProhibited",
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "d.nic.insurance",
+            "e.nic.insurance",
+            "f.nic.insurance",
+            "w.nic.insurance",
+            "x.nic.insurance",
+            "y.nic.insurance"
+        ],
+        "dnssec": true,
+        "created_date": "2019-09-16T23:09:07Z",
+        "created_date_in_time": "2019-09-16T23:09:07Z",
+        "updated_date": "2024-10-31T23:09:07Z",
+        "updated_date_in_time": "2024-10-31T23:09:07Z",
+        "expiration_date": "2025-09-16T23:09:07Z",
+        "expiration_date_in_time": "2025-09-16T23:09:07Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "fTLD Registry Services, LLC",
+        "email": "abuse@ftld.com"
+    },
+    "registrant": {
+        "id": "C4E99B48CA9034AAE9D71C3B5535EAEDB-GDREG",
+        "name": "Domain Administrator",
+        "organization": "fTLD Registry Services LLC",
+        "street": "1300 Eye Street, NW, Suite 1100 West",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": "20005",
+        "country": "US",
+        "phone": "+1.2022361154",
+        "email": "ftld@ftld.com"
+    },
+    "administrative": {
+        "id": "C4E99B48CA9034AAE9D71C3B5535EAEDB-GDREG",
+        "name": "Domain Administrator",
+        "organization": "fTLD Registry Services LLC",
+        "street": "1300 Eye Street, NW, Suite 1100 West",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": "20005",
+        "country": "US",
+        "phone": "+1.2022361154",
+        "email": "ftld@ftld.com"
+    },
+    "technical": {
+        "id": "C4E99B48CA9034AAE9D71C3B5535EAEDB-GDREG",
+        "name": "Domain Administrator",
+        "organization": "fTLD Registry Services LLC",
+        "street": "1300 Eye Street, NW, Suite 1100 West",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": "20005",
+        "country": "US",
+        "phone": "+1.2022361154",
+        "email": "ftld@ftld.com"
+    }
+}

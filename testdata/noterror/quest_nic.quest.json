@@ -1,0 +1,49 @@
+{
+    "domain": {
+        "id": "D178536104-CNIC",
+        "domain": "nic.quest",
+        "punycode": "nic.quest",
+        "name": "nic",
+        "extension": "quest",
+        "whois_server": "whois.nic.xyz",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "d-cnic.nic.quest",
+            "b-cnic.nic.quest",
+            "a-cnic.nic.quest",
+            "c-cnic.nic.quest"
+        ],
+        "dnssec": true,
+        "created_date": "2015-02-17T02:13:20.0Z",
+        "created_date_in_time": "2015-02-17T02:13:20Z",
+        "updated_date": "2024-02-11T00:04:58.0Z",
+        "updated_date_in_time": "2024-02-11T00:04:58Z",
+        "expiration_date": "2025-02-17T23:59:59.0Z",
+        "expiration_date_in_time": "2025-02-17T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "XYZ.com, LLC",
+        "phone": "+1.8009998422",
+        "email": "xyz_abuse@gen.xyz",
+        "referral_url": "https://gen.xyz/"
+    },
+    "registrant": {
+        "country": "hk",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

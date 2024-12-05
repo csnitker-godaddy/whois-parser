@@ -1,0 +1,50 @@
+{
+    "domain": {
+        "id": "DFE0E1A273F9B4E0DB652EAA8075EA21F-ARI",
+        "domain": "nic.arab",
+        "punycode": "nic.arab",
+        "name": "nic",
+        "extension": "arab",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.nic.arab",
+            "ns2.nic.arab",
+            "ns3.nic.arab",
+            "ns4.nic.arab"
+        ],
+        "dnssec": true,
+        "created_date": "2017-01-02T06:39:02Z",
+        "created_date_in_time": "2017-01-02T06:39:02Z",
+        "updated_date": "2023-01-08T06:21:47Z",
+        "updated_date_in_time": "2023-01-08T06:21:47Z",
+        "expiration_date": "2027-01-02T06:39:02Z",
+        "expiration_date_in_time": "2027-01-02T06:39:02Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "LAS Registry Operator"
+    },
+    "registrant": {
+        "id": "CF6F10EF59C8A4767A6CE9E73368E4049-NSR",
+        "name": "Telecommunication Regulatory Authority",
+        "city": "Dubai",
+        "country": "ae",
+        "email": "gtldsupport@aeda.ae"
+    },
+    "administrative": {
+        "id": "C30E5D4FD45084D66B0E188B652869527-NSR",
+        "name": ".ae Domain Administration",
+        "city": "Dubai",
+        "country": "ae",
+        "email": "gtldsupport@aeda.ae"
+    },
+    "technical": {
+        "id": "C30E5D4FD45084D66B0E188B652869527-NSR",
+        "name": ".ae Domain Administration",
+        "city": "Dubai",
+        "country": "ae",
+        "email": "gtldsupport@aeda.ae"
+    }
+}

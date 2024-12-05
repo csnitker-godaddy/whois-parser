@@ -1,0 +1,38 @@
+{
+    "domain": {
+        "id": "37457-CoCCA",
+        "domain": "nic.ly",
+        "punycode": "nic.ly",
+        "name": "nic",
+        "extension": "ly",
+        "status": [
+            "clientTransferProhibited",
+            "clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.lttnet.net",
+            "dns.lttnet.net"
+        ],
+        "created_date": "2006-11-12T22:00:00Z",
+        "created_date_in_time": "2006-11-12T22:00:00Z",
+        "updated_date": "2020-10-29T18:46:52Z",
+        "updated_date_in_time": "2020-10-29T18:46:52Z",
+        "expiration_date": "2025-11-12T22:00:00Z",
+        "expiration_date_in_time": "2025-11-12T22:00:00Z"
+    },
+    "registrar": {
+        "name": "LTT local (loc)",
+        "phone": "3400020",
+        "email": "domains@nic.ly"
+    },
+    "registrant": {
+        "id": "39202-CoCCA",
+        "name": "AbdulNasir A. Al-Tubuly",
+        "organization": "Libya Telecom and Technology",
+        "street": "Abu SetaNear Al-Furusia",
+        "city": "Tripoli",
+        "country": "LY",
+        "phone": "+218.213400020",
+        "email": "hostmaster@ltt.ly"
+    }
+}

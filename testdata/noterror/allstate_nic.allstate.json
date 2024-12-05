@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "22cc0c176ef84cf89b7325214ceb13e6-DONUTS",
+        "domain": "nic.allstate",
+        "punycode": "nic.allstate",
+        "name": "nic",
+        "extension": "allstate",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.allstate",
+            "b0.nic.allstate",
+            "c0.nic.allstate",
+            "a2.nic.allstate"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-22T21:07:29Z",
+        "created_date_in_time": "2016-01-22T21:07:29Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-22T21:07:29Z",
+        "expiration_date_in_time": "2025-01-22T21:07:29Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "b615213b2673430691636b235adab327-DONUTS",
+        "name": "Marketing Manager, Domain Name Portfolio",
+        "organization": "Allstate Fire and Casualty Insurance Company",
+        "street": "3075 Sanders Road Suite H1A",
+        "city": "Northbrook",
+        "province": "IL",
+        "postal_code": "60062",
+        "country": "US",
+        "phone": "+1.8474025000",
+        "fax": "+1.8473267524",
+        "email": "allstatedomains@gcd.com"
+    },
+    "administrative": {
+        "id": "b615213b2673430691636b235adab327-DONUTS",
+        "name": "Marketing Manager, Domain Name Portfolio",
+        "organization": "Allstate Fire and Casualty Insurance Company",
+        "street": "3075 Sanders Road Suite H1A",
+        "city": "Northbrook",
+        "province": "IL",
+        "postal_code": "60062",
+        "country": "US",
+        "phone": "+1.8474025000",
+        "fax": "+1.8473267524",
+        "email": "allstatedomains@gcd.com"
+    },
+    "technical": {
+        "id": "b615213b2673430691636b235adab327-DONUTS",
+        "name": "Marketing Manager, Domain Name Portfolio",
+        "organization": "Allstate Fire and Casualty Insurance Company",
+        "street": "3075 Sanders Road Suite H1A",
+        "city": "Northbrook",
+        "province": "IL",
+        "postal_code": "60062",
+        "country": "US",
+        "phone": "+1.8474025000",
+        "fax": "+1.8473267524",
+        "email": "allstatedomains@gcd.com"
+    }
+}

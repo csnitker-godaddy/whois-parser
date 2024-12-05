@@ -1,0 +1,25 @@
+{
+    "domain": {
+        "domain": "nic.cl",
+        "punycode": "nic.cl",
+        "name": "nic",
+        "extension": "cl",
+        "name_servers": [
+            "a.nic.cl",
+            "b.nic.cl",
+            "c.nic.cl",
+            "slave.sth.netnod.se"
+        ],
+        "created_date": "1997-08-29 00:00:00 CLST",
+        "created_date_in_time": "1997-08-29T00:00:00Z",
+        "expiration_date": "2030-02-08 21:00:00 CLST",
+        "expiration_date_in_time": "2030-02-08T21:00:00Z"
+    },
+    "registrar": {
+        "name": "NIC Chile",
+        "referral_url": "https://www.nic.cl"
+    },
+    "registrant": {
+        "name": "UNIVERSIDAD DE CHILE"
+    }
+}

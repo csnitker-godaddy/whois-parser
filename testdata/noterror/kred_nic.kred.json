@@ -1,0 +1,77 @@
+{
+    "domain": {
+        "id": "D68268479-CNIC",
+        "domain": "nic.kred",
+        "punycode": "nic.kred",
+        "name": "nic",
+        "extension": "kred",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "a.nic.kred",
+            "b.nic.kred",
+            "c.nic.kred",
+            "d.nic.kred"
+        ],
+        "created_date": "2013-08-09T22:22:16.0Z",
+        "created_date_in_time": "2013-08-09T22:22:16Z",
+        "updated_date": "2024-08-02T00:01:12.0Z",
+        "updated_date_in_time": "2024-08-02T00:01:12Z",
+        "expiration_date": "2025-08-08T23:59:59.0Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "name": "Domain Administrator",
+        "organization": "PeopleBrowsr Pty Ltd",
+        "street": "Level 6, 1 Chifley Square",
+        "city": "Sydney",
+        "province": "New South Wales",
+        "postal_code": "2000",
+        "country": "AU",
+        "phone": "+61.417824852",
+        "email": "contact@peoplebrowsr.com"
+    },
+    "administrative": {
+        "name": "Domain Administrator",
+        "organization": "PeopleBrowsr Pty Ltd",
+        "street": "Level 6, 1 Chifley Square",
+        "city": "Sydney",
+        "province": "New South Wales",
+        "postal_code": "2000",
+        "country": "AU",
+        "phone": "+61.417824852",
+        "email": "contact@peoplebrowsr.com"
+    },
+    "technical": {
+        "name": "Domain Administrator",
+        "organization": "PeopleBrowsr Pty Ltd",
+        "street": "Level 6, 1 Chifley Square",
+        "city": "Sydney",
+        "province": "New South Wales",
+        "postal_code": "2000",
+        "country": "AU",
+        "phone": "+61.417824852",
+        "email": "contact@peoplebrowsr.com"
+    },
+    "billing": {
+        "name": "Domain Administrator",
+        "organization": "PeopleBrowsr Pty Ltd",
+        "street": "Level 6, 1 Chifley Square",
+        "city": "Sydney",
+        "province": "New South Wales",
+        "postal_code": "2000",
+        "country": "AU",
+        "phone": "+61.417824852",
+        "email": "contact@peoplebrowsr.com"
+    }
+}

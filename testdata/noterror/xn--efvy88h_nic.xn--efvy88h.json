@@ -1,0 +1,77 @@
+{
+    "domain": {
+        "id": "D20150825G10001G_42746634-xinwen",
+        "domain": "nic.xn--efvy88h",
+        "punycode": "nic.xn--efvy88h",
+        "name": "nic",
+        "extension": "xn--efvy88h",
+        "whois_server": "202.173.11.141",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "vns1.zdnscloud.biz",
+            "dns1.zdnscloud.info",
+            "ins1.zdnscloud.com",
+            "cns1.zdnscloud.net"
+        ],
+        "created_date": "2015-08-25T04:49:36Z",
+        "created_date_in_time": "2015-08-25T04:49:36Z",
+        "updated_date": "2017-11-30T02:33:12Z",
+        "updated_date_in_time": "2017-11-30T02:33:12Z",
+        "expiration_date": "2025-08-25T04:49:36Z",
+        "expiration_date_in_time": "2025-08-25T04:49:36Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "knet",
+        "phone": "+86.01058813521",
+        "email": "tech-supprot@zdns.cn",
+        "referral_url": "http://www.knet.cn"
+    },
+    "registrant": {
+        "id": "C20130607C_00000203-xinwen",
+        "name": "Shuo Liu",
+        "organization": "Tech",
+        "street": "No.80 Daqufu Road Tangshan Hebei",
+        "city": "Tangshan",
+        "province": "Heibei",
+        "postal_code": "100170",
+        "country": "CN",
+        "phone": "+86.58812441",
+        "phone_ext": "2222",
+        "fax": "+86.58815451",
+        "fax_ext": "1234",
+        "email": "liushuo@knet.cn"
+    },
+    "administrative": {
+        "id": "C20130607C_00000203-xinwen",
+        "name": "Shuo Liu",
+        "organization": "Tech",
+        "street": "No.80 Daqufu Road Tangshan Hebei",
+        "city": "Tangshan",
+        "province": "Heibei",
+        "postal_code": "100170",
+        "country": "CN",
+        "phone": "+86.58812441",
+        "phone_ext": "2222",
+        "fax": "+86.58815451",
+        "fax_ext": "1234",
+        "email": "liushuo@knet.cn"
+    },
+    "technical": {
+        "id": "C20130607C_00000203-xinwen",
+        "name": "Shuo Liu",
+        "organization": "Tech",
+        "street": "No.80 Daqufu Road Tangshan Hebei",
+        "city": "Tangshan",
+        "province": "Heibei",
+        "postal_code": "100170",
+        "country": "CN",
+        "phone": "+86.58812441",
+        "phone_ext": "2222",
+        "fax": "+86.58815451",
+        "fax_ext": "1234",
+        "email": "liushuo@knet.cn"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "domain": {
+        "domain": "nic.eu",
+        "punycode": "nic.eu",
+        "name": "nic",
+        "extension": "eu",
+        "name_servers": [
+            "ns1.eurid.eu",
+            "ns4.eurid.eu",
+            "ns2.eurid.eu",
+            "ns3.eurid.eu"
+        ]
+    },
+    "registrar": {
+        "name": "EURid vzw",
+        "referral_url": "https://www.eurid.eu"
+    },
+    "registrant": {
+        "organization": "NOT DISCLOSED!"
+    },
+    "technical": {
+        "organization": "EURid vzw",
+        "email": "tech@eurid.eu"
+    }
+}

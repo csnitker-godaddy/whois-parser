@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "808f39d3720f4125825817199e213a7a-DONUTS",
+        "domain": "nic.bcg",
+        "punycode": "nic.bcg",
+        "name": "nic",
+        "extension": "bcg",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.bcg",
+            "b0.nic.bcg",
+            "c0.nic.bcg",
+            "a2.nic.bcg"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-22T21:24:41Z",
+        "created_date_in_time": "2016-01-22T21:24:41Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-22T21:24:41Z",
+        "expiration_date_in_time": "2025-01-22T21:24:41Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "d1d0208b2b764857a401d4fb22b3ff91-DONUTS",
+        "name": "Global Digital Marketing Programs Director",
+        "organization": "The Boston Consulting Group, Inc.",
+        "street": "One Beacon Street",
+        "city": "Boston",
+        "province": "MA",
+        "postal_code": "2108",
+        "country": "US",
+        "phone": "+1.6179731200",
+        "fax": "+1.6179731399",
+        "email": "ngtld-bcg@cscglobal.com"
+    },
+    "administrative": {
+        "id": "391e5db98a194c5fa386dcbdd2e1ad83-DONUTS",
+        "name": "Registry Operator",
+        "organization": "The Boston Consulting Group, Inc.",
+        "street": "One Beacon Street",
+        "city": "Boston",
+        "province": "MA",
+        "postal_code": "2108",
+        "country": "US",
+        "phone": "+1.6179731200",
+        "fax": "+1.6179731399",
+        "email": "ngtld-bcg@cscglobal.com"
+    },
+    "technical": {
+        "id": "391e5db98a194c5fa386dcbdd2e1ad83-DONUTS",
+        "name": "Registry Operator",
+        "organization": "The Boston Consulting Group, Inc.",
+        "street": "One Beacon Street",
+        "city": "Boston",
+        "province": "MA",
+        "postal_code": "2108",
+        "country": "US",
+        "phone": "+1.6179731200",
+        "fax": "+1.6179731399",
+        "email": "ngtld-bcg@cscglobal.com"
+    }
+}

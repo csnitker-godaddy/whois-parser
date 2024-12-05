@@ -1,0 +1,48 @@
+{
+    "domain": {
+        "id": "D94101493-CNIC",
+        "domain": "nic.saarland",
+        "punycode": "nic.saarland",
+        "name": "nic",
+        "extension": "saarland",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "anycast1.dnsres.net",
+            "anycast2.dnsres.net"
+        ],
+        "created_date": "2014-01-08T16:49:29.0Z",
+        "created_date_in_time": "2014-01-08T16:49:29Z",
+        "updated_date": "2024-01-02T00:04:53.0Z",
+        "updated_date_in_time": "2024-01-02T00:04:53Z",
+        "expiration_date": "2025-01-08T23:59:59.0Z",
+        "expiration_date_in_time": "2025-01-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "organization": "dotSaarland GmbH",
+        "province": "SL",
+        "country": "DE",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

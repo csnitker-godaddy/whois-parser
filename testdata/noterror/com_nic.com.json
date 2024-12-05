@@ -1,0 +1,30 @@
+{
+    "domain": {
+        "id": "91988_DOMAIN_COM-VRSN",
+        "domain": "nic.com",
+        "punycode": "nic.com",
+        "name": "nic",
+        "extension": "com",
+        "whois_server": "whois.networksolutions.com",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "jessica.ns.cloudflare.com",
+            "sean.ns.cloudflare.com"
+        ],
+        "created_date": "1994-02-07T05:00:00Z",
+        "created_date_in_time": "1994-02-07T05:00:00Z",
+        "updated_date": "2024-02-08T05:05:53Z",
+        "updated_date_in_time": "2024-02-08T05:05:53Z",
+        "expiration_date": "2034-02-08T05:00:00Z",
+        "expiration_date_in_time": "2034-02-08T05:00:00Z"
+    },
+    "registrar": {
+        "id": "2",
+        "name": "Network Solutions, LLC",
+        "phone": "+1.8777228662",
+        "email": "domain.operations@web.com",
+        "referral_url": "http://networksolutions.com"
+    }
+}

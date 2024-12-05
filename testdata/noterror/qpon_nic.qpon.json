@@ -1,0 +1,50 @@
+{
+    "domain": {
+        "id": "D217231453-CNIC",
+        "domain": "nic.qpon",
+        "punycode": "nic.qpon",
+        "name": "nic",
+        "extension": "qpon",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.qpon",
+            "b.nic.qpon",
+            "c.nic.qpon",
+            "d.nic.qpon"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-10T00:12:30.0Z",
+        "created_date_in_time": "2013-08-10T00:12:30Z",
+        "updated_date": "2024-08-03T00:01:08.0Z",
+        "updated_date_in_time": "2024-08-03T00:01:08Z",
+        "expiration_date": "2025-08-09T23:59:59.0Z",
+        "expiration_date_in_time": "2025-08-09T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "dotQPON LLC",
+        "phone": "+1.12345678910",
+        "email": "castro5@me.com",
+        "referral_url": "http://get.qpon/"
+    },
+    "registrant": {
+        "province": "CA",
+        "country": "US",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

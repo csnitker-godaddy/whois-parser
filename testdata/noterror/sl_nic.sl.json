@@ -1,0 +1,20 @@
+{
+    "domain": {
+        "domain": "nic.sl",
+        "punycode": "nic.sl",
+        "name": "nic",
+        "extension": "sl",
+        "whois_server": "whois.nic.sl",
+        "name_servers": [
+            "merlin.ns.cloudflare.com",
+            "olga.ns.cloudflare.com"
+        ],
+        "created_date": "2016-02-02T21:18:00.930Z",
+        "created_date_in_time": "2016-02-02T21:18:00.93Z",
+        "expiration_date": "2026-02-02T21:18:00.991Z",
+        "expiration_date_in_time": "2026-02-02T21:18:00.991Z"
+    },
+    "registrar": {
+        "name": "SysAdmin"
+    }
+}

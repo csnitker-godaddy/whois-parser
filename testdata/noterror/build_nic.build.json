@@ -1,0 +1,49 @@
+{
+    "domain": {
+        "id": "D210566283-CNIC",
+        "domain": "nic.build",
+        "punycode": "nic.build",
+        "name": "nic",
+        "extension": "build",
+        "whois_server": "whois.nic.build",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "d.nic.build",
+            "c.nic.build",
+            "a.nic.build",
+            "b.nic.build"
+        ],
+        "dnssec": true,
+        "created_date": "2013-11-19T02:41:04.0Z",
+        "created_date_in_time": "2013-11-19T02:41:04Z",
+        "updated_date": "2024-11-13T00:01:23.0Z",
+        "updated_date_in_time": "2024-11-13T00:01:23Z",
+        "expiration_date": "2025-11-19T23:59:59.0Z",
+        "expiration_date_in_time": "2025-11-19T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Plan Bee LLC",
+        "phone": "+1.3104506900",
+        "email": "george@bmail.build,brian@bmail.build",
+        "referral_url": "https://about.build/"
+    },
+    "registrant": {
+        "country": "us",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

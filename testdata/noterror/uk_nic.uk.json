@@ -1,0 +1,22 @@
+{
+    "domain": {
+        "domain": "nic.uk",
+        "punycode": "nic.uk",
+        "name": "nic",
+        "extension": "uk",
+        "status": [
+            "No"
+        ],
+        "created_date": "before Aug-1996",
+        "created_date_in_time": "1996-08-01T00:00:00Z",
+        "updated_date": "16-Nov-2004",
+        "updated_date_in_time": "2004-11-16T00:00:00Z"
+    },
+    "registrar": {
+        "name": "No registrar listed.  This domain is directly registered with Nominet."
+    },
+    "registrant": {
+        "organization": "Nominet UK",
+        "street": "Minerva House,Edmund Halley Road,Oxford Science Park,Oxford,OX4 4DQ,GB"
+    }
+}

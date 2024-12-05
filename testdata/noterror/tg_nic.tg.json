@@ -1,0 +1,18 @@
+{
+    "domain": {
+        "domain": ".............nic.tg",
+        "punycode": ".............nic.tg",
+        "name": "nic",
+        "extension": "tg",
+        "status": [
+            ".............Activ&eacute;"
+        ],
+        "name_servers": [
+            "ns1.nic.tg",
+            "ns2.nic.tg"
+        ]
+    },
+    "registrar": {
+        "name": "..........NETMASTER SARL"
+    }
+}

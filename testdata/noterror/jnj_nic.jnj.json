@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "D313-JNJ",
+        "domain": "nic.jnj",
+        "punycode": "nic.jnj",
+        "name": "nic",
+        "extension": "jnj",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.jnj",
+            "ns2.dns.nic.jnj",
+            "ns3.dns.nic.jnj",
+            "ns4.dns.nic.jnj",
+            "ns5.dns.nic.jnj",
+            "ns6.dns.nic.jnj"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T22:16:10Z",
+        "created_date_in_time": "2013-08-09T22:16:10Z",
+        "updated_date": "2024-09-23T00:00:01Z",
+        "updated_date_in_time": "2024-09-23T00:00:01Z",
+        "expiration_date": "2025-08-08T23:59:59Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Johnson & Johnson Services, Inc."
+    },
+    "registrant": {
+        "id": "C16883-JNJ",
+        "name": "Johnson & Johnson",
+        "organization": "Johnson & Johnson",
+        "street": "One Johnson & Johnson Plaza",
+        "city": "New Brunswick",
+        "province": "NJ",
+        "postal_code": "08933",
+        "country": "US",
+        "phone": "+1.7325243245",
+        "fax": "+1.7325246341",
+        "email": "jnjregistry@fairwindspartners.com"
+    },
+    "administrative": {
+        "id": "C16883-JNJ",
+        "name": "Johnson & Johnson",
+        "organization": "Johnson & Johnson",
+        "street": "One Johnson & Johnson Plaza",
+        "city": "New Brunswick",
+        "province": "NJ",
+        "postal_code": "08933",
+        "country": "US",
+        "phone": "+1.7325243245",
+        "fax": "+1.7325246341",
+        "email": "jnjregistry@fairwindspartners.com"
+    },
+    "technical": {
+        "id": "C312-JNJ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

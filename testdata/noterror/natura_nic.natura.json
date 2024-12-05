@@ -1,0 +1,67 @@
+{
+    "domain": {
+        "id": "D2515-NATURA",
+        "domain": "nic.natura",
+        "punycode": "nic.natura",
+        "name": "nic",
+        "extension": "natura",
+        "whois_server": "whois.gtlds.nic.br",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns.dns.br",
+            "ns2.dns.br"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-23T00:31:32Z",
+        "created_date_in_time": "2016-01-23T00:31:32Z",
+        "updated_date": "2023-04-13T18:36:09Z",
+        "updated_date_in_time": "2023-04-13T18:36:09Z",
+        "expiration_date": "2024-01-23T00:31:32Z",
+        "expiration_date_in_time": "2024-01-23T00:31:32Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "NIC.br New gTLD Back-End Registry Services",
+        "phone": "+55.1155093511",
+        "email": "novossufixos@registro.br",
+        "referral_url": "http://gtlds.nic.br"
+    },
+    "registrant": {
+        "id": "C4306R2-NICBR",
+        "name": "Domain Administrator",
+        "organization": "71.673.990/0001-77",
+        "street": "Av. Alexandre Colares 1188 Vila Jaguara",
+        "city": "Sao Paulo",
+        "province": "SP",
+        "postal_code": "05106-000",
+        "country": "BR",
+        "phone": "+55.1144462979",
+        "email": "dominios@natura.net"
+    },
+    "administrative": {
+        "id": "C4306R2-NICBR",
+        "name": "Domain Administrator",
+        "organization": "71.673.990/0001-77",
+        "street": "Av. Alexandre Colares 1188 Vila Jaguara",
+        "city": "Sao Paulo",
+        "province": "SP",
+        "postal_code": "05106-000",
+        "country": "BR",
+        "phone": "+55.1144462979",
+        "email": "dominios@natura.net"
+    },
+    "technical": {
+        "id": "C4306R2-NICBR",
+        "name": "Domain Administrator",
+        "organization": "71.673.990/0001-77",
+        "street": "Av. Alexandre Colares 1188 Vila Jaguara",
+        "city": "Sao Paulo",
+        "province": "SP",
+        "postal_code": "05106-000",
+        "country": "BR",
+        "phone": "+55.1144462979",
+        "email": "dominios@natura.net"
+    }
+}

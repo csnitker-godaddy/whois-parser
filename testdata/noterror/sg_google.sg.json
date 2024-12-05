@@ -5,11 +5,11 @@
         "name": "google",
         "extension": "sg",
         "status": [
-            "ok",
-            "clientupdateprohibited",
-            "clienttransferprohibited",
-            "clientdeleteprohibited",
-            "verifiedid@sg-notrequired"
+            "OK",
+            "CLIENTUPDATEPROHIBITED",
+            "CLIENTTRANSFERPROHIBITED",
+            "CLIENTDELETEPROHIBITED",
+            "VerifiedID@SG-NotRequired"
         ],
         "name_servers": [
             "ns1.google.com",

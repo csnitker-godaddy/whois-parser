@@ -1,0 +1,40 @@
+{
+    "domain": {
+        "id": "NIC.XN--D1ACJ3B",
+        "domain": "nic.xn--d1acj3b",
+        "punycode": "nic.xn--d1acj3b",
+        "name": "nic",
+        "extension": "xn--d1acj3b",
+        "whois_server": "whois.tcinet.ru",
+        "status": [
+            "OK"
+        ],
+        "name_servers": [
+            "int2.ix.ru",
+            "int3.ix.ru",
+            "ns.msk-ix.ru"
+        ],
+        "dnssec": true,
+        "created_date": "2013-05-21T15:26:03Z",
+        "created_date_in_time": "2013-05-21T15:26:03Z",
+        "expiration_date": "2025-05-21T16:26:03Z",
+        "expiration_date_in_time": "2025-05-21T16:26:03Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Technical center of Internet JSC [TCI-REG-DETI]",
+        "referral_url": "www.tcinet.ru"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "The Foundation for Network Initiatives \"The Smart Internet\"",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "ru",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the registrar in this output for contact the registrant"
+    }
+}

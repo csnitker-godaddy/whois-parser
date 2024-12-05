@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "D1-GLOBO",
+        "domain": "nic.globo",
+        "punycode": "nic.globo",
+        "name": "nic",
+        "extension": "globo",
+        "whois_server": "whois.gtlds.nic.br",
+        "status": [
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns.dns.br",
+            "ns2.dns.br"
+        ],
+        "dnssec": true,
+        "created_date": "2014-04-17T22:14:07Z",
+        "created_date_in_time": "2014-04-17T22:14:07Z",
+        "updated_date": "2018-04-09T20:16:03Z",
+        "updated_date_in_time": "2018-04-09T20:16:03Z",
+        "expiration_date": "2025-04-17T22:24:48Z",
+        "expiration_date_in_time": "2025-04-17T22:24:48Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "NIC.br New gTLD Back-End Registry Services",
+        "phone": "+55.1155093511",
+        "email": "novossufixos@registro.br",
+        "referral_url": "http://gtlds.nic.br"
+    },
+    "registrant": {
+        "id": "C2R3-NICBR",
+        "name": "Globo Comunicação e Participações S.A",
+        "organization": "27.865.757/0001-02",
+        "street": "Rua Lopes Quintas 303 Jardim Botanico",
+        "city": "Rio de Janeiro",
+        "province": "RJ",
+        "postal_code": "22460-010",
+        "country": "BR",
+        "phone": "+55.2125402000",
+        "email": "fapesp@corp.globo.com"
+    },
+    "administrative": {
+        "id": "C2R3-NICBR",
+        "name": "Globo Comunicação e Participações S.A",
+        "organization": "27.865.757/0001-02",
+        "street": "Rua Lopes Quintas 303 Jardim Botanico",
+        "city": "Rio de Janeiro",
+        "province": "RJ",
+        "postal_code": "22460-010",
+        "country": "BR",
+        "phone": "+55.2125402000",
+        "email": "fapesp@corp.globo.com"
+    },
+    "technical": {
+        "id": "C2R3-NICBR",
+        "name": "Globo Comunicação e Participações S.A",
+        "organization": "27.865.757/0001-02",
+        "street": "Rua Lopes Quintas 303 Jardim Botanico",
+        "city": "Rio de Janeiro",
+        "province": "RJ",
+        "postal_code": "22460-010",
+        "country": "BR",
+        "phone": "+55.2125402000",
+        "email": "fapesp@corp.globo.com"
+    }
+}

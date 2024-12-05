@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "3F7A01-PROF",
+        "domain": "nic.prof",
+        "punycode": "nic.prof",
+        "name": "nic",
+        "extension": "prof",
+        "whois_server": "whois.nic.google",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "2014-08-29T17:47:57Z",
+        "created_date_in_time": "2014-08-29T17:47:57Z",
+        "updated_date": "2024-10-13T17:47:57Z",
+        "updated_date_in_time": "2024-10-13T17:47:57Z",
+        "expiration_date": "2025-08-29T17:47:57Z",
+        "expiration_date_in_time": "2025-08-29T17:47:57Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Charleston Road Registry NonBillable",
+        "phone": "+1.2125652633",
+        "email": "registry-abuse-support@google.com"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Charleston Road Registry, Inc.",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "CA",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the whois server of the owning registrar identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the whois server of the owning registrar identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the whois server of the owning registrar identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

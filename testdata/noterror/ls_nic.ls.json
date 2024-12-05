@@ -1,0 +1,31 @@
+{
+    "domain": {
+        "domain": "nic.ls",
+        "punycode": "nic.ls",
+        "name": "nic",
+        "extension": "ls",
+        "name_servers": [
+            "ns1.nic.ls",
+            "ns2.nic.ls",
+            "ns1.telewebls.com"
+        ],
+        "created_date": "24.04.2017 19:08:24",
+        "created_date_in_time": "2017-04-24T19:08:24Z",
+        "updated_date": "20.09.2019 16:14:52",
+        "updated_date_in_time": "2019-09-20T16:14:52Z",
+        "expiration_date": "24.04.2029",
+        "expiration_date_in_time": "2029-04-24T00:00:00Z"
+    },
+    "registrar": {
+        "name": "REG-LS"
+    },
+    "registrant": {
+        "organization": "ADMIN-LSNIC"
+    },
+    "administrative": {
+        "id": "ADMIN-LSNIC"
+    },
+    "technical": {
+        "id": "TECH-LSNIC"
+    }
+}

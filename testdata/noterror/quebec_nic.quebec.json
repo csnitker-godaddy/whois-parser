@@ -1,0 +1,43 @@
+{
+    "domain": {
+        "id": "D10-QUEBEC",
+        "domain": "nic.quebec",
+        "punycode": "nic.quebec",
+        "name": "nic",
+        "extension": "quebec",
+        "whois_server": "whois.nic.quebec",
+        "status": [
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-01-23T13:46:27.349Z",
+        "created_date_in_time": "2014-01-23T13:46:27.349Z",
+        "updated_date": "2024-08-21T10:41:15.456Z",
+        "updated_date_in_time": "2024-08-21T10:41:15.456Z",
+        "expiration_date": "2029-01-23T13:46:27.349Z",
+        "expiration_date_in_time": "2029-01-23T13:46:27.349Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "PointQuébec, Inc.",
+        "phone": "+1.5147000018",
+        "email": "abuse@registre.quebec",
+        "referral_url": "http://registre.quebec"
+    },
+    "registrant": {
+        "organization": "PointQuebec, Inc.",
+        "province": "Quebec",
+        "country": "CA",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

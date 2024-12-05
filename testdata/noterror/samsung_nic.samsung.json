@@ -1,0 +1,66 @@
+{
+    "domain": {
+        "id": "D1-KNIC",
+        "domain": "nic.samsung",
+        "punycode": "nic.samsung",
+        "name": "nic",
+        "extension": "samsung",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.dns.samsung",
+            "ns2.dns.samsung"
+        ],
+        "created_date": "2015-05-20T05:43:23.0Z",
+        "created_date_in_time": "2015-05-20T05:43:23Z",
+        "updated_date": "2017-10-11T05:43:23.0Z",
+        "updated_date_in_time": "2017-10-11T05:43:23Z",
+        "expiration_date": "2030-10-11T00:00:00.0Z",
+        "expiration_date_in_time": "2030-10-11T00:00:00Z"
+    },
+    "registrant": {
+        "id": "C1-KNIC",
+        "name": "KNIC",
+        "organization": "KNIC",
+        "street": "9th fl, asem tower , Samseong 1(il)-dong , Gangnam-gu",
+        "city": "Seoul",
+        "postal_code": "135798",
+        "country": "KR",
+        "phone": "+82.15884259",
+        "email": "info@yesnic.com"
+    },
+    "administrative": {
+        "id": "C1-KNIC",
+        "name": "KNIC",
+        "organization": "KNIC",
+        "street": "9th fl, asem tower , Samseong 1(il)-dong , Gangnam-gu",
+        "city": "Seoul",
+        "postal_code": "135798",
+        "country": "KR",
+        "phone": "+82.15884259",
+        "email": "info@yesnic.com"
+    },
+    "technical": {
+        "id": "C1-KNIC",
+        "name": "KNIC",
+        "organization": "KNIC",
+        "street": "9th fl, asem tower , Samseong 1(il)-dong , Gangnam-gu",
+        "city": "Seoul",
+        "postal_code": "135798",
+        "country": "KR",
+        "phone": "+82.15884259",
+        "email": "info@yesnic.com"
+    },
+    "billing": {
+        "id": "C1-KNIC",
+        "name": "KNIC",
+        "organization": "KNIC",
+        "street": "9th fl, asem tower , Samseong 1(il)-dong , Gangnam-gu",
+        "city": "Seoul",
+        "postal_code": "135798",
+        "country": "KR",
+        "phone": "+82.15884259",
+        "email": "info@yesnic.com"
+    }
+}

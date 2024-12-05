@@ -1,0 +1,60 @@
+{
+    "domain": {
+        "domain": "nic.sk",
+        "punycode": "nic.sk",
+        "name": "nic",
+        "extension": "sk",
+        "status": [
+            "clientTransferProhibited",
+            "clientUpdateProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns1.nic.sk",
+            "ns2.nic.sk",
+            "ns3.nic.sk",
+            "ns4.nic.sk"
+        ],
+        "created_date": "2003-09-30",
+        "created_date_in_time": "2003-09-30T00:00:00Z",
+        "updated_date": "2024-09-09",
+        "updated_date_in_time": "2024-09-09T00:00:00Z",
+        "expiration_date": "2025-09-30",
+        "expiration_date_in_time": "2025-09-30T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Webglobe, a.s.",
+        "organization": "Webglobe, a.s.",
+        "street": "Stará Prievozská 1349/2",
+        "city": "Bratislava - mestská časť Ružinov",
+        "postal_code": "821 09",
+        "country": "SK",
+        "phone": "+421.258101062",
+        "email": "info@webglobe.sk"
+    },
+    "registrant": {
+        "id": "WY-237559",
+        "name": "Igor Strečko",
+        "organization": "Webglobe, a.s.",
+        "street": "Stará Prievozská 1349/2",
+        "city": "Bratislava - mestská časť Ružinov",
+        "postal_code": "821 09",
+        "country": "SK"
+    },
+    "administrative": {
+        "name": "Igor Strečko",
+        "organization": "Webglobe, a.s.",
+        "street": "Stará Prievozská 1349/2",
+        "city": "Bratislava - mestská časť Ružinov",
+        "postal_code": "821 09",
+        "country": "SK"
+    },
+    "technical": {
+        "name": "Igor Strečko",
+        "organization": "Webglobe, a.s.",
+        "street": "Stará Prievozská 1349/2",
+        "city": "Bratislava - mestská časť Ružinov",
+        "postal_code": "821 09",
+        "country": "SK"
+    }
+}

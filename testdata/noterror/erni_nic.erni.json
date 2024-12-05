@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "D1-ERNI",
+        "domain": "nic.erni",
+        "punycode": "nic.erni",
+        "name": "nic",
+        "extension": "erni",
+        "whois_server": "whois.nic.erni",
+        "status": [
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-10-13T15:50:28.16Z",
+        "created_date_in_time": "2014-10-13T15:50:28.16Z",
+        "updated_date": "2024-11-27T16:02:03.79Z",
+        "updated_date_in_time": "2024-11-27T16:02:03.79Z",
+        "expiration_date": "2025-10-13T15:50:28.16Z",
+        "expiration_date_in_time": "2025-10-13T15:50:28.16Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "ERNI Internal Registrar",
+        "phone": "+41.412273500",
+        "email": "info@erni.ch",
+        "referral_url": "http://erni-consultants.com"
+    },
+    "registrant": {
+        "organization": "ERNI Consulting AG",
+        "country": "CH",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

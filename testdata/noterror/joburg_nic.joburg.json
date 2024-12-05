@@ -1,0 +1,44 @@
+{
+    "domain": {
+        "id": "dom_C--1",
+        "domain": "nic.joburg",
+        "punycode": "nic.joburg",
+        "name": "nic",
+        "extension": "joburg",
+        "whois_server": "http://www.dns.net.za/whois",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.dnservices.co.za",
+            "ns1.nic.joburg",
+            "nsp.netnod.se"
+        ],
+        "created_date": "2014-06-09T10:18:44Z",
+        "created_date_in_time": "2014-06-09T10:18:44Z",
+        "updated_date": "2016-07-14T10:28:57Z",
+        "updated_date_in_time": "2016-07-14T10:28:57Z",
+        "expiration_date": "2999-01-01T00:00:00Z",
+        "expiration_date_in_time": "2999-01-01T00:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "DNServices",
+        "phone": "+27.113140077",
+        "email": "abuse@registry.net.za",
+        "referral_url": "http://dns.business"
+    },
+    "registrant": {
+        "country": "ZA",
+        "email": "please contact the rdds service of the listed registrar for registrant, admin, or tech contact information."
+    },
+    "administrative": {
+        "email": "please contact the rdds service of the listed registrar for registrant, admin, or tech contact information."
+    },
+    "technical": {
+        "email": "please contact the rdds service of the listed registrar for registrant, admin, or tech contact information."
+    },
+    "billing": {
+        "email": "please contact the rdds service of the listed registrar for registrant, admin, or tech contact information."
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "domain": {
+        "domain": "nic.ax",
+        "punycode": "nic.ax",
+        "name": "nic",
+        "extension": "ax",
+        "status": [
+            "Registered"
+        ],
+        "created_date": "05.09.2016",
+        "created_date_in_time": "2016-05-09T00:00:00Z",
+        "updated_date": "29.08.2024",
+        "updated_date_in_time": "2024-08-29T00:00:00Z",
+        "expiration_date": "05.09.2025",
+        "expiration_date_in_time": "2025-05-09T00:00:00Z"
+    },
+    "registrar": {
+        "name": "NETIM"
+    },
+    "registrant": {
+        "email": "tld@netim.com"
+    }
+}

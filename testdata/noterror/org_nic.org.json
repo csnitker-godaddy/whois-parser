@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "df974e45a6ad499c8cefaf2e153a72af-LROR",
+        "domain": "nic.org",
+        "punycode": "nic.org",
+        "name": "nic",
+        "extension": "org",
+        "whois_server": "whois.namecheap.com",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "dns1.registrar-servers.com",
+            "dns2.registrar-servers.com"
+        ],
+        "created_date": "1995-06-11T04:00:00Z",
+        "created_date_in_time": "1995-06-11T04:00:00Z",
+        "updated_date": "2023-06-05T21:18:38Z",
+        "updated_date_in_time": "2023-06-05T21:18:38Z",
+        "expiration_date": "2029-06-10T04:00:00Z",
+        "expiration_date_in_time": "2029-06-10T04:00:00Z"
+    },
+    "registrar": {
+        "id": "1068",
+        "name": "NameCheap, Inc.",
+        "phone": "+1.6613102107",
+        "email": "abuse@namecheap.com",
+        "referral_url": "http://www.namecheap.com"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Privacy service provided by Withheld for Privacy ehf",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Capital Region",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "IS",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

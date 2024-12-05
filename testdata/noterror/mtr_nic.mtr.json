@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "D1137502-MTR",
+        "domain": "nic.mtr",
+        "punycode": "nic.mtr",
+        "name": "nic",
+        "extension": "mtr",
+        "whois_server": "whois.nic.mtr",
+        "status": [
+            "OK"
+        ],
+        "name_servers": [
+            "ns7.nic.mtr",
+            "ns8.nic.mtr"
+        ],
+        "dnssec": true,
+        "created_date": "2015-08-25T15:52:38Z",
+        "created_date_in_time": "2015-08-25T15:52:38Z",
+        "updated_date": "2015-09-10T12:03:36Z",
+        "updated_date_in_time": "2015-09-10T12:03:36Z",
+        "expiration_date": "2025-08-25T15:52:39Z",
+        "expiration_date_in_time": "2025-08-25T15:52:39Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "MTR",
+        "referral_url": "http://nic.mtr"
+    },
+    "registrant": {
+        "id": "HK3190752T",
+        "name": "MTR CORPORATION LIMITED",
+        "organization": "MTR CORPORATION LIMITED",
+        "street": "MTR Headquarters Building, Telford Plaza, Kowloon Bay",
+        "city": "HK",
+        "province": "HK",
+        "country": "HK",
+        "phone": "+852.29933913",
+        "fax": "+852.27959991",
+        "email": "enquiry@hkdnr.hk"
+    },
+    "administrative": {
+        "id": "HK3190753T",
+        "name": "MTR CORPORATION LIMITED",
+        "organization": "MTR CORPORATION LIMITED",
+        "street": "MTR Headquarters Building, Telford Plaza, Kowloon Bay",
+        "city": "HK",
+        "province": "HK",
+        "country": "HK",
+        "phone": "+852.29933913",
+        "fax": "+852.27959991",
+        "email": "enquiry@hkdnr.hk"
+    },
+    "technical": {
+        "id": "HK3190754T",
+        "name": "MTR CORPORATION LIMITED",
+        "organization": "MTR CORPORATION LIMITED",
+        "street": "MTR Headquarters Building, Telford Plaza, Kowloon Bay",
+        "city": "HK",
+        "province": "HK",
+        "country": "HK",
+        "phone": "+852.29933913",
+        "fax": "+852.27959991",
+        "email": "enquiry@hkdnr.hk"
+    }
+}

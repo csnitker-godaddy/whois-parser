@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "2-CNNIC",
+        "domain": "nic.xn--io0a7i",
+        "punycode": "nic.xn--io0a7i",
+        "name": "nic",
+        "extension": "xn--io0a7i",
+        "whois_server": "whois.ngtld.cn",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "e.ngtld.cn",
+            "d.ngtld.cn",
+            "c.ngtld.cn",
+            "b.ngtld.cn",
+            "a.ngtld.cn"
+        ],
+        "dnssec": true,
+        "created_date": "2014-04-15T09:46:39Z",
+        "created_date_in_time": "2014-04-15T09:46:39Z",
+        "updated_date": "2024-05-31T16:05:01Z",
+        "updated_date_in_time": "2024-05-31T16:05:01Z",
+        "expiration_date": "2025-04-15T09:46:39Z",
+        "expiration_date_in_time": "2025-04-15T09:46:39Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Reserved for non-billable transactions where Registry Operator acts as Registrar",
+        "phone": "******",
+        "email": "******",
+        "referral_url": "http://whois.ngtld.cn"
+    },
+    "registrant": {
+        "organization": "中国互联网络信息中心",
+        "province": "beijing",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

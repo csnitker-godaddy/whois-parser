@@ -1,0 +1,49 @@
+{
+    "domain": {
+        "id": "D98008009-CNIC",
+        "domain": "nic.cam",
+        "punycode": "nic.cam",
+        "name": "nic",
+        "extension": "cam",
+        "whois_server": "whois.nic.cam",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "anycast1.dnsres.net",
+            "anycast2.dnsres.net"
+        ],
+        "created_date": "2016-02-17T07:56:25.0Z",
+        "created_date_in_time": "2016-02-17T07:56:25Z",
+        "updated_date": "2023-08-31T16:51:39.0Z",
+        "updated_date_in_time": "2023-08-31T16:51:39Z",
+        "expiration_date": "2026-02-17T23:59:59.0Z",
+        "expiration_date_in_time": "2026-02-17T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Cam Connecting SARL",
+        "phone": "+31.104054473",
+        "email": "abuse@nic.cam",
+        "referral_url": "https://nic.cam/"
+    },
+    "registrant": {
+        "organization": "AC Webconnecting Holding B.V.",
+        "province": "Zuid-Holland",
+        "country": "NL",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

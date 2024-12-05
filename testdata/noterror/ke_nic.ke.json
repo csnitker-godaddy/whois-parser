@@ -1,0 +1,11 @@
+{
+    "domain": {
+        "domain": "nic.ke",
+        "punycode": "nic.ke",
+        "name": "nic",
+        "extension": "ke",
+        "status": [
+            "Prohibited"
+        ]
+    }
+}

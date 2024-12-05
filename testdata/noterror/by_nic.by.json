@@ -1,0 +1,28 @@
+{
+    "domain": {
+        "domain": "nic.by",
+        "punycode": "nic.by",
+        "name": "nic",
+        "extension": "by",
+        "name_servers": [
+            "ns1.open.by",
+            "ns2.open.by"
+        ],
+        "created_date": "2011-07-08",
+        "created_date_in_time": "2011-07-08T00:00:00Z",
+        "updated_date": "2024-08-23",
+        "updated_date_in_time": "2024-08-23T00:00:00Z",
+        "expiration_date": "2025-08-25",
+        "expiration_date_in_time": "2025-08-25T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Reliable Software, Ltd"
+    },
+    "registrant": {
+        "organization": "ООО \"ОТКРЫТЫЙ КОНТАКТ\"",
+        "street": "220004, -, г. Минск, ул. Кальварийская, д. 17-1, к. 518",
+        "country": "BY",
+        "phone": "+375173882885",
+        "email": "hidden! details are available at https://whois.cctld.by"
+    }
+}

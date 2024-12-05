@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "c78c58bf2b0a4595a9e3d0b9260b5da1-DONUTS",
+        "domain": "nic.boehringer",
+        "punycode": "nic.boehringer",
+        "name": "nic",
+        "extension": "boehringer",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.boehringer",
+            "a2.nic.boehringer",
+            "b0.nic.boehringer",
+            "c0.nic.boehringer"
+        ],
+        "dnssec": true,
+        "created_date": "2016-02-24T22:27:43Z",
+        "created_date_in_time": "2016-02-24T22:27:43Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-02-24T22:27:43Z",
+        "expiration_date_in_time": "2025-02-24T22:27:43Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "eab3c439a0b4445987eac28f4b98972a-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "Boehringer Ingelheim International GmbH",
+        "street": "Binger Strasse 173",
+        "city": "55216 Ingelheim am Rhein",
+        "province": "Rhineland-Palatinate",
+        "country": "DE",
+        "phone": "+49.6132772378",
+        "fax": "+49.6132774566",
+        "email": "ngtld-boehringer@cscglobal.com"
+    },
+    "administrative": {
+        "id": "56ff4abccb834dae97b16bb262d1f7aa-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Boehringer Ingelheim International",
+        "street": "Binger Strasse 173",
+        "city": "Ingelheim am Rhein",
+        "province": "Rhineland-Palatinate",
+        "postal_code": "55216",
+        "country": "DE",
+        "phone": "+49.6132772378",
+        "fax": "+49.6132774566",
+        "email": "ngtld-boehringer@cscglobal.com"
+    },
+    "technical": {
+        "id": "56ff4abccb834dae97b16bb262d1f7aa-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Boehringer Ingelheim International",
+        "street": "Binger Strasse 173",
+        "city": "Ingelheim am Rhein",
+        "province": "Rhineland-Palatinate",
+        "postal_code": "55216",
+        "country": "DE",
+        "phone": "+49.6132772378",
+        "fax": "+49.6132774566",
+        "email": "ngtld-boehringer@cscglobal.com"
+    }
+}

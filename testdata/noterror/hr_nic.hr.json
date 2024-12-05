@@ -1,0 +1,31 @@
+{
+    "domain": {
+        "domain": "nic.hr",
+        "punycode": "nic.hr",
+        "name": "nic",
+        "extension": "hr",
+        "whois_server": "whois.dns.hr",
+        "name_servers": [
+            "dns1.carnet.hr",
+            "dns2.carnet.hr"
+        ],
+        "created_date": "2001-01-25T23:00:00Z",
+        "created_date_in_time": "2001-01-25T23:00:00Z",
+        "updated_date": "2020-04-29T22:00:00Z",
+        "updated_date_in_time": "2020-04-29T22:00:00Z",
+        "expiration_date": "2050-11-15T23:00:00Z",
+        "expiration_date_in_time": "2050-11-15T23:00:00Z"
+    },
+    "registrar": {
+        "name": "CARNET",
+        "referral_url": "http://whois.dns.hr"
+    },
+    "registrant": {
+        "name": "CARNet",
+        "street": "Ulica Josipa Marohnića 5",
+        "city": "Zagreb",
+        "province": "HR",
+        "postal_code": "10000",
+        "email": "registar@domene.hr"
+    }
+}

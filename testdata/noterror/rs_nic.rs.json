@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "domain": "nic.rs",
+        "punycode": "nic.rs",
+        "name": "nic",
+        "extension": "rs",
+        "status": [
+            "Active"
+        ],
+        "name_servers": [
+            "a.nic.rs",
+            "h.nic.rs",
+            "g.nic.rs",
+            "l.nic.rs",
+            "b.nic.rs"
+        ],
+        "created_date": "10.03.2008 12:00:00",
+        "created_date_in_time": "2008-10-03T12:00:00Z",
+        "updated_date": "22.10.2024 13:11:44",
+        "updated_date_in_time": "2024-10-22T13:11:44Z",
+        "expiration_date": "10.03.2108 12:00:00",
+        "expiration_date_in_time": "2108-10-03T12:00:00Z"
+    },
+    "registrar": {
+        "name": "RNIDS"
+    },
+    "registrant": {
+        "id": "17680544",
+        "organization": "RNIDS",
+        "street": "Žorža Klemansoa 18a, Beograd, Serbia",
+        "postal_code": "11000"
+    },
+    "administrative": {
+        "id": "17680544",
+        "name": "RNIDS",
+        "street": "Žorža Klemansoa 18a, Beograd, Serbia",
+        "postal_code": "11000"
+    },
+    "technical": {
+        "id": "17680544",
+        "name": "RNIDS",
+        "street": "Žorža Klemansoa 18a, Beograd, Serbia",
+        "postal_code": "11000"
+    }
+}

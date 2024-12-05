@@ -10,7 +10,8 @@
             "ns3.google.com",
             "ns4.google.com"
         ],
-        "created_date": "31 May 1999"
+        "created_date": "31 May 1999",
+        "created_date_in_time": "1999-05-31T00:00:00Z"
     },
     "registrar": {
         "name": "MarkMonitor",

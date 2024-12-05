@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "D1006-DISCOVER",
+        "domain": "nic.discover",
+        "punycode": "nic.discover",
+        "name": "nic",
+        "extension": "discover",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.discover",
+            "ns2.dns.nic.discover",
+            "ns3.dns.nic.discover",
+            "ns4.dns.nic.discover",
+            "ns5.dns.nic.discover",
+            "ns6.dns.nic.discover"
+        ],
+        "dnssec": true,
+        "created_date": "2013-09-16T20:09:36Z",
+        "created_date_in_time": "2013-09-16T20:09:36Z",
+        "updated_date": "2024-10-31T00:00:03Z",
+        "updated_date_in_time": "2024-10-31T00:00:03Z",
+        "expiration_date": "2025-09-15T23:59:59Z",
+        "expiration_date_in_time": "2025-09-15T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Discover Financial Services"
+    },
+    "registrant": {
+        "id": "C1883-DISCOVER",
+        "name": "Discover Financial Services",
+        "organization": "Discover Financial Services",
+        "street": "2500 Lake Cook Road",
+        "city": "Riverwoods",
+        "province": "IL",
+        "postal_code": "60015-3851",
+        "country": "US",
+        "phone": "+1.2244050900",
+        "email": "dfsadmin@discover.com"
+    },
+    "administrative": {
+        "id": "C1883-DISCOVER",
+        "name": "Discover Financial Services",
+        "organization": "Discover Financial Services",
+        "street": "2500 Lake Cook Road",
+        "city": "Riverwoods",
+        "province": "IL",
+        "postal_code": "60015-3851",
+        "country": "US",
+        "phone": "+1.2244050900",
+        "email": "dfsadmin@discover.com"
+    },
+    "technical": {
+        "id": "C1883-DISCOVER",
+        "name": "Discover Financial Services",
+        "organization": "Discover Financial Services",
+        "street": "2500 Lake Cook Road",
+        "city": "Riverwoods",
+        "province": "IL",
+        "postal_code": "60015-3851",
+        "country": "US",
+        "phone": "+1.2244050900",
+        "email": "dfsadmin@discover.com"
+    }
+}

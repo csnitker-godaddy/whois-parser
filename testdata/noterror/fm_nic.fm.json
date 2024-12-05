@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "D34891389-CNIC",
+        "domain": "nic.fm",
+        "punycode": "nic.fm",
+        "name": "nic",
+        "extension": "fm",
+        "whois_server": "whois.nic.fm",
+        "status": [
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "a.nic.fm",
+            "b.nic.fm",
+            "c.nic.fm",
+            "d.nic.fm"
+        ],
+        "created_date": "2004-08-22T23:59:59.0Z",
+        "created_date_in_time": "2004-08-22T23:59:59Z",
+        "updated_date": "2023-08-31T16:50:32.0Z",
+        "updated_date_in_time": "2023-08-31T16:50:32Z",
+        "expiration_date": "2099-08-21T23:59:59.0Z",
+        "expiration_date_in_time": "2099-08-21T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "BRS Media Inc.",
+        "phone": "+1.4156774027",
+        "email": "registry@brsmedia.com",
+        "referral_url": "https://brsmedia.fm"
+    },
+    "registrant": {
+        "email": "https://whois.nic.fm/contact/nic.fm/registrant"
+    },
+    "administrative": {
+        "email": "https://whois.nic.fm/contact/nic.fm/admin"
+    },
+    "technical": {
+        "email": "https://whois.nic.fm/contact/nic.fm/tech"
+    },
+    "billing": {
+        "email": "https://whois.nic.fm/contact/nic.fm/billing"
+    }
+}

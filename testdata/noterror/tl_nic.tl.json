@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "1716879-CoCCA",
+        "domain": "nic.tl",
+        "punycode": "nic.tl",
+        "name": "nic",
+        "extension": "tl",
+        "status": [
+            "clientRenewProhibited",
+            "serverRenewProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "clientDeleteProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns1.desec.io",
+            "ns2.desec.org"
+        ],
+        "created_date": "2018-10-15T12:22:51Z",
+        "created_date_in_time": "2018-10-15T12:22:51Z",
+        "updated_date": "2023-03-30T02:47:08Z",
+        "updated_date_in_time": "2023-03-30T02:47:08Z",
+        "expiration_date": "2025-12-31T00:00:00Z",
+        "expiration_date_in_time": "2025-12-31T00:00:00Z"
+    },
+    "registrar": {
+        "name": "CoCCA Registry Stub Zones"
+    },
+    "registrant": {
+        "id": "653690-CoCCA",
+        "name": "Garth Miller",
+        "organization": "CoCCA Registry Services (NZ) Limited",
+        "street": "11a Wynyard Street",
+        "city": "Auckland",
+        "province": "Auckland",
+        "postal_code": "0624",
+        "country": "NZ",
+        "phone": "+64.94466370",
+        "email": "garth.miller@cocca.org.nz"
+    }
+}

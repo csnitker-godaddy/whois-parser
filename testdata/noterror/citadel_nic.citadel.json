@@ -1,0 +1,72 @@
+{
+    "domain": {
+        "id": "396f36f50ec84a3cb932ca79734e5deb-DONUTS",
+        "domain": "nic.citadel",
+        "punycode": "nic.citadel",
+        "name": "nic",
+        "extension": "citadel",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.citadel",
+            "a2.nic.citadel",
+            "b0.nic.citadel",
+            "c0.nic.citadel"
+        ],
+        "dnssec": true,
+        "created_date": "2023-10-05T10:27:44Z",
+        "created_date_in_time": "2023-10-05T10:27:44Z",
+        "updated_date": "2024-11-19T10:28:04Z",
+        "updated_date_in_time": "2024-11-19T10:28:04Z",
+        "expiration_date": "2025-10-05T10:27:44Z",
+        "expiration_date_in_time": "2025-10-05T10:27:44Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "334a05352f53467f9666efa3b675abd4-DONUTS",
+        "name": "Eric Lambert",
+        "organization": "Citadel Domain LLC",
+        "street": "131 South Dearborn Street",
+        "city": "Chicago",
+        "province": "IL",
+        "postal_code": "60603",
+        "country": "US",
+        "phone": "+1.3123952100",
+        "email": "ngtld-citadel@cscglobal.com"
+    },
+    "administrative": {
+        "id": "334a05352f53467f9666efa3b675abd4-DONUTS",
+        "name": "Eric Lambert",
+        "organization": "Citadel Domain LLC",
+        "street": "131 South Dearborn Street",
+        "city": "Chicago",
+        "province": "IL",
+        "postal_code": "60603",
+        "country": "US",
+        "phone": "+1.3123952100",
+        "email": "ngtld-citadel@cscglobal.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

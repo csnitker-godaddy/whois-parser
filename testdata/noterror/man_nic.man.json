@@ -1,0 +1,44 @@
+{
+    "domain": {
+        "id": "D9-MAN",
+        "domain": "nic.man",
+        "punycode": "nic.man",
+        "name": "nic",
+        "extension": "man",
+        "whois_server": "whois.nic.man",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2015-01-28T14:33:34.703Z",
+        "created_date_in_time": "2015-01-28T14:33:34.703Z",
+        "updated_date": "2023-07-28T12:46:59.237Z",
+        "updated_date_in_time": "2023-07-28T12:46:59.237Z",
+        "expiration_date": "2030-01-28T14:33:34.703Z",
+        "expiration_date_in_time": "2030-01-28T14:33:34.703Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "MAN Internal Registrar",
+        "phone": "+49.8915800",
+        "email": "cedric.dorant@man.eu",
+        "referral_url": "http://www.man.eu"
+    },
+    "registrant": {
+        "organization": "MAN Truck & Bus SE",
+        "country": "DE",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "domain": {
+        "domain": "nic.bn",
+        "punycode": "nic.bn",
+        "name": "nic",
+        "extension": "bn",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "thunder.dnspod.net",
+            "balsam.dnspod.net"
+        ],
+        "created_date": "20-Mar-2024 13:16:16",
+        "created_date_in_time": "2024-03-20T13:16:16Z",
+        "updated_date": "20-Mar-2024 13:16:16",
+        "updated_date_in_time": "2024-03-20T13:16:16Z",
+        "expiration_date": "20-Mar-2025 13:16:16",
+        "expiration_date_in_time": "2025-03-20T13:16:16Z"
+    },
+    "registrar": {
+        "name": "IMAGINE SDN BHD"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "domain": {
+        "domain": "nic.no",
+        "punycode": "nic.no",
+        "name": "nic",
+        "extension": "no",
+        "created_date": "2004-02-25",
+        "created_date_in_time": "2004-02-25T00:00:00Z",
+        "updated_date": "2024-02-25",
+        "updated_date_in_time": "2024-02-25T00:00:00Z"
+    }
+}

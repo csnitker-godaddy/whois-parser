@@ -23,6 +23,7 @@
         "street": "Mediebyen 3",
         "city": "Aarhus C",
         "postal_code": "8000",
-        "country": "DK"
+        "country": "DK",
+        "email": "jens.mogensen@jppol.dk"
     }
 }

@@ -1,0 +1,44 @@
+{
+    "domain": {
+        "id": "Dgkhh475-WHOSWHO",
+        "domain": "nic.whoswho",
+        "punycode": "nic.whoswho",
+        "name": "nic",
+        "extension": "whoswho",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T23:11:05.0Z",
+        "created_date_in_time": "2013-08-09T23:11:05Z",
+        "updated_date": "2024-09-23T00:01:57.782Z",
+        "updated_date_in_time": "2024-09-23T00:01:57.782Z",
+        "expiration_date": "2025-08-08T23:59:59.0Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Who's Who Registry",
+        "phone": "+1.2128778900",
+        "email": "abuse@nic.whoswho",
+        "referral_url": "http://nic.whoswho"
+    },
+    "registrant": {
+        "organization": "Who's Who Registry",
+        "province": "NY",
+        "country": "US",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

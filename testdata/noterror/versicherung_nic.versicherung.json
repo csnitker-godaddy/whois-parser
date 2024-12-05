@@ -1,0 +1,67 @@
+{
+    "domain": {
+        "id": "D0000000007-VERS",
+        "domain": "nic.versicherung",
+        "punycode": "nic.versicherung",
+        "name": "nic",
+        "extension": "versicherung",
+        "whois_server": "whois.nic.versicherung",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "sec1.rcode0.net",
+            "sec2.rcode0.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-04-29T14:08:54Z",
+        "created_date_in_time": "2014-04-29T14:08:54Z",
+        "updated_date": "2017-06-07T06:39:57Z",
+        "updated_date_in_time": "2017-06-07T06:39:57Z",
+        "expiration_date": "2025-04-29T14:08:54Z",
+        "expiration_date_in_time": "2025-04-29T14:08:54Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "tldbox GmbH",
+        "phone": "+43.6624669",
+        "email": "service@tld-box.at",
+        "referral_url": "http://www.nic.versicherung/"
+    },
+    "registrant": {
+        "id": "C0000013489-VERS",
+        "name": "tldbox GmbH",
+        "street": "Jakob-Haringer-Strasse 8/V",
+        "city": "Salzburg",
+        "postal_code": "5020",
+        "country": "AT",
+        "email": "service@tld-box.at"
+    },
+    "administrative": {
+        "id": "C0000013489-VERS",
+        "name": "tldbox GmbH",
+        "street": "Jakob-Haringer-Strasse 8/V",
+        "city": "Salzburg",
+        "postal_code": "5020",
+        "country": "AT",
+        "email": "service@tld-box.at"
+    },
+    "technical": {
+        "id": "C0000000002-VERS",
+        "name": "TLDBOX",
+        "organization": "tldbox GmbH",
+        "street": "Jakob-Haringer-Strasse 8/V",
+        "city": "Salzburg",
+        "province": "Salzburg",
+        "postal_code": "5020",
+        "country": "AT",
+        "phone": "+43.662234548",
+        "phone_ext": "730",
+        "email": "iana@tld-box.at"
+    }
+}

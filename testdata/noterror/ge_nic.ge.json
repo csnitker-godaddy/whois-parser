@@ -1,0 +1,33 @@
+{
+    "domain": {
+        "domain": "nic.ge",
+        "punycode": "nic.ge",
+        "name": "nic",
+        "extension": "ge",
+        "status": [
+            "Ok"
+        ],
+        "name_servers": [
+            "dns1.co.ge",
+            "dns2.co.ge"
+        ],
+        "created_date": "2017-10-04",
+        "created_date_in_time": "2017-10-04T00:00:00Z",
+        "expiration_date": "2099-10-05",
+        "expiration_date_in_time": "2099-10-05T00:00:00Z"
+    },
+    "registrar": {
+        "name": "CaucasusOnline"
+    },
+    "registrant": {
+        "organization": "Caucasus Online, Ltd"
+    },
+    "administrative": {
+        "name": "Khatuna Shubitidze",
+        "email": "k.shubitidze@co.ge"
+    },
+    "technical": {
+        "name": "Viktor Mazmanov",
+        "email": "v.mazmanov@co.ge"
+    }
+}

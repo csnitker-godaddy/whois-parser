@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "NIC-BBC",
+        "domain": "nic.bbc",
+        "punycode": "nic.bbc",
+        "name": "nic",
+        "extension": "bbc",
+        "whois_server": "whois.nic.bbc",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.bbc",
+            "dns2.nic.bbc",
+            "dns3.nic.bbc",
+            "dns4.nic.bbc",
+            "dnsa.nic.bbc",
+            "dnsb.nic.bbc",
+            "dnsc.nic.bbc",
+            "dnsd.nic.bbc"
+        ],
+        "dnssec": true,
+        "created_date": "2015-03-05T15:18:58Z",
+        "created_date_in_time": "2015-03-05T15:18:58Z",
+        "updated_date": "2022-02-22T12:02:19Z",
+        "updated_date_in_time": "2022-02-22T12:02:19Z",
+        "expiration_date": "2031-03-04T18:41:26Z",
+        "expiration_date_in_time": "2031-03-04T18:41:26Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Nominet Internal Registrar",
+        "email": "abuse@nominet.uk",
+        "referral_url": "http://www.nic.bbc"
+    },
+    "registrant": {
+        "id": "NOMI_CONTACT-BBC",
+        "name": "Brandon Butterworth",
+        "organization": "BBC",
+        "street": "Broadcasting House, Portland Place",
+        "city": "London",
+        "postal_code": "W1A 1AA",
+        "country": "GB",
+        "phone": "+44.3030409777",
+        "fax": "+44.2088118815",
+        "email": "hostmaster@bbc.co.uk"
+    },
+    "administrative": {
+        "id": "NOMI_CONTACT-BBC",
+        "name": "Brandon Butterworth",
+        "organization": "BBC",
+        "street": "Broadcasting House, Portland Place",
+        "city": "London",
+        "postal_code": "W1A 1AA",
+        "country": "GB",
+        "phone": "+44.3030409777",
+        "fax": "+44.2088118815",
+        "email": "hostmaster@bbc.co.uk"
+    },
+    "technical": {
+        "id": "NOMI_CONTACT-BBC",
+        "name": "Brandon Butterworth",
+        "organization": "BBC",
+        "street": "Broadcasting House, Portland Place",
+        "city": "London",
+        "postal_code": "W1A 1AA",
+        "country": "GB",
+        "phone": "+44.3030409777",
+        "fax": "+44.2088118815",
+        "email": "hostmaster@bbc.co.uk"
+    }
+}

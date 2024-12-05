@@ -1,0 +1,37 @@
+{
+    "domain": {
+        "domain": "nic.cz",
+        "punycode": "nic.cz",
+        "name": "nic",
+        "extension": "cz",
+        "status": [
+            "Sponsoring"
+        ],
+        "name_servers": [
+            "d.ns.nic.cz",
+            "2001:678:1::1)",
+            "a.ns.nic.cz",
+            "2001:678:f::1)",
+            "b.ns.nic.cz",
+            "2001:678:10::1)"
+        ],
+        "created_date": "30.10.1997 01:00:00",
+        "created_date_in_time": "1997-10-30T01:00:00Z",
+        "updated_date": "17.11.2020 14:25:52",
+        "updated_date_in_time": "2020-11-17T14:25:52Z",
+        "expiration_date": "15.03.2027",
+        "expiration_date_in_time": "2027-03-15T00:00:00Z"
+    },
+    "registrar": {
+        "name": "REG-CZNIC"
+    },
+    "registrant": {
+        "organization": "CZ-NIC"
+    },
+    "administrative": {
+        "id": "MAPET"
+    },
+    "technical": {
+        "id": "CZ-NIC"
+    }
+}

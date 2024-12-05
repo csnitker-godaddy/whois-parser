@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "90aa16468908443ba686b6546aa1c6ed-DONUTS",
+        "domain": "nic.clubmed",
+        "punycode": "nic.clubmed",
+        "name": "nic",
+        "extension": "clubmed",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n0.nic.clubmed",
+            "v2n1.nic.clubmed",
+            "v0n3.nic.clubmed",
+            "v2n0.nic.clubmed",
+            "v0n2.nic.clubmed",
+            "v0n1.nic.clubmed"
+        ],
+        "dnssec": true,
+        "created_date": "2015-07-28T22:15:13Z",
+        "created_date_in_time": "2015-07-28T22:15:13Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-07-28T22:15:13Z",
+        "expiration_date_in_time": "2025-07-28T22:15:13Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "4e2230cbdc9842478e9df42f383401dc-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "Club Mediterranee S.A.",
+        "street": "11 rue de Cambrai",
+        "city": "Paris",
+        "postal_code": "75019",
+        "country": "FR",
+        "phone": "+1.1207928620",
+        "email": "admin@internationaladmin.com"
+    },
+    "administrative": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "technical": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

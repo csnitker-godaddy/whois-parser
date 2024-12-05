@@ -1,0 +1,35 @@
+{
+    "domain": {
+        "id": "104_DOMAIN-BTI",
+        "domain": "nic.yun",
+        "punycode": "nic.yun",
+        "name": "nic",
+        "extension": "yun",
+        "whois_server": "whois.teleinfo.cn",
+        "status": [
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns.nic.yun",
+            "ns2.nic.yun"
+        ],
+        "dnssec": true,
+        "created_date": "2015-12-01T16:00:00Z",
+        "created_date_in_time": "2015-12-01T16:00:00Z",
+        "updated_date": "2015-09-18T02:27:57Z",
+        "updated_date_in_time": "2015-09-18T02:27:57Z",
+        "expiration_date": "2026-08-31T16:00:00Z",
+        "expiration_date_in_time": "2026-08-31T16:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Reserved for non-billable transactions where Registry Operator acts as Registrar",
+        "phone": "+86.4000305000",
+        "email": "abuse@teleinfo.cn",
+        "referral_url": "http://whois.teleinfo.cn"
+    },
+    "registrant": {
+        "country": "CN",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

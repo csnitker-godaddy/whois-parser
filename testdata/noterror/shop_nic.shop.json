@@ -1,0 +1,34 @@
+{
+    "domain": {
+        "id": "DO34743-GMO",
+        "domain": "nic.shop",
+        "punycode": "nic.shop",
+        "name": "nic",
+        "extension": "shop",
+        "whois_server": "whois.nic.shop",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2014-02-27T05:15:00.0Z",
+        "created_date_in_time": "2014-02-27T05:15:00Z",
+        "updated_date": "2024-02-28T00:16:51.0Z",
+        "updated_date_in_time": "2024-02-28T00:16:51Z",
+        "expiration_date": "2025-02-27T23:59:59.0Z",
+        "expiration_date_in_time": "2025-02-27T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "GMO Registry",
+        "phone": "+81.354561601",
+        "email": "abuse@gmoregistry.com",
+        "referral_url": "http://www.gmoregistry.com"
+    },
+    "registrant": {
+        "province": "Tokyo",
+        "country": "JP"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "domain": {
+        "id": "D61016909-CNIC",
+        "domain": "nic.deloitte",
+        "punycode": "nic.deloitte",
+        "name": "nic",
+        "extension": "deloitte",
+        "whois_server": "whois.nic.deloitte",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.deloitte",
+            "b.nic.deloitte",
+            "c.nic.deloitte",
+            "d.nic.deloitte"
+        ],
+        "dnssec": true,
+        "created_date": "2015-09-03T10:32:54.0Z",
+        "created_date_in_time": "2015-09-03T10:32:54Z",
+        "updated_date": "2023-08-31T16:51:02.0Z",
+        "updated_date_in_time": "2023-08-31T16:51:02Z",
+        "expiration_date": "2025-09-03T23:59:59.0Z",
+        "expiration_date_in_time": "2025-09-03T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Deloitte Touche",
+        "phone": "+1.3124861191",
+        "email": "dttdomainadmin@deloitte.com",
+        "referral_url": "https://www.nic.deloitte/"
+    },
+    "registrant": {
+        "name": "DTT Domain Administrator",
+        "organization": "Deloitte Touche Tohmatsu",
+        "street": "30 Rockefeller Plaza",
+        "city": "New York",
+        "province": "New York",
+        "postal_code": "10112-0015",
+        "country": "US",
+        "phone": "+1.2124924566",
+        "fax": "+1.2124924252",
+        "email": "dttdomainadmin@deloitte.com"
+    },
+    "administrative": {
+        "name": "DTT Domain Administrator",
+        "organization": "Deloitte Touche Tohmatsu",
+        "street": "30 Rockefeller Plaza",
+        "city": "New York",
+        "province": "New York",
+        "postal_code": "10112-0015",
+        "country": "US",
+        "phone": "+1.2124924566",
+        "fax": "+1.2124924252",
+        "email": "dttdomainadmin@deloitte.com"
+    },
+    "technical": {
+        "name": "DTT Domain Administrator",
+        "organization": "Deloitte Touche Tohmatsu",
+        "street": "30 Rockefeller Plaza",
+        "city": "New York",
+        "province": "New York",
+        "postal_code": "10112-0015",
+        "country": "US",
+        "phone": "+1.2124924566",
+        "fax": "+1.2124924252",
+        "email": "dttdomainadmin@deloitte.com"
+    }
+}

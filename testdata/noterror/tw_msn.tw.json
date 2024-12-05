@@ -4,8 +4,10 @@
         "punycode": "msn.tw",
         "name": "msn",
         "extension": "tw",
-        "created_date": "2005-10-27 (YYYY-MM-DD)",
-        "expiration_date": "2019-10-27 (YYYY-MM-DD)"
+        "created_date": "2005-10-27",
+        "created_date_in_time": "2005-10-27T00:00:00Z",
+        "expiration_date": "2019-10-27",
+        "expiration_date_in_time": "2019-10-27T00:00:00Z"
     },
     "registrar": {
         "name": "HINET",

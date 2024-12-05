@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "eef9aa5c1590481187731082ce988830-DONUTS",
+        "domain": "nic.post",
+        "punycode": "nic.post",
+        "name": "nic",
+        "extension": "post",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n0.nic.post",
+            "v0n1.nic.post",
+            "v0n2.nic.post",
+            "v0n3.nic.post",
+            "v2n0.nic.post",
+            "v2n1.nic.post"
+        ],
+        "dnssec": true,
+        "created_date": "2023-12-21T15:46:18Z",
+        "created_date_in_time": "2023-12-21T15:46:18Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2024-12-21T15:46:18Z",
+        "expiration_date_in_time": "2024-12-21T15:46:18Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "47fc6b0a6ce44e559ddec451ce500499-DONUTS",
+        "name": "Universal Postal Union",
+        "organization": "Universal Postal Union",
+        "street": "Weltpostrasse 4",
+        "city": "Bern",
+        "postal_code": "3000",
+        "country": "CH",
+        "phone": "+41.313503111",
+        "fax": "+41.313503110",
+        "email": "dotpost@upu.int"
+    },
+    "administrative": {
+        "id": "766187abece94aeb827b1a241521307c-DONUTS",
+        "name": "Paul Donohoe",
+        "organization": "Universal Postal Union",
+        "street": "Weltpostrasse 4",
+        "city": "Bern",
+        "postal_code": "3015",
+        "country": "CH",
+        "phone": "+41.313503111",
+        "fax": "+41.313503110",
+        "email": "dotpost@upu.int"
+    },
+    "technical": {
+        "id": "af6b85c1f2ab421db180e4ef910bd84a-DONUTS",
+        "name": "Ram Mohan",
+        "organization": "Afilias",
+        "street": "4th Floor, International House 3 Harbourmaster Place IFSC",
+        "city": "Dublin",
+        "postal_code": "D01 K8F1",
+        "country": "IE",
+        "phone": "+353.14310511",
+        "fax": "+353.14310557",
+        "email": "domainadmin@afilias.info"
+    }
+}

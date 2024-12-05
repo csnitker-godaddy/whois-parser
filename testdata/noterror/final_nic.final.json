@@ -1,0 +1,67 @@
+{
+    "domain": {
+        "id": "D129-FINAL",
+        "domain": "nic.final",
+        "punycode": "nic.final",
+        "name": "nic",
+        "extension": "final",
+        "whois_server": "whois.gtlds.nic.br",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns.dns.br",
+            "ns2.dns.br"
+        ],
+        "dnssec": true,
+        "created_date": "2015-09-10T19:53:22Z",
+        "created_date_in_time": "2015-09-10T19:53:22Z",
+        "updated_date": "2018-04-09T19:00:38Z",
+        "updated_date_in_time": "2018-04-09T19:00:38Z",
+        "expiration_date": "2025-09-10T19:53:21Z",
+        "expiration_date_in_time": "2025-09-10T19:53:21Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "NIC.br New gTLD Back-End Registry Services",
+        "phone": "+55.1155093511",
+        "email": "novossufixos@registro.br",
+        "referral_url": "http://gtlds.nic.br"
+    },
+    "registrant": {
+        "id": "C185R3-NICBR",
+        "name": "Nucleo de Informacao e Coordenacao do Ponto BR - NIC.BR",
+        "organization": "05.506.560/0001-36",
+        "street": "Av. das Nacoes Unidas 11541 7. andar",
+        "city": "Sao Paulo",
+        "province": "SP",
+        "postal_code": "04578-000",
+        "country": "BR",
+        "phone": "+55.1155093511",
+        "email": "gtlds-nic@registro.br"
+    },
+    "administrative": {
+        "id": "C185R3-NICBR",
+        "name": "Nucleo de Informacao e Coordenacao do Ponto BR - NIC.BR",
+        "organization": "05.506.560/0001-36",
+        "street": "Av. das Nacoes Unidas 11541 7. andar",
+        "city": "Sao Paulo",
+        "province": "SP",
+        "postal_code": "04578-000",
+        "country": "BR",
+        "phone": "+55.1155093511",
+        "email": "gtlds-nic@registro.br"
+    },
+    "technical": {
+        "id": "C185R3-NICBR",
+        "name": "Nucleo de Informacao e Coordenacao do Ponto BR - NIC.BR",
+        "organization": "05.506.560/0001-36",
+        "street": "Av. das Nacoes Unidas 11541 7. andar",
+        "city": "Sao Paulo",
+        "province": "SP",
+        "postal_code": "04578-000",
+        "country": "BR",
+        "phone": "+55.1155093511",
+        "email": "gtlds-nic@registro.br"
+    }
+}

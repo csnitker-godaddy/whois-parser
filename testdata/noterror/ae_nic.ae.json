@@ -1,0 +1,34 @@
+{
+    "domain": {
+        "domain": "nic.ae",
+        "punycode": "nic.ae",
+        "name": "nic",
+        "extension": "ae",
+        "status": [
+            "clientDeleteProhibited",
+            "clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.etisalatdomains.ae",
+            "ns4.etisalatdomains.ae",
+            "ns2.etisalatdomains.ae",
+            "ns3.etisalatdomains.ae"
+        ]
+    },
+    "registrar": {
+        "id": "Etisalat",
+        "name": "Etisalat"
+    },
+    "registrant": {
+        "id": "CX364448T",
+        "name": "Emirates Telecommunications Corporation - Etisalat",
+        "organization": "Emirates Telecommunications Corporation - Etisalat",
+        "email": "visit whois.aeda.net.ae for web based whois"
+    },
+    "technical": {
+        "id": "CX364450T",
+        "name": "Emirates Telecommunications Corporation - Etisalat",
+        "organization": "Emirates Telecommunications Corporation - Etisalat",
+        "email": "visit whois.aeda.net.ae for web based whois"
+    }
+}

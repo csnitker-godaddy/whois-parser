@@ -65,6 +65,8 @@ func Prepare(text, ext string) (string, bool) { //nolint:cyclop
 		return prepareKR(text), true
 	case "nz":
 		return prepareNZ(text), true
+	case "tn":
+		return prepareTN(text), true
 	case "tk":
 		return prepareTK(text), true
 	case "nl":
@@ -330,6 +332,10 @@ func prepareKZ(text string) string {
 
 		v = fmt.Sprintf("%s: %s", key, value)
 
+		if strings.Contains(v, "(GMT") {
+			v = strings.SplitAfter(v, "(GMT")[0] + ")"
+		}
+
 		result += "\n" + v
 	}
 
@@ -493,6 +499,7 @@ func prepareTW(text string) string { //nolint:cyclop
 		for _, s := range []string{"Record created on", "Record expires on"} {
 			if strings.HasPrefix(v, s) {
 				v = strings.Replace(v, s, s+":", 1)
+				v = strings.Replace(v, " (YYYY-MM-DD)", "", 1)
 			}
 		}
 		if strings.Contains(v, ":") {
@@ -1058,6 +1065,10 @@ func prepareBR(text string) string {
 			if strings.TrimSpace(vs[0]) == "owner" {
 				v = fmt.Sprintf("registrant organization: %s", vs[1])
 			}
+			if strings.TrimSpace(vs[0]) == "created" {
+				values := strings.Split(strings.TrimSpace(vs[1]), " ")
+				v = fmt.Sprintf("created: %s", values[0])
+			}
 			if vv, ok := tokens[strings.TrimSpace(vs[0])]; ok {
 				for _, tt := range strings.Split(hdlMap[strings.TrimSpace(vs[1])], "\n") {
 					if strings.TrimSpace(tt) == "" {
@@ -1404,6 +1415,19 @@ func prepareUA(text string) string {
 	}
 
 	return result
+}
+
+// Regular expression to match "GMT+N" or "GMT-N"
+var tnDateFormatRegex = regexp.MustCompile(`GMT([+-]\d{1,2})`)
+
+func prepareTN(text string) string {
+	// Replace the matched offset with a Go-compatible format
+	processedInput := tnDateFormatRegex.ReplaceAllStringFunc(text, func(match string) string {
+		offset := match[3:] // Extract "+1" or "-3", etc.
+		return offset + ":00"
+	})
+
+	return processedInput
 }
 
 // prepareAT prepares the .at domain

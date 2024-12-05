@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "6c3ff2ecdec04eeb8f596744f26dc6f9-DONUTS",
+        "domain": "nic.gallo",
+        "punycode": "nic.gallo",
+        "name": "nic",
+        "extension": "gallo",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "b0.nic.gallo",
+            "c0.nic.gallo",
+            "a0.nic.gallo",
+            "a2.nic.gallo"
+        ],
+        "dnssec": true,
+        "created_date": "2015-08-25T22:47:44Z",
+        "created_date_in_time": "2015-08-25T22:47:44Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-08-25T22:47:44Z",
+        "expiration_date_in_time": "2025-08-25T22:47:44Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "75d9b2e1055f491f8bf6c7d716353a0f-DONUTS",
+        "name": "Principal IT Architect",
+        "organization": "Gallo Vineyards, Inc.",
+        "street": "600 Yosemite Blvd.",
+        "city": "Modesto",
+        "province": "CA",
+        "postal_code": "95354",
+        "country": "US",
+        "phone": "+1.2093416349",
+        "fax": "+1.2095738520",
+        "email": "ngtld-gallo@cscinfo.com"
+    },
+    "administrative": {
+        "id": "75d9b2e1055f491f8bf6c7d716353a0f-DONUTS",
+        "name": "Principal IT Architect",
+        "organization": "Gallo Vineyards, Inc.",
+        "street": "600 Yosemite Blvd.",
+        "city": "Modesto",
+        "province": "CA",
+        "postal_code": "95354",
+        "country": "US",
+        "phone": "+1.2093416349",
+        "fax": "+1.2095738520",
+        "email": "ngtld-gallo@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

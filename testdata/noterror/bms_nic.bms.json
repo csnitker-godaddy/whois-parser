@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "75de375e6ac44584b6191f379825d704-DONUTS",
+        "domain": "nic.bms",
+        "punycode": "nic.bms",
+        "name": "nic",
+        "extension": "bms",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.bms",
+            "a2.nic.bms",
+            "b0.nic.bms",
+            "c0.nic.bms"
+        ],
+        "created_date": "2015-07-14T21:13:24Z",
+        "created_date_in_time": "2015-07-14T21:13:24Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-07-14T21:13:24Z",
+        "expiration_date_in_time": "2025-07-14T21:13:24Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "46a073cf64784455a21a082ac3785721-DONUTS",
+        "name": "Sr. Advisor, Asset Management",
+        "organization": "Bristol-Myers Squibb Company",
+        "street": "345 Park Avenue",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10154",
+        "country": "US",
+        "phone": "+1.6098183151",
+        "fax": "+1.6098184219",
+        "email": "ngtld-bms@cscinfo.com"
+    },
+    "administrative": {
+        "id": "46a073cf64784455a21a082ac3785721-DONUTS",
+        "name": "Sr. Advisor, Asset Management",
+        "organization": "Bristol-Myers Squibb Company",
+        "street": "345 Park Avenue",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10154",
+        "country": "US",
+        "phone": "+1.6098183151",
+        "fax": "+1.6098184219",
+        "email": "ngtld-bms@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

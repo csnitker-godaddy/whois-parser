@@ -1,0 +1,80 @@
+{
+    "domain": {
+        "id": "24012-VI",
+        "domain": "nic.vi",
+        "punycode": "nic.vi",
+        "name": "nic",
+        "extension": "vi",
+        "status": [
+            "clientDeleteProhibited",
+            "clientRenewProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "pch.nic.vi",
+            "ns3.nic.vi"
+        ],
+        "created_date": "1998-04-26T04:00:00.0Z",
+        "created_date_in_time": "1998-04-26T04:00:00Z",
+        "updated_date": "2024-02-17T12:40:03.891Z",
+        "updated_date_in_time": "2024-02-17T12:40:03.891Z",
+        "expiration_date": "2113-04-26T04:00:00.0Z",
+        "expiration_date_in_time": "2113-04-26T04:00:00Z"
+    },
+    "registrar": {
+        "name": "Nic VI"
+    },
+    "registrant": {
+        "id": "mK8Za-23ZxR",
+        "name": "Peter de Blanc",
+        "organization": "COBEX International, Inc.",
+        "street": "PO Box 1678",
+        "city": "St. Thomas",
+        "postal_code": "00804",
+        "country": "VI",
+        "phone": "+1.3407764800",
+        "fax": "+1.3407762666",
+        "email": "pdeblancatusvi.net"
+    },
+    "administrative": {
+        "id": "dio7I-WRHDv",
+        "name": "Peter de Blanc",
+        "organization": "COBEX International, Inc.",
+        "street": "PO Box 1678",
+        "city": "St. Thomas",
+        "postal_code": "00804",
+        "country": "VI",
+        "phone": "+1.3407764800",
+        "fax": "+1.3407762666",
+        "email": "pdeblancatusvi.net"
+    },
+    "technical": {
+        "id": "RxDN3-HdEtx",
+        "name": "Peter de Blanc",
+        "organization": "COBEX International, Inc.",
+        "street": "PO Box 1678",
+        "city": "St. Thomas",
+        "postal_code": "00804",
+        "country": "VI",
+        "phone": "+34.07764800",
+        "fax": "+34.07762666",
+        "email": "dnsadminatnic.vi"
+    },
+    "billing": {
+        "id": "7CsnF-Ahz3y",
+        "name": "COBEX International, Inc.",
+        "organization": "COBEX International, Inc.",
+        "street": "PO Box 1678",
+        "city": "St. Thomas",
+        "postal_code": "00804",
+        "country": "VI",
+        "phone": "+34.07764800",
+        "fax": "+34.07762666",
+        "email": "pdeblancatusvi.net"
+    }
+}

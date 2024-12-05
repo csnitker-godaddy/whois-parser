@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "e50cbd19b9394f43b47980182dce795a-DONUTS",
+        "domain": "nic.abb",
+        "punycode": "nic.abb",
+        "name": "nic",
+        "extension": "abb",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "b0.nic.abb",
+            "c0.nic.abb",
+            "a2.nic.abb",
+            "a0.nic.abb"
+        ],
+        "created_date": "2015-03-02T23:28:51Z",
+        "created_date_in_time": "2015-03-02T23:28:51Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-03-02T23:28:51Z",
+        "expiration_date_in_time": "2025-03-02T23:28:51Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "7e9938f4495f4ac1bbcc9a9543275872-DONUTS",
+        "name": "Domain Administration",
+        "organization": "ABB Schweiz AG",
+        "street": "Brown Boveri Strasse 6",
+        "city": "Baden",
+        "postal_code": "CH-5400",
+        "country": "CH",
+        "phone": "+41.585855634",
+        "fax": "+41.585857655",
+        "email": "ngtld-abb@cscinfo.com"
+    },
+    "administrative": {
+        "id": "7e9938f4495f4ac1bbcc9a9543275872-DONUTS",
+        "name": "Domain Administration",
+        "organization": "ABB Schweiz AG",
+        "street": "Brown Boveri Strasse 6",
+        "city": "Baden",
+        "postal_code": "CH-5400",
+        "country": "CH",
+        "phone": "+41.585855634",
+        "fax": "+41.585857655",
+        "email": "ngtld-abb@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

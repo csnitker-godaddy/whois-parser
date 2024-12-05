@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "11f6508e45c64a77851aa58e971146cb-DONUTS",
+        "domain": "nic.obi",
+        "punycode": "nic.obi",
+        "name": "nic",
+        "extension": "obi",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "autoRenewPeriod"
+        ],
+        "name_servers": [
+            "a0.nic.obi",
+            "c0.nic.obi",
+            "b0.nic.obi",
+            "a2.nic.obi"
+        ],
+        "dnssec": true,
+        "created_date": "2014-11-03T19:29:47Z",
+        "created_date_in_time": "2014-11-03T19:29:47Z",
+        "updated_date": "2024-11-03T19:30:00Z",
+        "updated_date_in_time": "2024-11-03T19:30:00Z",
+        "expiration_date": "2025-11-03T19:29:47Z",
+        "expiration_date_in_time": "2025-11-03T19:29:47Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "659aa01ac2f94907bd3fdc5aba6ec836-DONUTS",
+        "name": "Registry Operator",
+        "organization": "OBI Group Holding SE & Co. KGaA",
+        "street": "Albert-Einstein-Strasse 7-9",
+        "city": "Wermelskirchen",
+        "province": "Wermelskirchen",
+        "postal_code": "42949",
+        "country": "DE",
+        "phone": "+49.21967601",
+        "fax": "+49.2196761019",
+        "email": "gtld@obi.de"
+    },
+    "administrative": {
+        "id": "659aa01ac2f94907bd3fdc5aba6ec836-DONUTS",
+        "name": "Registry Operator",
+        "organization": "OBI Group Holding SE & Co. KGaA",
+        "street": "Albert-Einstein-Strasse 7-9",
+        "city": "Wermelskirchen",
+        "province": "Wermelskirchen",
+        "postal_code": "42949",
+        "country": "DE",
+        "phone": "+49.21967601",
+        "fax": "+49.2196761019",
+        "email": "gtld@obi.de"
+    },
+    "technical": {
+        "id": "659aa01ac2f94907bd3fdc5aba6ec836-DONUTS",
+        "name": "Registry Operator",
+        "organization": "OBI Group Holding SE & Co. KGaA",
+        "street": "Albert-Einstein-Strasse 7-9",
+        "city": "Wermelskirchen",
+        "province": "Wermelskirchen",
+        "postal_code": "42949",
+        "country": "DE",
+        "phone": "+49.21967601",
+        "fax": "+49.2196761019",
+        "email": "gtld@obi.de"
+    }
+}

@@ -15,8 +15,10 @@
             "ns3.google.com",
             "ns4.google.com"
         ],
-        "created_date": "2005-10-27 (YYYY-MM-DD)",
-        "expiration_date": "2020-10-31 (YYYY-MM-DD)"
+        "created_date": "2005-10-27",
+        "created_date_in_time": "2005-10-27T00:00:00Z",
+        "expiration_date": "2020-10-31",
+        "expiration_date_in_time": "2020-10-31T00:00:00Z"
     },
     "registrar": {
         "name": "Markmonitor, Inc.",

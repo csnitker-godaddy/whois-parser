@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "D412H-OMESENSE",
+        "domain": "nic.homesense",
+        "punycode": "nic.homesense",
+        "name": "nic",
+        "extension": "homesense",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.homesense",
+            "ns2.dns.nic.homesense",
+            "ns3.dns.nic.homesense",
+            "ns4.dns.nic.homesense",
+            "ns5.dns.nic.homesense",
+            "ns6.dns.nic.homesense"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T22:09:07Z",
+        "created_date_in_time": "2013-08-09T22:09:07Z",
+        "updated_date": "2024-10-09T17:05:59Z",
+        "updated_date_in_time": "2024-10-09T17:05:59Z",
+        "expiration_date": "2025-08-08T23:59:59Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "The TJX Companies, Inc."
+    },
+    "registrant": {
+        "id": "C1784-OMESENSE",
+        "name": "The TJX Companies, Inc.",
+        "street": "770 Cochituate Road",
+        "city": "Framingham",
+        "province": "MA",
+        "postal_code": "01701",
+        "country": "US",
+        "phone": "+1.5083901000",
+        "fax": "+1.5083905022",
+        "email": "tjxregistries@fairwindspartners.com"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

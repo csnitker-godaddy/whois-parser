@@ -1,0 +1,31 @@
+{
+    "domain": {
+        "domain": "nic.ru",
+        "punycode": "nic.ru",
+        "name": "nic",
+        "extension": "ru",
+        "status": [
+            "REGISTERED",
+            "DELEGATED",
+            "VERIFIED"
+        ],
+        "name_servers": [
+            "ns5.nic.ru",
+            "ns6.nic.ru",
+            "ns9.nic.ru"
+        ],
+        "created_date": "1997-11-28T06:15:56Z",
+        "created_date_in_time": "1997-11-28T06:15:56Z",
+        "expiration_date": "2025-11-30T21:00:00Z",
+        "expiration_date_in_time": "2025-11-30T21:00:00Z"
+    },
+    "registrar": {
+        "name": "RU-CENTER-RU"
+    },
+    "registrant": {
+        "organization": "JSC 'RU-CENTER'"
+    },
+    "administrative": {
+        "name": "https://www.nic.ru/whois"
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "domain": {
+        "id": "D9-ALSTOM",
+        "domain": "nic.alstom",
+        "punycode": "nic.alstom",
+        "name": "nic",
+        "extension": "alstom",
+        "whois_server": "whois.nic.alstom",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2015-08-20T12:21:53.955Z",
+        "created_date_in_time": "2015-08-20T12:21:53.955Z",
+        "updated_date": "2024-10-04T13:01:10.608Z",
+        "updated_date_in_time": "2024-10-04T13:01:10.608Z",
+        "expiration_date": "2025-08-20T12:21:53.955Z",
+        "expiration_date_in_time": "2025-08-20T12:21:53.955Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": ".alstom Internal Registrar",
+        "phone": "+33.141493686",
+        "email": "sophie.coignet-registrar@chq.alstom.com",
+        "referral_url": "http://www.alstom.com"
+    },
+    "registrant": {
+        "province": "Hauts-de-Seine",
+        "country": "FR",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

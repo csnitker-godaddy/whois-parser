@@ -1,0 +1,85 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+domain:                        nic.yt
+status:                        ACTIVE
+eppstatus:                     serverTransferProhibited
+eppstatus:                     serverDeleteProhibited
+hold:                          NO
+holder-c:                      NF100-FRNIC
+admin-c:                       NF100-FRNIC
+tech-c:                        VL-FRNIC
+registrar:                     Registry Operations
+Expiry Date:                   2029-12-31T23:00:00Z
+created:                       1995-01-01T00:00:00Z
+last-update:                   2024-09-10T13:56:52.574665Z
+source:                        FRNIC
+nserver:                       ns4.nic.fr
+nserver:                       ns6.ext.nic.fr
+nserver:                       ns7.ext.nic.fr
+source:                        FRNIC
+key1-tag:                      32674
+key1-algo:                     13 [ECDSAP256SHA256]
+key1-dgst-t:                   2 [SHA256]
+key1-dgst:                     F47F58841B82B00298F891DFC844FACE559AF1F406C781017676E4E76B58E95C
+source:                        FRNIC
+registrar name: Registry Operations
+registrar address:                       AFNIC
+registrar address:                       immeuble le Stephenson
+registrar address:                       1, rue Stephenson
+registrar address:                       78180 Montigny-Le-Bretonneux
+registrar country:                       FR
+registrar phone:                         +33.139308300
+registrar fax-no:                        +33.139308301
+registrar e-mail:                        support@afnic.fr
+registrar website:                       https://www.afnic.fr
+registrar anonymous:                     No
+registrar registered:                    2014-07-29T15:35:33Z
+registrar source:                        FRNIC
+tech nic-hdl:                       VL-FRNIC
+tech type:                          PERSON
+tech contact:                       Vincent Levigneron
+tech address:                       AFNIC
+tech address:                       7, avenue du 8 mai 1945
+tech address:                       78280 Guyancourt
+tech country:                       FR
+tech phone:                         +33.139308300
+tech fax-no:                        +33.139308301
+tech e-mail:                        vincent.levigneron@afnic.fr
+tech registrar:                     Registry Operations
+tech changed:                       2024-03-11T13:50:41.2803Z
+tech anonymous:                     NO
+tech obsoleted:                     NO
+tech eppstatus:                     associated
+tech eppstatus:                     active
+tech eligstatus:                    not identified
+tech reachstatus:                   not identified
+tech source:                        FRNIC
+admin nic-hdl:                       NF100-FRNIC
+admin type:                          ORGANIZATION
+admin contact:                       Nic yt
+admin address:                       Afnic Backend Registry Operator
+admin address:                       immeuble le Stephenson
+admin address:                       1, rue Stephenson
+admin address:                       78180 Montigny le Bretonneux
+admin country:                       FR
+admin phone:                         +33.139308300
+admin fax-no:                        +33.139308301
+admin e-mail:                        support+fr@nic.fr
+admin registrar:                     Registry Operations
+admin anonymous:                     NO
+admin obsoleted:                     NO
+admin eppstatus:                     associated
+admin eppstatus:                     active
+admin eligstatus:                    ok
+admin eligdate:                      2014-12-11T00:00:00Z
+admin reachstatus:                   ok
+admin reachmedia:                    email
+admin source:                        FRNIC
+admin >>> Last update of WHOIS database: 2024-12-04T22:13:43.479718Z <<<

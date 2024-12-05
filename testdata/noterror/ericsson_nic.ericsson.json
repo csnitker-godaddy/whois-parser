@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "6a9b9342845547fcb709c03595c0f569-DONUTS",
+        "domain": "nic.ericsson",
+        "punycode": "nic.ericsson",
+        "name": "nic",
+        "extension": "ericsson",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.ericsson",
+            "c0.nic.ericsson",
+            "b0.nic.ericsson",
+            "a2.nic.ericsson"
+        ],
+        "dnssec": true,
+        "created_date": "2016-02-01T21:47:28Z",
+        "created_date_in_time": "2016-02-01T21:47:28Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2026-02-01T21:47:28Z",
+        "expiration_date_in_time": "2026-02-01T21:47:28Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "576d9655c81b4a2aba73da26cdfdf317-DONUTS",
+        "name": "Senior Group Legal Counsel",
+        "organization": "Telefonaktiebolaget L M Ericsson",
+        "street": "Torshamnsgatan 23",
+        "city": "Stockholm",
+        "province": "CA",
+        "postal_code": "SE-164 83",
+        "country": "SE",
+        "phone": "+46.107190000",
+        "fax": "+46.107193091",
+        "email": "ngtld-ericsson@cscinfo.com"
+    },
+    "administrative": {
+        "id": "576d9655c81b4a2aba73da26cdfdf317-DONUTS",
+        "name": "Senior Group Legal Counsel",
+        "organization": "Telefonaktiebolaget L M Ericsson",
+        "street": "Torshamnsgatan 23",
+        "city": "Stockholm",
+        "province": "CA",
+        "postal_code": "SE-164 83",
+        "country": "SE",
+        "phone": "+46.107190000",
+        "fax": "+46.107193091",
+        "email": "ngtld-ericsson@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "domain": {
+        "id": "77001-CoCCA",
+        "domain": "nic.mu",
+        "punycode": "nic.mu",
+        "name": "nic",
+        "extension": "mu",
+        "whois_server": "whois.nic.mu",
+        "status": [
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "clientDeleteProhibited",
+            "serverRenewProhibited",
+            "clientRenewProhibited",
+            "serverUpdateProhibited",
+            "clientUpdateProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns1.nic.mu",
+            "ns2.nic.mu",
+            "ns3.nic.mu",
+            "ns4.nic.mu",
+            "ns1.tld.mu"
+        ],
+        "created_date": "1999-12-30T13:00:00.0Z",
+        "created_date_in_time": "1999-12-30T13:00:00Z",
+        "updated_date": "2019-09-10T05:08:00.249Z",
+        "updated_date_in_time": "2019-09-10T05:08:00.249Z",
+        "expiration_date": "2040-12-30T20:00:00.0Z",
+        "expiration_date_in_time": "2040-12-30T20:00:00Z"
+    },
+    "registrar": {
+        "name": "Mauritius Domains"
+    }
+}

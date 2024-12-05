@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "e01b54d83c5a45dd96ec2da893c1d1be-DONUTS",
+        "domain": "nic.viking",
+        "punycode": "nic.viking",
+        "name": "nic",
+        "extension": "viking",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.viking",
+            "b0.nic.viking",
+            "c0.nic.viking",
+            "a2.nic.viking"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-23T01:50:39Z",
+        "created_date_in_time": "2016-01-23T01:50:39Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-23T01:50:39Z",
+        "expiration_date_in_time": "2025-01-23T01:50:39Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "ff2c4d6f64174dfab797fe58a4d66f2b-DONUTS",
+        "name": "SVP of Marketing",
+        "organization": "Viking River Cruises (Bermuda) Ltd.",
+        "street": "5700 Canoga Avenue Suite 200",
+        "city": "Woodland Hills",
+        "province": "CA",
+        "postal_code": "91367",
+        "country": "US",
+        "phone": "+1.8182271234",
+        "fax": "+1.8185948446",
+        "email": "ngtld-viking@cscglobal.com"
+    },
+    "administrative": {
+        "id": "afa85b995ac84e5ea9eebb874eee2d83-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Viking River Cruises (Bermuda) Ltd.",
+        "street": "5700 Canoga Avenue Suite 200",
+        "city": "Woodland Hills",
+        "province": "CA",
+        "postal_code": "91367",
+        "country": "US",
+        "phone": "+1.8182271234",
+        "fax": "+1.8185948446",
+        "email": "ngtld-viking@cscglobal.com"
+    },
+    "technical": {
+        "id": "afa85b995ac84e5ea9eebb874eee2d83-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Viking River Cruises (Bermuda) Ltd.",
+        "street": "5700 Canoga Avenue Suite 200",
+        "city": "Woodland Hills",
+        "province": "CA",
+        "postal_code": "91367",
+        "country": "US",
+        "phone": "+1.8182271234",
+        "fax": "+1.8185948446",
+        "email": "ngtld-viking@cscglobal.com"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "domain": {
+        "id": "4297-gh",
+        "domain": "nic.gh",
+        "punycode": "nic.gh",
+        "name": "nic",
+        "extension": "gh",
+        "whois_server": "https://whois.nic.gh",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns2.cp-49.webhostbox.net",
+            "ns1.cp-49.webhostbox.net"
+        ],
+        "created_date": "2005-12-20T00:00:00.000Z",
+        "created_date_in_time": "2005-12-20T00:00:00Z",
+        "updated_date": "2023-02-27T19:16:05.353Z",
+        "updated_date_in_time": "2023-02-27T19:16:05.353Z",
+        "expiration_date": "2038-12-31T00:00:00.000Z",
+        "expiration_date_in_time": "2038-12-31T00:00:00Z"
+    },
+    "registrar": {
+        "id": "1499",
+        "name": "Ghana Dot Com",
+        "country": "GH"
+    },
+    "registrant": {
+        "name": "THE MANAGER",
+        "organization": "NETWORK COMPUTER SYSTEMS",
+        "street": "16 BOUNDARY ROAD, EAST LEGON",
+        "city": "ACCRA",
+        "province": "GREATER ACCRA",
+        "postal_code": "BOX 358,CANTONMENT",
+        "country": "GH",
+        "fax": "+233.302521696"
+    },
+    "administrative": {
+        "name": "THE MANAGER",
+        "organization": "NETWORK COMPUTER SYSTEMS",
+        "street": "16 BOUNDARY ROAD, EAST LEGON",
+        "city": "ACCRA",
+        "province": "GREATER ACCRA",
+        "postal_code": "BOX 358,CANTONMENT",
+        "country": "GH",
+        "fax": "+233.302521696"
+    },
+    "technical": {
+        "name": "THE MANAGER",
+        "organization": "NETWORK COMPUTER SYSTEMS",
+        "street": "16 BOUNDARY ROAD, EAST LEGON",
+        "city": "EAST LEGON",
+        "province": "GREATER ACCRA",
+        "postal_code": "BOX 358,CANTONMENT",
+        "country": "GH",
+        "fax": "+233.302521696"
+    },
+    "billing": {
+        "name": "THE MANAGER",
+        "organization": "NETWORK COMPUTER SYSTEMS",
+        "street": "16 BOUNDARY ROAD, EAST LEGON",
+        "city": "ACCRA",
+        "province": "GREATER ACCRA",
+        "postal_code": "BOX 358,CANTONMENT",
+        "country": "GH",
+        "fax": "+233.302521696"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "domain": {
+        "id": "D1-SWISS",
+        "domain": "nic.swiss",
+        "punycode": "nic.swiss",
+        "name": "nic",
+        "extension": "swiss",
+        "whois_server": "whois.nic.swiss",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2015-01-09T16:22:00.376Z",
+        "created_date_in_time": "2015-01-09T16:22:00.376Z",
+        "updated_date": "2024-08-21T11:31:57.866Z",
+        "updated_date_in_time": "2024-08-21T11:31:57.866Z",
+        "expiration_date": "2025-01-09T16:22:00.376Z",
+        "expiration_date_in_time": "2025-01-09T16:22:00.376Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": ".swiss internal registrar",
+        "phone": "+41.584618949",
+        "email": "domainnames@bakom.admin.ch",
+        "referral_url": "http://www.nic.swiss"
+    },
+    "registrant": {
+        "organization": "Bundesamt fuer Kommunikation (BAKOM)",
+        "province": "BE",
+        "country": "CH",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

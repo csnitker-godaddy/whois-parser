@@ -1,0 +1,27 @@
+{
+    "domain": {
+        "id": "5145-NICMZ",
+        "domain": "nic.mz",
+        "punycode": "nic.mz",
+        "name": "nic",
+        "extension": "mz",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns1.ciuem.mz",
+            "ns2.ciuem.mz"
+        ],
+        "created_date": "2014-08-19T22:00:00Z",
+        "created_date_in_time": "2014-08-19T22:00:00Z",
+        "updated_date": "2020-08-25T09:07:44Z",
+        "updated_date_in_time": "2020-08-25T09:07:44Z",
+        "expiration_date": "2030-02-28T00:00:00Z",
+        "expiration_date_in_time": "2030-02-28T00:00:00Z"
+    },
+    "registrar": {
+        "name": "CIUEM Registrar",
+        "country": "MZ",
+        "email": "antonio@uem.mz"
+    }
+}

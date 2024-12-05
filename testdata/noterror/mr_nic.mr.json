@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "13NIC-Mauritanie",
+        "domain": "nic.mr",
+        "punycode": "nic.mr",
+        "name": "nic",
+        "extension": "mr",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns1.nic.mr",
+            "ns2.nic.mr"
+        ],
+        "dnssec": true,
+        "created_date": "2017-08-10T00:00:00Z",
+        "created_date_in_time": "2017-08-10T00:00:00Z",
+        "updated_date": "2024-11-27T15:57:46Z",
+        "updated_date_in_time": "2024-11-27T15:57:46Z",
+        "expiration_date": "2031-12-31T00:00:00Z",
+        "expiration_date_in_time": "2031-12-31T00:00:00Z"
+    },
+    "registrar": {
+        "name": "NIC-Mauritanie",
+        "email": "ahdsalem@nic.mr"
+    },
+    "registrant": {
+        "id": "26215NIC_mr",
+        "name": "NIC-Mauritanie",
+        "organization": "NIC-Mauritanie",
+        "street": "Avenue du Roi Faissal Ben Abdel Aziz",
+        "city": "Nouakchott",
+        "postal_code": "BP 4045",
+        "country": "MR",
+        "phone": "+0 45254555",
+        "email": "registry@nic.mr"
+    },
+    "administrative": {
+        "id": "26215NIC_mr",
+        "name": "NIC-Mauritanie",
+        "organization": "NIC-Mauritanie",
+        "street": "Avenue du Roi Faissal Ben Abdel Aziz",
+        "city": "Nouakchott",
+        "postal_code": "BP 4045",
+        "country": "MR",
+        "phone": "+0 45254555",
+        "email": "registry@nic.mr"
+    },
+    "technical": {
+        "id": "26215NIC_mr",
+        "name": "NIC-Mauritanie",
+        "organization": "NIC-Mauritanie",
+        "street": "Avenue du Roi Faissal Ben Abdel Aziz",
+        "city": "Nouakchott",
+        "postal_code": "BP 4045",
+        "country": "MR",
+        "phone": "+0 45254555",
+        "email": "registry@nic.mr"
+    },
+    "billing": {
+        "id": "26215NIC_mr",
+        "name": "NIC-Mauritanie",
+        "organization": "NIC-Mauritanie",
+        "street": "Avenue du Roi Faissal Ben Abdel Aziz",
+        "city": "Nouakchott",
+        "postal_code": "BP 4045",
+        "country": "MR",
+        "phone": "+0 45254555",
+        "email": "registry@nic.mr"
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "3bd81d396562491b9d96d7e1622dfe27-DONUTS",
+        "domain": "nic.rwe",
+        "punycode": "nic.rwe",
+        "name": "nic",
+        "extension": "rwe",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v2n1.nic.rwe",
+            "v0n0.nic.rwe",
+            "v0n3.nic.rwe",
+            "v0n1.nic.rwe",
+            "v2n0.nic.rwe",
+            "v0n2.nic.rwe"
+        ],
+        "created_date": "2015-08-10T21:39:04Z",
+        "created_date_in_time": "2015-08-10T21:39:04Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-08-10T21:39:04Z",
+        "expiration_date_in_time": "2025-08-10T21:39:04Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "2a435ff5145640018a97dc2c92e20cb5-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "RWE AG",
+        "street": "Opernplatz 1",
+        "city": "Essen",
+        "postal_code": "45128",
+        "country": "DE",
+        "phone": "+49.2011215788",
+        "email": "admin@internationaladmin.com"
+    },
+    "administrative": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "technical": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

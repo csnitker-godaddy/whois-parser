@@ -1,0 +1,77 @@
+{
+    "domain": {
+        "id": "NIC-LOCUS",
+        "domain": "nic.locus",
+        "punycode": "nic.locus",
+        "name": "nic",
+        "extension": "locus",
+        "whois_server": "whois.nic.locus",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dnsa.nic.locus",
+            "dnsb.nic.locus",
+            "dnsc.nic.locus",
+            "dnsd.nic.locus",
+            "dns1.nic.locus",
+            "dns2.nic.locus",
+            "dns3.nic.locus",
+            "dns4.nic.locus"
+        ],
+        "dnssec": true,
+        "created_date": "2016-03-02T11:32:19Z",
+        "created_date_in_time": "2016-03-02T11:32:19Z",
+        "updated_date": "2022-01-31T14:47:55Z",
+        "updated_date_in_time": "2022-01-31T14:47:55Z",
+        "expiration_date": "2031-03-02T11:32:19Z",
+        "expiration_date_in_time": "2031-03-02T11:32:19Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "locus Internal Registrar",
+        "email": "abuse@nominet.uk",
+        "referral_url": "http://www.nic.locus"
+    },
+    "registrant": {
+        "id": "NOMI_CONTACT-LOCUS",
+        "name": "Sean Sandys",
+        "organization": "Locus Analytics LLC",
+        "street": "101 Elliot Avenue West, Suite 400",
+        "city": "Seattle",
+        "province": "Washington",
+        "postal_code": "98119",
+        "country": "US",
+        "phone": "+1.2069106225",
+        "fax": "+1.2128832299",
+        "email": "sean@tyemill.com"
+    },
+    "administrative": {
+        "id": "NOMI_CONTACT-LOCUS",
+        "name": "Sean Sandys",
+        "organization": "Locus Analytics LLC",
+        "street": "101 Elliot Avenue West, Suite 400",
+        "city": "Seattle",
+        "province": "Washington",
+        "postal_code": "98119",
+        "country": "US",
+        "phone": "+1.2069106225",
+        "fax": "+1.2128832299",
+        "email": "sean@tyemill.com"
+    },
+    "technical": {
+        "id": "NOMI_CONTACT-LOCUS",
+        "name": "Sean Sandys",
+        "organization": "Locus Analytics LLC",
+        "street": "101 Elliot Avenue West, Suite 400",
+        "city": "Seattle",
+        "province": "Washington",
+        "postal_code": "98119",
+        "country": "US",
+        "phone": "+1.2069106225",
+        "fax": "+1.2128832299",
+        "email": "sean@tyemill.com"
+    }
+}

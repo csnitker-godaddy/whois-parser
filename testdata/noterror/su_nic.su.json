@@ -1,0 +1,28 @@
+{
+    "domain": {
+        "domain": "nic.su",
+        "punycode": "nic.su",
+        "name": "nic",
+        "extension": "su",
+        "status": [
+            "REGISTERED",
+            "DELEGATED"
+        ],
+        "name_servers": [
+            "ns3-fwl2.nic.ru",
+            "ns4-fwl2.nic.ru",
+            "ns8-fwl2.nic.ru"
+        ],
+        "created_date": "2001-09-29T20:00:00Z",
+        "created_date_in_time": "2001-09-29T20:00:00Z",
+        "expiration_date": "2025-09-30T21:00:00Z",
+        "expiration_date_in_time": "2025-09-30T21:00:00Z"
+    },
+    "registrar": {
+        "name": "RUCENTER-SU"
+    },
+    "registrant": {
+        "organization": "JSC Regional Network Information Center",
+        "email": "ru-ncc@nic.ru"
+    }
+}

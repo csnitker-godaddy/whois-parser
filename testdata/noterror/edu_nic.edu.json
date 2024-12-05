@@ -1,0 +1,36 @@
+{
+    "domain": {
+        "domain": "nic.edu",
+        "punycode": "nic.edu",
+        "name": "nic",
+        "extension": "edu",
+        "name_servers": [
+            "nicns1.nic.edu",
+            "nicns2.nic.edu"
+        ],
+        "created_date": "20-Dec-1996",
+        "created_date_in_time": "1996-12-20T00:00:00Z",
+        "updated_date": "18-Jul-2024",
+        "updated_date_in_time": "2024-07-18T00:00:00Z",
+        "expiration_date": "31-Jul-2025",
+        "expiration_date_in_time": "2025-07-31T00:00:00Z"
+    },
+    "registrant": {
+        "organization": "North Idaho College",
+        "street": "1000 W. Garden Avenue, Coeur d'Alene, ID 83814, USA"
+    },
+    "administrative": {
+        "name": "NetAdmin Admin",
+        "organization": "North Idaho College",
+        "street": "1000 W. Garden Avenue, Coeur d Alene, ID 83814, USA",
+        "phone": "+1.2087693230",
+        "email": "netsys@nic.edu"
+    },
+    "technical": {
+        "name": "Network Systems",
+        "organization": "North Idaho College",
+        "street": "1000 W. Garden Avenue, Coeur d Alene, ID 83814, USA",
+        "phone": "+1.2087693231",
+        "email": "netsys@nic.edu"
+    }
+}

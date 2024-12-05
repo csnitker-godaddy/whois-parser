@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "55d38fe9489d439383d89d1d145906a3-DONUTS",
+        "domain": "nic.nab",
+        "punycode": "nic.nab",
+        "name": "nic",
+        "extension": "nab",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.nab",
+            "a2.nic.nab",
+            "b0.nic.nab",
+            "c0.nic.nab"
+        ],
+        "created_date": "2016-05-31T17:02:01Z",
+        "created_date_in_time": "2016-05-31T17:02:01Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2026-05-31T17:02:01Z",
+        "expiration_date_in_time": "2026-05-31T17:02:01Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "f5a897101df440e1aa74e2231d91fcfe-DONUTS",
+        "name": "Manager, Technical Services – Digital & Online Channel Service",
+        "organization": "National Australia Bank Limited",
+        "street": "Level 9, 700 Bourke Street",
+        "city": "Docklands",
+        "province": "VIC",
+        "postal_code": "3008",
+        "country": "AU",
+        "phone": "+61.477385759",
+        "email": "ngtld-nab@cscinfo.com"
+    },
+    "administrative": {
+        "id": "f5a897101df440e1aa74e2231d91fcfe-DONUTS",
+        "name": "Manager, Technical Services – Digital & Online Channel Service",
+        "organization": "National Australia Bank Limited",
+        "street": "Level 9, 700 Bourke Street",
+        "city": "Docklands",
+        "province": "VIC",
+        "postal_code": "3008",
+        "country": "AU",
+        "phone": "+61.477385759",
+        "email": "ngtld-nab@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

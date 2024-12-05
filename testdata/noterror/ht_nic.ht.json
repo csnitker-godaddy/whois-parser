@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "111531-CoCCA",
+        "domain": "nic.ht",
+        "punycode": "nic.ht",
+        "name": "nic",
+        "extension": "ht",
+        "status": [
+            "clientRenewProhibited",
+            "serverRenewProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "clientUpdateProhibited",
+            "serverUpdateProhibited",
+            "clientDeleteProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "dns2.frddh.org.ht",
+            "dns1.frddh.org.ht"
+        ],
+        "created_date": "2004-05-24T23:00:00Z",
+        "created_date_in_time": "2004-05-24T23:00:00Z",
+        "updated_date": "2020-08-13T13:36:19Z",
+        "updated_date_in_time": "2020-08-13T13:36:19Z",
+        "expiration_date": "2025-05-24T04:00:00Z",
+        "expiration_date_in_time": "2025-05-24T04:00:00Z"
+    },
+    "registrar": {
+        "name": "Consortium FDS/RDDH"
+    },
+    "registrant": {
+        "id": "948158-CoCCA",
+        "name": "Garth Miller",
+        "organization": "CoCCA Registry Services (NZ) Limited",
+        "street": "11a Wynyard Street",
+        "city": "Auckland",
+        "province": "Auckland",
+        "postal_code": "0624",
+        "country": "NZ",
+        "phone": "+64.94466370",
+        "email": "garth.miller@cocca.org.nz"
+    },
+    "administrative": {
+        "id": "272955-CoCCA",
+        "name": "Jean Jaunasse Elysee",
+        "organization": "FRDDH",
+        "street": "17 2eme Ruelle Wilson",
+        "city": "Port-au-Prince",
+        "country": "HT",
+        "phone": "+0.50925163338",
+        "email": "jjelysee@gmail.com"
+    },
+    "technical": {
+        "id": "1610629-CoCCA",
+        "name": "Jean Nahum CONSTANT",
+        "organization": "FRDDH",
+        "street": "17, 2eme Ruelle Wilson, Pacot",
+        "city": "Port-au-Prince",
+        "postal_code": "HT6115",
+        "country": "HT",
+        "phone": "+0.50937357815",
+        "email": "jnahum.constant@frddh.org.ht"
+    }
+}

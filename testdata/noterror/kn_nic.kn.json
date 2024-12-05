@@ -1,0 +1,46 @@
+{
+    "domain": {
+        "id": "1147-knNIC",
+        "domain": "nic.kn",
+        "punycode": "nic.kn",
+        "name": "nic",
+        "extension": "kn",
+        "status": [
+            "serverRenewProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns-1631.awsdns-11.co.uk",
+            "ns-214.awsdns-26.com",
+            "ns-1454.awsdns-53.org",
+            "ns-518.awsdns-00.net"
+        ],
+        "created_date": "2008-05-23T04:00:00Z",
+        "created_date_in_time": "2008-05-23T04:00:00Z",
+        "updated_date": "2024-02-23T20:05:41Z",
+        "updated_date_in_time": "2024-02-23T20:05:41Z",
+        "expiration_date": "2029-05-30T12:00:00Z",
+        "expiration_date_in_time": "2029-05-30T12:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "KN NIC Registrar",
+        "street": "Adviser of National ICT Center",
+        "country": "KN",
+        "email": "hostmaster@nic.kn"
+    },
+    "registrant": {
+        "id": "9050-knNIC",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "National ICT Centre",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "KN",
+        "phone": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    }
+}

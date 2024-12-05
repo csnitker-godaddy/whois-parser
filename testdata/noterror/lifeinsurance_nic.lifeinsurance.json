@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "D511LIFEI-NSURANCE",
+        "domain": "nic.lifeinsurance",
+        "punycode": "nic.lifeinsurance",
+        "name": "nic",
+        "extension": "lifeinsurance",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.lifeinsurance",
+            "ns2.dns.nic.lifeinsurance",
+            "ns3.dns.nic.lifeinsurance",
+            "ns4.dns.nic.lifeinsurance",
+            "ns5.dns.nic.lifeinsurance",
+            "ns6.dns.nic.lifeinsurance"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T22:26:49Z",
+        "created_date_in_time": "2013-08-09T22:26:49Z",
+        "updated_date": "2024-09-23T00:00:01Z",
+        "updated_date_in_time": "2024-09-23T00:00:01Z",
+        "expiration_date": "2025-08-08T23:59:59Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "American Council of Life Insurers"
+    },
+    "registrant": {
+        "id": "C510LIFEI-NSURANCE",
+        "name": "Joshua Bourne",
+        "organization": "American Council of Life Insurers",
+        "street": "101 Constitution Avenue Northwest Suite 700",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": "20001",
+        "country": "US",
+        "phone": "+1.2022239252",
+        "email": "bourne.ac@fairwindspartners.com"
+    },
+    "administrative": {
+        "id": "C510LIFEI-NSURANCE",
+        "name": "Joshua Bourne",
+        "organization": "American Council of Life Insurers",
+        "street": "101 Constitution Avenue Northwest Suite 700",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": "20001",
+        "country": "US",
+        "phone": "+1.2022239252",
+        "email": "bourne.ac@fairwindspartners.com"
+    },
+    "technical": {
+        "id": "C510LIFEI-NSURANCE",
+        "name": "Joshua Bourne",
+        "organization": "American Council of Life Insurers",
+        "street": "101 Constitution Avenue Northwest Suite 700",
+        "city": "Washington",
+        "province": "DC",
+        "postal_code": "20001",
+        "country": "US",
+        "phone": "+1.2022239252",
+        "email": "bourne.ac@fairwindspartners.com"
+    }
+}

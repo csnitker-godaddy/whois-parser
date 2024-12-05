@@ -1,0 +1,79 @@
+{
+    "domain": {
+        "id": "NIC-BENTLEY",
+        "domain": "nic.bentley",
+        "punycode": "nic.bentley",
+        "name": "nic",
+        "extension": "bentley",
+        "whois_server": "whois.nic.bentley",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.bentley",
+            "dns2.nic.bentley",
+            "dns3.nic.bentley",
+            "dns4.nic.bentley",
+            "dnsa.nic.bentley",
+            "dnsb.nic.bentley",
+            "dnsc.nic.bentley",
+            "dnsd.nic.bentley"
+        ],
+        "dnssec": true,
+        "created_date": "2015-04-23T16:59:34Z",
+        "created_date_in_time": "2015-04-23T16:59:34Z",
+        "updated_date": "2022-02-22T12:02:45Z",
+        "updated_date_in_time": "2022-02-22T12:02:45Z",
+        "expiration_date": "2031-04-22T18:32:03Z",
+        "expiration_date_in_time": "2031-04-22T18:32:03Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Bentley Internal Registrar",
+        "email": "abuse@nominet.uk",
+        "referral_url": "http://www.nic.bentley"
+    },
+    "registrant": {
+        "id": "BENTLEY_CONTACT-BENTLEY",
+        "name": "Bentley",
+        "organization": "Bentley Motors Limited",
+        "street": "c/o Demys Limited, 33 Melville Street",
+        "city": "Edinburgh",
+        "province": "Lothian",
+        "postal_code": "EH3 7JF",
+        "country": "GB",
+        "phone": "+44.1312260660",
+        "fax": "+44.1312256408",
+        "email": "gtld+bentley@demys.com"
+    },
+    "administrative": {
+        "id": "BENTLEY_CONTACT-BENTLEY",
+        "name": "Bentley",
+        "organization": "Bentley Motors Limited",
+        "street": "c/o Demys Limited, 33 Melville Street",
+        "city": "Edinburgh",
+        "province": "Lothian",
+        "postal_code": "EH3 7JF",
+        "country": "GB",
+        "phone": "+44.1312260660",
+        "fax": "+44.1312256408",
+        "email": "gtld+bentley@demys.com"
+    },
+    "technical": {
+        "id": "BENTLEY_CONTACT-BENTLEY",
+        "name": "Bentley",
+        "organization": "Bentley Motors Limited",
+        "street": "c/o Demys Limited, 33 Melville Street",
+        "city": "Edinburgh",
+        "province": "Lothian",
+        "postal_code": "EH3 7JF",
+        "country": "GB",
+        "phone": "+44.1312260660",
+        "fax": "+44.1312256408",
+        "email": "gtld+bentley@demys.com"
+    }
+}

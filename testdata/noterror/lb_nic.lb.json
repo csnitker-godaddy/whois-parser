@@ -1,0 +1,39 @@
+{
+    "domain": {
+        "id": "14351-lbdr",
+        "domain": "nic.lb",
+        "punycode": "nic.lb",
+        "name": "nic",
+        "extension": "lb",
+        "status": [
+            "inactive",
+            "serverRenewProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited"
+        ],
+        "created_date": "2021-01-31T22:40:49Z",
+        "created_date_in_time": "2021-01-31T22:40:49Z",
+        "updated_date": "2024-02-12T23:07:26Z",
+        "updated_date_in_time": "2024-02-12T23:07:26Z",
+        "expiration_date": "2099-12-31T05:00:00Z",
+        "expiration_date_in_time": "2099-12-31T05:00:00Z"
+    },
+    "registrar": {
+        "name": "LBDR Reserved",
+        "street": "Beirut",
+        "country": "LB",
+        "email": "admin@lbdr.org.lb",
+        "referral_url": "null"
+    },
+    "registrant": {
+        "id": "14343-lbdr",
+        "name": "Nabil Bukhalid",
+        "organization": "Lebanese Domain Registry",
+        "street": "Bliss Street, Hamra",
+        "city": "Beiruit",
+        "country": "LB",
+        "phone": "+961 1749116",
+        "email": "bukhalidn@gmail.com"
+    }
+}

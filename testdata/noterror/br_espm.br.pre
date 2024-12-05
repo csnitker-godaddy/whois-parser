@@ -35,16 +35,16 @@ nslastaa:    20191013
 nserver:     ns-538.awsdns-03.net
 nsstat:      20191013 AA
 nslastaa:    20191013
-created:     19961206 #24302
+created: 19961206
 changed:     20150427
 status:      published
 nic-hdl-br:  CLA75
 person:      Cosmo Luis Arrivabene
-created:     20000513
+created: 20000513
 changed:     20100825
 nic-hdl-br:  FATAK6
 person:      Fabio Takeuti
-created:     20090811
+created: 20090811
 changed:     20161212
 % Security and mail abuse issues should also be addressed to
 % cert.br, http://www.cert.br/ , respectivelly to cert@cert.br

@@ -1,0 +1,53 @@
+{
+    "domain": {
+        "id": "D7371123169994A448BE34103EE34CD7B-ARI",
+        "domain": "nic.ibm",
+        "punycode": "nic.ibm",
+        "name": "nic",
+        "extension": "ibm",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "a.nic.ibm",
+            "b.nic.ibm",
+            "c.nic.ibm",
+            "d.nic.ibm"
+        ],
+        "dnssec": true,
+        "created_date": "2014-09-23T01:11:18Z",
+        "created_date_in_time": "2014-09-23T01:11:18Z",
+        "updated_date": "2024-11-07T01:11:19Z",
+        "updated_date_in_time": "2024-11-07T01:11:19Z",
+        "expiration_date": "2025-09-23T01:11:18Z",
+        "expiration_date_in_time": "2025-09-23T01:11:18Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "International Business Machines Corporation"
+    },
+    "registrant": {
+        "id": "C2C054089586C4ADFA3CBAC1EBE0B8B38-ARI",
+        "name": "Chief Trademark Counsel",
+        "street": "One North Castle Drive",
+        "city": "Armonk",
+        "province": "NY",
+        "postal_code": "10504",
+        "country": "us",
+        "phone": "+1.9144991900",
+        "email": "dnsadm@us.ibm.com"
+    },
+    "technical": {
+        "id": "C2C054089586C4ADFA3CBAC1EBE0B8B38-ARI",
+        "name": "Chief Trademark Counsel",
+        "street": "One North Castle Drive",
+        "city": "Armonk",
+        "province": "NY",
+        "postal_code": "10504",
+        "country": "us",
+        "phone": "+1.9144991900",
+        "email": "dnsadm@us.ibm.com"
+    }
+}

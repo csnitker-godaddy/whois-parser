@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "445-CoCCA",
+        "domain": "nic.bj",
+        "punycode": "nic.bj",
+        "name": "nic",
+        "extension": "bj",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.nic.bj",
+            "pch.nic.bj",
+            "ns2.nic.bj"
+        ],
+        "dnssec": true,
+        "created_date": "2015-02-03T10:30:46.374Z",
+        "created_date_in_time": "2015-02-03T10:30:46.374Z",
+        "updated_date": "2024-06-05T07:57:18.175Z",
+        "updated_date_in_time": "2024-06-05T07:57:18.175Z",
+        "expiration_date": "2025-07-19T23:00:00.0Z",
+        "expiration_date_in_time": "2025-07-19T23:00:00Z"
+    },
+    "registrar": {
+        "name": "NIC Reserved"
+    },
+    "registrant": {
+        "id": "VmHwE-Y3QwA",
+        "name": "NIC Benin ccTLD",
+        "organization": "Network Information Centre",
+        "street": "Carre 321 Immeuble EL WAKIL",
+        "city": "Cotonou",
+        "postal_code": "01 BP 3885",
+        "country": "BJ",
+        "phone": "+229.62000061",
+        "email": "contact@nic.bj"
+    },
+    "administrative": {
+        "id": "7FcDS-pu4S4",
+        "name": "NIC Benin ccTLD",
+        "organization": "Network Information Centre",
+        "street": "Carre 321 Immeuble EL WAKIL",
+        "city": "Cotonou",
+        "postal_code": "01 BP 3885",
+        "country": "BJ",
+        "phone": "+229.62000061",
+        "email": "contact@nic.bj"
+    },
+    "technical": {
+        "id": "fmbil-O1Yl6",
+        "name": "NIC Benin ccTLD",
+        "organization": "Network Information Centre",
+        "street": "Carre 321 Immeuble EL WAKIL",
+        "city": "Cotonou",
+        "postal_code": "01 BP 3885",
+        "country": "BJ",
+        "phone": "+229.62000061",
+        "email": "contact@nic.bj"
+    },
+    "billing": {
+        "id": "v2L8m-YOhpA",
+        "name": "NIC Benin ccTLD",
+        "organization": "Network Information Centre",
+        "street": "Carre 321 Immeuble EL WAKIL",
+        "city": "Cotonou",
+        "postal_code": "01 BP 3885",
+        "country": "BJ",
+        "phone": "+229.62000061",
+        "email": "contact@nic.bj"
+    }
+}

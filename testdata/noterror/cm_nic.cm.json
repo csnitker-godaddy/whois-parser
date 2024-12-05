@@ -1,0 +1,63 @@
+{
+    "domain": {
+        "id": "5309-RegCM",
+        "domain": "nic.cm",
+        "punycode": "nic.cm",
+        "name": "nic",
+        "extension": "cm",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.nic.cm",
+            "ns2.nic.cm",
+            "dns1.antic.cm"
+        ],
+        "created_date": "2009-08-28T00:00:00.0Z",
+        "created_date_in_time": "2009-08-28T00:00:00Z",
+        "updated_date": "2024-06-28T07:08:37.214Z",
+        "updated_date_in_time": "2024-06-28T07:08:37.214Z",
+        "expiration_date": "2025-08-27T23:00:00.0Z",
+        "expiration_date_in_time": "2025-08-27T23:00:00Z"
+    },
+    "registrar": {
+        "name": "Registrar ANTIC",
+        "referral_url": "http://www.antic.cm"
+    },
+    "registrant": {
+        "id": "SRDoF-4ly4G",
+        "name": "KOUONGA FOKAM Ruissel Clement",
+        "street": "Bastos",
+        "city": "Yaounde",
+        "country": "CM",
+        "phone": "+237 676 69 56 18   /   +237 694 85 66 20",
+        "email": "rfokam@antic.cm"
+    },
+    "administrative": {
+        "id": "FrKKd-hGzZN",
+        "name": "KOUONGA FOKAM Ruissel Clement",
+        "street": "Bastos",
+        "city": "Yaounde",
+        "country": "CM",
+        "phone": "+237 676 69 56 18   /   +237 694 85 66 20",
+        "email": "rfokam@antic.cm"
+    },
+    "technical": {
+        "id": "4dh5c-8wDGn",
+        "name": "KOUONGA FOKAM Ruissel Clement",
+        "street": "Bastos",
+        "city": "Yaounde",
+        "country": "CM",
+        "phone": "+237 676 69 56 18   /   +237 694 85 66 20",
+        "email": "rfokam@antic.cm"
+    },
+    "billing": {
+        "id": "tYL2i-kzmfG",
+        "name": "KOUONGA FOKAM Ruissel Clement",
+        "street": "Bastos",
+        "city": "Yaounde",
+        "country": "CM",
+        "phone": "+237 676 69 56 18   /   +237 694 85 66 20",
+        "email": "rfokam@antic.cm"
+    }
+}

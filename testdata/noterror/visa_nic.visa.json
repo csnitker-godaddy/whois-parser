@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "f0d35ed7b8f14ab0ac83a0c26e995852-DONUTS",
+        "domain": "nic.visa",
+        "punycode": "nic.visa",
+        "name": "nic",
+        "extension": "visa",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "v0n0.nic.visa",
+            "v0n1.nic.visa",
+            "v0n2.nic.visa",
+            "v0n3.nic.visa",
+            "v2n0.nic.visa",
+            "v2n1.nic.visa"
+        ],
+        "dnssec": true,
+        "created_date": "2023-09-29T19:31:30Z",
+        "created_date_in_time": "2023-09-29T19:31:30Z",
+        "updated_date": "2024-11-13T19:32:24Z",
+        "updated_date_in_time": "2024-11-13T19:32:24Z",
+        "expiration_date": "2026-09-29T19:31:30Z",
+        "expiration_date_in_time": "2026-09-29T19:31:30Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "administrative": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "technical": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

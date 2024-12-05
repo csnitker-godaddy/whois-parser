@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "D0000000007-HAMBURG",
+        "domain": "nic.hamburg",
+        "punycode": "nic.hamburg",
+        "name": "nic",
+        "extension": "hamburg",
+        "whois_server": "whois.nic.hamburg",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "sec1.rcode0.net",
+            "sec2.rcode0.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-04-16T10:23:25Z",
+        "created_date_in_time": "2014-04-16T10:23:25Z",
+        "updated_date": "2020-03-11T14:22:48Z",
+        "updated_date_in_time": "2020-03-11T14:22:48Z",
+        "expiration_date": "2025-04-16T10:23:25Z",
+        "expiration_date_in_time": "2025-04-16T10:23:25Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Hamburg Top-Level-Domain GmbH",
+        "phone": "+49.4065062020",
+        "email": "support@nic.hamburg",
+        "referral_url": "https://nic.hamburg"
+    },
+    "technical": {
+        "id": "C0000000002-HAMBURG",
+        "name": "TLDBOX",
+        "organization": "tldbox GmbH",
+        "street": "Jakob-Haringer-Strasse 8/V",
+        "city": "Salzburg",
+        "province": "Salzburg",
+        "postal_code": "5020",
+        "country": "AT",
+        "phone": "+43.662234548",
+        "phone_ext": "730",
+        "email": "iana@tld-box.at"
+    }
+}

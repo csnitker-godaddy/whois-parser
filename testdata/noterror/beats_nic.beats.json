@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "7b7a067fccb8452a92bf9f7cfe91451e-DONUTS",
+        "domain": "nic.beats",
+        "punycode": "nic.beats",
+        "name": "nic",
+        "extension": "beats",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.beats",
+            "b0.nic.beats",
+            "c0.nic.beats",
+            "a2.nic.beats"
+        ],
+        "dnssec": true,
+        "created_date": "2016-02-04T16:40:14Z",
+        "created_date_in_time": "2016-02-04T16:40:14Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-02-04T16:40:14Z",
+        "expiration_date_in_time": "2025-02-04T16:40:14Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "0de60f010368438b82159213cece1aaf-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Beats Electronics, LLC",
+        "street": "8600 Hayden Place",
+        "city": "Culver City",
+        "province": "CA",
+        "postal_code": "90232",
+        "country": "US",
+        "phone": "+1.4089961010",
+        "fax": "+1.4089741560",
+        "email": "domains@apple.com"
+    },
+    "administrative": {
+        "id": "0de60f010368438b82159213cece1aaf-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Beats Electronics, LLC",
+        "street": "8600 Hayden Place",
+        "city": "Culver City",
+        "province": "CA",
+        "postal_code": "90232",
+        "country": "US",
+        "phone": "+1.4089961010",
+        "fax": "+1.4089741560",
+        "email": "domains@apple.com"
+    },
+    "technical": {
+        "id": "0de60f010368438b82159213cece1aaf-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Beats Electronics, LLC",
+        "street": "8600 Hayden Place",
+        "city": "Culver City",
+        "province": "CA",
+        "postal_code": "90232",
+        "country": "US",
+        "phone": "+1.4089961010",
+        "fax": "+1.4089741560",
+        "email": "domains@apple.com"
+    }
+}

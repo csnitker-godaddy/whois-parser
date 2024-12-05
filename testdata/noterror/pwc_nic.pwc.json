@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "b61740d7857f469eb3a6ad348579a3aa-DONUTS",
+        "domain": "nic.pwc",
+        "punycode": "nic.pwc",
+        "name": "nic",
+        "extension": "pwc",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.pwc",
+            "b0.nic.pwc",
+            "c0.nic.pwc",
+            "a2.nic.pwc"
+        ],
+        "dnssec": true,
+        "created_date": "2017-01-05T23:00:10Z",
+        "created_date_in_time": "2017-01-05T23:00:10Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-05T23:00:10Z",
+        "expiration_date_in_time": "2025-01-05T23:00:10Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "1aac4678a4ce45da972ea7f12dbe6443-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "PricewaterhouseCoopers LLP",
+        "street": "1 Embankment Place",
+        "city": "London",
+        "province": "England",
+        "postal_code": "WC2N 6RH",
+        "country": "IO",
+        "phone": "+44.02075835000",
+        "fax": "+44.02078224652",
+        "email": "ngtld-pwc@cscglobal.com"
+    },
+    "administrative": {
+        "id": "1aac4678a4ce45da972ea7f12dbe6443-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "PricewaterhouseCoopers LLP",
+        "street": "1 Embankment Place",
+        "city": "London",
+        "province": "England",
+        "postal_code": "WC2N 6RH",
+        "country": "IO",
+        "phone": "+44.02075835000",
+        "fax": "+44.02078224652",
+        "email": "ngtld-pwc@cscglobal.com"
+    },
+    "technical": {
+        "id": "1aac4678a4ce45da972ea7f12dbe6443-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "PricewaterhouseCoopers LLP",
+        "street": "1 Embankment Place",
+        "city": "London",
+        "province": "England",
+        "postal_code": "WC2N 6RH",
+        "country": "IO",
+        "phone": "+44.02075835000",
+        "fax": "+44.02078224652",
+        "email": "ngtld-pwc@cscglobal.com"
+    }
+}

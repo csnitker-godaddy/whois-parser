@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "c37e6f7a83be40768e627b63ff147442-DONUTS",
+        "domain": "nic.crs",
+        "punycode": "nic.crs",
+        "name": "nic",
+        "extension": "crs",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "c0.nic.crs",
+            "a2.nic.crs",
+            "a0.nic.crs",
+            "b0.nic.crs"
+        ],
+        "dnssec": true,
+        "created_date": "2014-05-12T12:37:50Z",
+        "created_date_in_time": "2014-05-12T12:37:50Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-05-12T12:37:50Z",
+        "expiration_date_in_time": "2025-05-12T12:37:50Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "541745838aa340ffabfa5555ff746c0c-DONUTS",
+        "name": "CRS Domain Operations",
+        "organization": "Federated Co-operatives Limited",
+        "street": "401 22nd Street East",
+        "city": "Saskatoon",
+        "province": "SK",
+        "postal_code": "S7K 0H2",
+        "country": "CA",
+        "phone": "+1.3066495779",
+        "fax": "+1.3066495779",
+        "email": "crsdomain.operations@fcl.crs"
+    },
+    "administrative": {
+        "id": "541745838aa340ffabfa5555ff746c0c-DONUTS",
+        "name": "CRS Domain Operations",
+        "organization": "Federated Co-operatives Limited",
+        "street": "401 22nd Street East",
+        "city": "Saskatoon",
+        "province": "SK",
+        "postal_code": "S7K 0H2",
+        "country": "CA",
+        "phone": "+1.3066495779",
+        "fax": "+1.3066495779",
+        "email": "crsdomain.operations@fcl.crs"
+    },
+    "technical": {
+        "id": "541745838aa340ffabfa5555ff746c0c-DONUTS",
+        "name": "CRS Domain Operations",
+        "organization": "Federated Co-operatives Limited",
+        "street": "401 22nd Street East",
+        "city": "Saskatoon",
+        "province": "SK",
+        "postal_code": "S7K 0H2",
+        "country": "CA",
+        "phone": "+1.3066495779",
+        "fax": "+1.3066495779",
+        "email": "crsdomain.operations@fcl.crs"
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "D560D8D97FA58450C8404633A7EC5A002-ARI",
+        "domain": "nic.commbank",
+        "punycode": "nic.commbank",
+        "name": "nic",
+        "extension": "commbank",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "a.nic.commbank",
+            "b.nic.commbank",
+            "c.nic.commbank",
+            "d.nic.commbank"
+        ],
+        "dnssec": true,
+        "created_date": "2015-03-04T01:49:02Z",
+        "created_date_in_time": "2015-03-04T01:49:02Z",
+        "updated_date": "2024-04-18T01:49:03Z",
+        "updated_date_in_time": "2024-04-18T01:49:03Z",
+        "expiration_date": "2025-03-04T01:49:02Z",
+        "expiration_date_in_time": "2025-03-04T01:49:02Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "COMMONWEALTH BANK OF AUSTRALIA - COMMBANK"
+    },
+    "registrant": {
+        "id": "C9762D2DE443448D8A781217D175DEA08-ARI",
+        "name": "Domain Admin",
+        "organization": "COMMONWEALTH BANK OF AUSTRALIA",
+        "street": "Ground Floor, Tower 1, 201 Sussex Street",
+        "city": "Sydney",
+        "province": "NSW",
+        "postal_code": "1155",
+        "country": "au",
+        "phone": "+61.477387865",
+        "fax": "+61.291181601",
+        "email": "domains@cba.com.au"
+    },
+    "administrative": {
+        "id": "C9762D2DE443448D8A781217D175DEA08-ARI",
+        "name": "Domain Admin",
+        "organization": "COMMONWEALTH BANK OF AUSTRALIA",
+        "street": "Ground Floor, Tower 1, 201 Sussex Street",
+        "city": "Sydney",
+        "province": "NSW",
+        "postal_code": "1155",
+        "country": "au",
+        "phone": "+61.477387865",
+        "fax": "+61.291181601",
+        "email": "domains@cba.com.au"
+    },
+    "technical": {
+        "id": "C9762D2DE443448D8A781217D175DEA08-ARI",
+        "name": "Domain Admin",
+        "organization": "COMMONWEALTH BANK OF AUSTRALIA",
+        "street": "Ground Floor, Tower 1, 201 Sussex Street",
+        "city": "Sydney",
+        "province": "NSW",
+        "postal_code": "1155",
+        "country": "au",
+        "phone": "+61.477387865",
+        "fax": "+61.291181601",
+        "email": "domains@cba.com.au"
+    }
+}

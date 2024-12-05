@@ -1,0 +1,82 @@
+{
+    "domain": {
+        "id": "GD2",
+        "domain": "nic.gdn",
+        "punycode": "nic.gdn",
+        "name": "nic",
+        "extension": "gdn",
+        "whois_server": "whois.nic.gdn",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "dns-eu1.powerdns.net",
+            "dns-eu2.powerdns.net",
+            "dns-us1.powerdns.net",
+            "dns-us2.powerdns.net",
+            "ns2.nic.gdn",
+            "ns1.nic.gdn"
+        ],
+        "created_date": "2015-02-17T10:27:03Z",
+        "created_date_in_time": "2015-02-17T10:27:03Z",
+        "updated_date": "2016-09-19T09:40:00Z",
+        "updated_date_in_time": "2016-09-19T09:40:00Z",
+        "expiration_date": "2026-02-17T10:27:03Z",
+        "expiration_date_in_time": "2026-02-17T10:27:03Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "GDN REGISTRY FZ-LLC",
+        "phone": "+971.45576538",
+        "email": "tldabuse@nic.gdn",
+        "referral_url": "http://www.nic.gdn"
+    },
+    "registrant": {
+        "id": "G2O",
+        "name": "GDN REGISTRY",
+        "organization": "GDN REGISTRY FZ-LLC",
+        "street": "BUILDING 14TH, OFFICE  # 107",
+        "city": "DUBAI INTERNET CITY",
+        "province": "DUBAI",
+        "postal_code": "111230",
+        "country": "AE",
+        "phone": "+971.42778189",
+        "email": "technical@nic.gdn"
+    },
+    "administrative": {
+        "id": "G2O",
+        "name": "GDN REGISTRY",
+        "organization": "GDN REGISTRY FZ-LLC",
+        "street": "BUILDING 14TH, OFFICE  # 107",
+        "city": "DUBAI INTERNET CITY",
+        "province": "DUBAI",
+        "postal_code": "111230",
+        "country": "AE",
+        "phone": "+971.42778189",
+        "email": "technical@nic.gdn"
+    },
+    "technical": {
+        "id": "G2O",
+        "name": "GDN REGISTRY",
+        "organization": "GDN REGISTRY FZ-LLC",
+        "street": "BUILDING 14TH, OFFICE  # 107",
+        "city": "DUBAI INTERNET CITY",
+        "province": "DUBAI",
+        "postal_code": "111230",
+        "country": "AE",
+        "phone": "+971.42778189",
+        "email": "technical@nic.gdn"
+    },
+    "billing": {
+        "id": "G2O",
+        "name": "GDN REGISTRY",
+        "organization": "GDN REGISTRY FZ-LLC",
+        "street": "BUILDING 14TH, OFFICE  # 107",
+        "city": "DUBAI INTERNET CITY",
+        "province": "DUBAI",
+        "postal_code": "111230",
+        "country": "AE",
+        "phone": "+971.42778189",
+        "email": "technical@nic.gdn"
+    }
+}

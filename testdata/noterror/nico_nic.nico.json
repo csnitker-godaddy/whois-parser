@@ -1,0 +1,63 @@
+{
+    "domain": {
+        "id": "DO204845-GMO",
+        "domain": "nic.nico",
+        "punycode": "nic.nico",
+        "name": "nic",
+        "extension": "nico",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2014-12-26T01:57:24.0Z",
+        "created_date_in_time": "2014-12-26T01:57:24Z",
+        "updated_date": "2023-12-27T00:17:00.0Z",
+        "updated_date_in_time": "2023-12-27T00:17:00Z",
+        "expiration_date": "2024-12-26T23:59:59.0Z",
+        "expiration_date_in_time": "2024-12-26T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "DWANGO Co., Ltd.",
+        "referral_url": "http://info.dwango.co.jp/"
+    },
+    "registrant": {
+        "id": "HA1118834-GMO",
+        "name": "Reserved Domain",
+        "organization": "DWANGO Co., Ltd.",
+        "street": "KABUKIZA TOWER., 4-12-15 Ginza",
+        "city": "Chuo-ku",
+        "province": "Tokyo",
+        "postal_code": "104-0061",
+        "country": "JP",
+        "phone": "+81.335496330",
+        "email": "nico_admin@dwango.co.jp"
+    },
+    "administrative": {
+        "id": "HA1118834-GMO",
+        "name": "Reserved Domain",
+        "organization": "DWANGO Co., Ltd.",
+        "street": "KABUKIZA TOWER., 4-12-15 Ginza",
+        "city": "Chuo-ku",
+        "province": "Tokyo",
+        "postal_code": "104-0061",
+        "country": "JP",
+        "phone": "+81.335496330",
+        "email": "nico_admin@dwango.co.jp"
+    },
+    "technical": {
+        "id": "HA1118834-GMO",
+        "name": "Reserved Domain",
+        "organization": "DWANGO Co., Ltd.",
+        "street": "KABUKIZA TOWER., 4-12-15 Ginza",
+        "city": "Chuo-ku",
+        "province": "Tokyo",
+        "postal_code": "104-0061",
+        "country": "JP",
+        "phone": "+81.335496330",
+        "email": "nico_admin@dwango.co.jp"
+    }
+}

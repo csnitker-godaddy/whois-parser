@@ -1,0 +1,38 @@
+{
+    "domain": {
+        "domain": "nic.uz",
+        "punycode": "nic.uz",
+        "name": "nic",
+        "extension": "uz",
+        "whois_server": "www.whois.uz",
+        "status": [
+            "RESERVED"
+        ],
+        "name_servers": [
+            "ns.uz",
+            "ns2.uz",
+            "not.defined"
+        ],
+        "created_date": "16-Jun-2006",
+        "created_date_in_time": "2006-06-16T00:00:00Z",
+        "updated_date": "14-Jun-2022",
+        "updated_date_in_time": "2022-06-14T00:00:00Z",
+        "expiration_date": "-"
+    },
+    "registrar": {
+        "name": "UZINFOCOM Администратор",
+        "referral_url": "http://www.cctld.uz/"
+    },
+    "registrant": {
+        "organization": "Center UZINFOCOM,Gimranov E.I. (info [at] uzinfocom.uz),A.Navoi str., 28 B,Tashkent,Uzbekistan, 100011,UZ,Tel. +998 71 238-42-00,Fax. +998 71 238-42-48"
+    },
+    "administrative": {
+        "name": "Center UZINFOCOM,Gimranov E.I. (info [at] uzinfocom.uz),A.Navoi str., 28 B,Tashkent,Uzbekistan, 100011,UZ,Tel. +998 71 238-42-00,Fax. +998 71 238-42-48"
+    },
+    "technical": {
+        "name": "Center UZINFOCOM,Kadirov A.A (info [at] uzinfocom.uz),A.Navoi str., 28 B,Tashkent,Uzbekistan,  100011,UZ,Tel. +998 71 238-42-45,Fax. +998 71 238-42-48"
+    },
+    "billing": {
+        "name": "Center UZINFOCOM,Kadirov A.A (info [at] uzinfocom.uz),A.Navoi str., 28 B,Tashkent,Uzbekistan, 100011,UZ,Tel. +998 71 238-42-00,Fax. +998 71 238-42-48"
+    }
+}

@@ -13,9 +13,12 @@
             "ns2.venture.com",
             "ns1.venture.com"
         ],
-        "created_date": "2001-06-14-T10:32:43Z",
-        "updated_date": "2019-05-17-T23:02:50Z",
-        "expiration_date": "2020-06-14-T10:32:43Z"
+        "created_date": "2001-06-14T10:32:43Z",
+        "created_date_in_time": "2001-06-14T10:32:43Z",
+        "updated_date": "2019-05-17T23:02:50Z",
+        "updated_date_in_time": "2019-05-17T23:02:50Z",
+        "expiration_date": "2020-06-14T10:32:43Z",
+        "expiration_date_in_time": "2020-06-14T10:32:43Z"
     },
     "registrar": {
         "id": "1659",

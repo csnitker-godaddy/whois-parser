@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "80b8b3a65a514219bf97f9746ab6a473-DONUTS",
+        "domain": "nic.marriott",
+        "punycode": "nic.marriott",
+        "name": "nic",
+        "extension": "marriott",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.marriott",
+            "a2.nic.marriott",
+            "b0.nic.marriott",
+            "c0.nic.marriott"
+        ],
+        "dnssec": true,
+        "created_date": "2015-04-08T14:55:49Z",
+        "created_date_in_time": "2015-04-08T14:55:49Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-04-08T14:55:49Z",
+        "expiration_date_in_time": "2025-04-08T14:55:49Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "10807e9c90dd4c998d00aafc01f788b0-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "Marriott Worldwide Corporation",
+        "street": "7750 Wisconsin Ave",
+        "city": "Bethesda",
+        "province": "Maryland",
+        "postal_code": "20814",
+        "country": "US",
+        "phone": "+1.3013803000",
+        "fax": "+1.3016448094",
+        "email": "bourne.mt@fairwindspartners.com"
+    },
+    "administrative": {
+        "id": "10807e9c90dd4c998d00aafc01f788b0-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "Marriott Worldwide Corporation",
+        "street": "7750 Wisconsin Ave",
+        "city": "Bethesda",
+        "province": "Maryland",
+        "postal_code": "20814",
+        "country": "US",
+        "phone": "+1.3013803000",
+        "fax": "+1.3016448094",
+        "email": "bourne.mt@fairwindspartners.com"
+    },
+    "technical": {
+        "id": "10807e9c90dd4c998d00aafc01f788b0-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "Marriott Worldwide Corporation",
+        "street": "7750 Wisconsin Ave",
+        "city": "Bethesda",
+        "province": "Maryland",
+        "postal_code": "20814",
+        "country": "US",
+        "phone": "+1.3013803000",
+        "fax": "+1.3016448094",
+        "email": "bourne.mt@fairwindspartners.com"
+    }
+}

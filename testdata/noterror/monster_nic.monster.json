@@ -1,0 +1,50 @@
+{
+    "domain": {
+        "id": "D92797673-CNIC",
+        "domain": "nic.monster",
+        "punycode": "nic.monster",
+        "name": "nic",
+        "extension": "monster",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.monster",
+            "b.nic.monster",
+            "c.nic.monster",
+            "d.nic.monster"
+        ],
+        "created_date": "2018-01-18T14:30:12.0Z",
+        "created_date_in_time": "2018-01-18T14:30:12Z",
+        "updated_date": "2024-01-12T00:05:10.0Z",
+        "updated_date_in_time": "2024-01-12T00:05:10Z",
+        "expiration_date": "2025-01-18T23:59:59.0Z",
+        "expiration_date_in_time": "2025-01-18T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "organization": "XYZ.COM LLC",
+        "province": "NV",
+        "country": "US",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

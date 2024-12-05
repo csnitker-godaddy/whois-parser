@@ -1,0 +1,78 @@
+{
+    "domain": {
+        "id": "DB2D7E86C801F415D97FCD21DAB54A741-GDREG",
+        "domain": "nic.godaddy",
+        "punycode": "nic.godaddy",
+        "name": "nic",
+        "extension": "godaddy",
+        "whois_server": "whois.nic.godaddy",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "a.nic.godaddy",
+            "b.nic.godaddy",
+            "c.nic.godaddy",
+            "d.nic.godaddy"
+        ],
+        "dnssec": true,
+        "created_date": "2022-03-04T01:07:11Z",
+        "created_date_in_time": "2022-03-04T01:07:11Z",
+        "updated_date": "2024-04-18T01:07:12Z",
+        "updated_date_in_time": "2024-04-18T01:07:12Z",
+        "expiration_date": "2025-03-04T01:07:11Z",
+        "expiration_date_in_time": "2025-03-04T01:07:11Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "GoDaddy East, LLC",
+        "phone": "+61.1234567890",
+        "email": "ryabusecontact@godaddy.com",
+        "referral_url": "http://www.nic.godaddy"
+    },
+    "registrant": {
+        "id": "CBE0CF658A59048A2862A8C06B2FE9875-GDREG",
+        "name": "Premium Reserved Names",
+        "organization": "GoDaddy East, LLC",
+        "street": "14455 N. Hayden Rd., Suite 219, NA",
+        "city": "Scottsdale",
+        "province": "AZ",
+        "postal_code": "85260",
+        "country": "US",
+        "phone": "+1.480505880",
+        "phone_ext": "12345",
+        "fax": "+1.480505880",
+        "fax_ext": "12345",
+        "email": "ryprimarycontact@godaddy.com"
+    },
+    "administrative": {
+        "id": "CBE0CF658A59048A2862A8C06B2FE9875-GDREG",
+        "name": "Premium Reserved Names",
+        "organization": "GoDaddy East, LLC",
+        "street": "14455 N. Hayden Rd., Suite 219, NA",
+        "city": "Scottsdale",
+        "province": "AZ",
+        "postal_code": "85260",
+        "country": "US",
+        "phone": "+1.480505880",
+        "phone_ext": "12345",
+        "fax": "+1.480505880",
+        "fax_ext": "12345",
+        "email": "ryprimarycontact@godaddy.com"
+    },
+    "technical": {
+        "id": "CBE0CF658A59048A2862A8C06B2FE9875-GDREG",
+        "name": "Premium Reserved Names",
+        "organization": "GoDaddy East, LLC",
+        "street": "14455 N. Hayden Rd., Suite 219, NA",
+        "city": "Scottsdale",
+        "province": "AZ",
+        "postal_code": "85260",
+        "country": "US",
+        "phone": "+1.480505880",
+        "phone_ext": "12345",
+        "fax": "+1.480505880",
+        "fax_ext": "12345",
+        "email": "ryprimarycontact@godaddy.com"
+    }
+}

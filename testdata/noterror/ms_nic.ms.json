@@ -1,0 +1,63 @@
+{
+    "domain": {
+        "id": "8637-CoCCA",
+        "domain": "nic.ms",
+        "punycode": "nic.ms",
+        "name": "nic",
+        "extension": "ms",
+        "status": [
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "clientDeleteProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns51.constellix.net",
+            "ns21.constellix.com",
+            "ns31.constellix.com",
+            "ns61.constellix.net",
+            "ns11.constellix.com",
+            "ns41.constellix.net"
+        ],
+        "created_date": "1998-09-01T12:00:00Z",
+        "created_date_in_time": "1998-09-01T12:00:00Z",
+        "updated_date": "2024-01-24T16:18:05Z",
+        "updated_date_in_time": "2024-01-24T16:18:05Z",
+        "expiration_date": "2099-09-01T00:00:00Z",
+        "expiration_date_in_time": "2099-09-01T00:00:00Z"
+    },
+    "registrar": {
+        "name": "MNINET Registrar",
+        "street": "Olveston Drive",
+        "country": "MS",
+        "email": "sales@mninet.ms",
+        "referral_url": "https://secure.domains.mninet.ms"
+    },
+    "registrant": {
+        "id": "53629-CoCCA",
+        "name": "MNI Networks",
+        "street": "olveston",
+        "city": "montserrat",
+        "country": "MS",
+        "phone": "+0 16644916386",
+        "email": "kingsley.howe@mninet.ms"
+    },
+    "administrative": {
+        "id": "53630-CoCCA",
+        "name": "Denzil West",
+        "street": "mni networks",
+        "city": "montserrat",
+        "country": "MS",
+        "phone": "+0 16644916386",
+        "email": "westd@gov.ms"
+    },
+    "technical": {
+        "id": "53627-CoCCA",
+        "name": "Dave Williams",
+        "street": "mni networks",
+        "city": "montserrat",
+        "country": "MS",
+        "phone": "+0 16644916386",
+        "email": "dave@gov.ms"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "c5a378faf262435d81136fd3844f4522-DONUTS",
+        "domain": "nic.bradesco",
+        "punycode": "nic.bradesco",
+        "name": "nic",
+        "extension": "bradesco",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a2.nic.bradesco",
+            "a0.nic.bradesco",
+            "c0.nic.bradesco",
+            "b0.nic.bradesco"
+        ],
+        "dnssec": true,
+        "created_date": "2015-05-25T14:40:11Z",
+        "created_date_in_time": "2015-05-25T14:40:11Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2030-05-25T14:40:11Z",
+        "expiration_date_in_time": "2030-05-25T14:40:11Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "87bc3661addc4983af33e92488402d2d-DONUTS",
+        "name": "Banco Bradesco S.A.",
+        "street": "Avenida Yara SN - Cidade de Deus - Banco Bradesco Predio Rubi - 4312/DCD",
+        "city": "Osasco - Sao Paulo",
+        "postal_code": "06029900",
+        "country": "BR",
+        "phone": "+55.1136847307",
+        "email": "ngtld-bradesco@cscglobal.com"
+    },
+    "administrative": {
+        "id": "87bc3661addc4983af33e92488402d2d-DONUTS",
+        "name": "Banco Bradesco S.A.",
+        "street": "Avenida Yara SN - Cidade de Deus - Banco Bradesco Predio Rubi - 4312/DCD",
+        "city": "Osasco - Sao Paulo",
+        "postal_code": "06029900",
+        "country": "BR",
+        "phone": "+55.1136847307",
+        "email": "ngtld-bradesco@cscglobal.com"
+    },
+    "technical": {
+        "id": "87bc3661addc4983af33e92488402d2d-DONUTS",
+        "name": "Banco Bradesco S.A.",
+        "street": "Avenida Yara SN - Cidade de Deus - Banco Bradesco Predio Rubi - 4312/DCD",
+        "city": "Osasco - Sao Paulo",
+        "postal_code": "06029900",
+        "country": "BR",
+        "phone": "+55.1136847307",
+        "email": "ngtld-bradesco@cscglobal.com"
+    }
+}

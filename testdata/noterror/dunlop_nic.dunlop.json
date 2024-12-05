@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "195c33870a2743b6b9d7eb2c67dfabbb-DONUTS",
+        "domain": "nic.dunlop",
+        "punycode": "nic.dunlop",
+        "name": "nic",
+        "extension": "dunlop",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.dunlop",
+            "b0.nic.dunlop",
+            "c0.nic.dunlop",
+            "a2.nic.dunlop"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-22T22:21:08Z",
+        "created_date_in_time": "2016-01-22T22:21:08Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-22T22:21:08Z",
+        "expiration_date_in_time": "2025-01-22T22:21:08Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "253d41c7ebf44cf8b94996ff717cf26e-DONUTS",
+        "name": "Senior Counsel - Intellectual Property",
+        "organization": "The Goodyear Tire & Rubber Company",
+        "street": "1144 East Market Street",
+        "city": "Akron",
+        "province": "OH",
+        "postal_code": "44315",
+        "country": "US",
+        "phone": "+1.3307962121",
+        "fax": "+1.3307962122",
+        "email": "ngtld-goodyear@cscglobal.com"
+    },
+    "administrative": {
+        "id": "c5adb64b68124aa0b6abbaa51a74142c-DONUTS",
+        "name": "Registry Operator",
+        "organization": "The Goodyear Tire ! Rubber Company",
+        "street": "1144 East Market Street",
+        "city": "Akron",
+        "province": "OH",
+        "postal_code": "44315",
+        "country": "US",
+        "phone": "+1.3307962121",
+        "fax": "+1.3307962122",
+        "email": "ngtld-goodyear@cscglobal.com"
+    },
+    "technical": {
+        "id": "c5adb64b68124aa0b6abbaa51a74142c-DONUTS",
+        "name": "Registry Operator",
+        "organization": "The Goodyear Tire ! Rubber Company",
+        "street": "1144 East Market Street",
+        "city": "Akron",
+        "province": "OH",
+        "postal_code": "44315",
+        "country": "US",
+        "phone": "+1.3307962121",
+        "fax": "+1.3307962122",
+        "email": "ngtld-goodyear@cscglobal.com"
+    }
+}

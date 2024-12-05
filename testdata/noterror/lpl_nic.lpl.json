@@ -1,0 +1,66 @@
+{
+    "domain": {
+        "id": "D57290644-CNIC",
+        "domain": "nic.lpl",
+        "punycode": "nic.lpl",
+        "name": "nic",
+        "extension": "lpl",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "d.nic.lpl",
+            "c.nic.lpl",
+            "b.nic.lpl",
+            "a.nic.lpl"
+        ],
+        "dnssec": true,
+        "created_date": "2015-10-05T16:10:30.0Z",
+        "created_date_in_time": "2015-10-05T16:10:30Z",
+        "updated_date": "2023-08-31T16:50:56.0Z",
+        "updated_date_in_time": "2023-08-31T16:50:56Z",
+        "expiration_date": "2025-10-05T23:59:59.0Z",
+        "expiration_date_in_time": "2025-10-05T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "name": "Richard Cook",
+        "organization": "LPLFinancial",
+        "street": "4707 Executive Drive",
+        "city": "San Diego",
+        "province": "CA",
+        "postal_code": "91921-3091",
+        "country": "US",
+        "phone": "+1.8587795818",
+        "email": "richard.cook@lpl.com"
+    },
+    "administrative": {
+        "name": "Richard Cook",
+        "organization": "LPLFinancial",
+        "street": "4707 Executive Drive",
+        "city": "San Diego",
+        "province": "CA",
+        "postal_code": "91921-3091",
+        "country": "US",
+        "phone": "+1.8587795818",
+        "email": "richard.cook@lpl.com"
+    },
+    "technical": {
+        "name": "Richard Cook",
+        "organization": "LPLFinancial",
+        "street": "4707 Executive Drive",
+        "city": "San Diego",
+        "province": "CA",
+        "postal_code": "91921-3091",
+        "country": "US",
+        "phone": "+1.8587795818",
+        "email": "richard.cook@lpl.com"
+    }
+}

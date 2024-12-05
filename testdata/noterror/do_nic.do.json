@@ -1,0 +1,87 @@
+{
+    "domain": {
+        "domain": "nic.do",
+        "punycode": "nic.do",
+        "name": "nic",
+        "extension": "do",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "phloem.uoregon.edu",
+            "ns2.nic.do",
+            "ns4.nic.do",
+            "a.lactld.org",
+            "ns1.nic.do",
+            "ns5.nic.do",
+            "ns.nic.do"
+        ],
+        "created_date": "2016-07-27T14:55:36.155Z",
+        "created_date_in_time": "2016-07-27T14:55:36.155Z",
+        "updated_date": "2024-02-23T19:14:36.298Z",
+        "updated_date_in_time": "2024-02-23T19:14:36.298Z",
+        "expiration_date": "2027-07-27T14:55:36.205Z",
+        "expiration_date_in_time": "2027-07-27T14:55:36.205Z"
+    },
+    "registrar": {
+        "name": "SysAdmin",
+        "country": "DO",
+        "phone": "8095350111"
+    },
+    "registrant": {
+        "id": "Redacted | Registry Policy",
+        "name": "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA",
+        "organization": "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA",
+        "street": "Redacted | Registry Policy, Redacted | Registry Policy",
+        "city": "Redacted | Registry Policy",
+        "province": "Redacted | Registry Policy",
+        "postal_code": "Redacted | Registry Policy",
+        "country": "Redacted | Registry Policy",
+        "phone": "Redacted | Registry Policy",
+        "phone_ext": "Redacted | Registry Policy",
+        "fax": "Redacted | Registry Policy",
+        "email": "redacted | registry policy"
+    },
+    "administrative": {
+        "id": "Redacted | Registry Policy",
+        "name": "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA",
+        "organization": "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA",
+        "street": "Redacted | Registry Policy, Redacted | Registry Policy",
+        "city": "Redacted | Registry Policy",
+        "province": "Redacted | Registry Policy",
+        "postal_code": "Redacted | Registry Policy",
+        "country": "Redacted | Registry Policy",
+        "phone": "Redacted | Registry Policy",
+        "phone_ext": "Redacted | Registry Policy",
+        "fax": "Redacted | Registry Policy",
+        "email": "redacted | registry policy"
+    },
+    "technical": {
+        "id": "Redacted | Registry Policy",
+        "name": "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA",
+        "organization": "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA",
+        "street": "Redacted | Registry Policy, Redacted | Registry Policy",
+        "city": "Redacted | Registry Policy",
+        "province": "Redacted | Registry Policy",
+        "postal_code": "Redacted | Registry Policy",
+        "country": "Redacted | Registry Policy",
+        "phone": "Redacted | Registry Policy",
+        "phone_ext": "Redacted | Registry Policy",
+        "fax": "Redacted | Registry Policy",
+        "email": "redacted | registry policy"
+    },
+    "billing": {
+        "id": "vqKxL-6qzTn",
+        "name": "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA",
+        "organization": "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA",
+        "street": "Redacted | Registry Policy, Redacted | Registry Policy",
+        "city": "Redacted | Registry Policy",
+        "province": "Redacted | Registry Policy",
+        "postal_code": "Redacted | Registry Policy",
+        "country": "Redacted | Registry Policy",
+        "phone": "Redacted | Registry Policy",
+        "phone_ext": "Redacted | Registry Policy",
+        "fax": "Redacted | Registry Policy",
+        "email": "redacted | registry policy"
+    }
+}
