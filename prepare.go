@@ -272,7 +272,6 @@ func prepareINT(text string) string {
 
 // prepareKZ do prepare the .kz domain
 func prepareKZ(text string) string {
-
 	groupTokens := map[string]string{
 		"Organization Using Domain Name": "Registrant ",
 		"Administrative Contact/Agent":   "Administrative ",
@@ -1507,7 +1506,6 @@ func prepareAT(text string) string {
 
 // prepareSK do prepare the .sk domain
 func prepareSK(text string) string {
-
 	tokens := map[string]string{
 		"Domain registrant":      "Registrant",
 		"Authorised Registrar":   "Registrar",

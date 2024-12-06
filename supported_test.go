@@ -3,12 +3,13 @@ package whoisparser
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/likexian/gokit/xfile"
-	"github.com/likexian/gokit/xjson"
-	"github.com/stretchr/testify/assert"
 	"os"
 	"strings"
 	"testing"
+
+	"github.com/likexian/gokit/xfile"
+	"github.com/likexian/gokit/xjson"
+	"github.com/stretchr/testify/assert"
 )
 
 const allTLDDir = "testdata/alltlds"

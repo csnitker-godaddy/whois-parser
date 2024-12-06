@@ -21,10 +21,11 @@ package whoisparser
 
 import (
 	"fmt"
-	"github.com/itlightning/dateparse"
 	"sort"
 	"strings"
 	"time"
+
+	"github.com/itlightning/dateparse"
 )
 
 // isDNSSecEnabled returns if domain dnssec is enabled

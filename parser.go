@@ -274,6 +274,7 @@ func parseContact(contact *Contact, name, value string) {
 
 var searchDomainRx1 = regexp.MustCompile(`(?i)\[?domain\:?(\s*\_?name)?\]?[\s\.]*\:?` +
 	`\s*([^\s\,\;\@\(\)]+)\.([^\s\,\;\(\)\.]{2,})`)
+
 var searchDomainRx2 = regexp.MustCompile(`(?i)\[?domain\:?(\s*\_?name)?\]?[\s\.]*\:?` +
 	`\s*([^\s\,\;\@\(\)\.]{2,})\n`)
 
