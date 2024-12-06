@@ -24,6 +24,7 @@ func IsContains(s []string, e string) bool {
 	return false
 }
 
+//nolint:lll
 func TestParseSupported(t *testing.T) {
 	extensions := []string{}
 	domains := map[string]map[string]bool{}
@@ -52,7 +53,7 @@ func TestParseSupported(t *testing.T) {
 			assert.Nil(t, err)
 
 			whoisInfo, err := Parse(whoisRaw)
-
+			assert.Nil(t, err, v.Name)
 			err = xjson.Dump(allTLDDir+"/"+v.Name+".json", whoisInfo)
 			assert.Nil(t, err)
 
@@ -108,26 +109,18 @@ func TestParseSupported(t *testing.T) {
 		domainInfo := domains[extension]
 		markdownContent += fmt.Sprintf("| .%s | %s | %s | %s | %s | %s | %s | %s | %s |\n",
 			extension,
-			boolToCheckbox(domainInfo["ParsedSuccessfully"]),
-			boolToCheckbox(domainInfo["DomainMatch"]),
-			boolToCheckbox(domainInfo["CreatedDateValid"]),
-			boolToCheckbox(domainInfo["UpdatedDateValid"]),
-			boolToCheckbox(domainInfo["ExpirationDateValid"]),
-			boolToCheckbox(domainInfo["RegistrarIDValid"]),
-			boolToCheckbox(domainInfo["RegistrarNameValid"]),
-			boolToCheckbox(domainInfo["WhoisServerValid"]))
+			boolToColoredCheckbox(domainInfo["ParsedSuccessfully"]),
+			boolToColoredCheckbox(domainInfo["DomainMatch"]),
+			boolToColoredCheckbox(domainInfo["CreatedDateValid"]),
+			boolToColoredCheckbox(domainInfo["UpdatedDateValid"]),
+			boolToColoredCheckbox(domainInfo["ExpirationDateValid"]),
+			boolToColoredCheckbox(domainInfo["RegistrarIDValid"]),
+			boolToColoredCheckbox(domainInfo["RegistrarNameValid"]),
+			boolToColoredCheckbox(domainInfo["WhoisServerValid"]))
 	}
 
 	err = xfile.WriteText(allTLDDir+"/SUPPORT.md", strings.TrimSpace(markdownContent))
 	assert.Nil(t, err)
-}
-
-// Helper function to convert boolean to checkbox representation
-func boolToCheckbox(value bool) string {
-	if value {
-		return "[x]"
-	}
-	return "[ ]"
 }
 
 // Helper function to convert boolean to colored checkbox representation

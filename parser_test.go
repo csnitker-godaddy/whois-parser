@@ -185,8 +185,8 @@ func TestParse(t *testing.T) {
 			if !IsContains([]string{
 				"", "ai", "at", "aq", "au", "br", "ca", "ch", "cn", "cx", "de",
 				"edu", "eu", "fr", "gov", "gs", "hk", "hm", "int", "it", "jp", "kr", "kz", "la", "mo", "nl",
-				"nz", "pl", "pm", "re", "ro", "ru", "su", "sg", "sk", "tf", "tk", "tw", "uk", "wf", "yt", "ir", "fi", "rs",
-				"ee", "dk", "by", "ua", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai", "se", "nu", "hu",
+				"nz", "pl", "pm", "re", "ro", "ru", "su", "sg", "sk", "tf", "tk", "tw", "uk", "wf", "yt", "ir", "fi",
+				"rs", "ee", "dk", "by", "ua", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai", "se", "nu", "hu",
 			}, extension) {
 				assert.NotZero(t, whoisInfo.Registrar.ID)
 			}
@@ -201,8 +201,8 @@ func TestParse(t *testing.T) {
 			if !IsContains([]string{
 				"", "aero", "ai", "at", "aq", "asia", "au", "br", "ch", "cn", "de",
 				"edu", "gov", "hk", "hm", "int", "jp", "kr", "kz", "la", "london", "love", "mo",
-				"museum", "name", "nl", "nz", "pl", "ru", "sk", "sg", "su", "tk", "top", "ir", "fi", "rs", "dk", "by", "ua",
-				"xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai", "se", "nu", "hu",
+				"museum", "name", "nl", "nz", "pl", "ru", "sk", "sg", "su", "tk", "top", "ir", "fi", "rs", "dk", "by",
+				"ua", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai", "se", "nu", "hu",
 			}, extension) {
 				assert.NotZero(t, whoisInfo.Registrar.ReferralURL)
 			}

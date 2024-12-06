@@ -124,7 +124,9 @@ func parseDateString(datetime string) (time.Time, error) {
 	datetime = strings.Trim(datetime, ".")
 	datetime = strings.ReplaceAll(datetime, ". ", "-")
 
-	result, err := dateparse.ParseAny(datetime, dateparse.RetryAmbiguousDateWithSwap(true), dateparse.AllowPartialStringMatch(true))
+	result, err := dateparse.ParseAny(datetime,
+		dateparse.RetryAmbiguousDateWithSwap(true),
+		dateparse.AllowPartialStringMatch(true))
 	if err != nil {
 		formats := [...]string{
 			// Date & time formats
