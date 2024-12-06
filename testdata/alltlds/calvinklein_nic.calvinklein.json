@@ -5,6 +5,7 @@
         "punycode": "nic.calvinklein",
         "name": "nic",
         "extension": "calvinklein",
+        "whois_server": "whois.nic.calvinklein",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

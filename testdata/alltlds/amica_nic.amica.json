@@ -5,6 +5,7 @@
         "punycode": "nic.amica",
         "name": "nic",
         "extension": "amica",
+        "whois_server": "whois.nic.amica",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.analytics",
         "name": "nic",
         "extension": "analytics",
+        "whois_server": "whois.nic.analytics",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

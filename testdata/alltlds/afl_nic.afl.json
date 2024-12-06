@@ -5,6 +5,7 @@
         "punycode": "nic.afl",
         "name": "nic",
         "extension": "afl",
+        "whois_server": "whois.nic.afl",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

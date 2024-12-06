@@ -5,6 +5,7 @@
         "punycode": "nic.banamex",
         "name": "nic",
         "extension": "banamex",
+        "whois_server": "whois.nic.banamex",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

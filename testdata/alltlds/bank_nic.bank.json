@@ -5,6 +5,7 @@
         "punycode": "nic.bank",
         "name": "nic",
         "extension": "bank",
+        "whois_server": "whois.nic.bank",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

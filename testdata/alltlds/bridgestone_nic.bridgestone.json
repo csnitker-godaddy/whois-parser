@@ -5,6 +5,7 @@
         "punycode": "nic.bridgestone",
         "name": "nic",
         "extension": "bridgestone",
+        "whois_server": "whois.nic.bridgestone",
         "status": [
             "ok"
         ],

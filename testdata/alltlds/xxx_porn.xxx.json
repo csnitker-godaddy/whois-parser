@@ -5,6 +5,7 @@
         "punycode": "porn.xxx",
         "name": "porn",
         "extension": "xxx",
+        "whois_server": "whois.PORN.XXX",
         "status": [
             "serverTransferProhibited",
             "transferPeriod"

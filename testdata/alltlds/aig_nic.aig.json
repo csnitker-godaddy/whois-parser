@@ -5,6 +5,7 @@
         "punycode": "nic.aig",
         "name": "nic",
         "extension": "aig",
+        "whois_server": "whois.nic.aig",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

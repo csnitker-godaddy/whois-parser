@@ -5,6 +5,7 @@
         "punycode": "vas.aero",
         "name": "vas",
         "extension": "aero",
+        "whois_server": "whois.VAS.AERO",
         "status": [
             "clientTransferProhibited"
         ],

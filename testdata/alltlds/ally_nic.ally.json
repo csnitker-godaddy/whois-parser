@@ -5,6 +5,7 @@
         "punycode": "nic.ally",
         "name": "nic",
         "extension": "ally",
+        "whois_server": "whois.nic.ally",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

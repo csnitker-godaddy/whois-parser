@@ -5,6 +5,7 @@
         "punycode": "nic.amex",
         "name": "nic",
         "extension": "amex",
+        "whois_server": "whois.nic.amex",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

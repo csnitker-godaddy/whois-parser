@@ -5,6 +5,7 @@
         "punycode": "nic.film",
         "name": "nic",
         "extension": "film",
+        "whois_server": "whois.nic.film",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.americanexpress",
         "name": "nic",
         "extension": "americanexpress",
+        "whois_server": "whois.nic.americanexpress",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

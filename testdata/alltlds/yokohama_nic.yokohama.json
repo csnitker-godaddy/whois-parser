@@ -5,6 +5,7 @@
         "punycode": "nic.yokohama",
         "name": "nic",
         "extension": "yokohama",
+        "whois_server": "whois.NIC.YODOBASHI",
         "status": [
             "ok"
         ],

@@ -5,6 +5,7 @@
         "punycode": "nic.bible",
         "name": "nic",
         "extension": "bible",
+        "whois_server": "whois.nic.bible",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

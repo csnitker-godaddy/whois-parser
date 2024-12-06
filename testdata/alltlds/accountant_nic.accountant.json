@@ -5,6 +5,7 @@
         "punycode": "nic.accountant",
         "name": "nic",
         "extension": "accountant",
+        "whois_server": "whois.nic.accountant",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.baseball",
         "name": "nic",
         "extension": "baseball",
+        "whois_server": "whois.nic.baseball",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

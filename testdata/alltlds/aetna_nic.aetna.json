@@ -5,6 +5,7 @@
         "punycode": "nic.aetna",
         "name": "nic",
         "extension": "aetna",
+        "whois_server": "whois.nic.aetna",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

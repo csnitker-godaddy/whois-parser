@@ -5,6 +5,7 @@
         "punycode": "nic.aramco",
         "name": "nic",
         "extension": "aramco",
+        "whois_server": "whois.nic.aramco",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

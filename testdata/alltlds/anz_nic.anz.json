@@ -5,6 +5,7 @@
         "punycode": "nic.anz",
         "name": "nic",
         "extension": "anz",
+        "whois_server": "whois.nic.anz",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

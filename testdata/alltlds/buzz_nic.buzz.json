@@ -5,6 +5,7 @@
         "punycode": "nic.buzz",
         "name": "nic",
         "extension": "buzz",
+        "whois_server": "whois.nic.buzz",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

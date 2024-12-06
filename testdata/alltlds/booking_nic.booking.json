@@ -5,6 +5,7 @@
         "punycode": "nic.booking",
         "name": "nic",
         "extension": "booking",
+        "whois_server": "whois.nic.booking",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

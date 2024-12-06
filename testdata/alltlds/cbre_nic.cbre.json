@@ -5,6 +5,7 @@
         "punycode": "nic.cbre",
         "name": "nic",
         "extension": "cbre",
+        "whois_server": "whois.nic.cbn",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

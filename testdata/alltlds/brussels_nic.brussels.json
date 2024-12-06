@@ -5,6 +5,7 @@
         "punycode": "nic.brussels",
         "name": "nic",
         "extension": "brussels",
+        "whois_server": "whois.nic.brussels",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited"

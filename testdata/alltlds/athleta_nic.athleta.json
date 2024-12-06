@@ -5,6 +5,7 @@
         "punycode": "nic.athleta",
         "name": "nic",
         "extension": "athleta",
+        "whois_server": "whois.nic.athleta",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

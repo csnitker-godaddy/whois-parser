@@ -5,6 +5,7 @@
         "punycode": "nic.brother",
         "name": "nic",
         "extension": "brother",
+        "whois_server": "whois.nic.brother",
         "status": [
             "ok"
         ],

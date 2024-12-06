@@ -5,6 +5,7 @@
         "punycode": "nic.basketball",
         "name": "nic",
         "extension": "basketball",
+        "whois_server": "whois.nic.basketball",
         "status": [
             "ok"
         ],

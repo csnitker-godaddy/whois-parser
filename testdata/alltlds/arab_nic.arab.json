@@ -5,6 +5,7 @@
         "punycode": "nic.arab",
         "name": "nic",
         "extension": "arab",
+        "whois_server": "whois.nic.arab",
         "status": [
             "ok"
         ],

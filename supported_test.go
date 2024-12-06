@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/likexian/gokit/xfile"
+	"github.com/likexian/gokit/xjson"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"strings"
@@ -11,16 +12,6 @@ import (
 )
 
 const allTLDDir = "testdata/alltlds"
-
-func ContainsAny(s string, subs []string) bool {
-	for _, sub := range subs {
-		if strings.Contains(s, sub) {
-			return true
-		}
-	}
-
-	return false
-}
 
 func IsContains(s []string, e string) bool {
 	for _, a := range s {
@@ -35,10 +26,8 @@ func IsContains(s []string, e string) bool {
 func TestParseSupported(t *testing.T) {
 	extensions := []string{}
 	domains := map[string]map[string]bool{}
-	parsedSuccessfullyFailed := map[string]map[string]bool{}
-	markdownContent := "| TLD | Parsed Successfully | Domain Match | Created Date Valid | Updated Date Valid | Expiration Date Valid | Registrar ID Valid | Registrar Name Valid |\n"
-	markdownContent += "|-----|--------------------|--------------|--------------------|--------------------|----------------------|-----------------|------------------|\n"
-
+	markdownContent := "| TLD | Parsed Successfully | Domain Match | Created Date Valid | Updated Date Valid | Expiration Date Valid | Registrar ID Valid | Registrar Name Valid | Whois Server Valid |\n"
+	markdownContent += "|-----|--------------------|--------------|--------------------|--------------------|----------------------|-----------------|------------------|----------------|\n"
 	dirs, err := xfile.ListDir(allTLDDir, xfile.TypeFile, -1)
 	assert.Nil(t, err)
 
@@ -62,6 +51,10 @@ func TestParseSupported(t *testing.T) {
 			assert.Nil(t, err)
 
 			whoisInfo, err := Parse(whoisRaw)
+
+			err = xjson.Dump(allTLDDir+"/"+v.Name+".json", whoisInfo)
+			assert.Nil(t, err)
+
 			parsedSuccessfully := err == nil && whoisInfo.Domain != nil && whoisInfo.Domain.Punycode == domain
 
 			domainMatch := false
@@ -76,6 +69,8 @@ func TestParseSupported(t *testing.T) {
 			registrarIDValid := whoisInfo.Registrar != nil && whoisInfo.Registrar.ID != ""
 			registrarNameValid := whoisInfo.Registrar != nil && whoisInfo.Registrar.Name != ""
 
+			whoisServerValid := whoisInfo.Domain != nil && whoisInfo.Domain.WhoisServer != ""
+
 			if _, ok := domains[extension]; !ok {
 				domains[extension] = map[string]bool{
 					"ParsedSuccessfully":  false,
@@ -85,6 +80,7 @@ func TestParseSupported(t *testing.T) {
 					"ExpirationDateValid": false,
 					"RegistrarIDValid":    false,
 					"RegistrarNameValid":  false,
+					"WhoisServerValid":    false,
 				}
 				extensions = append(extensions, extension)
 			}
@@ -96,27 +92,7 @@ func TestParseSupported(t *testing.T) {
 			domains[extension]["ExpirationDateValid"] = domains[extension]["ExpirationDateValid"] || expirationDateValid
 			domains[extension]["RegistrarIDValid"] = domains[extension]["RegistrarIDValid"] || registrarIDValid
 			domains[extension]["RegistrarNameValid"] = domains[extension]["RegistrarNameValid"] || registrarNameValid
-
-			if !parsedSuccessfully {
-				if _, ok := parsedSuccessfullyFailed[extension]; !ok {
-					parsedSuccessfullyFailed[extension] = map[string]bool{
-						"ParsedSuccessfully":  false,
-						"DomainMatch":         false,
-						"CreatedDateValid":    false,
-						"UpdatedDateValid":    false,
-						"ExpirationDateValid": false,
-						"RegistrarIDValid":    false,
-						"RegistrarNameValid":  false,
-					}
-				}
-				parsedSuccessfullyFailed[extension]["ParsedSuccessfully"] = parsedSuccessfullyFailed[extension]["ParsedSuccessfully"] || parsedSuccessfully
-				parsedSuccessfullyFailed[extension]["DomainMatch"] = parsedSuccessfullyFailed[extension]["DomainMatch"] || domainMatch
-				parsedSuccessfullyFailed[extension]["CreatedDateValid"] = parsedSuccessfullyFailed[extension]["CreatedDateValid"] || createdDateValid
-				parsedSuccessfullyFailed[extension]["UpdatedDateValid"] = parsedSuccessfullyFailed[extension]["UpdatedDateValid"] || updatedDateValid
-				parsedSuccessfullyFailed[extension]["ExpirationDateValid"] = parsedSuccessfullyFailed[extension]["ExpirationDateValid"] || expirationDateValid
-				parsedSuccessfullyFailed[extension]["RegistrarIDValid"] = parsedSuccessfullyFailed[extension]["RegistrarIDValid"] || registrarIDValid
-				parsedSuccessfullyFailed[extension]["RegistrarNameValid"] = parsedSuccessfullyFailed[extension]["RegistrarNameValid"] || registrarNameValid
-			}
+			domains[extension]["WhoisServerValid"] = domains[extension]["WhoisServerValid"] || whoisServerValid
 
 			if t.Failed() {
 				t.Logf("whoisRaw: %s", whoisRaw)
@@ -129,25 +105,7 @@ func TestParseSupported(t *testing.T) {
 
 	for _, extension := range extensions {
 		domainInfo := domains[extension]
-		if domainInfo["ParsedSuccessfully"] {
-			markdownContent += fmt.Sprintf("| .%s | %s | %s | %s | %s | %s | %s | %s |\n",
-				extension,
-				boolToCheckbox(domainInfo["ParsedSuccessfully"]),
-				boolToCheckbox(domainInfo["DomainMatch"]),
-				boolToCheckbox(domainInfo["CreatedDateValid"]),
-				boolToCheckbox(domainInfo["UpdatedDateValid"]),
-				boolToCheckbox(domainInfo["ExpirationDateValid"]),
-				boolToCheckbox(domainInfo["RegistrarIDValid"]),
-				boolToCheckbox(domainInfo["RegistrarNameValid"]))
-		}
-	}
-
-	markdownContent += "\n\n### Failed TLDs\n"
-	markdownContent += "| TLD | Parsed Successfully | Domain Match | Created Date Valid | Updated Date Valid | Expiration Date Valid | Registrar ID Valid | Registrar Name Valid |\n"
-	markdownContent += "|-----|--------------------|--------------|--------------------|--------------------|----------------------|-----------------|------------------|\n"
-
-	for extension, domainInfo := range parsedSuccessfullyFailed {
-		markdownContent += fmt.Sprintf("| .%s | %s | %s | %s | %s | %s | %s | %s |\n",
+		markdownContent += fmt.Sprintf("| .%s | %s | %s | %s | %s | %s | %s | %s | %s |\n",
 			extension,
 			boolToCheckbox(domainInfo["ParsedSuccessfully"]),
 			boolToCheckbox(domainInfo["DomainMatch"]),
@@ -155,7 +113,8 @@ func TestParseSupported(t *testing.T) {
 			boolToCheckbox(domainInfo["UpdatedDateValid"]),
 			boolToCheckbox(domainInfo["ExpirationDateValid"]),
 			boolToCheckbox(domainInfo["RegistrarIDValid"]),
-			boolToCheckbox(domainInfo["RegistrarNameValid"]))
+			boolToCheckbox(domainInfo["RegistrarNameValid"]),
+			boolToCheckbox(domainInfo["WhoisServerValid"]))
 	}
 
 	err = xfile.WriteText(allTLDDir+"/SUPPORT.md", strings.TrimSpace(markdownContent))

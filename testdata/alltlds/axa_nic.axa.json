@@ -5,6 +5,7 @@
         "punycode": "nic.axa",
         "name": "nic",
         "extension": "axa",
+        "whois_server": "whois.nic.axa",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

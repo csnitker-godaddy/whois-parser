@@ -5,6 +5,7 @@
         "punycode": "google.aero",
         "name": "google",
         "extension": "aero",
+        "whois_server": "whois.GOOGLE.AERO",
         "status": [
             "ok"
         ],
