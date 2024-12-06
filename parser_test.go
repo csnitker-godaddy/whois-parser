@@ -160,8 +160,8 @@ func TestParse(t *testing.T) {
 			}
 			// END TODO
 
-			if !IsContains([]string{"", "at", "aq", "br", "ch", "cl", "de", "edu", "eu", "fr", "gov", "hk",
-				"hm", "int", "it", "jp", "kr", "kz", "mo", "nl", "nz", "pl", "pm", "re", "ro", "ru", "su", "tf", "ee",
+			if !IsContains([]string{"", "am", "at", "aq", "br", "ch", "cl", "de", "edu", "eu", "fr", "gov", "hk",
+				"hm", "int", "is", "it", "jp", "kr", "kz", "lv", "mo", "mq", "nl", "nz", "pl", "pm", "re", "ro", "ru", "su", "tf", "ee",
 				"tk", "travel", "tv", "tw", "uk", "wf", "yt", "ir", "fi", "rs", "dk", "by", "ua",
 				"xn--mgba3a4f16a", "xn--p1ai", "sg", "se", "sk", "nu", "hu"}, extension) {
 				assert.NotZero(t, whoisInfo.Domain.ID, "domain id is empty")
@@ -172,17 +172,17 @@ func TestParse(t *testing.T) {
 				assert.NotZero(t, whoisInfo.Domain.Status, "status is empty")
 			}
 
-			if ContainsAny(whoisRaw, []string{"signedDelegation", "Signed delegation", "Signed "}) {
+			if ContainsAny(whoisRaw, []string{"signedDelegation", " signed delegation", "Signed delegation", "Signed"}) {
 				assert.True(t, whoisInfo.Domain.DNSSec, "dnssec is false")
 			} else {
 				assert.False(t, whoisInfo.Domain.DNSSec, "dnssec is true")
 			}
 
-			if !IsContains([]string{"aero", "ai", "at", "aq", "asia", "berlin", "biz", "br", "ch", "cn",
-				"co", "cymru", "cl", "cx", "de", "edu", "eu", "fr", "gov", "hk", "hm", "in", "int", "it", "jp", "kr",
-				"la", "london", "me", "mo", "museum", "name", "nl", "nz", "pm", "re", "ro", "ru", "sh", "sk",
+			if !IsContains([]string{"aero", "ai", "am", "at", "aq", "asia", "berlin", "biz", "br", "ch", "cn",
+				"co", "cymru", "cl", "cx", "de", "edu", "eu", "fr", "gov", "hk", "hm", "ht", "in", "int", "it", "jp", "kr",
+				"la", "lb", "london", "me", "mo", "museum", "name", "nl", "nz", "pm", "re", "ro", "ru", "sh", "sk",
 				"kz", "su", "tel", "ee", "tf", "tk", "travel", "tw", "uk", "us", "wales", "wf", "xxx",
-				"yt", "ir", "fi", "rs", "dk", "by", "ua", "sg", "st", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai",
+				"yt", "ir", "fi", "rs", "dk", "by", "ua", "sg", "so", "st", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai",
 				"se", "nu", "hu"}, extension) {
 				if whoisInfo.Registrar != nil && !IsContains([]string{"9999", "119"}, whoisInfo.Registrar.ID) {
 					assert.NotZero(t, whoisInfo.Domain.WhoisServer, "whois server is empty: %s", whoisRaw)
@@ -193,7 +193,7 @@ func TestParse(t *testing.T) {
 				assert.NotZero(t, whoisInfo.Domain.NameServers, "name servers is empty")
 			}
 
-			if !IsContains([]string{"aq", "ai", "at", "au", "de", "eu", "gov", "hm", "name", "nl", "nz", "ir", "tk",
+			if !IsContains([]string{"aq", "ai", "at", "au", "de", "eu", "gov", "hm", "lv", "mq", "name", "nl", "nz", "ir", "tk",
 				"xn--mgba3a4f16a"}, extension) &&
 				!strings.Contains(domain, "ac.jp") &&
 				!strings.Contains(domain, "co.jp") &&
@@ -208,27 +208,27 @@ func TestParse(t *testing.T) {
 				assert.NotNil(t, whoisInfo.Domain.UpdatedDateInTime, "updated date in time is empty")
 			}
 
-			if !IsContains([]string{"", "ai", "at", "aq", "au", "br", "ch", "de", "eu", "gov", "ee",
-				"hm", "int", "name", "nl", "nz", "tk", "kz", "hu", "uz"}, extension) &&
+			if !IsContains([]string{"", "ai", "am", "at", "aq", "au", "br", "ch", "de", "eu", "gov", "ee",
+				"hm", "int", "lv", "mq", "name", "nl", "nz", "tk", "kz", "hu", "uz"}, extension) &&
 				!strings.Contains(domain, "ac.jp") &&
 				!strings.Contains(domain, "co.jp") &&
 				!strings.Contains(domain, "go.jp") &&
 				!strings.Contains(domain, "ne.jp") {
-				assert.NotZero(t, whoisInfo.Domain.ExpirationDate)
-				assert.NotNil(t, whoisInfo.Domain.ExpirationDateInTime)
+				assert.NotZero(t, whoisInfo.Domain.ExpirationDate, "expiration date is empty")
+				assert.NotNil(t, whoisInfo.Domain.ExpirationDateInTime, "expiration date in time is empty")
 			}
 
-			if !IsContains([]string{"", "ai", "at", "aq", "au", "br", "bf", "ca", "ch", "cn", "cl", "cx", "de",
-				"edu", "eu", "fr", "gov", "gs", "hk", "hm", "int", "it", "jp", "kr", "kz", "la", "mo", "nl",
-				"nz", "pl", "pm", "re", "ro", "ru", "su", "sk", "tf", "tk", "tw", "uk", "wf", "yt", "ir", "fi", "rs",
+			if !IsContains([]string{"", "ai", "am", "at", "aq", "au", "br", "bf", "ca", "ch", "cn", "cl", "cx", "de",
+				"edu", "eu", "fr", "gov", "gn", "gs", "hk", "hm", "ht", "int", "is", "it", "jp", "kr", "kz", "la", "lb", "mo", "mq", "nl",
+				"nz", "pl", "pm", "re", "ro", "ru", "so", "su", "sk", "tf", "tk", "tw", "uk", "wf", "yt", "ir", "fi", "rs",
 				"ee", "dk", "by", "ua", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai", "sg", "se", "nu", "hu"}, extension) {
-				if assert.NotZero(t, whoisInfo.Registrar, "registrar is nil") {
+				if assert.NotZero(t, whoisInfo.Registrar, "registrar id is nil") {
 					assert.NotZero(t, whoisInfo.Registrar.ID, "registrar id is empty")
 				}
 			}
 
 			if !IsContains([]string{"", "at", "aq", "br", "de",
-				"edu", "gov", "hm", "int", "jp", "mo", "tk", "ir", "dk", "xn--mgba3a4f16a", "hu"}, extension) {
+				"edu", "gov", "hm", "int", "is", "jp", "mo", "mq", "tk", "ir", "dk", "xn--mgba3a4f16a", "hu"}, extension) {
 				if assert.NotZero(t, whoisInfo.Registrar, "registrar is nil") {
 					assert.NotZero(t, whoisInfo.Registrar.Name, "registrar name is empty")
 				}
