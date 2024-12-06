@@ -1,0 +1,43 @@
+{
+    "domain": {
+        "id": "D21089-IN",
+        "domain": "google.in",
+        "punycode": "google.in",
+        "name": "google",
+        "extension": "in",
+        "status": [
+            "clientTransferProhibited",
+            "clientDeleteProhibited",
+            "clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns4.google.com",
+            "ns2.google.com",
+            "ns1.google.com",
+            "ns3.google.com"
+        ],
+        "created_date": "2005-02-14T20:35:14Z",
+        "created_date_in_time": "2005-02-14T20:35:14Z",
+        "updated_date": "2019-08-08T18:39:47Z",
+        "updated_date_in_time": "2019-08-08T18:39:47Z",
+        "expiration_date": "2020-02-14T20:35:14Z",
+        "expiration_date_in_time": "2020-02-14T20:35:14Z"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor Inc.",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US",
+        "email": "please contact the registrar listed above"
+    },
+    "administrative": {
+        "email": "please contact the registrar listed above"
+    },
+    "technical": {
+        "email": "please contact the registrar listed above"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "domain": "google.tk",
+        "punycode": "google.tk",
+        "name": "google",
+        "extension": "tk",
+        "status": [
+            "Active"
+        ],
+        "name_servers": [
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns1.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "12/18/2001",
+        "created_date_in_time": "2001-12-18T00:00:00Z",
+        "expiration_date": "03/02/2020",
+        "expiration_date_in_time": "2020-03-02T00:00:00Z"
+    },
+    "registrant": {
+        "name": "Domain Administrator",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "postal_code": "94043",
+        "country": "U.S.A.",
+        "phone": "+1-6502530000",
+        "fax": "+1-6502530001",
+        "email": "dns-admin@google.com"
+    },
+    "administrative": {
+        "name": "Domain Administrator",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "postal_code": "94043",
+        "country": "U.S.A.",
+        "phone": "+1-6502530000",
+        "fax": "+1-6502530001",
+        "email": "dns-admin@google.com"
+    },
+    "technical": {
+        "name": "Domain Administrator",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "postal_code": "94043",
+        "country": "U.S.A.",
+        "phone": "+1-6502530000",
+        "fax": "+1-6502530001",
+        "email": "dns-admin@google.com"
+    },
+    "billing": {
+        "name": "Domain Administrator",
+        "organization": "MarkMonitor Inc.",
+        "street": "3540 E Longwing Lane Suite 300",
+        "city": "Meridian",
+        "postal_code": "83646",
+        "country": "U.S.A.",
+        "phone": "+1-2083895740",
+        "fax": "+1-208-3895771",
+        "email": "ccops@markmonitor.com"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "domain": {
+        "id": "D7898338-CNIC",
+        "domain": "slb.coop",
+        "punycode": "slb.coop",
+        "name": "slb",
+        "extension": "coop",
+        "whois_server": "whois.gandi.net",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns-27-a.gandi.net",
+            "ns-138-b.gandi.net",
+            "ns-148-c.gandi.net"
+        ],
+        "created_date": "2014-07-04T10:24:18.0Z",
+        "created_date_in_time": "2014-07-04T10:24:18Z",
+        "updated_date": "2019-07-09T09:44:08.0Z",
+        "updated_date_in_time": "2019-07-09T09:44:08Z",
+        "expiration_date": "2020-07-04T23:59:59.0Z",
+        "expiration_date_in_time": "2020-07-04T23:59:59Z"
+    },
+    "registrar": {
+        "id": "81",
+        "name": "Gandi SAS",
+        "phone": "+33.170377661",
+        "email": "abuse@support.gandi.net",
+        "referral_url": "http://www.gandi.net/"
+    },
+    "registrant": {
+        "organization": "Cooperativa de Serveis Linguistics de Barcelona (SLB), SCCL",
+        "province": "B",
+        "country": "ES",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

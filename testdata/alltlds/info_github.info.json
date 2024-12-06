@@ -1,0 +1,46 @@
+{
+    "domain": {
+        "id": "D51322538-LRMS",
+        "domain": "github.info",
+        "punycode": "github.info",
+        "name": "github",
+        "extension": "info",
+        "whois_server": "whois.godaddy.com",
+        "status": [
+            "clientTransferProhibited",
+            "clientUpdateProhibited",
+            "clientRenewProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns.romania-webhosting.com",
+            "ns.clausweb.ro",
+            "ns.registar.ro"
+        ],
+        "created_date": "2014-01-05T12:18:22Z",
+        "created_date_in_time": "2014-01-05T12:18:22Z",
+        "updated_date": "2019-01-06T12:04:19Z",
+        "updated_date_in_time": "2019-01-06T12:04:19Z",
+        "expiration_date": "2020-01-05T12:18:22Z",
+        "expiration_date_in_time": "2020-01-05T12:18:22Z"
+    },
+    "registrar": {
+        "id": "146",
+        "name": "GoDaddy.com, LLC",
+        "phone": "+1.4806242505",
+        "email": "abuse@godaddy.com",
+        "referral_url": "http://www.godaddy.com"
+    },
+    "registrant": {
+        "organization": "Tnx",
+        "province": "Bacau",
+        "country": "RO",
+        "email": "select contact domain holder link at https://www.godaddy.com/whois/results.aspx?domain=github.info"
+    },
+    "administrative": {
+        "email": "select contact domain holder link at https://www.godaddy.com/whois/results.aspx?domain=github.info"
+    },
+    "technical": {
+        "email": "select contact domain holder link at https://www.godaddy.com/whois/results.aspx?domain=github.info"
+    }
+}

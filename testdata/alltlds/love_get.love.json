@@ -1,0 +1,63 @@
+{
+    "domain": {
+        "id": "D7924624-CNIC",
+        "domain": "get.love",
+        "punycode": "get.love",
+        "name": "get",
+        "extension": "love",
+        "whois_server": "whois.nic.love",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns01.merchantlaw.com",
+            "ns02.merchantlaw.com"
+        ],
+        "created_date": "2015-05-06T10:39:53.0Z",
+        "created_date_in_time": "2015-05-06T10:39:53Z",
+        "updated_date": "2019-04-30T00:17:23.0Z",
+        "updated_date_in_time": "2019-04-30T00:17:23Z",
+        "expiration_date": "2020-05-06T23:59:59.0Z",
+        "expiration_date_in_time": "2020-05-06T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Merchant Law Group LLP",
+        "phone": "+1.3063597777",
+        "email": "info@get.love",
+        "referral_url": "https://get.love/"
+    },
+    "registrant": {
+        "name": "IT Manager",
+        "organization": "Merchant Law Group LLP",
+        "street": "100 - 2401 Saskatchewan Drive, Regina",
+        "city": "Saskatchewan",
+        "postal_code": "S4P 4H8",
+        "country": "CA",
+        "phone": "+1.3063597777",
+        "fax": "+1.3065223299",
+        "email": "info@get.love"
+    },
+    "administrative": {
+        "name": "IT Manager",
+        "organization": "Merchant Law Group LLP",
+        "street": "100 - 2401 Saskatchewan Drive, Regina",
+        "city": "Saskatchewan",
+        "postal_code": "S4P 4H8",
+        "country": "CA",
+        "phone": "+1.3063597777",
+        "fax": "+1.3065223299",
+        "email": "info@get.love"
+    },
+    "technical": {
+        "name": "IT Manager",
+        "organization": "Merchant Law Group LLP",
+        "street": "100 - 2401 Saskatchewan Drive, Regina",
+        "city": "Saskatchewan",
+        "postal_code": "S4P 4H8",
+        "country": "CA",
+        "phone": "+1.3063597777",
+        "fax": "+1.3065223299",
+        "email": "info@get.love"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "domain": {
+        "id": "D102500000000000117-LRMS",
+        "domain": "google.mobi",
+        "punycode": "google.mobi",
+        "name": "google",
+        "extension": "mobi",
+        "whois_server": "whois.markmonitor.com",
+        "status": [
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns4.google.com",
+            "ns3.google.com",
+            "ns2.google.com",
+            "ns1.google.com"
+        ],
+        "created_date": "2006-05-11T14:08:42-0700",
+        "created_date_in_time": "2006-05-11T14:08:42-07:00",
+        "updated_date": "2019-04-09T02:38:35-0700",
+        "updated_date_in_time": "2019-04-09T02:38:35-07:00",
+        "expiration_date": "2020-05-11T00:00:00-0700",
+        "expiration_date_in_time": "2020-05-11T00:00:00-07:00"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor, Inc.",
+        "phone": "+1.2083895740",
+        "email": "abusecomplaints@markmonitor.com",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US"
+    },
+    "administrative": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US"
+    },
+    "technical": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US"
+    }
+}

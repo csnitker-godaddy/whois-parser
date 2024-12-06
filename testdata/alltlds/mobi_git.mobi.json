@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "D8551731-MOBI",
+        "domain": "git.mobi",
+        "punycode": "git.mobi",
+        "name": "git",
+        "extension": "mobi",
+        "whois_server": "whois.Rebel.com",
+        "status": [
+            "CLIENT_TRANSFER_PROHIBITED",
+            "CLIENT_UPDATE_PROHIBITED"
+        ],
+        "name_servers": [
+            "ns1.parklogic.com",
+            "ns2.parklogic.com"
+        ],
+        "created_date": "2015-05-19T03:25:15Z",
+        "created_date_in_time": "2015-05-19T03:25:15Z",
+        "updated_date": "2019-08-25T04:21:56Z",
+        "updated_date_in_time": "2019-08-25T04:21:56Z",
+        "expiration_date": "2020-05-19T03:25:15Z",
+        "expiration_date_in_time": "2020-05-19T03:25:15Z"
+    },
+    "registrar": {
+        "id": "600",
+        "name": "Rebel.com",
+        "phone": "+1.8664973235",
+        "email": "abuse@rebel.com",
+        "referral_url": "http://www.Rebel.com"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "DotBadger Domains",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Praha",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "CZ",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "DotBadger Domains",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "DotBadger Domains",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    },
+    "reseller": {
+        "organization": "Rebel.com"
+    }
+}

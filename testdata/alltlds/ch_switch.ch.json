@@ -1,0 +1,21 @@
+{
+    "domain": {
+        "domain": "switch.ch",
+        "punycode": "switch.ch",
+        "name": "switch",
+        "extension": "ch",
+        "name_servers": [
+            "ns2.switch.ch",
+            "ns3.switch.ch",
+            "scsnms.switch.ch"
+        ],
+        "dnssec": true,
+        "created_date": "before 1 January 1996"
+    },
+    "registrar": {
+        "name": "Gandi SAS",
+        "street": "boulevard Massena 63-65, FR-75013 Paris",
+        "phone": "+33 170377661",
+        "email": "support-en@support.gandi.net, support-fr@support.gandi.net"
+    }
+}

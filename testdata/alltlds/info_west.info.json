@@ -1,0 +1,76 @@
+{
+    "domain": {
+        "id": "D34417-LRMS",
+        "domain": "west.info",
+        "punycode": "west.info",
+        "name": "west",
+        "extension": "info",
+        "whois_server": "whois.psi-usa.info",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "dns1.ipmanagerinc.net",
+            "dns2.ipmanagerinc.net",
+            "dns3.ipmanagerinc.net"
+        ],
+        "created_date": "2001-07-31T21:14:42Z",
+        "created_date_in_time": "2001-07-31T21:14:42Z",
+        "updated_date": "2019-09-20T00:17:40Z",
+        "updated_date_in_time": "2019-09-20T00:17:40Z",
+        "expiration_date": "2020-07-31T21:14:42Z",
+        "expiration_date_in_time": "2020-07-31T21:14:42Z"
+    },
+    "registrar": {
+        "id": "151",
+        "name": "PSI-USA, Inc. dba Domain Robot",
+        "phone": "+49.94159559482",
+        "email": "domain-abuse@psi-usa.info",
+        "referral_url": "https://www.psi-usa.info"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Imperial Tobacco Limited",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "GB",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "GB",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "https://contact.domain-robot.org/west.info"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "https://contact.domain-robot.org/west.info"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "https://contact.domain-robot.org/west.info"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "D40741417-BIZ",
+        "domain": "github.biz",
+        "punycode": "github.biz",
+        "name": "github",
+        "extension": "biz",
+        "status": [
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns2.p16.dynect.net",
+            "ns3.p16.dynect.net",
+            "ns1.p16.dynect.net",
+            "ns4.p16.dynect.net"
+        ],
+        "created_date": "2010-08-05T17:04:27Z",
+        "created_date_in_time": "2010-08-05T17:04:27Z",
+        "updated_date": "2018-10-21T11:00:23Z",
+        "updated_date_in_time": "2018-10-21T11:00:23Z",
+        "expiration_date": "2020-08-04T23:59:59Z",
+        "expiration_date_in_time": "2020-08-04T23:59:59Z"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor, Inc.",
+        "phone": "+1.2083895740",
+        "email": "abusecomplaints@markmonitor.com",
+        "referral_url": "www.markmonitor.com"
+    },
+    "registrant": {
+        "organization": "GitHub, Inc.",
+        "province": "CA",
+        "country": "US",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

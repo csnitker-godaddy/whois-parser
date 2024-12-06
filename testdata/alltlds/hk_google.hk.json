@@ -1,0 +1,49 @@
+{
+    "domain": {
+        "domain": "google.hk",
+        "punycode": "google.hk",
+        "name": "google",
+        "extension": "hk",
+        "status": [
+            "Active"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "06-04-2004",
+        "created_date_in_time": "2004-04-06T00:00:00Z",
+        "expiration_date": "31-03-2020",
+        "expiration_date_in_time": "2020-03-31T00:00:00Z"
+    },
+    "registrar": {
+        "name": "MARKMONITOR INC.",
+        "email": "ccops@markmonitor.com"
+    },
+    "registrant": {
+        "organization": "GOOGLE LLC",
+        "street": "1600 AMPHITHEATRE PARKWAY  MOUNTAIN VIEW 94043 CA",
+        "country": "United States (US)",
+        "email": "dns-admin@google.com"
+    },
+    "administrative": {
+        "name": "DOMAIN ADMINISTRATOR",
+        "organization": "GOOGLE LLC",
+        "street": "1600 AMPHITHEATRE PARKWAY  MOUNTAIN VIEW 94043 CA",
+        "country": "United States (US)",
+        "phone": "+1-6502530000",
+        "fax": "+1-6502530001",
+        "email": "dns-admin@google.com"
+    },
+    "technical": {
+        "name": "DOMAIN ADMINISTRATOR",
+        "organization": "GOOGLE LLC",
+        "street": "1600 AMPHITHEATRE PARKWAY  MOUNTAIN VIEW 94043 CA",
+        "country": "United States (US)",
+        "phone": "+1-6502530000",
+        "fax": "+1-6502530001",
+        "email": "dns-admin@google.com"
+    }
+}

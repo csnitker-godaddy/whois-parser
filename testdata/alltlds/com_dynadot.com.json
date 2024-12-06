@@ -1,0 +1,63 @@
+{
+    "domain": {
+        "id": "91721384_DOMAIN_COM-VRSN",
+        "domain": "dynadot.com",
+        "punycode": "dynadot.com",
+        "name": "dynadot",
+        "extension": "com",
+        "whois_server": "whois.dynadot.com",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1-geo.dynadot.com",
+            "ns2-geo.dynadot.com"
+        ],
+        "created_date": "2002-10-30T17:44:41.0Z",
+        "created_date_in_time": "2002-10-30T17:44:41Z",
+        "updated_date": "2019-09-17T10:43:57.0Z",
+        "updated_date_in_time": "2019-09-17T10:43:57Z",
+        "expiration_date": "2020-10-30T16:44:41.0Z",
+        "expiration_date_in_time": "2020-10-30T16:44:41Z"
+    },
+    "registrar": {
+        "id": "472",
+        "name": "DYNADOT LLC",
+        "phone": "+1.6502620100",
+        "email": "abuse@dynadot.com",
+        "referral_url": "http://www.dynadot.com"
+    },
+    "registrant": {
+        "name": "Dynadot LLC",
+        "street": "PO Box 345",
+        "city": "San Mateo",
+        "province": "CA",
+        "postal_code": "94401",
+        "country": "US",
+        "phone": "+1.6502620100",
+        "fax": "+1.4158692893",
+        "email": "info@dynadot.com"
+    },
+    "administrative": {
+        "name": "Dynadot LLC",
+        "street": "PO Box 345",
+        "city": "San Mateo",
+        "province": "CA",
+        "postal_code": "94401",
+        "country": "US",
+        "phone": "+1.6502620100",
+        "fax": "+1.4158692893",
+        "email": "info@dynadot.com"
+    },
+    "technical": {
+        "name": "Dynadot LLC",
+        "street": "PO Box 345",
+        "city": "San Mateo",
+        "province": "CA",
+        "postal_code": "94401",
+        "country": "US",
+        "phone": "+1.6502620100",
+        "fax": "+1.4158692893",
+        "email": "info@dynadot.com"
+    }
+}

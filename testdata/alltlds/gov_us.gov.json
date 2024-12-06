@@ -1,0 +1,11 @@
+{
+    "domain": {
+        "domain": "us.gov",
+        "punycode": "us.gov",
+        "name": "us",
+        "extension": "gov",
+        "status": [
+            "ACTIVE"
+        ]
+    }
+}

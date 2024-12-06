@@ -1,0 +1,32 @@
+{
+    "domain": {
+        "domain": "google.ru",
+        "punycode": "google.ru",
+        "name": "google",
+        "extension": "ru",
+        "status": [
+            "REGISTERED",
+            "DELEGATED",
+            "VERIFIED"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "2004-03-03T21:00:00Z",
+        "created_date_in_time": "2004-03-03T21:00:00Z",
+        "expiration_date": "2020-03-04T21:00:00Z",
+        "expiration_date_in_time": "2020-03-04T21:00:00Z"
+    },
+    "registrar": {
+        "name": "RU-CENTER-RU"
+    },
+    "registrant": {
+        "organization": "Google LLC"
+    },
+    "administrative": {
+        "name": "https://www.nic.ru/whois"
+    }
+}

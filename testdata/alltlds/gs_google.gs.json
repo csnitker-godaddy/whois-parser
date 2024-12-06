@@ -1,0 +1,85 @@
+{
+    "domain": {
+        "id": "4258-CoCCA.gs",
+        "domain": "google.gs",
+        "punycode": "google.gs",
+        "name": "google",
+        "extension": "gs",
+        "whois_server": "whois.coccaregistry.org",
+        "status": [
+            "serverUpdateProhibited",
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com"
+        ],
+        "created_date": "2004-07-08T12:00:00.0Z",
+        "created_date_in_time": "2004-07-08T12:00:00Z",
+        "updated_date": "2019-06-06T09:32:35.587Z",
+        "updated_date_in_time": "2019-06-06T09:32:35.587Z",
+        "expiration_date": "2020-07-08T12:00:00.0Z",
+        "expiration_date_in_time": "2020-07-08T12:00:00Z"
+    },
+    "registrar": {
+        "name": "MarkMonitor",
+        "country": "US",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "id": "uo3er-xAcPO",
+        "name": "Domain Administrator",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "+1.6502530000",
+        "fax": "+1.6502530001",
+        "email": "dns-admin@google.com"
+    },
+    "administrative": {
+        "id": "goQ6D-NQBoD",
+        "name": "Domain Administrator",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "+1.6502530000",
+        "fax": "+1.6502530001",
+        "email": "dns-admin@google.com"
+    },
+    "technical": {
+        "id": "ct4fz-Dlnfo",
+        "name": "Domain Administrator",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "+1.6502530000",
+        "fax": "+1.6502530001",
+        "email": "dns-admin@google.com"
+    },
+    "billing": {
+        "id": "XeFuf-jSM9q",
+        "name": "CCOPS Billing",
+        "organization": "MarkMonitor Inc.",
+        "street": "3540 East Longwing Lane, Suite 300",
+        "city": "Meridian",
+        "province": "Idaho",
+        "postal_code": "83646",
+        "country": "US",
+        "phone": "+1.2083895740",
+        "fax": "+1.2083895771",
+        "email": "ccopsbilling@markmonitor.com"
+    }
+}

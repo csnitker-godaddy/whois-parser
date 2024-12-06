@@ -1,0 +1,53 @@
+{
+    "domain": {
+        "domain": "google.yt",
+        "punycode": "google.yt",
+        "name": "google",
+        "extension": "yt",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "ns1.markmonitor.com",
+            "ns3.markmonitor.com"
+        ],
+        "created_date": "2011-12-06T09:03:45Z",
+        "created_date_in_time": "2011-12-06T09:03:45Z",
+        "updated_date": "2019-01-14T10:32:17Z",
+        "updated_date_in_time": "2019-01-14T10:32:17Z",
+        "expiration_date": "2020-02-15T19:07:10Z",
+        "expiration_date_in_time": "2020-02-15T19:07:10Z"
+    },
+    "registrar": {
+        "name": "MARKMONITOR Inc.",
+        "street": "3540 East Longwing Lane, ID 83646 MERIDIAN",
+        "country": "US",
+        "phone": "+1 208 389 5740",
+        "fax": "+1 208 389 5771",
+        "email": "registry.admin@markmonitor.com",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "id": "GIHU100-FRNIC",
+        "name": "Google Ireland Holdings Unlimited Company",
+        "street": "Google Ireland Holdings Unlimited Company, 70 Sir John Rogerson's Quay, 2 Dublin, Dublin",
+        "country": "IE",
+        "phone": "+353.14361000",
+        "email": "dns-admin@google.com"
+    },
+    "administrative": {
+        "id": "GIHU100-FRNIC",
+        "name": "Google Ireland Holdings Unlimited Company",
+        "street": "Google Ireland Holdings Unlimited Company, 70 Sir John Rogerson's Quay, 2 Dublin, Dublin",
+        "country": "IE",
+        "phone": "+353.14361000",
+        "email": "dns-admin@google.com"
+    },
+    "technical": {
+        "id": "MC239-FRNIC",
+        "name": "MARKMONITOR CCOPS",
+        "street": "eMarkmonitor Inc. dba MarkMonitor, PMB 155, 10400 Overland Road, 83709-1433 Boise, Id, US",
+        "phone": "+01 2083895740",
+        "email": "ccops@markmonitor.com"
+    }
+}

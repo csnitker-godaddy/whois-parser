@@ -1,0 +1,34 @@
+{
+    "domain": {
+        "id": "D865CD2AE420835CE040010AAB015FFF",
+        "domain": "github.ws",
+        "punycode": "github.ws",
+        "name": "github",
+        "extension": "ws",
+        "whois_server": "whois.markmonitor.com",
+        "status": [
+            "clientTransferProhibited",
+            "clientDeleteProhibited",
+            "clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.p16.dynect.net",
+            "ns2.p16.dynect.net",
+            "ns3.p16.dynect.net",
+            "ns4.p16.dynect.net"
+        ],
+        "created_date": "2010-08-05T17:04:22Z",
+        "created_date_in_time": "2010-08-05T17:04:22Z",
+        "updated_date": "2018-07-04T09:14:12Z",
+        "updated_date_in_time": "2018-07-04T09:14:12Z",
+        "expiration_date": "2020-08-05T17:04:22Z",
+        "expiration_date_in_time": "2020-08-05T17:04:22Z"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor Inc.",
+        "phone": "2083895740",
+        "email": "ccops@markmonitor.com",
+        "referral_url": "http://www.markmonitor.com/whois.asp"
+    }
+}

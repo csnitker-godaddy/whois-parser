@@ -1,0 +1,49 @@
+{
+    "domain": {
+        "id": "D2689447-CNIC",
+        "domain": "google.xyz",
+        "punycode": "google.xyz",
+        "name": "google",
+        "extension": "xyz",
+        "whois_server": "whois.markmonitor.com",
+        "status": [
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns3.google.com",
+            "ns1.google.com",
+            "ns4.google.com",
+            "ns2.google.com"
+        ],
+        "created_date": "2014-05-20T05:04:51-0700",
+        "created_date_in_time": "2014-05-20T05:04:51-07:00",
+        "updated_date": "2018-10-25T02:32:20-0700",
+        "updated_date_in_time": "2018-10-25T02:32:20-07:00",
+        "expiration_date": "2019-11-26T00:00:00-0800",
+        "expiration_date_in_time": "2019-11-26T00:00:00-08:00"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor, Inc.",
+        "phone": "+1.2083895740",
+        "email": "abusecomplaints@markmonitor.com",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US"
+    },
+    "administrative": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US"
+    },
+    "technical": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "domain": {
+        "domain": "git.fr",
+        "punycode": "git.fr",
+        "name": "git",
+        "extension": "fr",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "ns104.ovh.net",
+            "dns104.ovh.net"
+        ],
+        "created_date": "1999-12-22T23:00:00Z",
+        "created_date_in_time": "1999-12-22T23:00:00Z",
+        "updated_date": "2019-05-05T08:38:28Z",
+        "updated_date_in_time": "2019-05-05T08:38:28Z",
+        "expiration_date": "2020-05-05T08:07:09Z",
+        "expiration_date_in_time": "2020-05-05T08:07:09Z"
+    },
+    "registrar": {
+        "name": "OVH",
+        "street": "2 Rue Kellermann, 59100 ROUBAIX",
+        "country": "FR",
+        "phone": "+33 8 99 70 17 61",
+        "fax": "+33 3 20 20 09 58",
+        "email": "support@ovh.net",
+        "referral_url": "http://www.ovh.com"
+    },
+    "registrant": {
+        "id": "GGIT3-FRNIC",
+        "name": "G.I.T. GALVANOPLASTIE INDUSTRIELLE TOULOUSAINE",
+        "street": "7 rue Joseph-Marie Jacquard, 31270 CUGNAUX",
+        "country": "FR",
+        "phone": "+33.561076303",
+        "email": "git@git.fr"
+    },
+    "administrative": {
+        "id": "GGIT8-FRNIC",
+        "name": "G.I.T. GALVANOPLASTIE INDUSTRIELLE TOULOUSAINE",
+        "street": "G.I.T. GALVANOPLASTIE INDUSTRIELLE TOULOUSAINE, 7, rue Joseph-Marie Jacquard, 31270 CUGNAUX",
+        "country": "FR",
+        "phone": "+33.561076303",
+        "email": "lq29z6vpt0b6de92p3wk@q.o-w-o.info"
+    },
+    "technical": {
+        "id": "OVH5-FRNIC",
+        "name": "OVH NET",
+        "street": "OVH, 140, quai du Sartel, 59100 Roubaix",
+        "country": "FR",
+        "phone": "+33 8 99 70 17 61",
+        "email": "tech@ovh.net"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "domain": {
+        "domain": "git.pm",
+        "punycode": "git.pm",
+        "name": "git",
+        "extension": "pm",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "ns1.srna.sk",
+            "ns2.srna.sk"
+        ],
+        "created_date": "2013-07-18T16:17:05Z",
+        "created_date_in_time": "2013-07-18T16:17:05Z",
+        "updated_date": "2019-06-12T07:35:08Z",
+        "updated_date_in_time": "2019-06-12T07:35:08Z",
+        "expiration_date": "2020-07-18T16:17:05Z",
+        "expiration_date_in_time": "2020-07-18T16:17:05Z"
+    },
+    "registrar": {
+        "name": "GRANSY s.r.o.",
+        "street": "Borivojova 35, 130 00 PRAGUE 3",
+        "country": "CZ",
+        "phone": "+420 732 954549",
+        "email": "info@subreg.cz",
+        "referral_url": "http://www.subreg.cz"
+    },
+    "registrant": {
+        "id": "TS6102-FRNIC",
+        "name": "Tomas Srna",
+        "street": "Vanickova 7, 16900 Praha, Hlavni mesto Praha",
+        "country": "CZ",
+        "phone": "+420 608920049",
+        "email": "tomas@srna.sk"
+    },
+    "administrative": {
+        "id": "TS6101-FRNIC",
+        "name": "Tomá Srna",
+        "street": "Patockova 2472/81a, 16900 Praha, Hlavni mesto Praha",
+        "country": "CZ",
+        "phone": "+420 608920049",
+        "email": "tomas@srna.net"
+    },
+    "technical": {
+        "id": "TS6101-FRNIC",
+        "name": "Tomá Srna",
+        "street": "Patockova 2472/81a, 16900 Praha, Hlavni mesto Praha",
+        "country": "CZ",
+        "phone": "+420 608920049",
+        "email": "tomas@srna.net"
+    }
+}

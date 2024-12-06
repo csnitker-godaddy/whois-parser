@@ -1,0 +1,49 @@
+{
+    "domain": {
+        "id": "D107300000001426087-LRMS",
+        "domain": "github.pro",
+        "punycode": "github.pro",
+        "name": "github",
+        "extension": "pro",
+        "whois_server": "whois.markmonitor.com",
+        "status": [
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns1.p16.dynect.net",
+            "ns2.p16.dynect.net",
+            "ns4.p16.dynect.net",
+            "ns3.p16.dynect.net"
+        ],
+        "created_date": "2015-11-25T12:29:48-0800",
+        "created_date_in_time": "2015-11-25T12:29:48-08:00",
+        "updated_date": "2017-10-25T02:11:44-0700",
+        "updated_date_in_time": "2017-10-25T02:11:44-07:00",
+        "expiration_date": "2019-11-25T00:00:00-0800",
+        "expiration_date_in_time": "2019-11-25T00:00:00-08:00"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor, Inc.",
+        "phone": "+1.2083895740",
+        "email": "abusecomplaints@markmonitor.com",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "organization": "GitHub, Inc.",
+        "province": "CA",
+        "country": "US"
+    },
+    "administrative": {
+        "organization": "GitHub, Inc.",
+        "province": "CA",
+        "country": "US"
+    },
+    "technical": {
+        "organization": "GitHub, Inc.",
+        "province": "CA",
+        "country": "US"
+    }
+}

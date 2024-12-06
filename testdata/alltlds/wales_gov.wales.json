@@ -1,0 +1,82 @@
+{
+    "domain": {
+        "id": "gov-WALES",
+        "domain": "gov.wales",
+        "punycode": "gov.wales",
+        "name": "gov",
+        "extension": "wales",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns3.ja.net",
+            "ns0.ja.net",
+            "ns4.ja.net",
+            "ns2.ja.net"
+        ],
+        "created_date": "2015-01-14T13:49:09Z",
+        "created_date_in_time": "2015-01-14T13:49:09Z",
+        "updated_date": "2019-10-01T10:07:25Z",
+        "updated_date_in_time": "2019-10-01T10:07:25Z",
+        "expiration_date": "2020-01-14T13:49:09Z",
+        "expiration_date_in_time": "2020-01-14T13:49:09Z"
+    },
+    "registrar": {
+        "id": "1345",
+        "name": "Key-Systems, LLC",
+        "phone": "+49.68949396850",
+        "email": "abuse@key-systems.net",
+        "referral_url": "http://www.key-systems.net"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "GB",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

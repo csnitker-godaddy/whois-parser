@@ -1,0 +1,16 @@
+{
+    "domain": {
+        "id": "135788597_DOMAIN_NAME-VRSN",
+        "domain": "github.name",
+        "punycode": "github.name",
+        "name": "github",
+        "extension": "name",
+        "status": [
+            "ok"
+        ]
+    },
+    "registrar": {
+        "id": "420",
+        "name": "Alibaba Cloud Computing (Beijing) Co., Ltd."
+    }
+}

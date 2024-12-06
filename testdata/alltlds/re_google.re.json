@@ -1,0 +1,57 @@
+{
+    "domain": {
+        "domain": "google.re",
+        "punycode": "google.re",
+        "name": "google",
+        "extension": "re",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "2008-11-19T09:40:52Z",
+        "created_date_in_time": "2008-11-19T09:40:52Z",
+        "updated_date": "2019-07-01T09:33:52Z",
+        "updated_date_in_time": "2019-07-01T09:33:52Z",
+        "expiration_date": "2020-08-02T23:15:21Z",
+        "expiration_date_in_time": "2020-08-02T23:15:21Z"
+    },
+    "registrar": {
+        "name": "MARKMONITOR Inc.",
+        "street": "3540 East Longwing Lane, ID 83646 MERIDIAN",
+        "country": "US",
+        "phone": "+1 208 389 5740",
+        "fax": "+1 208 389 5771",
+        "email": "registry.admin@markmonitor.com",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "id": "DV1364-FRNIC",
+        "name": "DIGITAL VOX",
+        "street": "3, rue de Cremont bureau N 4, 97400 Saint-Denis",
+        "country": "RE",
+        "phone": "+262 262943943",
+        "fax": "+262 262943943",
+        "email": "dns-admin@google.com"
+    },
+    "administrative": {
+        "id": "DC2023-FRNIC",
+        "name": "David Cesar",
+        "street": "Digital Vox, 3, rue de Cremont bureau N 4, 97400 Saint-Denis",
+        "country": "RE",
+        "phone": "+262 262943943",
+        "fax": "+262 262943943",
+        "email": "contact@digitalvox.net"
+    },
+    "technical": {
+        "id": "MC239-FRNIC",
+        "name": "MARKMONITOR CCOPS",
+        "street": "eMarkmonitor Inc. dba MarkMonitor, PMB 155, 10400 Overland Road, 83709-1433 Boise, Id, US",
+        "phone": "+01 2083895740",
+        "email": "ccops@markmonitor.com"
+    }
+}

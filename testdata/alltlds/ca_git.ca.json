@@ -1,0 +1,64 @@
+{
+    "domain": {
+        "id": "D163404-CIRA",
+        "domain": "git.ca",
+        "punycode": "git.ca",
+        "name": "git",
+        "extension": "ca",
+        "whois_server": "whois.ca.fury.ca",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "pdns09.domaincontrol.com",
+            "pdns10.domaincontrol.com"
+        ],
+        "created_date": "2003-07-11T15:52:06Z",
+        "created_date_in_time": "2003-07-11T15:52:06Z",
+        "updated_date": "2017-04-07T16:59:35Z",
+        "updated_date_in_time": "2017-04-07T16:59:35Z",
+        "expiration_date": "2026-07-08T04:00:00Z",
+        "expiration_date_in_time": "2026-07-08T04:00:00Z"
+    },
+    "registrar": {
+        "name": "Go Daddy Domains Canada, Inc",
+        "referral_url": "ca.godaddy.com"
+    },
+    "registrant": {
+        "id": "39878117-CIRA",
+        "name": "G.I.T. PORTES ET FENETRES LTEE",
+        "street": "8645 boul Langelier",
+        "city": "St-Leonard",
+        "province": "QC",
+        "postal_code": "H1P2C6",
+        "country": "CA",
+        "phone": "+1.5143232954",
+        "email": "michel.fafard@git.ca"
+    },
+    "administrative": {
+        "id": "39878134-CIRA",
+        "name": "Michel Fafard",
+        "organization": "G.I.T. PORTES ET FENETRES LTEE",
+        "street": "8645 boul Langelier",
+        "city": "St-Leonard",
+        "province": "QC",
+        "postal_code": "H1P2C6",
+        "country": "CA",
+        "phone": "+1.5143232954",
+        "email": "michel.fafard@git.ca"
+    },
+    "technical": {
+        "id": "39878133-CIRA",
+        "name": "Michel Fafard",
+        "organization": "G.I.T. PORTES ET FENETRES LTEE",
+        "street": "8645 boul Langelier",
+        "city": "St-Leonard",
+        "province": "QC",
+        "postal_code": "H1P2C6",
+        "country": "CA",
+        "phone": "+1.5143232954",
+        "email": "michel.fafard@git.ca"
+    }
+}

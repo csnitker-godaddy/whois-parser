@@ -1,0 +1,64 @@
+{
+    "domain": {
+        "id": "325702_nic_ai",
+        "domain": "google.ai",
+        "punycode": "google.ai",
+        "name": "google",
+        "extension": "ai",
+        "status": [
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns3.zdns.google",
+            "ns4.zdns.google",
+            "ns1.zdns.google",
+            "ns2.zdns.google"
+        ]
+    },
+    "registrar": {
+        "name": "Markmonitor",
+        "phone": "+1.2083895740",
+        "email": "ccops@markmonitor.com"
+    },
+    "registrant": {
+        "id": "GphTe-cV5lh",
+        "name": "Redacted | Registry Policy",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "Redacted | Registry Policy",
+        "fax": "Redacted | Registry Policy",
+        "email": "redacted | registry policy"
+    },
+    "administrative": {
+        "id": "YQv1W-o9XJH",
+        "name": "Redacted | Registry Policy",
+        "organization": "Google LLC",
+        "street": "Redacted | Registry Policy",
+        "city": "Redacted | Registry Policy",
+        "province": "Redacted | Registry Policy",
+        "postal_code": "Redacted | Registry Policy",
+        "country": "US",
+        "phone": "Redacted | Registry Policy",
+        "fax": "Redacted | Registry Policy",
+        "email": "redacted | registry policy"
+    },
+    "technical": {
+        "id": "rl8AI-neCNk",
+        "name": "Redacted | Registry Policy",
+        "organization": "Google LLC",
+        "street": "Redacted | Registry Policy",
+        "city": "Redacted | Registry Policy",
+        "province": "Redacted | Registry Policy",
+        "postal_code": "Redacted | Registry Policy",
+        "country": "US",
+        "phone": "Redacted | Registry Policy",
+        "fax": "Redacted | Registry Policy",
+        "email": "redacted | registry policy"
+    }
+}

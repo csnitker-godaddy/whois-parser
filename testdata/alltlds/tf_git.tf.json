@@ -1,0 +1,54 @@
+{
+    "domain": {
+        "domain": "git.tf",
+        "punycode": "git.tf",
+        "name": "git",
+        "extension": "tf",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "ns1.parkingcrew.net",
+            "ns2.parkingcrew.net"
+        ],
+        "created_date": "2019-01-20T04:16:05Z",
+        "created_date_in_time": "2019-01-20T04:16:05Z",
+        "updated_date": "2019-01-21T15:35:50Z",
+        "updated_date_in_time": "2019-01-21T15:35:50Z",
+        "expiration_date": "2020-01-20T04:16:05Z",
+        "expiration_date_in_time": "2020-01-20T04:16:05Z"
+    },
+    "registrar": {
+        "name": "1API GmbH",
+        "street": "Talstrasse 27, 66424 HOMBURG",
+        "country": "DE",
+        "phone": "+49 6841 6984200",
+        "fax": "+49 6841 6984299",
+        "email": "info@1api.net",
+        "referral_url": "http://www.1api.net"
+    },
+    "registrant": {
+        "id": "JN6975-FRNIC",
+        "name": "Jurgen Neeme",
+        "street": "Parnu Mnt 139C, 11317 Tallinn, Harjumaa",
+        "country": "EE",
+        "phone": "+372 55983275",
+        "email": "jurgen@opus.ws"
+    },
+    "administrative": {
+        "id": "JN7243-FRNIC",
+        "name": "Jurgen Neeme",
+        "street": "Parnu Mnt 139C, 11317 Tallinn, Harjumaa",
+        "country": "EE",
+        "phone": "+372.55983275",
+        "email": "jurgen@opus.ws"
+    },
+    "technical": {
+        "id": "JN7243-FRNIC",
+        "name": "Jurgen Neeme",
+        "street": "Parnu Mnt 139C, 11317 Tallinn, Harjumaa",
+        "country": "EE",
+        "phone": "+372.55983275",
+        "email": "jurgen@opus.ws"
+    }
+}

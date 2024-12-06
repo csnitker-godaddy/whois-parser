@@ -1,0 +1,30 @@
+{
+    "domain": {
+        "domain": "goo.ne.jp",
+        "punycode": "goo.ne.jp",
+        "name": "goo.ne",
+        "extension": "jp",
+        "status": [
+            "Connected"
+        ],
+        "name_servers": [
+            "ns1.goo.ne.jp",
+            "ns2.goo.ne.jp",
+            "ns.intervia.ad.jp",
+            "ns.via.or.jp"
+        ],
+        "created_date": "2004/06/15",
+        "created_date_in_time": "2004-06-15T00:00:00Z",
+        "updated_date": "2023/07/31 12:30:39 (JST)",
+        "updated_date_in_time": "2023-07-31T12:30:39Z"
+    },
+    "registrant": {
+        "organization": "GOO"
+    },
+    "administrative": {
+        "id": "MS57072JP"
+    },
+    "technical": {
+        "id": "TH53991JP"
+    }
+}

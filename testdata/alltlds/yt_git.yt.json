@@ -1,0 +1,50 @@
+{
+    "domain": {
+        "domain": "git.yt",
+        "punycode": "git.yt",
+        "name": "git",
+        "extension": "yt",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "ns0.random.sh",
+            "ns1.random.sh",
+            "ns2.random.sh"
+        ],
+        "created_date": "2015-02-23T09:43:27Z",
+        "created_date_in_time": "2015-02-23T09:43:27Z",
+        "updated_date": "2019-01-23T08:01:40Z",
+        "updated_date_in_time": "2019-01-23T08:01:40Z",
+        "expiration_date": "2020-02-23T09:43:27Z",
+        "expiration_date_in_time": "2020-02-23T09:43:27Z"
+    },
+    "registrar": {
+        "name": "GANDI",
+        "street": "63-65 boulevard Massena, 75013 PARIS",
+        "country": "FR",
+        "phone": "+33 1 70 37 76 61",
+        "fax": "+33 1 43 73 18 51",
+        "email": "support@support.gandi.net",
+        "referral_url": "https://www.gandi.net/fr/tlds/fr/"
+    },
+    "registrant": {
+        "id": "ANO00-FRNIC",
+        "name": "Ano Nymous"
+    },
+    "administrative": {
+        "id": "R12684-FRNIC",
+        "name": "random.sh",
+        "street": "random.sh, 530, chemin de Cartouche, 30220 Aigues Mortes",
+        "country": "FR",
+        "phone": "+33 6 61 88 63 15",
+        "email": "root+domains@random.sh"
+    },
+    "technical": {
+        "id": "GR283-FRNIC",
+        "name": "GANDI ROLE",
+        "street": "Gandi, 15, place de la Nation, 75011 Paris",
+        "country": "FR",
+        "email": "noc@gandi.net"
+    }
+}

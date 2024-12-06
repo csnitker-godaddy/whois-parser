@@ -1,0 +1,35 @@
+{
+    "domain": {
+        "domain": "git.it",
+        "punycode": "git.it",
+        "name": "git",
+        "extension": "it",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.parkingcrew.net",
+            "ns2.parkingcrew.net"
+        ],
+        "created_date": "2018-08-28 09:00:00",
+        "created_date_in_time": "2018-08-28T09:00:00Z",
+        "updated_date": "2019-09-13 00:43:43",
+        "updated_date_in_time": "2019-09-13T00:43:43Z",
+        "expiration_date": "2020-08-28",
+        "expiration_date_in_time": "2020-08-28T00:00:00Z"
+    },
+    "registrar": {
+        "name": "AM-REG",
+        "organization": "Algorithmedia S.r.l.",
+        "referral_url": "http://www.algorithmedia.com"
+    },
+    "registrant": {
+        "organization": "Macrosten LTD",
+        "street": "77 Strovolou Avenue, Strovolos Center, off. 204 Strovolos, Nicosia, 2018, Nicosia, CY"
+    },
+    "administrative": {
+        "name": "Macrosten LTD",
+        "organization": "Macrosten LTD",
+        "street": "77 Strovolou Avenue, Strovolos Center, off. 204 Strovolos, Strovolos, Nicosia-Cyprus, 02018, Strovolos, Nicosia-Cyprus, CY"
+    }
+}

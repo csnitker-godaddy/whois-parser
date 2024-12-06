@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "D656843-CO",
+        "domain": "google.co",
+        "punycode": "google.co",
+        "name": "google",
+        "extension": "co",
+        "status": [
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns3.google.com",
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "2010-02-25T01:04:59Z",
+        "created_date_in_time": "2010-02-25T01:04:59Z",
+        "updated_date": "2019-01-28T10:39:22Z",
+        "updated_date_in_time": "2019-01-28T10:39:22Z",
+        "expiration_date": "2020-02-24T23:59:59Z",
+        "expiration_date_in_time": "2020-02-24T23:59:59Z"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor, Inc.",
+        "phone": "+1.2083895740",
+        "email": "abusecomplaints@markmonitor.com",
+        "referral_url": "www.markmonitor.com"
+    },
+    "registrant": {
+        "organization": "Google Inc.",
+        "province": "CA",
+        "country": "US",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

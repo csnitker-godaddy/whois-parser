@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "685916-CoCCA",
+        "domain": "git.cx",
+        "punycode": "git.cx",
+        "name": "git",
+        "extension": "cx",
+        "whois_server": "whois.coccaregistry.org",
+        "status": [
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "dns100.ovh.net",
+            "ns100.ovh.net"
+        ],
+        "created_date": "2012-01-26T05:49:44.787Z",
+        "created_date_in_time": "2012-01-26T05:49:44.787Z",
+        "updated_date": "2019-01-01T18:14:16.77Z",
+        "updated_date_in_time": "2019-01-01T18:14:16.77Z",
+        "expiration_date": "2020-01-26T05:52:26.85Z",
+        "expiration_date_in_time": "2020-01-26T05:52:26.85Z"
+    },
+    "registrar": {
+        "id": "433",
+        "name": "OVH",
+        "country": "FR",
+        "phone": "+33.899701761",
+        "fax": "+33.320200958",
+        "email": "support@ovh.net",
+        "referral_url": "http://www.ovh.com"
+    },
+    "registrant": {
+        "id": "fBgAM-Lbsyt",
+        "name": "Redacted | EU Registrar",
+        "organization": "Openance",
+        "street": "65 rue du moulin sarrazin",
+        "city": "Argenteuil",
+        "postal_code": "95100",
+        "country": "FR",
+        "phone": "Redacted | EU Registrar",
+        "fax": "Redacted | EU Registrar",
+        "email": "redacted | eu registrar"
+    }
+}

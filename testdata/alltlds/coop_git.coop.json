@@ -1,0 +1,47 @@
+{
+    "domain": {
+        "id": "D44747703-CNIC",
+        "domain": "git.coop",
+        "punycode": "git.coop",
+        "name": "git",
+        "extension": "coop",
+        "whois_server": "whois.gandi.net",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "dns1.webarchitects.co.uk",
+            "dns0.webarchitects.co.uk",
+            "dns3.webarch.info",
+            "dns2.webarch.info"
+        ],
+        "created_date": "2017-02-22T14:29:09.0Z",
+        "created_date_in_time": "2017-02-22T14:29:09Z",
+        "updated_date": "2019-03-21T09:46:54.0Z",
+        "updated_date_in_time": "2019-03-21T09:46:54Z",
+        "expiration_date": "2020-02-22T23:59:59.0Z",
+        "expiration_date_in_time": "2020-02-22T23:59:59Z"
+    },
+    "registrar": {
+        "id": "81",
+        "name": "Gandi SAS",
+        "phone": "+33.170377661",
+        "email": "abuse@support.gandi.net",
+        "referral_url": "http://www.gandi.net/"
+    },
+    "registrant": {
+        "organization": "Webarch Co-operative Limited",
+        "province": "Sheffield(Cityof)",
+        "country": "GB",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

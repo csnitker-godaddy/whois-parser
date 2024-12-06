@@ -1,0 +1,34 @@
+{
+    "domain": {
+        "domain": "git.kr",
+        "punycode": "git.kr",
+        "name": "git",
+        "extension": "kr",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.parkingcrew.net",
+            "ns2.parkingcrew.net"
+        ],
+        "created_date": "2012. 05. 19.",
+        "created_date_in_time": "2012-05-19T00:00:00Z",
+        "updated_date": "2017. 10. 17.",
+        "updated_date_in_time": "2017-10-17T00:00:00Z",
+        "expiration_date": "2020. 05. 19.",
+        "expiration_date_in_time": "2020-05-19T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Megazone(http://HOSTING.KR)"
+    },
+    "registrant": {
+        "name": "beats",
+        "street": "202-1902 cimsan1cha prugio chilseongdong2ga Oksan-ro,, Buk-gu Daegu",
+        "postal_code": "41593"
+    },
+    "administrative": {
+        "name": "beats",
+        "phone": "82-10-6485-1888",
+        "email": "lawyer247@hotmail.com"
+    }
+}

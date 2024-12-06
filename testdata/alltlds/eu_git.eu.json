@@ -1,0 +1,23 @@
+{
+    "domain": {
+        "domain": "git.eu",
+        "punycode": "git.eu",
+        "name": "git",
+        "extension": "eu",
+        "name_servers": [
+            "wally.ns.cloudflare.com",
+            "thomas.ns.cloudflare.com"
+        ]
+    },
+    "registrar": {
+        "name": "Frankcom EU Service",
+        "referral_url": "www.frankcom.eu"
+    },
+    "registrant": {
+        "organization": "NOT DISCLOSED!"
+    },
+    "technical": {
+        "organization": "Frankcom IT Service",
+        "email": "info@frankcom.info"
+    }
+}

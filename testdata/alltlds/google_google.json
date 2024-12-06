@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "domain": "google",
+        "punycode": "google",
+        "name": "google",
+        "whois_server": "whois.nic.google",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "ns-tld1.charlestonroadregistry.com",
+            "ns-tld2.charlestonroadregistry.com",
+            "ns-tld3.charlestonroadregistry.com",
+            "ns-tld4.charlestonroadregistry.com",
+            "ns-tld5.charlestonroadregistry.com"
+        ],
+        "created_date": "2014-09-04",
+        "created_date_in_time": "2014-09-04T00:00:00Z",
+        "updated_date": "2019-07-02",
+        "updated_date_in_time": "2019-07-02T00:00:00Z"
+    },
+    "registrant": {
+        "organization": "Charleston Road Registry Inc.",
+        "street": "1600 Amphitheatre Parkway, Mountain View, CA 94043, United States"
+    },
+    "administrative": {
+        "name": "Domains Policy and Compliance",
+        "organization": "Google Inc.",
+        "street": "601 N. 34th Street, Seattle, WA 98103, United States",
+        "phone": "1 202 642 2325",
+        "fax": "1 650 492 5631",
+        "email": "iana-contact@google.com"
+    },
+    "technical": {
+        "name": "Richard Roberto",
+        "organization": "Google Inc.",
+        "street": "76 9th Avenue, 4th Floor, New York, NY 10011, United States",
+        "phone": "1 212 565 2633",
+        "fax": "1 650 492 5631",
+        "email": "crr-tech@google.com"
+    }
+}

@@ -2,9 +2,9 @@ Domain Name: GIT.COM
 Registry Domain ID: 72657455_DOMAIN_COM-VRSN
 Registrar WHOIS Server: whois.uniregistrar.net
 Registrar URL: http://uniregistry.com
-Updated Date: 2019-05-17T23:02:50Z
-Creation Date: 2001-06-14T10:32:43Z
-Registrar Registration Expiration Date: 2020-06-14T10:32:43Z
+Updated Date: 2019-05-17-T23:02:50Z
+Creation Date: 2001-06-14-T10:32:43Z
+Registrar Registration Expiration Date: 2020-06-14-T10:32:43Z
 Registrar: UNIREGISTRAR CORP
 Registrar IANA ID: 1659
 Registrar Abuse Contact Email: abuse@uniregistry.com

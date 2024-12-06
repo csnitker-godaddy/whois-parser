@@ -1,0 +1,34 @@
+{
+    "domain": {
+        "id": "20030311s10001s00033735-cn",
+        "domain": "google.cn",
+        "punycode": "google.cn",
+        "name": "google",
+        "extension": "cn",
+        "status": [
+            "clientDeleteProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "ns2.google.com",
+            "ns1.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "2003-03-17 12:20:05",
+        "created_date_in_time": "2003-03-17T12:20:05Z",
+        "expiration_date": "2021-03-17 12:48:36",
+        "expiration_date_in_time": "2021-03-17T12:48:36Z"
+    },
+    "registrar": {
+        "name": "厦门易名科技股份有限公司"
+    },
+    "registrant": {
+        "id": "ename_el7lxxxazw",
+        "name": "北京谷翔信息技术有限公司",
+        "email": "dns-admin@google.com"
+    }
+}

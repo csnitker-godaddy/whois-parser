@@ -1,4 +1,4 @@
-% Request from 209.252.173.123
+% Request from 1.1.1.1
 % This is the Ukrainian Whois query server #F.
 % The Whois is subject to Terms of use
 % See https://hostmaster.ua/services/
@@ -18,8 +18,8 @@ nserver:          ns2.uadns.com
 status:           clientDeleteProhibited
 status:           clientTransferProhibited
 created:          2007-10-04 13:40:19+03
-modified:         2024-09-30 14:40:48+03
-expires:          2029-10-04 13:40:18+03
+modified:         2021-12-27 14:13:20+02
+expires:          2024-10-04 13:40:18+03
 source:           UAEPP
 
 % Registrar:
@@ -31,7 +31,7 @@ url:              http://nic.ua
 city:             Dnipro
 country:          UA
 abuse-email:      abuse@nic.ua
-abuse-phone:      +380.445933222
+abuse-phone:      +380445933222
 abuse-postal:     Ukraine 49000 Dnipro PO/BOX 80
 abuse-postal-loc: Україна 49000 Дніпро а/с 80
 source:           UAEPP
@@ -112,5 +112,4 @@ source:           UAEPP
 
 
 
-% Query time:     3 msec
-
+% Query time:     4 msec

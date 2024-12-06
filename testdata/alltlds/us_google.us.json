@@ -1,0 +1,84 @@
+{
+    "domain": {
+        "id": "D775573-US",
+        "domain": "google.us",
+        "punycode": "google.us",
+        "name": "google",
+        "extension": "us",
+        "status": [
+            "clientUpdateProhibited",
+            "clientDeleteProhibited",
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns2.google.com",
+            "ns4.google.com",
+            "ns3.google.com",
+            "ns1.google.com"
+        ],
+        "created_date": "2002-04-19T23:16:01Z",
+        "created_date_in_time": "2002-04-19T23:16:01Z",
+        "updated_date": "2019-03-22T09:56:02Z",
+        "updated_date_in_time": "2019-03-22T09:56:02Z",
+        "expiration_date": "2020-04-18T23:59:59Z",
+        "expiration_date_in_time": "2020-04-18T23:59:59Z"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor, Inc.",
+        "phone": "+1.2083895740",
+        "email": "abusecomplaints@markmonitor.com",
+        "referral_url": "www.markmonitor.com"
+    },
+    "registrant": {
+        "id": "C37454483-US",
+        "name": "Google Inc",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "+1.6502530000",
+        "fax": "+1.6502530001",
+        "email": "dns-admin@google.com",
+        "extended_data": {
+            "application_purpose": "P1",
+            "nexus_category": "C21"
+        }
+    },
+    "administrative": {
+        "id": "C37613731-US",
+        "name": "Christina Chiou",
+        "organization": "Google Inc.",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "+1.6502530000",
+        "fax": "+1.6502530001",
+        "email": "dns-admin@google.com",
+        "extended_data": {
+            "application_purpose": "P1",
+            "nexus_category": "C21"
+        }
+    },
+    "technical": {
+        "id": "C37613731-US",
+        "name": "Christina Chiou",
+        "organization": "Google Inc.",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "+1.6502530000",
+        "fax": "+1.6502530001",
+        "email": "dns-admin@google.com",
+        "extended_data": {
+            "application_purpose": "P1",
+            "nexus_category": "C21"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "domain": {
+        "id": "D1195891-AGRS",
+        "domain": "porn.xxx",
+        "punycode": "porn.xxx",
+        "name": "porn",
+        "extension": "xxx",
+        "status": [
+            "serverTransferProhibited",
+            "transferPeriod"
+        ],
+        "name_servers": [
+            "ns1.eurodns.com",
+            "ns2.eurodns.com",
+            "ns3.eurodns.com",
+            "ns4.eurodns.com"
+        ],
+        "created_date": "2013-05-16T22:38:13Z",
+        "created_date_in_time": "2013-05-16T22:38:13Z",
+        "updated_date": "2019-10-04T20:56:58Z",
+        "updated_date_in_time": "2019-10-04T20:56:58Z",
+        "expiration_date": "2021-05-16T22:38:13Z",
+        "expiration_date_in_time": "2021-05-16T22:38:13Z"
+    },
+    "registrar": {
+        "id": "1052",
+        "name": "EuroDNS S.A.",
+        "phone": "+352.27220150",
+        "email": "legalservices@eurodns.com",
+        "referral_url": "http://www.eurodns.com"
+    },
+    "registrant": {
+        "organization": "Sagan Limited",
+        "country": "SC"
+    }
+}

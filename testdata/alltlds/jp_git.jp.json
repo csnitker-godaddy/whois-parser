@@ -1,0 +1,32 @@
+{
+    "domain": {
+        "domain": "git.jp",
+        "punycode": "git.jp",
+        "name": "git",
+        "extension": "jp",
+        "status": [
+            "Active"
+        ],
+        "name_servers": [
+            "ns1.onamae.com",
+            "ns2.onamae.com"
+        ],
+        "created_date": "2001/05/14",
+        "created_date_in_time": "2001-05-14T00:00:00Z",
+        "updated_date": "2019/06/01 04:52:02 (JST)",
+        "updated_date_in_time": "2019-06-01T04:52:02Z",
+        "expiration_date": "2020/05/31",
+        "expiration_date_in_time": "2020-05-31T00:00:00Z"
+    },
+    "registrant": {
+        "name": "GIT Co.,Ltd"
+    },
+    "administrative": {
+        "name": "GIT Co.,Ltd",
+        "street": "Minato-ku, 3-18-10 AKASAKA, No,2 Osakaya Building 4F",
+        "postal_code": "107-0052",
+        "phone": "03-3586-2351",
+        "fax": "03-3582-3175",
+        "email": "shiozawa@git.jp"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "domain": {
+        "id": "D23-SCOT",
+        "domain": "yes.scot",
+        "punycode": "yes.scot",
+        "name": "yes",
+        "extension": "scot",
+        "whois_server": "whois.corehub.net",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns-656.awsdns-18.net",
+            "ns-319.awsdns-39.com",
+            "ns-1031.awsdns-00.org",
+            "ns-1938.awsdns-50.co.uk"
+        ],
+        "created_date": "2014-07-15T12:05:57.342Z",
+        "created_date_in_time": "2014-07-15T12:05:57.342Z",
+        "updated_date": "2019-08-29T12:08:46.864Z",
+        "updated_date_in_time": "2019-08-29T12:08:46.864Z",
+        "expiration_date": "2020-07-15T12:05:57.342Z",
+        "expiration_date_in_time": "2020-07-15T12:05:57.342Z"
+    },
+    "registrar": {
+        "id": "15",
+        "name": "COREhub",
+        "phone": "+34.935275235",
+        "email": "abuse@corehub.net",
+        "referral_url": "http://corehub.net"
+    },
+    "registrant": {
+        "organization": "Yes Scotland",
+        "country": "GB",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

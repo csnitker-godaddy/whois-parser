@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "domain": "git.ir",
+        "punycode": "git.ir",
+        "name": "git",
+        "extension": "ir",
+        "name_servers": [
+            "ns1.git.ir",
+            "ns2.git.ir"
+        ],
+        "updated_date": "2019-03-06",
+        "updated_date_in_time": "2019-03-06T00:00:00Z",
+        "expiration_date": "2023-10-16",
+        "expiration_date_in_time": "2023-10-16T00:00:00Z"
+    },
+    "registrant": {
+        "id": "as10780-irnic",
+        "name": "Amin Sheybani nia",
+        "street": "No. 63.Azadi Ave. Shahid Habiballah St. Shahid Ghasemi St.Tehran. Iran, Tehran, Tehran, IR",
+        "phone": "09399609269",
+        "email": "info@git.ir"
+    },
+    "administrative": {
+        "id": "as10780-irnic",
+        "name": "Amin Sheybani nia",
+        "street": "No. 63.Azadi Ave. Shahid Habiballah St. Shahid Ghasemi St.Tehran. Iran, Tehran, Tehran, IR",
+        "phone": "09399609269",
+        "email": "info@git.ir"
+    },
+    "technical": {
+        "id": "as10780-irnic",
+        "name": "Amin Sheybani nia",
+        "street": "No. 63.Azadi Ave. Shahid Habiballah St. Shahid Ghasemi St.Tehran. Iran, Tehran, Tehran, IR",
+        "phone": "09399609269",
+        "email": "info@git.ir"
+    },
+    "billing": {
+        "id": "pa602-irnic",
+        "organization": "Pars Parva System Ltd.",
+        "email": "info@parspack.com"
+    }
+}

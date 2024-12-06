@@ -1,0 +1,28 @@
+{
+    "domain": {
+        "domain": "google.su",
+        "punycode": "google.su",
+        "name": "google",
+        "extension": "su",
+        "status": [
+            "REGISTERED",
+            "not delegated"
+        ],
+        "name_servers": [
+            "ns3.nic.ru",
+            "ns4.nic.ru",
+            "ns8.nic.ru"
+        ],
+        "created_date": "2005-10-15T20:00:00Z",
+        "created_date_in_time": "2005-10-15T20:00:00Z",
+        "expiration_date": "2019-10-15T21:00:00Z",
+        "expiration_date_in_time": "2019-10-15T21:00:00Z"
+    },
+    "registrar": {
+        "name": "RUCENTER-SU"
+    },
+    "registrant": {
+        "name": "Private Person",
+        "email": "domens@mail.com"
+    }
+}

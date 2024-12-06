@@ -142,6 +142,7 @@ func parseDateString(datetime string) (time.Time, error) {
 			time.StampNano,
 
 			// Date, time & time zone formats
+			"before 2 January 2006",
 			"2006-01-02T15:04:05Z",
 			"2006-01-02 15:04:05-07",
 			"2006-01-02 15:04:05 MST",

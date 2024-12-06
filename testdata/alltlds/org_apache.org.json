@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "D706686-LROR",
+        "domain": "apache.org",
+        "punycode": "apache.org",
+        "name": "apache",
+        "extension": "org",
+        "whois_server": "whois.namecheap.com",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns2.surfnet.nl",
+            "ns3.no-ip.com",
+            "ns2.no-ip.com",
+            "ns1.no-ip.com",
+            "ns4.no-ip.com"
+        ],
+        "created_date": "1995-04-11T04:00:00.00Z",
+        "created_date_in_time": "1995-04-11T04:00:00Z",
+        "updated_date": "2018-09-25T13:18:21.00Z",
+        "updated_date_in_time": "2018-09-25T13:18:21Z",
+        "expiration_date": "2022-04-12T04:00:00.00Z",
+        "expiration_date_in_time": "2022-04-12T04:00:00Z"
+    },
+    "registrar": {
+        "id": "1068",
+        "name": "NAMECHEAP INC",
+        "phone": "+1.6613102107",
+        "email": "abuse@namecheap.com",
+        "referral_url": "http://www.namecheap.com"
+    },
+    "registrant": {
+        "name": "Apache DNS",
+        "organization": "The Apache Software Foundation",
+        "street": "401 Edgewater Place Suite 600",
+        "city": "Wakefield",
+        "province": "MA",
+        "postal_code": "01880",
+        "country": "US",
+        "phone": "+1.1234567890",
+        "fax": "+1.7816238460",
+        "email": "dns@apache.org"
+    },
+    "administrative": {
+        "name": "Apache DNS",
+        "organization": "The Apache Software Foundation",
+        "street": "401 Edgewater Place Suite 600",
+        "city": "Wakefield",
+        "province": "MA",
+        "postal_code": "01880",
+        "country": "US",
+        "phone": "+1.1234567890",
+        "fax": "+1.7816238460",
+        "email": "dns@apache.org"
+    },
+    "technical": {
+        "name": "Apache DNS",
+        "organization": "The Apache Software Foundation",
+        "street": "401 Edgewater Place Suite 600",
+        "city": "Wakefield",
+        "province": "MA",
+        "postal_code": "01880",
+        "country": "US",
+        "phone": "+1.1234567890",
+        "fax": "+1.7816238460",
+        "email": "dns@apache.org"
+    },
+    "reseller": {
+        "organization": "NAMECHEAP INC"
+    }
+}

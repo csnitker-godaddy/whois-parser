@@ -1,0 +1,15 @@
+{
+    "domain": {
+        "domain": "google.hm",
+        "punycode": "google.hm",
+        "name": "google",
+        "extension": "hm",
+        "status": [
+            "taken"
+        ],
+        "name_servers": [
+            "ns4.zoneedit.com",
+            "ns5.zoneedit.com"
+        ]
+    }
+}

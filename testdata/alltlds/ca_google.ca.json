@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "D73081-CIRA",
+        "domain": "google.ca",
+        "punycode": "google.ca",
+        "name": "google",
+        "extension": "ca",
+        "whois_server": "whois.ca.fury.ca",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "2000-10-04T02:21:23Z",
+        "created_date_in_time": "2000-10-04T02:21:23Z",
+        "updated_date": "2019-04-28T04:04:23Z",
+        "updated_date_in_time": "2019-04-28T04:04:23Z",
+        "expiration_date": "2020-04-28T04:00:00Z",
+        "expiration_date_in_time": "2020-04-28T04:00:00Z"
+    },
+    "registrar": {
+        "name": "MarkMonitor International Canada Ltd.",
+        "referral_url": "Markmonitor.com"
+    },
+    "registrant": {
+        "id": "59969059-CIRA",
+        "name": "Google LLC - TMA868122",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "+1.6502530000",
+        "email": "dns-admin@google.com"
+    },
+    "administrative": {
+        "id": "59969161-CIRA",
+        "name": "Lauren Johnston",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "+1.6502530000",
+        "email": "dns-admin@google.com"
+    },
+    "technical": {
+        "id": "59969161-CIRA",
+        "name": "Lauren Johnston",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway",
+        "city": "Mountain View",
+        "province": "CA",
+        "postal_code": "94043",
+        "country": "US",
+        "phone": "+1.6502530000",
+        "email": "dns-admin@google.com"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "domain": {
+        "id": "D29317-AGRS",
+        "domain": "google.xxx",
+        "punycode": "google.xxx",
+        "name": "google",
+        "extension": "xxx",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns3.googledomains.com",
+            "ns1.googledomains.com",
+            "ns2.googledomains.com",
+            "ns4.googledomains.com"
+        ],
+        "created_date": "2011-12-01T21:25:32Z",
+        "created_date_in_time": "2011-12-01T21:25:32Z",
+        "updated_date": "2018-10-30T09:36:37Z",
+        "updated_date_in_time": "2018-10-30T09:36:37Z",
+        "expiration_date": "2019-12-01T21:25:32Z",
+        "expiration_date_in_time": "2019-12-01T21:25:32Z"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor Inc.",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "organization": "Google Inc.",
+        "province": "CA",
+        "country": "US"
+    }
+}

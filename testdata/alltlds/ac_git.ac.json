@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "D503300000063709937-LRMS",
+        "domain": "git.ac",
+        "punycode": "git.ac",
+        "name": "git",
+        "extension": "ac",
+        "whois_server": "whois.porkbun.com",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "f1g1ns2.dnspod.net",
+            "f1g1ns1.dnspod.net"
+        ],
+        "created_date": "2018-02-09 11:59:43",
+        "created_date_in_time": "2018-02-09T11:59:43Z",
+        "updated_date": "2018-12-10 01:00:04",
+        "updated_date_in_time": "2018-12-10T01:00:04Z",
+        "expiration_date": "2020-02-09 11:59:43",
+        "expiration_date_in_time": "2020-02-09T11:59:43Z"
+    },
+    "registrar": {
+        "id": "1861",
+        "name": "Porkbun LLC",
+        "phone": "+1.5038508351",
+        "email": "abuse@porkbun.com",
+        "referral_url": "http://www.porkbun.com"
+    },
+    "registrant": {
+        "name": "Whois Privacy",
+        "organization": "Private by Design, LLC",
+        "street": "500 Westover Dr #9816",
+        "city": "Sanford",
+        "province": "NC",
+        "postal_code": "27330",
+        "country": "US",
+        "phone": "+1.9712666028",
+        "email": "https://porkbun.com/whois/contact/registrant/git.ac"
+    },
+    "administrative": {
+        "name": "Whois Privacy",
+        "organization": "Private by Design, LLC",
+        "street": "500 Westover Dr #9816",
+        "city": "Sanford",
+        "province": "NC",
+        "postal_code": "27330",
+        "country": "US",
+        "phone": "+1.9712666028",
+        "email": "https://porkbun.com/whois/contact/admin/git.ac"
+    },
+    "technical": {
+        "name": "Whois Privacy",
+        "organization": "Private by Design, LLC",
+        "street": "500 Westover Dr #9816",
+        "city": "Sanford",
+        "province": "NC",
+        "postal_code": "27330",
+        "country": "US",
+        "phone": "+1.9712666028",
+        "email": "https://porkbun.com/whois/contact/tech/git.ac"
+    }
+}

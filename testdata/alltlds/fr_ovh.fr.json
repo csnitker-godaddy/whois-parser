@@ -1,0 +1,57 @@
+{
+    "domain": {
+        "domain": "ovh.fr",
+        "punycode": "ovh.fr",
+        "name": "ovh",
+        "extension": "fr",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "dns.ovh.net",
+            "dns10.ovh.net",
+            "ns.ovh.net",
+            "ns10.ovh.net"
+        ],
+        "created_date": "1999-11-11T23:00:00Z",
+        "created_date_in_time": "1999-11-11T23:00:00Z",
+        "updated_date": "2019-04-18T12:14:43Z",
+        "updated_date_in_time": "2019-04-18T12:14:43Z",
+        "expiration_date": "2019-11-11T23:00:00Z",
+        "expiration_date_in_time": "2019-11-11T23:00:00Z"
+    },
+    "registrar": {
+        "name": "OVH",
+        "street": "2 Rue Kellermann, 59100 ROUBAIX",
+        "country": "FR",
+        "phone": "+33 8 99 70 17 61",
+        "fax": "+33 3 20 20 09 58",
+        "email": "support@ovh.net",
+        "referral_url": "http://www.ovh.com"
+    },
+    "registrant": {
+        "id": "SO255-FRNIC",
+        "name": "OVH SAS",
+        "street": "2, rue Kellermann, 59100 Roubaix",
+        "country": "FR",
+        "phone": "+33.899701761",
+        "fax": "+33.320200958",
+        "email": "oles@ovh.net"
+    },
+    "administrative": {
+        "id": "OS10535-FRNIC",
+        "name": "OVH SAS",
+        "street": "OVH SAS, 2 Rue Kellermann, 59100 ROUBAIX",
+        "country": "FR",
+        "phone": "+33.972100908",
+        "email": "x4zojgmlpzo8z127ekjs@z.o-w-o.info"
+    },
+    "technical": {
+        "id": "OVH5-FRNIC",
+        "name": "OVH NET",
+        "street": "OVH, 140, quai du Sartel, 59100 Roubaix",
+        "country": "FR",
+        "phone": "+33 8 99 70 17 61",
+        "email": "tech@ovh.net"
+    }
+}

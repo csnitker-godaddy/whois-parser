@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "90059809_DOMAIN_TV-VRSN",
+        "domain": "msn.tv",
+        "punycode": "msn.tv",
+        "name": "msn",
+        "extension": "tv",
+        "whois_server": "whois.markmonitor.com",
+        "status": [
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns4-09.azure-dns.info",
+            "ns2-09.azure-dns.net",
+            "ns1-09.azure-dns.com",
+            "ns3-09.azure-dns.org"
+        ],
+        "created_date": "2008-09-27T09:16:00-0700",
+        "created_date_in_time": "2008-09-27T09:16:00-07:00",
+        "updated_date": "2019-08-26T02:49:35-0700",
+        "updated_date_in_time": "2019-08-26T02:49:35-07:00",
+        "expiration_date": "2020-09-27T00:00:00-0700",
+        "expiration_date_in_time": "2020-09-27T00:00:00-07:00"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor, Inc.",
+        "phone": "+1.2083895740",
+        "email": "abusecomplaints@markmonitor.com",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "name": "Domain Administrator",
+        "organization": "Microsoft Corporation",
+        "street": "One Microsoft Way,",
+        "city": "Redmond",
+        "province": "WA",
+        "postal_code": "98052",
+        "country": "US",
+        "phone": "+1.4258828080",
+        "fax": "+1.4259367329",
+        "email": "domains@microsoft.com"
+    },
+    "administrative": {
+        "name": "Domain Administrator",
+        "organization": "Microsoft Corporation",
+        "street": "One Microsoft Way,",
+        "city": "Redmond",
+        "province": "WA",
+        "postal_code": "98052",
+        "country": "US",
+        "phone": "+1.4258828080",
+        "fax": "+1.4259367329",
+        "email": "domains@microsoft.com"
+    },
+    "technical": {
+        "name": "MSN Hostmaster",
+        "organization": "Microsoft Corporation",
+        "street": "One Microsoft Way,",
+        "city": "Redmond",
+        "province": "WA",
+        "postal_code": "98052",
+        "country": "US",
+        "phone": "+1.4258828080",
+        "fax": "+1.4259367329",
+        "email": "msnhst@microsoft.com"
+    }
+}

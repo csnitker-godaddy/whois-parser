@@ -1,0 +1,18 @@
+{
+    "domain": {
+        "id": "134538139_DOMAIN_NAME-VRSN",
+        "domain": "google.name",
+        "punycode": "google.name",
+        "name": "google",
+        "extension": "name",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited"
+        ]
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor Inc."
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "domain": {
+        "id": "729927_DOMAIN_COM-VRSN",
+        "domain": "name.com",
+        "punycode": "name.com",
+        "name": "name",
+        "extension": "com",
+        "whois_server": "whois.name.com",
+        "status": [
+            "clientTransferProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "asia3.akam.net",
+            "usw5.akam.net",
+            "use4.akam.net",
+            "aus1.akam.net",
+            "ns1-35.akam.net",
+            "usw1.akam.net",
+            "eur4.akam.net",
+            "ns1-242.akam.net",
+            "eur2.akam.net"
+        ],
+        "created_date": "1995-01-03T05:00:00Z",
+        "created_date_in_time": "1995-01-03T05:00:00Z",
+        "updated_date": "2014-04-18T17:04:21Z",
+        "updated_date_in_time": "2014-04-18T17:04:21Z",
+        "expiration_date": "2019-11-04T00:00:00Z",
+        "expiration_date_in_time": "2019-11-04T00:00:00Z"
+    },
+    "registrar": {
+        "id": "625",
+        "name": "Name.com, Inc.",
+        "phone": "+1.7203101849",
+        "email": "abuse@name.com",
+        "referral_url": "http://www.name.com"
+    },
+    "registrant": {
+        "id": "Not Available From Registry",
+        "name": "Whois Agent",
+        "organization": "Domain Protection Services, Inc.",
+        "street": "PO Box 1769",
+        "city": "Denver",
+        "province": "CO",
+        "postal_code": "80201",
+        "country": "US",
+        "phone": "+1.7208009072",
+        "fax": "+1.7209758725",
+        "email": "https://www.name.com/contact-domain-whois/name.com"
+    },
+    "administrative": {
+        "id": "Not Available From Registry",
+        "name": "Whois Agent",
+        "organization": "Domain Protection Services, Inc.",
+        "street": "PO Box 1769",
+        "city": "Denver",
+        "province": "CO",
+        "postal_code": "80201",
+        "country": "US",
+        "phone": "+1.7208009072",
+        "fax": "+1.7209758725",
+        "email": "https://www.name.com/contact-domain-whois/name.com"
+    },
+    "technical": {
+        "id": "Not Available From Registry",
+        "name": "Whois Agent",
+        "organization": "Domain Protection Services, Inc.",
+        "street": "PO Box 1769",
+        "city": "Denver",
+        "province": "CO",
+        "postal_code": "80201",
+        "country": "US",
+        "phone": "+1.7208009072",
+        "fax": "+1.7209758725",
+        "email": "https://www.name.com/contact-domain-whois/name.com"
+    }
+}

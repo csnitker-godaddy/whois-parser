@@ -1,0 +1,37 @@
+{
+    "domain": {
+        "domain": "rutgers.edu",
+        "punycode": "rutgers.edu",
+        "name": "rutgers",
+        "extension": "edu",
+        "name_servers": [
+            "ns8.a1.incapsecuredns.net",
+            "ns124.a2.incapsecuredns.net",
+            "ns87.a0.incapsecuredns.net"
+        ],
+        "created_date": "25-Apr-1985",
+        "created_date_in_time": "1985-04-25T00:00:00Z",
+        "updated_date": "25-Mar-2020",
+        "updated_date_in_time": "2020-03-25T00:00:00Z",
+        "expiration_date": "31-Jul-2020",
+        "expiration_date_in_time": "2020-07-31T00:00:00Z"
+    },
+    "registrant": {
+        "organization": "Rutgers, The State University of New Jersey",
+        "street": "Office of Information Technology, 96 Davidson Road, Piscataway, NJ 08854-8096, USA"
+    },
+    "administrative": {
+        "name": "Domain Admin",
+        "organization": "Office of Information Technology",
+        "street": "Telecommunications Division, 96 Davidson Road, Piscataway, NJ 08854, USA",
+        "phone": "+1.8484457541",
+        "email": "netmanager@rutgers.edu"
+    },
+    "technical": {
+        "name": "Domain Admin",
+        "organization": "Office of Information Technology",
+        "street": "Telecommunications Division, 96 Davidson Road, Piscataway, NJ 08854, USA",
+        "phone": "+1.8484457541",
+        "email": "netmanager@rutgers.edu"
+    }
+}

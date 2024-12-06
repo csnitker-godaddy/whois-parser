@@ -1,0 +1,46 @@
+{
+    "domain": {
+        "id": "D38533842-CNIC",
+        "domain": "iodp.love",
+        "punycode": "iodp.love",
+        "name": "iodp",
+        "extension": "love",
+        "whois_server": "whois.meshdigital.com",
+        "status": [
+            "clientTransferProhibited",
+            "clientUpdateProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns1.esm1066.sgded.com",
+            "ns2.esm1066.sgded.com"
+        ],
+        "created_date": "2016-11-10T14:17:33.0Z",
+        "created_date_in_time": "2016-11-10T14:17:33Z",
+        "updated_date": "2019-07-10T12:26:00.0Z",
+        "updated_date_in_time": "2019-07-10T12:26:00Z",
+        "expiration_date": "2020-11-10T23:59:59.0Z",
+        "expiration_date_in_time": "2020-11-10T23:59:59Z"
+    },
+    "registrar": {
+        "id": "1390",
+        "name": "Mesh Digital Ltd",
+        "phone": "+44.1483304030",
+        "email": "abuse.contact@hosteuropegroup.com"
+    },
+    "registrant": {
+        "organization": "Innerversity of Divine Perfection",
+        "province": "CA",
+        "country": "US",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

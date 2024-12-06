@@ -1,0 +1,23 @@
+{
+    "domain": {
+        "domain": "yazeji.tk",
+        "punycode": "yazeji.tk",
+        "name": "yazeji",
+        "extension": "tk",
+        "name_servers": [
+            "nsb1.hostnet.com.br",
+            "nsb3.hostnet.com.br",
+            "nsb5.hostnet.com.br",
+            "nsb6.hostnet.com.br",
+            "nsb4.hostnet.com.br"
+        ]
+    },
+    "registrant": {
+        "name": "Dot TK administrator",
+        "organization": "BV Dot TK",
+        "street": "P.O. Box 11774, 1001 GT Amsterdam, Netherlands",
+        "phone": "+31 20 5315725",
+        "fax": "+31 20 5315721",
+        "email": "abuse: abuse@freenom.com, copyright infringement: copyright@freenom.com"
+    }
+}

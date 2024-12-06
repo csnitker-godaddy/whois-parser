@@ -1,0 +1,41 @@
+{
+    "domain": {
+        "id": "D471480-LANIC",
+        "domain": "google.la",
+        "punycode": "google.la",
+        "name": "google",
+        "extension": "la",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "2002-07-18T01:00:00.0Z",
+        "created_date_in_time": "2002-07-18T01:00:00Z",
+        "updated_date": "2019-06-17T16:18:05.0Z",
+        "updated_date_in_time": "2019-06-17T16:18:05Z",
+        "expiration_date": "2020-07-18T23:59:59.0Z",
+        "expiration_date_in_time": "2020-07-18T23:59:59Z"
+    },
+    "registrar": {
+        "name": "TLD Registrar Solutions Ltd",
+        "phone": "+44.20338806",
+        "email": "support@registry.la"
+    },
+    "registrant": {
+        "email": "https://whois.nic.la/contact/google.la/registrant"
+    },
+    "administrative": {
+        "email": "https://whois.nic.la/contact/google.la/admin"
+    },
+    "technical": {
+        "email": "https://whois.nic.la/contact/google.la/tech"
+    },
+    "billing": {
+        "email": "https://whois.nic.la/contact/google.la/billing"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "domain": {
+        "domain": "git.re",
+        "punycode": "git.re",
+        "name": "git",
+        "extension": "re",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "dns1.yandex.net",
+            "dns2.yandex.net"
+        ],
+        "created_date": "2018-03-13T18:39:24Z",
+        "created_date_in_time": "2018-03-13T18:39:24Z",
+        "updated_date": "2019-06-21T07:43:29Z",
+        "updated_date_in_time": "2019-06-21T07:43:29Z",
+        "expiration_date": "2022-03-13T18:39:24Z",
+        "expiration_date_in_time": "2022-03-13T18:39:24Z"
+    },
+    "registrar": {
+        "name": "TLD Registrar Solutions Ltd",
+        "street": "35-39 Moorgate, Level 1, EC2R 6AR LONDON",
+        "country": "GB",
+        "phone": "+44 2034357304",
+        "email": "admin@tldregistrarsolutions.com",
+        "referral_url": "https://internetbs.net/en/domain-name-registrations/price.html?setCurrency=EUR"
+    },
+    "registrant": {
+        "id": "ANO00-FRNIC",
+        "name": "Ano Nymous"
+    },
+    "administrative": {
+        "id": "ANO00-FRNIC",
+        "name": "Ano Nymous"
+    },
+    "technical": {
+        "id": "DA55158-FRNIC",
+        "name": "Domain Admin",
+        "street": "TLD Registrar Solutions Ltd, Lvl 1, 35-39 Moorgate, EC2R 6AR London",
+        "country": "GB",
+        "phone": "+44.2034357312",
+        "fax": "+44.2033880601",
+        "email": "admin@tldregistrarsolutions.com"
+    }
+}

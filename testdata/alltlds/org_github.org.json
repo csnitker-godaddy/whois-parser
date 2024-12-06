@@ -1,0 +1,68 @@
+{
+    "domain": {
+        "id": "D150926227-LROR",
+        "domain": "github.org",
+        "punycode": "github.org",
+        "name": "github",
+        "extension": "org",
+        "whois_server": "WHOIS.ENOM.COM",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.dnsimple.com",
+            "ns2.dnsimple.com",
+            "ns3.dnsimple.com",
+            "ns4.dnsimple.com"
+        ],
+        "created_date": "2008-02-09T02:07:00.00Z",
+        "created_date_in_time": "2008-02-09T02:07:00Z",
+        "updated_date": "2019-01-11T08:26:28.00Z",
+        "updated_date_in_time": "2019-01-11T08:26:28Z",
+        "expiration_date": "2020-02-09T02:07:00.00Z",
+        "expiration_date_in_time": "2020-02-09T02:07:00Z"
+    },
+    "registrar": {
+        "id": "48",
+        "name": "ENOM, INC.",
+        "phone": "+1.4259744689",
+        "email": "abuse@enom.com",
+        "referral_url": "WWW.ENOM.COM"
+    },
+    "registrant": {
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "CA",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "https://tieredaccess.com/contact/e406a066-effd-4c8c-9f5b-483c6d2b37cf"
+    },
+    "administrative": {
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    },
+    "technical": {
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    }
+}

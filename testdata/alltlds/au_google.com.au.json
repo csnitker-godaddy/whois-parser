@@ -1,0 +1,37 @@
+{
+    "domain": {
+        "id": "D407400000001774763-AU",
+        "domain": "google.com.au",
+        "punycode": "google.com.au",
+        "name": "google.com",
+        "extension": "au",
+        "whois_server": "whois.auda.org.au",
+        "status": [
+            "clientDeleteProhibited",
+            "clientUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "updated_date": "2019-04-17T19:49:19Z",
+        "updated_date_in_time": "2019-04-17T19:49:19Z"
+    },
+    "registrar": {
+        "name": "MarkMonitor Corporate Services Inc"
+    },
+    "registrant": {
+        "id": "MMR-122026",
+        "name": "Domain Administrator",
+        "organization": "Google INC"
+    },
+    "technical": {
+        "id": "MMR-87489",
+        "name": "DNS Admin"
+    }
+}

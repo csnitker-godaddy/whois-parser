@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "UNDEF-ROID",
+        "domain": "git.cat",
+        "punycode": "git.cat",
+        "name": "git",
+        "extension": "cat",
+        "whois_server": "whois.gandi.net",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.smartgslb.com",
+            "ns2.smartgslb.com"
+        ],
+        "created_date": "2018-11-17T16:11:05Z",
+        "created_date_in_time": "2018-11-17T16:11:05Z",
+        "updated_date": "2019-09-18T15:20:27Z",
+        "updated_date_in_time": "2019-09-18T15:20:27Z",
+        "expiration_date": "2019-11-17T16:11:05Z",
+        "expiration_date_in_time": "2019-11-17T16:11:05Z"
+    },
+    "registrar": {
+        "id": "81",
+        "name": "GANDI SAS",
+        "phone": "+33.170377661",
+        "email": "abuse@support.gandi.net",
+        "referral_url": "http://www.gandi.net"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "CN",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "2cd081e85316a178f93dba64aedfd467-11466628@contact.gandi.net"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "e5f8b8e62c6cdf6cf1779d13d7979adb-11466632@contact.gandi.net"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "0a099929a74cb35f7f1301344a022505-11466636@contact.gandi.net"
+    },
+    "reseller": {
+        "organization": "Netsto Limited"
+    }
+}

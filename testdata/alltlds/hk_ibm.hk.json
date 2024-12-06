@@ -1,0 +1,53 @@
+{
+    "domain": {
+        "domain": "ibm.hk",
+        "punycode": "ibm.hk",
+        "name": "ibm",
+        "extension": "hk",
+        "status": [
+            "Active"
+        ],
+        "name_servers": [
+            "ns1-206.akam.net",
+            "ns1-99.akam.net",
+            "asia3.akam.net",
+            "eur2.akam.net",
+            "eur5.akam.net",
+            "usc2.akam.net",
+            "usc3.akam.net"
+        ],
+        "created_date": "14-03-2004",
+        "created_date_in_time": "2004-03-14T00:00:00Z",
+        "expiration_date": "03-04-2020",
+        "expiration_date_in_time": "2020-04-03T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Hong Kong Domain Name Registration Company Limited",
+        "phone": "+852 2319 1313",
+        "email": "enquiry@hkdnr.hk"
+    },
+    "registrant": {
+        "organization": "INTERNATIONAL BUSINESS MACHINES CORPORATION",
+        "street": "New Orchard Road, North Castle Drive, Armonk, NY 10504",
+        "country": "United States (US)",
+        "email": "dnsadm@us.ibm.com"
+    },
+    "administrative": {
+        "name": "Admin, DNS",
+        "organization": "IBM CORPORATION",
+        "street": "North Castle Drive, Armonk, NY 10504-1785",
+        "country": "United States (US)",
+        "phone": "+1-9147654227",
+        "fax": "+1-9147654370",
+        "email": "dnsadm@us.ibm.com"
+    },
+    "technical": {
+        "name": "Technical, DNS",
+        "organization": "IBM CORPORATION",
+        "street": "PO Box 704, Yorktown Heights, NY 10598",
+        "country": "United States (US)",
+        "phone": "+1-9149451850",
+        "fax": "+1-9149451850",
+        "email": "dnstech@us.ibm.com"
+    }
+}

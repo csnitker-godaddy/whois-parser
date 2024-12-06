@@ -1,0 +1,49 @@
+{
+    "domain": {
+        "id": "DO_72ec7223ff326ec0c21d0d25412fb084-UR",
+        "domain": "google.sexy",
+        "punycode": "google.sexy",
+        "name": "google",
+        "extension": "sexy",
+        "whois_server": "whois.markmonitor.com",
+        "status": [
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns4.googledomains.com",
+            "ns2.googledomains.com",
+            "ns1.googledomains.com",
+            "ns3.googledomains.com"
+        ],
+        "created_date": "2015-01-21T12:27:25-0800",
+        "created_date_in_time": "2015-01-21T12:27:25-08:00",
+        "updated_date": "2019-05-01T12:36:55-0700",
+        "updated_date_in_time": "2019-05-01T12:36:55-07:00",
+        "expiration_date": "2020-01-21T00:00:00-0800",
+        "expiration_date_in_time": "2020-01-21T00:00:00-08:00"
+    },
+    "registrar": {
+        "id": "292",
+        "name": "MarkMonitor, Inc.",
+        "phone": "+1.2083895740",
+        "email": "abusecomplaints@markmonitor.com",
+        "referral_url": "http://www.markmonitor.com"
+    },
+    "registrant": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US"
+    },
+    "administrative": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US"
+    },
+    "technical": {
+        "organization": "Google LLC",
+        "province": "CA",
+        "country": "US"
+    }
+}

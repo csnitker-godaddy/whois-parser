@@ -1,0 +1,47 @@
+{
+    "domain": {
+        "domain": "google.tw",
+        "punycode": "google.tw",
+        "name": "google",
+        "extension": "tw",
+        "status": [
+            "clientUpdateProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "2005-10-27",
+        "created_date_in_time": "2005-10-27T00:00:00Z",
+        "expiration_date": "2020-10-31",
+        "expiration_date_in_time": "2020-10-31T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Markmonitor, Inc.",
+        "referral_url": "http://www.markmonitor.com/"
+    },
+    "registrant": {
+        "name": "DNS Admin",
+        "organization": "Google Inc.",
+        "street": "1600 Amphitheatre Parkway, Mountain View, CA, US",
+        "phone": "+1.6506234000",
+        "fax": "+1.6506188571",
+        "email": "dns-admin@google.com"
+    },
+    "administrative": {
+        "name": "DNS Admin",
+        "phone": "+1.6506234000",
+        "fax": "+1.6506188571",
+        "email": "dns-admin@google.com"
+    },
+    "technical": {
+        "name": "DNS Admin",
+        "phone": "+1.6506234000",
+        "fax": "+1.6506188571",
+        "email": "dns-admin@google.com"
+    }
+}

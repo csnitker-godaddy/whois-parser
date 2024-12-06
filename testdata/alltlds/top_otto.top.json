@@ -1,0 +1,88 @@
+{
+    "domain": {
+        "id": "20150226g10001g-30971494",
+        "domain": "otto.top",
+        "punycode": "otto.top",
+        "name": "otto",
+        "extension": "top",
+        "whois_server": "whois.rrpproxy.net",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.p20.dynect.net",
+            "ns2.p20.dynect.net",
+            "ns3.p20.dynect.net",
+            "ns4.p20.dynect.net"
+        ],
+        "created_date": "2015-02-26T13:19:20Z",
+        "created_date_in_time": "2015-02-26T13:19:20Z",
+        "updated_date": "2019-03-05T07:41:41Z",
+        "updated_date_in_time": "2019-03-05T07:41:41Z",
+        "expiration_date": "2020-02-26T13:19:20Z",
+        "expiration_date_in_time": "2020-02-26T13:19:20Z"
+    },
+    "registrar": {
+        "id": "269",
+        "name": "Key-Systems GmbH",
+        "phone": "+49.68949396850",
+        "email": "abuse@key-systems.net"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "info@domain-contact.org"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "Domain Manager",
+        "organization": "Otto (GmbH & Co KG)",
+        "street": "Werner-Otto-Straße 1-7",
+        "city": "Hamburg",
+        "province": "HH",
+        "postal_code": "22179",
+        "country": "DE",
+        "phone": "+49.4064610",
+        "email": "adminc@ottogroup.com"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "info@domain-contact.org"
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "info@domain-contact.org"
+    }
+}

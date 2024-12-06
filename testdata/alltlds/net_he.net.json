@@ -1,0 +1,66 @@
+{
+    "domain": {
+        "id": "486609_DOMAIN_NET-VRSN",
+        "domain": "he.net",
+        "punycode": "he.net",
+        "name": "he",
+        "extension": "net",
+        "whois_server": "whois.networksolutions.com",
+        "status": [
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.he.net",
+            "ns2.he.net",
+            "ns3.he.net",
+            "ns4.he.net",
+            "ns5.he.net"
+        ],
+        "created_date": "1995-07-31T04:00:00Z",
+        "created_date_in_time": "1995-07-31T04:00:00Z",
+        "updated_date": "2019-07-30T19:17:40Z",
+        "updated_date_in_time": "2019-07-30T19:17:40Z",
+        "expiration_date": "2029-07-30T04:00:00Z",
+        "expiration_date_in_time": "2029-07-30T04:00:00Z"
+    },
+    "registrar": {
+        "id": "2",
+        "name": "Network Solutions, LLC",
+        "phone": "+1.8003337680",
+        "email": "abuse@web.com",
+        "referral_url": "http://networksolutions.com"
+    },
+    "registrant": {
+        "name": "Hurricane, Electric",
+        "organization": "Hurricane Electric Hostmaster",
+        "street": "760 MISSION CT",
+        "city": "FREMONT",
+        "province": "CA",
+        "postal_code": "94539-8204",
+        "country": "US",
+        "phone": "+1.5105804100",
+        "email": "hostmaster@he.net"
+    },
+    "administrative": {
+        "name": "Hurricane, Electric",
+        "organization": "Hurricane Electric Hostmaster",
+        "street": "760 MISSION CT",
+        "city": "FREMONT",
+        "province": "CA",
+        "postal_code": "94539-8204",
+        "country": "US",
+        "phone": "+1.5105804100",
+        "email": "hostmaster@he.net"
+    },
+    "technical": {
+        "name": "Hurricane, Electric",
+        "organization": "Hurricane Electric Hostmaster",
+        "street": "760 MISSION CT",
+        "city": "FREMONT",
+        "province": "CA",
+        "postal_code": "94539-8204",
+        "country": "US",
+        "phone": "+1.5105804100",
+        "email": "hostmaster@he.net"
+    }
+}

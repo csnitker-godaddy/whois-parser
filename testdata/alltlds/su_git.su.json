@@ -1,0 +1,33 @@
+{
+    "domain": {
+        "domain": "git.su",
+        "punycode": "git.su",
+        "name": "git",
+        "extension": "su",
+        "status": [
+            "REGISTERED",
+            "DELEGATED"
+        ],
+        "name_servers": [
+            "d.ns.git.su",
+            "ns2.he.net",
+            "ns2.linode.com",
+            "ns3.he.net",
+            "ns4.he.net",
+            "ns4.linode.com",
+            "ns5.he.net",
+            "ns5.linode.com"
+        ],
+        "created_date": "2013-03-26T19:00:20Z",
+        "created_date_in_time": "2013-03-26T19:00:20Z",
+        "expiration_date": "2020-03-26T20:00:20Z",
+        "expiration_date_in_time": "2020-03-26T20:00:20Z"
+    },
+    "registrar": {
+        "name": "DOMENUS-SU"
+    },
+    "registrant": {
+        "name": "Private Person",
+        "email": "mureninka@yandex.ru"
+    }
+}

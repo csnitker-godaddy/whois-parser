@@ -1,0 +1,51 @@
+{
+    "domain": {
+        "domain": "git.wf",
+        "punycode": "git.wf",
+        "name": "git",
+        "extension": "wf",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "ns.inwx.de",
+            "ns2.inwx.de",
+            "ns3.inwx.eu",
+            "ns4.inwx.com",
+            "ns5.inwx.net"
+        ],
+        "dnssec": true,
+        "created_date": "2016-04-19T17:08:51Z",
+        "created_date_in_time": "2016-04-19T17:08:51Z",
+        "updated_date": "2019-05-12T21:49:18Z",
+        "updated_date_in_time": "2019-05-12T21:49:18Z",
+        "expiration_date": "2019-10-19T22:07:38Z",
+        "expiration_date_in_time": "2019-10-19T22:07:38Z"
+    },
+    "registrar": {
+        "name": "INWX GmbH & Co. KG",
+        "street": "Prinzessinnenstr. 30, 10969 BERLIN",
+        "country": "DE",
+        "phone": "+49 306 6400 137",
+        "fax": "+49 306 6400 138",
+        "email": "tld-fr@domrobot.com",
+        "referral_url": "http://www.domrobot.com"
+    },
+    "registrant": {
+        "id": "ANO00-FRNIC",
+        "name": "Ano Nymous"
+    },
+    "administrative": {
+        "id": "ANO00-FRNIC",
+        "name": "Ano Nymous"
+    },
+    "technical": {
+        "id": "HOTD14-FRNIC",
+        "name": "Hostmaster Of The Day",
+        "street": "INWX GmbH & Co. KG, Prinzessinnenstr. 30, 10969 Berlin",
+        "country": "DE",
+        "phone": "+49.309832120",
+        "fax": "+49.3098321290",
+        "email": "hostmaster@inwx.de"
+    }
+}

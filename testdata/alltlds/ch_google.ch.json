@@ -1,0 +1,22 @@
+{
+    "domain": {
+        "domain": "google.ch",
+        "punycode": "google.ch",
+        "name": "google",
+        "extension": "ch",
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "31 May 1999",
+        "created_date_in_time": "1999-05-31T00:00:00Z"
+    },
+    "registrar": {
+        "name": "MarkMonitor",
+        "street": "2150 S Bonito Way, Suite 150, US-ID 83642 Meridian",
+        "phone": "+1 8003377520",
+        "email": "custserv@markmonitor.com"
+    }
+}

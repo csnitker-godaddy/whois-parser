@@ -1,0 +1,34 @@
+{
+    "domain": {
+        "domain": "git.fi",
+        "punycode": "git.fi",
+        "name": "git",
+        "extension": "fi",
+        "status": [
+            "Registered"
+        ],
+        "name_servers": [
+            "ns-1453.awsdns-53.org",
+            "ns-535.awsdns-02.net",
+            "ns-133.awsdns-16.com",
+            "ns-1849.awsdns-39.co.uk"
+        ],
+        "created_date": "15.12.2015 09:48:01",
+        "created_date_in_time": "2015-12-15T09:48:01Z",
+        "updated_date": "19.2.2019",
+        "updated_date_in_time": "2019-02-19T00:00:00Z",
+        "expiration_date": "15.12.2020 09:37:54",
+        "expiration_date_in_time": "2020-12-15T09:37:54Z"
+    },
+    "registrar": {
+        "name": "Gandi SAS",
+        "referral_url": "www.gandi.net"
+    },
+    "registrant": {
+        "id": "2639098-3",
+        "name": "Vincit Oy",
+        "street": "Visiokatu 1, 33720, Tampere",
+        "country": "Finland",
+        "phone": "+358291707007"
+    }
+}

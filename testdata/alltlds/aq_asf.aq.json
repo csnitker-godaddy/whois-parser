@@ -1,0 +1,15 @@
+{
+    "domain": {
+        "domain": "asf.aq",
+        "punycode": "asf.aq",
+        "name": "asf",
+        "extension": "aq",
+        "status": [
+            "taken"
+        ],
+        "name_servers": [
+            "ns1.aad.gov.au",
+            "ns1.aarnet.net.au"
+        ]
+    }
+}

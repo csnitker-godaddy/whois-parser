@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "D10758-SCOT",
+        "domain": "gov.scot",
+        "punycode": "gov.scot",
+        "name": "gov",
+        "extension": "scot",
+        "whois_server": "whois.demys.com",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns3.ja.net",
+            "ns2.ja.net",
+            "ns4.ja.net",
+            "ns0.ja.net"
+        ],
+        "created_date": "2015-01-07T09:26:57.553Z",
+        "created_date_in_time": "2015-01-07T09:26:57.553Z",
+        "updated_date": "2019-09-29T08:12:11.484Z",
+        "updated_date_in_time": "2019-09-29T08:12:11.484Z",
+        "expiration_date": "2021-01-07T09:26:57.553Z",
+        "expiration_date_in_time": "2021-01-07T09:26:57.553Z"
+    },
+    "registrar": {
+        "id": "1488",
+        "name": "Demys Limited",
+        "phone": "+44.1312260660",
+        "email": "gtld+abuse@demys.com",
+        "referral_url": "http://www.demys.com"
+    },
+    "registrant": {
+        "organization": "The Scottish Government",
+        "country": "GB",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

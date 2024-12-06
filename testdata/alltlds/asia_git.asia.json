@@ -1,0 +1,33 @@
+{
+    "domain": {
+        "id": "D425500000052489785-AGRS",
+        "domain": "git.asia",
+        "punycode": "git.asia",
+        "name": "git",
+        "extension": "asia",
+        "status": [
+            "clientTransferProhibited",
+            "autoRenewPeriod"
+        ],
+        "name_servers": [
+            "ns1.dnsowl.com",
+            "ns2.dnsowl.com",
+            "ns3.dnsowl.com"
+        ],
+        "created_date": "2018-09-27T13:26:20Z",
+        "created_date_in_time": "2018-09-27T13:26:20Z",
+        "updated_date": "2019-09-27T22:24:16Z",
+        "updated_date_in_time": "2019-09-27T22:24:16Z",
+        "expiration_date": "2020-09-27T13:26:20Z",
+        "expiration_date_in_time": "2020-09-27T13:26:20Z"
+    },
+    "registrar": {
+        "id": "1479",
+        "name": "NameSilo, LLC"
+    },
+    "registrant": {
+        "organization": "See PrivacyGuardian.org",
+        "province": "AZ",
+        "country": "US"
+    }
+}

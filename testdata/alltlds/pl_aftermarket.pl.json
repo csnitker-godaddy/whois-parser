@@ -1,0 +1,26 @@
+{
+    "domain": {
+        "domain": "aftermarket.pl",
+        "punycode": "aftermarket.pl",
+        "name": "aftermarket",
+        "extension": "pl",
+        "whois_server": "https://dns.pl/en/whois",
+        "name_servers": [
+            "ns1.dropped.net.pl",
+            "ns2.dropped.net.pl"
+        ],
+        "dnssec": true,
+        "created_date": "2008.03.16 01:08:04",
+        "created_date_in_time": "2008-03-16T01:08:04Z",
+        "updated_date": "2021.11.17 20:12:54",
+        "updated_date_in_time": "2021-11-17T20:12:54Z",
+        "expiration_date": "2032.03.16 01:08:04",
+        "expiration_date_in_time": "2032-03-16T01:08:04Z"
+    },
+    "registrar": {
+        "name": "Aftermarket.pl Limited",
+        "street": "Chytron, 3, Office 301, P.C. 1075 Nicosia, Cypr",
+        "email": "domains@dropped.pl",
+        "referral_url": "http://www.AfterMarket.pl/contact.php"
+    }
+}

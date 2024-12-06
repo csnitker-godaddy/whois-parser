@@ -1,0 +1,20 @@
+{
+    "domain": {
+        "domain": "msn.tw",
+        "punycode": "msn.tw",
+        "name": "msn",
+        "extension": "tw",
+        "created_date": "2005-10-27",
+        "created_date_in_time": "2005-10-27T00:00:00Z",
+        "expiration_date": "2019-10-27",
+        "expiration_date_in_time": "2019-10-27T00:00:00Z"
+    },
+    "registrar": {
+        "name": "HINET",
+        "referral_url": "http://domain.hinet.net"
+    },
+    "registrant": {
+        "name": "Simmy Wang",
+        "email": "simmy.wang@gmail.com"
+    }
+}
