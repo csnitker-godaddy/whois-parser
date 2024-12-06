@@ -5,6 +5,7 @@
         "punycode": "nic.tokyo",
         "name": "nic",
         "extension": "tokyo",
+        "whois_server": "whois.nic.tokyo",
         "status": [
             "ok"
         ],

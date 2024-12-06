@@ -5,6 +5,7 @@
         "punycode": "nic.ggee",
         "name": "nic",
         "extension": "ggee",
+        "whois_server": "whois.nic.ggee",
         "status": [
             "ok"
         ],

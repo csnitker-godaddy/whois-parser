@@ -5,6 +5,7 @@
         "punycode": "nic.faith",
         "name": "nic",
         "extension": "faith",
+        "whois_server": "whois.nic.faith",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.microsoft",
         "name": "nic",
         "extension": "microsoft",
+        "whois_server": "whois.nic.microsoft",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

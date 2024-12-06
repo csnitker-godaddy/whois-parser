@@ -5,6 +5,7 @@
         "punycode": "nic.loan",
         "name": "nic",
         "extension": "loan",
+        "whois_server": "whois.nic.loan",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.bz",
         "name": "nic",
         "extension": "bz",
+        "whois_server": "whois.nic.bz",
         "status": [
             "clientDeleteProhibited",
             "serverDeleteProhibited",

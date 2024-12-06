@@ -1,6 +1,6 @@
 Domain Name: nic.ink
 Registry Domain ID: REDACTED FOR PRIVACY
-Registrar WHOIS Server:
+Registrar WHOIS Server: whois.nic.ink
 Registrar URL:
 Updated Date: 2024-11-13T06:06:51Z
 Creation Date: 2021-09-29T06:06:50Z

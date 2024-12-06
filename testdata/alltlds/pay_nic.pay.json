@@ -5,6 +5,7 @@
         "punycode": "nic.pay",
         "name": "nic",
         "extension": "pay",
+        "whois_server": "whois.nic.pay",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

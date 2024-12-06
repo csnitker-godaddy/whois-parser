@@ -5,6 +5,7 @@
         "punycode": "nic.xn--mgbt3dhd",
         "name": "nic",
         "extension": "xn--mgbt3dhd",
+        "whois_server": "whois.nic.xn--mgbt3dhd",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.circle",
         "name": "nic",
         "extension": "circle",
+        "whois_server": "whois.nic.circle",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.jobs",
         "name": "nic",
         "extension": "jobs",
+        "whois_server": "whois.nic.jobs",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited"

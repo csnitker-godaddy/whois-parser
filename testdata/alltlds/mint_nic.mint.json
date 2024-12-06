@@ -5,6 +5,7 @@
         "punycode": "nic.mint",
         "name": "nic",
         "extension": "mint",
+        "whois_server": "whois.nic.mint",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

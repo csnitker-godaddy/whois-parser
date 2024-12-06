@@ -5,6 +5,7 @@
         "punycode": "nic.xn--80asehdb",
         "name": "nic",
         "extension": "xn--80asehdb",
+        "whois_server": "whois.nic.xn--80asehdb",
         "status": [
             "ok"
         ],

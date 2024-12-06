@@ -5,6 +5,7 @@
         "punycode": "nic.joy",
         "name": "nic",
         "extension": "joy",
+        "whois_server": "whois.nic.joy",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

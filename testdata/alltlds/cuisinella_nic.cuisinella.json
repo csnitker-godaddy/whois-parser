@@ -5,6 +5,7 @@
         "punycode": "nic.cuisinella",
         "name": "nic",
         "extension": "cuisinella",
+        "whois_server": "whois.nic.cuisinella",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

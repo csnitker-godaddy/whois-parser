@@ -5,6 +5,7 @@
         "punycode": "nic.suzuki",
         "name": "nic",
         "extension": "suzuki",
+        "whois_server": "whois.nic.suzuki",
         "status": [
             "ok"
         ],

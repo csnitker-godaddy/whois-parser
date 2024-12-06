@@ -5,6 +5,7 @@
         "punycode": "nic.like",
         "name": "nic",
         "extension": "like",
+        "whois_server": "whois.nic.like",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

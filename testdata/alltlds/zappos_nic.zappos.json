@@ -5,6 +5,7 @@
         "punycode": "nic.zappos",
         "name": "nic",
         "extension": "zappos",
+        "whois_server": "whois.nic.zappos",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

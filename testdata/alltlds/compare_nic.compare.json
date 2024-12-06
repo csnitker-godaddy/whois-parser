@@ -5,6 +5,7 @@
         "punycode": "nic.compare",
         "name": "nic",
         "extension": "compare",
+        "whois_server": "whois.nic.compare",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

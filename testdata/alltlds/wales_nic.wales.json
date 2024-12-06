@@ -5,6 +5,7 @@
         "punycode": "nic.wales",
         "name": "nic",
         "extension": "wales",
+        "whois_server": "whois.nic.wales",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

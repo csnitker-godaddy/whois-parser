@@ -5,6 +5,7 @@
         "punycode": "nic.gay",
         "name": "nic",
         "extension": "gay",
+        "whois_server": "whois.nic.gay",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

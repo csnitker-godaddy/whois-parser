@@ -5,6 +5,7 @@
         "punycode": "nic.cpa",
         "name": "nic",
         "extension": "cpa",
+        "whois_server": "whois.nic.cpa",
         "status": [
             "serverRenewProhibited",
             "serverTransferProhibited",

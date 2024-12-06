@@ -5,6 +5,7 @@
         "punycode": "nic.ftr",
         "name": "nic",
         "extension": "ftr",
+        "whois_server": "whois.nic.ftr",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

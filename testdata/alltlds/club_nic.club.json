@@ -5,6 +5,7 @@
         "punycode": "nic.club",
         "name": "nic",
         "extension": "club",
+        "whois_server": "whois.nic.club",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.moe",
         "name": "nic",
         "extension": "moe",
+        "whois_server": "whois.nic.moe",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

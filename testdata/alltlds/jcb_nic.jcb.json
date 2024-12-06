@@ -5,6 +5,7 @@
         "punycode": "nic.jcb",
         "name": "nic",
         "extension": "jcb",
+        "whois_server": "whois.nic.jcb",
         "status": [
             "ok"
         ],

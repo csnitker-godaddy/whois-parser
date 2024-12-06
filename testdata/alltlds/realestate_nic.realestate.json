@@ -5,6 +5,7 @@
         "punycode": "nic.realestate",
         "name": "nic",
         "extension": "realestate",
+        "whois_server": "whois.nic.realestate",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

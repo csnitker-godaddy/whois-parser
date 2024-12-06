@@ -5,6 +5,7 @@
         "punycode": "nic.shia",
         "name": "nic",
         "extension": "shia",
+        "whois_server": "whois.nic.shia",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

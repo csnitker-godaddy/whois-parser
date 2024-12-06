@@ -5,6 +5,7 @@
         "punycode": "nic.okinawa",
         "name": "nic",
         "extension": "okinawa",
+        "whois_server": "whois.nic.okinawa",
         "status": [
             "ok"
         ],

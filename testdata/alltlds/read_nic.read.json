@@ -5,6 +5,7 @@
         "punycode": "nic.read",
         "name": "nic",
         "extension": "read",
+        "whois_server": "whois.nic.read",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

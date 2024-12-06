@@ -5,6 +5,7 @@
         "punycode": "nic.tv",
         "name": "nic",
         "extension": "tv",
+        "whois_server": "whois.nic.tv",
         "status": [
             "serverUpdateProhibited",
             "clientDeleteProhibited",

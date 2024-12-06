@@ -5,6 +5,7 @@
         "punycode": "nic.kpmg",
         "name": "nic",
         "extension": "kpmg",
+        "whois_server": "whois.nic.kpmg",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

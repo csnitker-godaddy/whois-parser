@@ -5,6 +5,7 @@
         "punycode": "nic.hisamitsu",
         "name": "nic",
         "extension": "hisamitsu",
+        "whois_server": "whois.nic.hisamitsu",
         "status": [
             "ok"
         ],

@@ -5,6 +5,7 @@
         "punycode": "nic.itau",
         "name": "nic",
         "extension": "itau",
+        "whois_server": "whois.nic.itau",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

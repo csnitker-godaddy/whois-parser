@@ -5,6 +5,7 @@
         "punycode": "nic.mtn",
         "name": "nic",
         "extension": "mtn",
+        "whois_server": "whois.nic.mtn",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

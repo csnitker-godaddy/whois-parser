@@ -5,6 +5,7 @@
         "punycode": "nic.azure",
         "name": "nic",
         "extension": "azure",
+        "whois_server": "whois.nic.azure",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

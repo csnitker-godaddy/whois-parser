@@ -5,6 +5,7 @@
         "punycode": "nic.firestone",
         "name": "nic",
         "extension": "firestone",
+        "whois_server": "whois.nic.firestone",
         "status": [
             "ok"
         ],

@@ -5,6 +5,7 @@
         "punycode": "nic.gucci",
         "name": "nic",
         "extension": "gucci",
+        "whois_server": "whois.nic.gucci",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

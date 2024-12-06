@@ -5,6 +5,7 @@
         "punycode": "nic.menu",
         "name": "nic",
         "extension": "menu",
+        "whois_server": "whois.nic.menu",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

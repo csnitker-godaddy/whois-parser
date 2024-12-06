@@ -5,6 +5,7 @@
         "punycode": "nic.bid",
         "name": "nic",
         "extension": "bid",
+        "whois_server": "whois.nic.bid",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

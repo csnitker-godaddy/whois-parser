@@ -5,6 +5,7 @@
         "punycode": "nic.datsun",
         "name": "nic",
         "extension": "datsun",
+        "whois_server": "whois.nic.datsun",
         "status": [
             "ok"
         ],

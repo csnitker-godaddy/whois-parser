@@ -5,6 +5,7 @@
         "punycode": "nic.biz",
         "name": "nic",
         "extension": "biz",
+        "whois_server": "whois.nic.biz",
         "status": [
             "serverUpdateProhibited",
             "clientDeleteProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.chintai",
         "name": "nic",
         "extension": "chintai",
+        "whois_server": "whois.nic.chintai",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

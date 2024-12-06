@@ -5,6 +5,7 @@
         "punycode": "nic.author",
         "name": "nic",
         "extension": "author",
+        "whois_server": "whois.nic.author",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

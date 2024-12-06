@@ -5,6 +5,7 @@
         "punycode": "nic.commbank",
         "name": "nic",
         "extension": "commbank",
+        "whois_server": "whois.nic.commbank",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

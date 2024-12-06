@@ -5,6 +5,7 @@
         "punycode": "nic.windows",
         "name": "nic",
         "extension": "windows",
+        "whois_server": "whois.nic.windows",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

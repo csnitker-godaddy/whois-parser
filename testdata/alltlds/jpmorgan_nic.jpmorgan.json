@@ -5,6 +5,7 @@
         "punycode": "nic.jpmorgan",
         "name": "nic",
         "extension": "jpmorgan",
+        "whois_server": "whois.nic.jpmorgan",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

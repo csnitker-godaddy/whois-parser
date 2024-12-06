@@ -5,6 +5,7 @@
         "punycode": "nic.spot",
         "name": "nic",
         "extension": "spot",
+        "whois_server": "whois.nic.spot",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

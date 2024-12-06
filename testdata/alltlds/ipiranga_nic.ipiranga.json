@@ -5,6 +5,7 @@
         "punycode": "nic.ipiranga",
         "name": "nic",
         "extension": "ipiranga",
+        "whois_server": "whois.nic.ipiranga",
         "status": [
             "serverRenewProhibited",
             "serverTransferProhibited",

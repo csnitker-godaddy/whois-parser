@@ -5,6 +5,7 @@
         "punycode": "nic.earth",
         "name": "nic",
         "extension": "earth",
+        "whois_server": "whois.nic.earth",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

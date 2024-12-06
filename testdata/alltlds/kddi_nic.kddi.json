@@ -5,6 +5,7 @@
         "punycode": "nic.kddi",
         "name": "nic",
         "extension": "kddi",
+        "whois_server": "whois.nic.kddi",
         "status": [
             "ok"
         ],

@@ -5,6 +5,7 @@
         "punycode": "nic.nowruz",
         "name": "nic",
         "extension": "nowruz",
+        "whois_server": "whois.nic.nowruz",
         "status": [
             "ok"
         ],

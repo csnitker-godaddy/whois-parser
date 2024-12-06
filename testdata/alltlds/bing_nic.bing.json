@@ -5,6 +5,7 @@
         "punycode": "nic.bing",
         "name": "nic",
         "extension": "bing",
+        "whois_server": "whois.nic.bing",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

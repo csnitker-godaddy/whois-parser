@@ -5,6 +5,7 @@
         "punycode": "nic.softbank",
         "name": "nic",
         "extension": "softbank",
+        "whois_server": "whois.nic.softbank",
         "status": [
             "ok"
         ],

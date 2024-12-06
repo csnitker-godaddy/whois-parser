@@ -5,6 +5,7 @@
         "punycode": "nic.epson",
         "name": "nic",
         "extension": "epson",
+        "whois_server": "whois.nic.epson",
         "status": [
             "ok"
         ],

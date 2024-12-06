@@ -5,6 +5,7 @@
         "punycode": "nic.audible",
         "name": "nic",
         "extension": "audible",
+        "whois_server": "whois.nic.audible",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

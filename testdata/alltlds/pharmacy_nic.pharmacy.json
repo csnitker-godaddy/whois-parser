@@ -5,6 +5,7 @@
         "punycode": "nic.pharmacy",
         "name": "nic",
         "extension": "pharmacy",
+        "whois_server": "whois.nic.pharmacy",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

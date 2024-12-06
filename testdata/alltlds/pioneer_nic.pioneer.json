@@ -5,6 +5,7 @@
         "punycode": "nic.pioneer",
         "name": "nic",
         "extension": "pioneer",
+        "whois_server": "whois.nic.pioneer",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited"

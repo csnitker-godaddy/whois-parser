@@ -5,6 +5,7 @@
         "punycode": "nic.bot",
         "name": "nic",
         "extension": "bot",
+        "whois_server": "whois.nic.bot",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

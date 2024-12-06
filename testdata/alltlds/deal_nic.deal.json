@@ -5,6 +5,7 @@
         "punycode": "nic.deal",
         "name": "nic",
         "extension": "deal",
+        "whois_server": "whois.nic.deal",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

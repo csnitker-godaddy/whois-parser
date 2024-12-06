@@ -5,6 +5,7 @@
         "punycode": "nic.citi",
         "name": "nic",
         "extension": "citi",
+        "whois_server": "whois.nic.citi",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

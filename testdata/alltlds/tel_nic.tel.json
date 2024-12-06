@@ -5,6 +5,7 @@
         "punycode": "nic.tel",
         "name": "nic",
         "extension": "tel",
+        "whois_server": "whois.nic.tel",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

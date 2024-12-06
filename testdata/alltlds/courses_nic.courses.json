@@ -5,6 +5,7 @@
         "punycode": "nic.courses",
         "name": "nic",
         "extension": "courses",
+        "whois_server": "whois.nic.courses",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

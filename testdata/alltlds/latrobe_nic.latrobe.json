@@ -5,6 +5,7 @@
         "punycode": "nic.latrobe",
         "name": "nic",
         "extension": "latrobe",
+        "whois_server": "whois.nic.latrobe",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

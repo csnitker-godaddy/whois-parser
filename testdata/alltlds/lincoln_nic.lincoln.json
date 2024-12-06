@@ -5,6 +5,7 @@
         "punycode": "nic.lincoln",
         "name": "nic",
         "extension": "lincoln",
+        "whois_server": "whois.nic.lincoln",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

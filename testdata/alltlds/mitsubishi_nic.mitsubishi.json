@@ -5,6 +5,7 @@
         "punycode": "nic.mitsubishi",
         "name": "nic",
         "extension": "mitsubishi",
+        "whois_server": "whois.nic.mitsubishi",
         "status": [
             "ok"
         ],

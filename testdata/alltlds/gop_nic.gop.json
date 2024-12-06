@@ -5,6 +5,7 @@
         "punycode": "nic.gop",
         "name": "nic",
         "extension": "gop",
+        "whois_server": "whois.nic.gop",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

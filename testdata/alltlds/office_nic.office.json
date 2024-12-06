@@ -5,6 +5,7 @@
         "punycode": "nic.office",
         "name": "nic",
         "extension": "office",
+        "whois_server": "whois.nic.office",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

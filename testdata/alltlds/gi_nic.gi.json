@@ -5,6 +5,7 @@
         "punycode": "nic.gi",
         "name": "nic",
         "extension": "gi",
+        "whois_server": "whois.nic.gi",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

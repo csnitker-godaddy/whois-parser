@@ -5,6 +5,7 @@
         "punycode": "nic.toray",
         "name": "nic",
         "extension": "toray",
+        "whois_server": "whois.nic.toray",
         "status": [
             "ok"
         ],

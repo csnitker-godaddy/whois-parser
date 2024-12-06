@@ -5,6 +5,7 @@
         "punycode": "nic.lilly",
         "name": "nic",
         "extension": "lilly",
+        "whois_server": "whois.nic.lilly",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

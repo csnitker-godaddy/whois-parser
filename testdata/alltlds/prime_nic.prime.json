@@ -5,6 +5,7 @@
         "punycode": "nic.prime",
         "name": "nic",
         "extension": "prime",
+        "whois_server": "whois.nic.prime",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

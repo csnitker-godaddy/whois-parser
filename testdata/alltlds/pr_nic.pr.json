@@ -5,6 +5,7 @@
         "punycode": "nic.pr",
         "name": "nic",
         "extension": "pr",
+        "whois_server": "whois.nic.pr",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.tunes",
         "name": "nic",
         "extension": "tunes",
+        "whois_server": "whois.nic.tunes",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

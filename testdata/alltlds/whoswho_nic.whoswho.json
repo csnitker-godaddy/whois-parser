@@ -5,6 +5,7 @@
         "punycode": "nic.whoswho",
         "name": "nic",
         "extension": "whoswho",
+        "whois_server": "whois.nic.whoswho",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

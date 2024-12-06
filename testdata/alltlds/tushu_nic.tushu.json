@@ -5,6 +5,7 @@
         "punycode": "nic.tushu",
         "name": "nic",
         "extension": "tushu",
+        "whois_server": "whois.nic.tushu",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

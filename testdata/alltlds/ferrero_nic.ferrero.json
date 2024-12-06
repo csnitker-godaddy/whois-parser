@@ -5,6 +5,7 @@
         "punycode": "nic.ferrero",
         "name": "nic",
         "extension": "ferrero",
+        "whois_server": "whois.nic.ferrero",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

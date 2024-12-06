@@ -5,6 +5,7 @@
         "punycode": "nic.samsung",
         "name": "nic",
         "extension": "samsung",
+        "whois_server": "whois.nic.samsung",
         "status": [
             "ok"
         ],

@@ -5,6 +5,7 @@
         "punycode": "nic.infiniti",
         "name": "nic",
         "extension": "infiniti",
+        "whois_server": "whois.nic.infiniti",
         "status": [
             "ok"
         ],

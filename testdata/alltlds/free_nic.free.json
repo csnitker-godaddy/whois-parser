@@ -5,6 +5,7 @@
         "punycode": "nic.free",
         "name": "nic",
         "extension": "free",
+        "whois_server": "whois.nic.free",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

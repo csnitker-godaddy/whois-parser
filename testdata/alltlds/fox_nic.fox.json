@@ -5,6 +5,7 @@
         "punycode": "nic.fox",
         "name": "nic",
         "extension": "fox",
+        "whois_server": "whois.nic.fox",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.skype",
         "name": "nic",
         "extension": "skype",
+        "whois_server": "whois.nic.skype",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

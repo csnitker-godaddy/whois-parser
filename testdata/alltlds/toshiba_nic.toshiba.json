@@ -5,6 +5,7 @@
         "punycode": "nic.toshiba",
         "name": "nic",
         "extension": "toshiba",
+        "whois_server": "whois.nic.toshiba",
         "status": [
             "ok"
         ],

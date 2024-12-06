@@ -5,6 +5,7 @@
         "punycode": "nic.xn--jlq480n2rg",
         "name": "nic",
         "extension": "xn--jlq480n2rg",
+        "whois_server": "whois.nic.xn--jlq480n2rg",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

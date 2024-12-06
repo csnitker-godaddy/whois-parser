@@ -5,6 +5,7 @@
         "punycode": "nic.now",
         "name": "nic",
         "extension": "now",
+        "whois_server": "whois.nic.now",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -1,6 +1,6 @@
 Domain Name: nic.mint
 Registry Domain ID: D511-MINT
-Registrar WHOIS Server:
+Registrar WHOIS Server: whois.nic.mint
 Registrar URL:
 Updated Date: 2024-10-09T16:12:16Z
 Creation Date: 2013-08-09T22:32:51Z

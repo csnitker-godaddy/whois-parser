@@ -5,6 +5,7 @@
         "punycode": "nic.gmo",
         "name": "nic",
         "extension": "gmo",
+        "whois_server": "whois.nic.gmo",
         "status": [
             "ok"
         ],

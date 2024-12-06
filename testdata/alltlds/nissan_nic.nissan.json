@@ -5,6 +5,7 @@
         "punycode": "nic.nissan",
         "name": "nic",
         "extension": "nissan",
+        "whois_server": "whois.nic.nissan",
         "status": [
             "ok"
         ],

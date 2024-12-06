@@ -5,6 +5,7 @@
         "punycode": "nic.talk",
         "name": "nic",
         "extension": "talk",
+        "whois_server": "whois.nic.talk",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

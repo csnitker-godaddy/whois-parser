@@ -5,6 +5,7 @@
         "punycode": "nic.fujitsu",
         "name": "nic",
         "extension": "fujitsu",
+        "whois_server": "whois.nic.fujitsu",
         "status": [
             "ok"
         ],

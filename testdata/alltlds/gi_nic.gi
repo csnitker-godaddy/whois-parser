@@ -1,6 +1,6 @@
 Domain Name: nic.gi
 Registry Domain ID: e02e27ec0efc4865872b99765745a5e0-DONUTS
-Registrar WHOIS Server: 
+Registrar WHOIS Server: whois.nic.gi
 Registrar URL: 
 Updated Date: 2024-09-23T15:54:33Z
 Creation Date: 2000-07-01T04:00:00Z

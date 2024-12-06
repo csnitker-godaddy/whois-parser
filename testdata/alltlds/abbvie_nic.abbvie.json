@@ -5,6 +5,7 @@
         "punycode": "nic.abbvie",
         "name": "nic",
         "extension": "abbvie",
+        "whois_server": "whois.nic.abbvie",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

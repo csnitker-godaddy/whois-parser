@@ -5,6 +5,7 @@
         "punycode": "nic.sony",
         "name": "nic",
         "extension": "sony",
+        "whois_server": "whois.nic.sony",
         "status": [
             "ok"
         ],

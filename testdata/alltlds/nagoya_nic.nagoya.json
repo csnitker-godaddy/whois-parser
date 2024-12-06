@@ -5,6 +5,7 @@
         "punycode": "nic.nagoya",
         "name": "nic",
         "extension": "nagoya",
+        "whois_server": "whois.nic.nagoya",
         "status": [
             "ok"
         ],

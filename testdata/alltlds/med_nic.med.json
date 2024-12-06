@@ -5,6 +5,7 @@
         "punycode": "nic.med",
         "name": "nic",
         "extension": "med",
+        "whois_server": "whois.nic.med",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

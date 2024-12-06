@@ -5,6 +5,7 @@
         "punycode": "nic.frontier",
         "name": "nic",
         "extension": "frontier",
+        "whois_server": "whois.nic.frontier",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

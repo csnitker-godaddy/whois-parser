@@ -5,6 +5,7 @@
         "punycode": "nic.homegoods",
         "name": "nic",
         "extension": "homegoods",
+        "whois_server": "whois.nic.homegoods",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

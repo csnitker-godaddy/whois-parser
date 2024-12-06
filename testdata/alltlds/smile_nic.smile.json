@@ -5,6 +5,7 @@
         "punycode": "nic.smile",
         "name": "nic",
         "extension": "smile",
+        "whois_server": "whois.nic.smile",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

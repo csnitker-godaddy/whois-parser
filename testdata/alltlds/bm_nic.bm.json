@@ -5,6 +5,7 @@
         "punycode": "nic.bm",
         "name": "nic",
         "extension": "bm",
+        "whois_server": "whois.nic.bm",
         "status": [
             "serverDeleteProhibited",
             "clientTransferProhibited",

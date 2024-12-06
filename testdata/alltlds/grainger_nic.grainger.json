@@ -5,6 +5,7 @@
         "punycode": "nic.grainger",
         "name": "nic",
         "extension": "grainger",
+        "whois_server": "whois.nic.grainger",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

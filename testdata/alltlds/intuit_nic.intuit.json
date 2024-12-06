@@ -5,6 +5,7 @@
         "punycode": "nic.intuit",
         "name": "nic",
         "extension": "intuit",
+        "whois_server": "whois.nic.intuit",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

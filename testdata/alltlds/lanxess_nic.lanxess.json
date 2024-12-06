@@ -5,6 +5,7 @@
         "punycode": "nic.lanxess",
         "name": "nic",
         "extension": "lanxess",
+        "whois_server": "whois.nic.lanxess",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

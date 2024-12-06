@@ -5,6 +5,7 @@
         "punycode": "nic.komatsu",
         "name": "nic",
         "extension": "komatsu",
+        "whois_server": "whois.nic.komatsu",
         "status": [
             "ok"
         ],

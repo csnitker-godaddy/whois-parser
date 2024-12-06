@@ -5,6 +5,7 @@
         "punycode": "nic.co",
         "name": "nic",
         "extension": "co",
+        "whois_server": "whois.nic.co",
         "status": [
             "serverTransferProhibited",
             "inactive"

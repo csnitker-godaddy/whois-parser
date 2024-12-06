@@ -5,6 +5,7 @@
         "punycode": "nic.wow",
         "name": "nic",
         "extension": "wow",
+        "whois_server": "whois.nic.wow",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.honda",
         "name": "nic",
         "extension": "honda",
+        "whois_server": "whois.nic.honda",
         "status": [
             "ok"
         ],

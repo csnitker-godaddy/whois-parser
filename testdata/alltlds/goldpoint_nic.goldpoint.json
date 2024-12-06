@@ -5,6 +5,7 @@
         "punycode": "nic.goldpoint",
         "name": "nic",
         "extension": "goldpoint",
+        "whois_server": "whois.nic.goldpoint",
         "status": [
             "ok"
         ],

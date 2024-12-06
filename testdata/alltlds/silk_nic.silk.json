@@ -5,6 +5,7 @@
         "punycode": "nic.silk",
         "name": "nic",
         "extension": "silk",
+        "whois_server": "whois.nic.silk",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.hbo",
         "name": "nic",
         "extension": "hbo",
+        "whois_server": "whois.nic.hbo",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

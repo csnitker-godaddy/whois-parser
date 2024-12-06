@@ -5,6 +5,7 @@
         "punycode": "nic.dnp",
         "name": "nic",
         "extension": "dnp",
+        "whois_server": "whois.nic.dnp",
         "status": [
             "ok"
         ],

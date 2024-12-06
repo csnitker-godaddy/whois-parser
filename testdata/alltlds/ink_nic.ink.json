@@ -5,6 +5,7 @@
         "punycode": "nic.ink",
         "name": "nic",
         "extension": "ink",
+        "whois_server": "whois.nic.ink",
         "status": [
             "serverRenewProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.kindle",
         "name": "nic",
         "extension": "kindle",
+        "whois_server": "whois.nic.kindle",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

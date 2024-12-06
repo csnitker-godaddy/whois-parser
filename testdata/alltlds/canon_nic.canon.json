@@ -5,6 +5,7 @@
         "punycode": "nic.canon",
         "name": "nic",
         "extension": "canon",
+        "whois_server": "whois.nic.canon",
         "status": [
             "ok"
         ],

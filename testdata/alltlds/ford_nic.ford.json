@@ -5,6 +5,7 @@
         "punycode": "nic.ford",
         "name": "nic",
         "extension": "ford",
+        "whois_server": "whois.nic.ford",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

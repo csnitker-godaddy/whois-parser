@@ -5,6 +5,7 @@
         "punycode": "nic.jmp",
         "name": "nic",
         "extension": "jmp",
+        "whois_server": "whois.nic.jmp",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

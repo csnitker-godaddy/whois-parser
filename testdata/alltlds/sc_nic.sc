@@ -1,6 +1,6 @@
 Domain Name: nic.sc
 Registry Domain ID: ac15d92a08c2458b87956c1b2f07ba02-DONUTS
-Registrar WHOIS Server: 
+Registrar WHOIS Server: whois.nic.sc
 Registrar URL: 
 Updated Date: 2024-12-01T05:00:01Z
 Creation Date: 2001-12-01T05:00:00Z

@@ -5,6 +5,7 @@
         "punycode": "nic.panasonic",
         "name": "nic",
         "extension": "panasonic",
+        "whois_server": "whois.nic.panasonic",
         "status": [
             "ok"
         ],

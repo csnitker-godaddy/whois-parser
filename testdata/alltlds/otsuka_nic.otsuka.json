@@ -5,6 +5,7 @@
         "punycode": "nic.otsuka",
         "name": "nic",
         "extension": "otsuka",
+        "whois_server": "whois.nic.otsuka",
         "status": [
             "ok"
         ],

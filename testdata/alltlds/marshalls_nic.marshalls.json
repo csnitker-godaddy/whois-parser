@@ -5,6 +5,7 @@
         "punycode": "nic.marshalls",
         "name": "nic",
         "extension": "marshalls",
+        "whois_server": "whois.nic.marshalls",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

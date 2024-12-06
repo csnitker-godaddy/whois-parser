@@ -5,6 +5,7 @@
         "punycode": "nic.dell",
         "name": "nic",
         "extension": "dell",
+        "whois_server": "whois.nic.dell",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

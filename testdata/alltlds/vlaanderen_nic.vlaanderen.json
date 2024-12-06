@@ -5,6 +5,7 @@
         "punycode": "nic.vlaanderen",
         "name": "nic",
         "extension": "vlaanderen",
+        "whois_server": "whois.nic.vlaanderen",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited"

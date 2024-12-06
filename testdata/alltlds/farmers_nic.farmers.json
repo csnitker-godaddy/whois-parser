@@ -5,6 +5,7 @@
         "punycode": "nic.farmers",
         "name": "nic",
         "extension": "farmers",
+        "whois_server": "whois.nic.farmers",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

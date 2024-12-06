@@ -5,6 +5,7 @@
         "punycode": "nic.moi",
         "name": "nic",
         "extension": "moi",
+        "whois_server": "whois.nic.moi",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

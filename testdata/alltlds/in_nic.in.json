@@ -5,6 +5,7 @@
         "punycode": "nic.in",
         "name": "nic",
         "extension": "in",
+        "whois_server": "whois.nic.in",
         "status": [
             "ok"
         ],

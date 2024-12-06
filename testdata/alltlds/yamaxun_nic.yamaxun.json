@@ -5,6 +5,7 @@
         "punycode": "nic.yamaxun",
         "name": "nic",
         "extension": "yamaxun",
+        "whois_server": "whois.nic.yamaxun",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

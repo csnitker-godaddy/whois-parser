@@ -5,6 +5,7 @@
         "punycode": "nic.wed",
         "name": "nic",
         "extension": "wed",
+        "whois_server": "whois.nic.wed",
         "status": [
             "ok"
         ],

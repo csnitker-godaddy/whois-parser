@@ -5,6 +5,7 @@
         "punycode": "nic.imdb",
         "name": "nic",
         "extension": "imdb",
+        "whois_server": "whois.nic.imdb",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

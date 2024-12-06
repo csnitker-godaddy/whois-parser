@@ -5,6 +5,7 @@
         "punycode": "nic.mattel",
         "name": "nic",
         "extension": "mattel",
+        "whois_server": "whois.nic.mattel",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

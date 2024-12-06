@@ -5,6 +5,7 @@
         "punycode": "nic.aws",
         "name": "nic",
         "extension": "aws",
+        "whois_server": "whois.nic.aws",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

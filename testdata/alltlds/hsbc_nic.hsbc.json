@@ -5,6 +5,7 @@
         "punycode": "nic.hsbc",
         "name": "nic",
         "extension": "hsbc",
+        "whois_server": "whois.nic.hsbc",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

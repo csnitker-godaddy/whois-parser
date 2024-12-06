@@ -5,6 +5,7 @@
         "punycode": "nic.hotels",
         "name": "nic",
         "extension": "hotels",
+        "whois_server": "whois.nic.hotels",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

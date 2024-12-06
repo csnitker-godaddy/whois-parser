@@ -5,6 +5,7 @@
         "punycode": "nic.date",
         "name": "nic",
         "extension": "date",
+        "whois_server": "whois.nic.date",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

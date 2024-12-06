@@ -5,6 +5,7 @@
         "punycode": "nic.melbourne",
         "name": "nic",
         "extension": "melbourne",
+        "whois_server": "whois.nic.melbourne",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

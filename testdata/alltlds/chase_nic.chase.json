@@ -5,6 +5,7 @@
         "punycode": "nic.chase",
         "name": "nic",
         "extension": "chase",
+        "whois_server": "whois.nic.chase",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

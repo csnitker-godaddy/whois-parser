@@ -5,6 +5,7 @@
         "punycode": "nic.gap",
         "name": "nic",
         "extension": "gap",
+        "whois_server": "whois.nic.gap",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

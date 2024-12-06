@@ -5,6 +5,7 @@
         "punycode": "nic.dupont",
         "name": "nic",
         "extension": "dupont",
+        "whois_server": "whois.nic.dupont",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

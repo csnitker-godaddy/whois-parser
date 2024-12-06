@@ -5,6 +5,7 @@
         "punycode": "nic.tci",
         "name": "nic",
         "extension": "tci",
+        "whois_server": "whois.nic.tci",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.fairwinds",
         "name": "nic",
         "extension": "fairwinds",
+        "whois_server": "whois.nic.fairwinds",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.hitachi",
         "name": "nic",
         "extension": "hitachi",
+        "whois_server": "whois.nic.hitachi",
         "status": [
             "ok"
         ],

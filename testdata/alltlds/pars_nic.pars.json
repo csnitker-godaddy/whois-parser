@@ -5,6 +5,7 @@
         "punycode": "nic.pars",
         "name": "nic",
         "extension": "pars",
+        "whois_server": "whois.nic.pars",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

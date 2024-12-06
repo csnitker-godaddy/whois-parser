@@ -5,6 +5,7 @@
         "punycode": "nic.book",
         "name": "nic",
         "extension": "book",
+        "whois_server": "whois.nic.book",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

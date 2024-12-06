@@ -5,6 +5,7 @@
         "punycode": "nic.sharp",
         "name": "nic",
         "extension": "sharp",
+        "whois_server": "whois.nic.sharp",
         "status": [
             "ok"
         ],

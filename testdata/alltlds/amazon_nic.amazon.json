@@ -5,6 +5,7 @@
         "punycode": "nic.amazon",
         "name": "nic",
         "extension": "amazon",
+        "whois_server": "whois.nic.amazon",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

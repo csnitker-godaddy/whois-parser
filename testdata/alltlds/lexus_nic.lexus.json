@@ -5,6 +5,7 @@
         "punycode": "nic.lexus",
         "name": "nic",
         "extension": "lexus",
+        "whois_server": "whois.nic.lexus",
         "status": [
             "ok"
         ],

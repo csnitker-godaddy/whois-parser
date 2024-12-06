@@ -5,6 +5,7 @@
         "punycode": "nic.kia",
         "name": "nic",
         "extension": "kia",
+        "whois_server": "whois.nic.kia",
         "status": [
             "ok"
         ],

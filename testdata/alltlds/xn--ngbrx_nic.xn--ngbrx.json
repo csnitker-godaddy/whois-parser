@@ -5,6 +5,7 @@
         "punycode": "nic.xn--ngbrx",
         "name": "nic",
         "extension": "xn--ngbrx",
+        "whois_server": "whois.nic.xn--ngbrx",
         "status": [
             "ok"
         ],

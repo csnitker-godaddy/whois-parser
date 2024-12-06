@@ -5,6 +5,7 @@
         "punycode": "nic.cisco",
         "name": "nic",
         "extension": "cisco",
+        "whois_server": "whois.nic.cisco",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

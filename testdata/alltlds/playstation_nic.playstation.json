@@ -5,6 +5,7 @@
         "punycode": "nic.playstation",
         "name": "nic",
         "extension": "playstation",
+        "whois_server": "whois.nic.playstation",
         "status": [
             "ok"
         ],

@@ -5,6 +5,7 @@
         "punycode": "nic.download",
         "name": "nic",
         "extension": "download",
+        "whois_server": "whois.nic.download",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

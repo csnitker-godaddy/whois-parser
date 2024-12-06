@@ -5,6 +5,7 @@
         "punycode": "nic.room",
         "name": "nic",
         "extension": "room",
+        "whois_server": "whois.nic.room",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

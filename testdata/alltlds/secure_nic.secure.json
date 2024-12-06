@@ -5,6 +5,7 @@
         "punycode": "nic.secure",
         "name": "nic",
         "extension": "secure",
+        "whois_server": "whois.nic.secure",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

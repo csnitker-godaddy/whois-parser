@@ -5,6 +5,7 @@
         "punycode": "nic.ieee",
         "name": "nic",
         "extension": "ieee",
+        "whois_server": "whois.nic.ieee",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

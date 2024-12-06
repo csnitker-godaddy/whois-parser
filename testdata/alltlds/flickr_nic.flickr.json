@@ -5,6 +5,7 @@
         "punycode": "nic.flickr",
         "name": "nic",
         "extension": "flickr",
+        "whois_server": "whois.nic.flickr",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

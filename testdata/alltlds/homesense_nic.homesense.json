@@ -5,6 +5,7 @@
         "punycode": "nic.homesense",
         "name": "nic",
         "extension": "homesense",
+        "whois_server": "whois.nic.homesense",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

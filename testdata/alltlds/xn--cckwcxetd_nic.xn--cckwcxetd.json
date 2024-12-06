@@ -5,6 +5,7 @@
         "punycode": "nic.xn--cckwcxetd",
         "name": "nic",
         "extension": "xn--cckwcxetd",
+        "whois_server": "whois.nic.xn--cckwcxetd",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

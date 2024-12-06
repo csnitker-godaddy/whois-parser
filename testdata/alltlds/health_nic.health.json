@@ -5,6 +5,7 @@
         "punycode": "nic.health",
         "name": "nic",
         "extension": "health",
+        "whois_server": "whois.nic.health",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

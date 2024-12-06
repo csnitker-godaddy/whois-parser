@@ -5,6 +5,7 @@
         "punycode": "nic.lc",
         "name": "nic",
         "extension": "lc",
+        "whois_server": "whois.nic.lc",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

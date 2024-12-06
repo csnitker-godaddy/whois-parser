@@ -5,6 +5,7 @@
         "punycode": "nic.cricket",
         "name": "nic",
         "extension": "cricket",
+        "whois_server": "whois.nic.cricket",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

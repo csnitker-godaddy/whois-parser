@@ -5,6 +5,7 @@
         "punycode": "nic.buy",
         "name": "nic",
         "extension": "buy",
+        "whois_server": "whois.nic.buy",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

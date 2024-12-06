@@ -5,6 +5,7 @@
         "punycode": "nic.bbva",
         "name": "nic",
         "extension": "bbva",
+        "whois_server": "whois.nic.bbva",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

@@ -5,6 +5,7 @@
         "punycode": "nic.jot",
         "name": "nic",
         "extension": "jot",
+        "whois_server": "whois.nic.jot",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

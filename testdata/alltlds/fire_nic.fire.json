@@ -5,6 +5,7 @@
         "punycode": "nic.fire",
         "name": "nic",
         "extension": "fire",
+        "whois_server": "whois.nic.fire",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

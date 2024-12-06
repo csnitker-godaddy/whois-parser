@@ -5,6 +5,7 @@
         "punycode": "nic.xbox",
         "name": "nic",
         "extension": "xbox",
+        "whois_server": "whois.nic.xbox",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

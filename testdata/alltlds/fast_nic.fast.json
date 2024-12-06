@@ -5,6 +5,7 @@
         "punycode": "nic.fast",
         "name": "nic",
         "extension": "fast",
+        "whois_server": "whois.nic.fast",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

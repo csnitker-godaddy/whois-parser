@@ -5,6 +5,7 @@
         "punycode": "nic.goo",
         "name": "nic",
         "extension": "goo",
+        "whois_server": "whois.nic.goo",
         "status": [
             "ok"
         ],

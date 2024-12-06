@@ -5,6 +5,7 @@
         "punycode": "nic.ibm",
         "name": "nic",
         "extension": "ibm",
+        "whois_server": "whois.nic.ibm",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

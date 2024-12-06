@@ -18,6 +18,9 @@ It is supposed to be working with all domain extensions, but [verified extension
 
 If there is any problem, please feel free to open a new issue.
 
+## TLD Support
+See the [support](testdata/alltlds/SUPPORT.md) list for parsing details.
+
 ## Binary distributions
 
 For binary distributions of whois information query and parsing, please download [whois release tool](https://github.com/likexian/whois/tree/master/cmd/whois).

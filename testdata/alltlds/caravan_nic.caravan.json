@@ -5,6 +5,7 @@
         "punycode": "nic.caravan",
         "name": "nic",
         "extension": "caravan",
+        "whois_server": "whois.nic.caravan",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

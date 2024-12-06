@@ -5,6 +5,7 @@
         "punycode": "nic.wien",
         "name": "nic",
         "extension": "wien",
+        "whois_server": "whois.nic.wien",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited"

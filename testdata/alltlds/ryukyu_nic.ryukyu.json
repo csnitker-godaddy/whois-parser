@@ -5,6 +5,7 @@
         "punycode": "nic.ryukyu",
         "name": "nic",
         "extension": "ryukyu",
+        "whois_server": "whois.nic.ryukyu",
         "status": [
             "ok"
         ],

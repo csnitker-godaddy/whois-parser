@@ -5,6 +5,7 @@
         "punycode": "nic.virgin",
         "name": "nic",
         "extension": "virgin",
+        "whois_server": "whois.nic.virgin",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

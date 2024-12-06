@@ -5,6 +5,7 @@
         "punycode": "nic.wanggou",
         "name": "nic",
         "extension": "wanggou",
+        "whois_server": "whois.nic.wanggou",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",

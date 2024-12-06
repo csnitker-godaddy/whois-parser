@@ -5,6 +5,7 @@
         "punycode": "nic.jnj",
         "name": "nic",
         "extension": "jnj",
+        "whois_server": "whois.nic.jnj",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

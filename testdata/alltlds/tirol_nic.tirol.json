@@ -5,6 +5,7 @@
         "punycode": "nic.tirol",
         "name": "nic",
         "extension": "tirol",
+        "whois_server": "whois.nic.tirol",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited"

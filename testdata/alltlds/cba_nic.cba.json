@@ -5,6 +5,7 @@
         "punycode": "nic.cba",
         "name": "nic",
         "extension": "cba",
+        "whois_server": "whois.nic.cba",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

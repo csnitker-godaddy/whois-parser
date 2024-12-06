@@ -5,6 +5,7 @@
         "punycode": "nic.desi",
         "name": "nic",
         "extension": "desi",
+        "whois_server": "whois.nic.desi",
         "status": [
             "ok"
         ],

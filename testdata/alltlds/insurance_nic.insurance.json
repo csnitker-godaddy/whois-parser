@@ -5,6 +5,7 @@
         "punycode": "nic.insurance",
         "name": "nic",
         "extension": "insurance",
+        "whois_server": "whois.nic.insurance",
         "status": [
             "serverRenewProhibited",
             "serverTransferProhibited",

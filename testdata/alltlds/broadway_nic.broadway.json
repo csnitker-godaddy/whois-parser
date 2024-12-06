@@ -5,6 +5,7 @@
         "punycode": "nic.broadway",
         "name": "nic",
         "extension": "broadway",
+        "whois_server": "whois.nic.broadway",
         "status": [
             "clientDeleteProhibited",
             "clientTransferProhibited",

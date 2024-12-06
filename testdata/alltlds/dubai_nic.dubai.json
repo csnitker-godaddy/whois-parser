@@ -5,6 +5,7 @@
         "punycode": "nic.dubai",
         "name": "nic",
         "extension": "dubai",
+        "whois_server": "whois.nic.dubai",
         "status": [
             "ok"
         ],

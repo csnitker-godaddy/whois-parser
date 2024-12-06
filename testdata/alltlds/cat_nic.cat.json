@@ -5,6 +5,7 @@
         "punycode": "nic.cat",
         "name": "nic",
         "extension": "cat",
+        "whois_server": "whois.nic.cat",
         "status": [
             "ok"
         ],

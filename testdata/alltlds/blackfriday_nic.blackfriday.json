@@ -5,6 +5,7 @@
         "punycode": "nic.blackfriday",
         "name": "nic",
         "extension": "blackfriday",
+        "whois_server": "whois.nic.blackfriday",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

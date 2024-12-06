@@ -5,6 +5,7 @@
         "punycode": "git.in",
         "name": "git",
         "extension": "in",
+        "whois_server": "whois.nic.in",
         "status": [
             "clientTransferProhibited"
         ],

@@ -5,6 +5,7 @@
         "punycode": "nic.discover",
         "name": "nic",
         "extension": "discover",
+        "whois_server": "whois.nic.discover",
         "status": [
             "serverUpdateProhibited",
             "serverDeleteProhibited",

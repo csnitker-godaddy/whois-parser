@@ -5,6 +5,7 @@
         "punycode": "nic.xn--80aswg",
         "name": "nic",
         "extension": "xn--80aswg",
+        "whois_server": "whois.nic.xn--80aswg",
         "status": [
             "ok"
         ],

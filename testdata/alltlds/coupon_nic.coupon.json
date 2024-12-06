@@ -5,6 +5,7 @@
         "punycode": "nic.coupon",
         "name": "nic",
         "extension": "coupon",
+        "whois_server": "whois.nic.coupon",
         "status": [
             "serverTransferProhibited",
             "serverDeleteProhibited",

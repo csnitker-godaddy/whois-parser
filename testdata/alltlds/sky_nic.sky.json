@@ -5,6 +5,7 @@
         "punycode": "nic.sky",
         "name": "nic",
         "extension": "sky",
+        "whois_server": "whois.nic.sky",
         "status": [
             "serverDeleteProhibited",
             "serverTransferProhibited",
