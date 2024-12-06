@@ -201,7 +201,6 @@ If there is any problem, please feel free to open a new issue.
 | .business | [nic.business](business_nic.business) | [nic.business](business_nic.business.json) | √ |
 | .buy | [nic.buy](buy_nic.buy) | [nic.buy](buy_nic.buy.json) | √ |
 | .buzz | [nic.buzz](buzz_nic.buzz) | [nic.buzz](buzz_nic.buzz.json) | √ |
-| .bw | [nic.bw](bw_nic.bw) | [nic.bw](bw_nic.bw.json) | √ |
 | .by | [git.by](by_git.by) | [git.by](by_git.by.json) | √ |
 | .by | [google.by](by_google.by) | [google.by](by_google.by.json) | √ |
 | .by | [nic.by](by_nic.by) | [nic.by](by_nic.by.json) | √ |
@@ -279,7 +278,6 @@ If there is any problem, please feel free to open a new issue.
 | .cm | [nic.cm](cm_nic.cm) | [nic.cm](cm_nic.cm.json) | √ |
 | .cn | [apple.cn](cn_apple.cn) | [apple.cn](cn_apple.cn.json) | √ |
 | .cn | [google.cn](cn_google.cn) | [google.cn](cn_google.cn.json) | √ |
-| .cn | [nic.cn](cn_nic.cn) | [nic.cn](cn_nic.cn.json) | √ |
 | .co | [git.co](co_git.co) | [git.co](co_git.co.json) | √ |
 | .co | [google.co](co_google.co) | [google.co](co_google.co.json) | √ |
 | .co | [nic.co](co_nic.co) | [nic.co](co_nic.co.json) | √ |
@@ -457,7 +455,6 @@ If there is any problem, please feel free to open a new issue.
 | .fishing | [nic.fishing](fishing_nic.fishing) | [nic.fishing](fishing_nic.fishing.json) | √ |
 | .fit | [nic.fit](fit_nic.fit) | [nic.fit](fit_nic.fit.json) | √ |
 | .fitness | [nic.fitness](fitness_nic.fitness) | [nic.fitness](fitness_nic.fitness.json) | √ |
-| .fj | [nic.fj](fj_nic.fj) | [nic.fj](fj_nic.fj.json) | √ |
 | .flickr | [nic.flickr](flickr_nic.flickr) | [nic.flickr](flickr_nic.flickr.json) | √ |
 | .flights | [nic.flights](flights_nic.flights) | [nic.flights](flights_nic.flights.json) | √ |
 | .flir | [nic.flir](flir_nic.flir) | [nic.flir](flir_nic.flir.json) | √ |
@@ -683,7 +680,6 @@ If there is any problem, please feel free to open a new issue.
 | .juniper | [nic.juniper](juniper_nic.juniper) | [nic.juniper](juniper_nic.juniper.json) | √ |
 | .kaufen | [nic.kaufen](kaufen_nic.kaufen) | [nic.kaufen](kaufen_nic.kaufen.json) | √ |
 | .kddi | [nic.kddi](kddi_nic.kddi) | [nic.kddi](kddi_nic.kddi.json) | √ |
-| .ke | [nic.ke](ke_nic.ke) | [nic.ke](ke_nic.ke.json) | √ |
 | .kerryhotels | [nic.kerryhotels](kerryhotels_nic.kerryhotels) | [nic.kerryhotels](kerryhotels_nic.kerryhotels.json) | √ |
 | .kerrylogistics | [nic.kerrylogistics](kerrylogistics_nic.kerrylogistics) | [nic.kerrylogistics](kerrylogistics_nic.kerrylogistics.json) | √ |
 | .kerryproperties | [nic.kerryproperties](kerryproperties_nic.kerryproperties) | [nic.kerryproperties](kerryproperties_nic.kerryproperties.json) | √ |
@@ -1213,7 +1209,6 @@ If there is any problem, please feel free to open a new issue.
 | .tw | [google.org.tw](tw_google.org.tw) | [google.org.tw](tw_google.org.tw.json) | √ |
 | .tw | [google.tw](tw_google.tw) | [google.tw](tw_google.tw.json) | √ |
 | .tw | [msn.tw](tw_msn.tw) | [msn.tw](tw_msn.tw.json) | √ |
-| .tw | [nic.tw](tw_nic.tw) | [nic.tw](tw_nic.tw.json) | √ |
 | .tw | [specialized.com.tw](tw_specialized.com.tw) | [specialized.com.tw](tw_specialized.com.tw.json) | √ |
 | .tz | [nic.tz](tz_nic.tz) | [nic.tz](tz_nic.tz.json) | √ |
 | .ua | [google.ua](ua_google.ua) | [google.ua](ua_google.ua.json) | √ |
@@ -1317,10 +1312,7 @@ If there is any problem, please feel free to open a new issue.
 | .zm | [nic.zm](zm_nic.zm) | [nic.zm](zm_nic.zm.json) | √ |
 | .zone | [nic.zone](zone_nic.zone) | [nic.zone](zone_nic.zone.json) | √ |
 | .zuerich | [nic.zuerich](zuerich_nic.zuerich) | [nic.zuerich](zuerich_nic.zuerich.json) | √ |
-| .ευ | [nic.ευ](xn--qxa6a_nic.xn--qxa6a) | [nic.ευ](xn--qxa6a_nic.xn--qxa6a.json) | √ |
-| .бг | [nic.бг](xn--90ae_nic.xn--90ae) | [nic.бг](xn--90ae_nic.xn--90ae.json) | √ |
 | .дети | [nic.дети](xn--d1acj3b_nic.xn--d1acj3b) | [nic.дети](xn--d1acj3b_nic.xn--d1acj3b.json) | √ |
-| .ею | [nic.ею](xn--e1a4c_nic.xn--e1a4c) | [nic.ею](xn--e1a4c_nic.xn--e1a4c.json) | √ |
 | .ком | [nic.ком](xn--j1aef_nic.xn--j1aef) | [nic.ком](xn--j1aef_nic.xn--j1aef.json) | √ |
 | .москва | [nic.москва](xn--80adxhks_nic.xn--80adxhks) | [nic.москва](xn--80adxhks_nic.xn--80adxhks.json) | √ |
 | .онлайн | [nic.онлайн](xn--80asehdb_nic.xn--80asehdb) | [nic.онлайн](xn--80asehdb_nic.xn--80asehdb.json) | √ |
@@ -1331,15 +1323,12 @@ If there is any problem, please feel free to open a new issue.
 | .קום | [nic.קום](xn--9dbq2a_nic.xn--9dbq2a) | [nic.קום](xn--9dbq2a_nic.xn--9dbq2a.json) | √ |
 | .ابوظبي | [nic.ابوظبي](xn--mgbca7dzdo_nic.xn--mgbca7dzdo) | [nic.ابوظبي](xn--mgbca7dzdo_nic.xn--mgbca7dzdo.json) | √ |
 | .اتصالات | [nic.اتصالات](xn--mgbaakc7dvf_nic.xn--mgbaakc7dvf) | [nic.اتصالات](xn--mgbaakc7dvf_nic.xn--mgbaakc7dvf.json) | √ |
-| .المغرب | [nic.المغرب](xn--mgbc0a9azcg_nic.xn--mgbc0a9azcg) | [nic.المغرب](xn--mgbc0a9azcg_nic.xn--mgbc0a9azcg.json) | √ |
 | .ایران | [ایرنیک.ایران](xn--mgba3a4f16a_xn--mgbu7dsvrfc.xn--mgba3a4f16a) | [ایرنیک.ایران](xn--mgba3a4f16a_xn--mgbu7dsvrfc.xn--mgba3a4f16a.json) | √ |
 | .ایران | [بخر.ایران](xn--mgba3a4f16a_xn--ngbmj.xn--mgba3a4f16a) | [بخر.ایران](xn--mgba3a4f16a_xn--ngbmj.xn--mgba3a4f16a.json) | √ |
 | .بازار | [nic.بازار](xn--mgbab2bd_nic.xn--mgbab2bd) | [nic.بازار](xn--mgbab2bd_nic.xn--mgbab2bd.json) | √ |
 | .بيتك | [nic.بيتك](xn--ngbe9e0a_nic.xn--ngbe9e0a) | [nic.بيتك](xn--ngbe9e0a_nic.xn--ngbe9e0a.json) | √ |
-| .سورية | [nic.سورية](xn--ogbpf8fl_nic.xn--ogbpf8fl) | [nic.سورية](xn--ogbpf8fl_nic.xn--ogbpf8fl.json) | √ |
 | .عرب | [nic.عرب](xn--ngbrx_nic.xn--ngbrx) | [nic.عرب](xn--ngbrx_nic.xn--ngbrx.json) | √ |
 | .كوم | [nic.كوم](xn--fhbei_nic.xn--fhbei) | [nic.كوم](xn--fhbei_nic.xn--fhbei.json) | √ |
-| .مليسيا | [nic.مليسيا](xn--mgbx4cd0ab_nic.xn--mgbx4cd0ab) | [nic.مليسيا](xn--mgbx4cd0ab_nic.xn--mgbx4cd0ab.json) | √ |
 | .موقع | [nic.موقع](xn--4gbrim_nic.xn--4gbrim) | [nic.موقع](xn--4gbrim_nic.xn--4gbrim.json) | √ |
 | .همراه | [nic.همراه](xn--mgbt3dhd_nic.xn--mgbt3dhd) | [nic.همراه](xn--mgbt3dhd_nic.xn--mgbt3dhd.json) | √ |
 | .कॉम | [nic.कॉम](xn--11b4c3d_nic.xn--11b4c3d) | [nic.कॉम](xn--11b4c3d_nic.xn--11b4c3d.json) | √ |
@@ -1351,7 +1340,6 @@ If there is any problem, please feel free to open a new issue.
 | .グーグル | [nic.グーグル](xn--qcka1pmc_nic.xn--qcka1pmc) | [nic.グーグル](xn--qcka1pmc_nic.xn--qcka1pmc.json) | √ |
 | .コム | [nic.コム](xn--tckwe_nic.xn--tckwe) | [nic.コム](xn--tckwe_nic.xn--tckwe.json) | √ |
 | .中信 | [nic.中信](xn--fiq64b_nic.xn--fiq64b) | [nic.中信](xn--fiq64b_nic.xn--fiq64b.json) | √ |
-| .中国 | [nic.中国](xn--fiqs8s_nic.xn--fiqs8s) | [nic.中国](xn--fiqs8s_nic.xn--fiqs8s.json) | √ |
 | .中国 | [你好.中国](xn--fiqs8s_xn--6qq79v.xn--fiqs8s) | [你好.中国](xn--fiqs8s_xn--6qq79v.xn--fiqs8s.json) | √ |
 | .中国 | [实业.中国](xn--fiqs8s_xn--vhq524a.xn--fiqs8s) | [实业.中国](xn--fiqs8s_xn--vhq524a.xn--fiqs8s.json) | √ |
 | .中文网 | [nic.中文网](xn--fiq228c5hs_nic.xn--fiq228c5hs) | [nic.中文网](xn--fiq228c5hs_nic.xn--fiq228c5hs.json) | √ |
@@ -1362,8 +1350,6 @@ If there is any problem, please feel free to open a new issue.
 | .健康 | [nic.健康](xn--nyqy26a_nic.xn--nyqy26a) | [nic.健康](xn--nyqy26a_nic.xn--nyqy26a.json) | √ |
 | .八卦 | [nic.八卦](xn--45q11c_nic.xn--45q11c) | [nic.八卦](xn--45q11c_nic.xn--45q11c.json) | √ |
 | .公司 | [nic.公司](xn--55qx5d_nic.xn--55qx5d) | [nic.公司](xn--55qx5d_nic.xn--55qx5d.json) | √ |
-| .台湾 | [nic.台湾](xn--kprw13d_nic.xn--kprw13d) | [nic.台湾](xn--kprw13d_nic.xn--kprw13d.json) | √ |
-| .台灣 | [nic.台灣](xn--kpry57d_nic.xn--kpry57d) | [nic.台灣](xn--kpry57d_nic.xn--kpry57d.json) | √ |
 | .商城 | [nic.商城](xn--czru2d_nic.xn--czru2d) | [nic.商城](xn--czru2d_nic.xn--czru2d.json) | √ |
 | .商店 | [nic.商店](xn--czrs0t_nic.xn--czrs0t) | [nic.商店](xn--czrs0t_nic.xn--czrs0t.json) | √ |
 | .嘉里 | [nic.嘉里](xn--w4rs40l_nic.xn--w4rs40l) | [nic.嘉里](xn--w4rs40l_nic.xn--w4rs40l.json) | √ |

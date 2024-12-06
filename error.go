@@ -88,7 +88,7 @@ func isExtNotFoundDomain(data, extension string) bool {
 	data = reBlank.ReplaceAllString(data, " ")
 
 	switch extension {
-	case "ai", "cx", "gs", "xn--mgbah1a3hjkrd":
+	case "ai", "bw", "cx", "gs", "fj", "xn--mgbah1a3hjkrd", "xn--ogbpf8fl", "xn--mgbc0a9azcg":
 		if strings.Contains(data, "Domain Status: No Object Found") {
 			return true
 		}

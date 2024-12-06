@@ -5,6 +5,7 @@
         "punycode": "nic.cologne",
         "name": "nic",
         "extension": "cologne",
+        "whois_server": "whois.nic.koeln",
         "status": [
             "ok"
         ],
