@@ -1,0 +1,38 @@
+{
+    "domain": {
+        "domain": "snai.edu",
+        "punycode": "snai.edu",
+        "name": "snai",
+        "extension": "edu",
+        "name_servers": [
+            "ns1.alidns.com",
+            "ns2.alidns.com"
+        ],
+        "created_date": "27-Apr-2001",
+        "created_date_in_time": "2001-04-27T00:00:00Z",
+        "updated_date": "08-Jan-2019",
+        "updated_date_in_time": "2019-01-08T00:00:00Z",
+        "expiration_date": "31-Jul-2021",
+        "expiration_date_in_time": "2021-07-31T00:00:00Z"
+    },
+    "registrant": {
+        "organization": "Shanghai National Accounting Institute",
+        "street": "200 Panlong Rd,xu jin,Qing pu zone, Shanghai, SH 201702, China",
+        "phone": "+86.0216976800068028",
+        "email": "webmaster@snai.edu"
+    },
+    "administrative": {
+        "name": "chengyan Yin",
+        "organization": "Shanghai National Accounting Institute",
+        "street": "200 Panlong Rd,xu jin,Qing pu zone, Shanghai, SH 201702, China",
+        "phone": "+86.0216976800068028",
+        "email": "webmaster@snai.edu"
+    },
+    "technical": {
+        "name": "Jindong Dou",
+        "organization": "Shanghai National Accounting Institute",
+        "street": "200 Panlong Rd,xu jin,Qing pu zone, Shanghai, SH 201702, China",
+        "phone": "+86.0216976800068096",
+        "email": "kindong@snai.edu"
+    }
+}

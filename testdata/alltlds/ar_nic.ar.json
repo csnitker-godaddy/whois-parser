@@ -1,0 +1,26 @@
+{
+    "domain": {
+        "domain": "nic.ar",
+        "punycode": "nic.ar",
+        "name": "nic",
+        "extension": "ar",
+        "name_servers": [
+            "ns5.rdns.ar",
+            "ns6.rdns.ar",
+            "ns1.rdns.ar",
+            "ns2.rdns.ar"
+        ],
+        "created_date": "1998-05-29 00:00:00",
+        "created_date_in_time": "1998-05-29T00:00:00Z",
+        "updated_date": "2023-07-17 17:23:05.989470",
+        "updated_date_in_time": "2023-07-17T17:23:05.98947Z",
+        "expiration_date": "2100-12-31 00:00:00",
+        "expiration_date_in_time": "2100-12-31T00:00:00Z"
+    },
+    "registrar": {
+        "name": "nicar"
+    },
+    "registrant": {
+        "organization": "30710551665"
+    }
+}

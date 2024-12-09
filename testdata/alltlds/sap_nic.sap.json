@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "D1-SAP",
+        "domain": "nic.sap",
+        "punycode": "nic.sap",
+        "name": "nic",
+        "extension": "sap",
+        "whois_server": "whois.nic.sap",
+        "status": [
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-04-23T14:44:53.759Z",
+        "created_date_in_time": "2014-04-23T14:44:53.759Z",
+        "updated_date": "2023-07-28T12:48:30.130Z",
+        "updated_date_in_time": "2023-07-28T12:48:30.13Z",
+        "expiration_date": "2027-04-23T14:44:53.759Z",
+        "expiration_date_in_time": "2027-04-23T14:44:53.759Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "SAP Internal Registrar",
+        "phone": "+49.6227747474",
+        "email": "germany@sap.com",
+        "referral_url": "http://www.sap.com"
+    },
+    "registrant": {
+        "id": "CTUULNIHRGT15-SAP",
+        "name": "SAP SE",
+        "organization": "SAP SE",
+        "street": "Dietmar-Hopp-Allee 16",
+        "city": "Walldorf",
+        "province": "BW",
+        "postal_code": "69190",
+        "country": "DE",
+        "phone": "+49.6227747474",
+        "fax": "+49.6227757575",
+        "email": "hostmaster@sap.com"
+    },
+    "administrative": {
+        "id": "CMDNZGAGVGL16-SAP",
+        "name": "Soenke Lange",
+        "organization": "SAP SE",
+        "street": "Dietmar-Hopp-Allee 16",
+        "city": "Walldorf",
+        "province": "BW",
+        "postal_code": "69190",
+        "country": "DE",
+        "phone": "+49.6227749270",
+        "fax": "+49.6227757575",
+        "email": "hostmaster@sap.com"
+    },
+    "technical": {
+        "id": "CTZTTJQETDV17-SAP",
+        "name": "Soenke Lange",
+        "organization": "SAP SE",
+        "street": "Dietmar-Hopp-Allee 16",
+        "city": "Walldorf",
+        "province": "BW",
+        "postal_code": "69190",
+        "country": "DE",
+        "phone": "+49.6227749270",
+        "fax": "+49.6227757575",
+        "email": "hostmaster@sap.com"
+    }
+}

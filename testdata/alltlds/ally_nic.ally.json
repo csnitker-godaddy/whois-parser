@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "D10062A98B38C4D859504110A2F7F0AD7-NSR",
+        "domain": "nic.ally",
+        "punycode": "nic.ally",
+        "name": "nic",
+        "extension": "ally",
+        "whois_server": "whois.nic.ally",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverRenewProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "d.nic.ally",
+            "a.nic.ally",
+            "b.nic.ally",
+            "c.nic.ally"
+        ],
+        "dnssec": true,
+        "created_date": "2021-01-22T10:57:48Z",
+        "created_date_in_time": "2021-01-22T10:57:48Z",
+        "updated_date": "2023-12-12T03:24:45Z",
+        "updated_date_in_time": "2023-12-12T03:24:45Z",
+        "expiration_date": "2031-01-22T10:57:48Z",
+        "expiration_date_in_time": "2031-01-22T10:57:48Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Ally Financial Inc."
+    },
+    "registrant": {
+        "id": "CF8ED130EF174450FA5FAF07E167474D4-NSR",
+        "name": "Director, Shared Services | Email, Preferences, Domain and Brand Monitoring Registrant",
+        "organization": "Ally Financial Inc.",
+        "street": "200 Renaissance Cente",
+        "city": "Detroit",
+        "province": "MI",
+        "postal_code": "48265",
+        "country": "us",
+        "phone": "+1.8773517626",
+        "email": "reg-support@support.neustar"
+    },
+    "administrative": {
+        "id": "CF8ED130EF174450FA5FAF07E167474D4-NSR",
+        "name": "Director, Shared Services | Email, Preferences, Domain and Brand Monitoring Registrant",
+        "organization": "Ally Financial Inc.",
+        "street": "200 Renaissance Cente",
+        "city": "Detroit",
+        "province": "MI",
+        "postal_code": "48265",
+        "country": "us",
+        "phone": "+1.8773517626",
+        "email": "reg-support@support.neustar"
+    },
+    "technical": {
+        "id": "CF8ED130EF174450FA5FAF07E167474D4-NSR",
+        "name": "Director, Shared Services | Email, Preferences, Domain and Brand Monitoring Registrant",
+        "organization": "Ally Financial Inc.",
+        "street": "200 Renaissance Cente",
+        "city": "Detroit",
+        "province": "MI",
+        "postal_code": "48265",
+        "country": "us",
+        "phone": "+1.8773517626",
+        "email": "reg-support@support.neustar"
+    }
+}

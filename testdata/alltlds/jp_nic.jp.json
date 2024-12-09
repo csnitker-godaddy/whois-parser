@@ -1,0 +1,19 @@
+{
+    "domain": {
+        "domain": "nic.jp",
+        "punycode": "nic.jp",
+        "name": "nic",
+        "extension": "jp",
+        "name_servers": [
+            "ns.nic.jp"
+        ]
+    },
+    "registrant": {
+        "name": "Japan Network Information Center"
+    },
+    "administrative": {
+        "name": "Japan Network Information Center",
+        "street": "Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo, Japan",
+        "email": "secretariat@nic.ad.jp"
+    }
+}

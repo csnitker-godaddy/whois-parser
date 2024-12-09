@@ -1,0 +1,56 @@
+{
+    "domain": {
+        "id": "42132-CoCCA",
+        "domain": "nic.cx",
+        "punycode": "nic.cx",
+        "name": "nic",
+        "extension": "cx",
+        "status": [
+            "clientRenewProhibited",
+            "serverRenewProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "clientDeleteProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "a.nic.cx",
+            "b.nic.cx"
+        ],
+        "dnssec": true,
+        "created_date": "2001-07-28T14:00:00Z",
+        "created_date_in_time": "2001-07-28T14:00:00Z",
+        "updated_date": "2024-03-16T11:47:00Z",
+        "updated_date_in_time": "2024-03-16T11:47:00Z",
+        "expiration_date": "2025-01-31T00:00:00Z",
+        "expiration_date_in_time": "2025-01-31T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Christmas Island Domain Administration Ltd.",
+        "street": "PO Box 496",
+        "country": "CX",
+        "phone": "+61 (0)8 6102 7988",
+        "email": "info@cxda.org.cx",
+        "referral_url": "http://www.nic.cx"
+    },
+    "registrant": {
+        "id": "2011688-CoCCA",
+        "name": "Garth Miller",
+        "organization": "CoCCA Registry Services (NZ) Limited",
+        "street": "4a - 36 Collge Hill",
+        "city": "Auckland",
+        "country": "NZ",
+        "phone": "+64.211796495",
+        "email": "garth.miller@cxda.org.cx"
+    },
+    "administrative": {
+        "id": "2011688-CoCCA",
+        "name": "Garth Miller",
+        "organization": "CoCCA Registry Services (NZ) Limited",
+        "street": "4a - 36 Collge Hill",
+        "city": "Auckland",
+        "country": "NZ",
+        "phone": "+64.211796495",
+        "email": "garth.miller@cxda.org.cx"
+    }
+}

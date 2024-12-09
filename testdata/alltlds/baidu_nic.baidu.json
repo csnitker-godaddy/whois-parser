@@ -1,0 +1,77 @@
+{
+    "domain": {
+        "id": "D20171109G10001G_27628478-baidu",
+        "domain": "nic.baidu",
+        "punycode": "nic.baidu",
+        "name": "nic",
+        "extension": "baidu",
+        "whois_server": "202.173.11.141",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "vns1.zdnscloud.biz",
+            "ins1.zdnscloud.com",
+            "dns1.zdnscloud.info",
+            "cns1.zdnscloud.net"
+        ],
+        "created_date": "2017-11-09T02:38:05Z",
+        "created_date_in_time": "2017-11-09T02:38:05Z",
+        "updated_date": "2018-06-11T09:58:45Z",
+        "updated_date_in_time": "2018-06-11T09:58:45Z",
+        "expiration_date": "2027-11-09T02:38:05Z",
+        "expiration_date_in_time": "2027-11-09T02:38:05Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "knet",
+        "phone": "+86.01058813521",
+        "email": "tech-supprot@zdns.cn",
+        "referral_url": "http://www.knet.cn"
+    },
+    "registrant": {
+        "id": "C20180611C_31565770-baidu",
+        "name": "徐楠楠",
+        "organization": "百度在线网络技术（北京）有限公司",
+        "street": "海淀区上地十街10号百度大厦三层",
+        "city": "北京",
+        "province": "北京",
+        "postal_code": "1000091",
+        "country": "CN",
+        "phone": "+86.01058005202",
+        "phone_ext": "0",
+        "fax": "+86.01059920061",
+        "fax_ext": "0",
+        "email": "domainmaster@baidu.com"
+    },
+    "administrative": {
+        "id": "C20180611C_31565770-baidu",
+        "name": "徐楠楠",
+        "organization": "百度在线网络技术（北京）有限公司",
+        "street": "海淀区上地十街10号百度大厦三层",
+        "city": "北京",
+        "province": "北京",
+        "postal_code": "1000091",
+        "country": "CN",
+        "phone": "+86.01058005202",
+        "phone_ext": "0",
+        "fax": "+86.01059920061",
+        "fax_ext": "0",
+        "email": "domainmaster@baidu.com"
+    },
+    "technical": {
+        "id": "C20180611C_31565770-baidu",
+        "name": "徐楠楠",
+        "organization": "百度在线网络技术（北京）有限公司",
+        "street": "海淀区上地十街10号百度大厦三层",
+        "city": "北京",
+        "province": "北京",
+        "postal_code": "1000091",
+        "country": "CN",
+        "phone": "+86.01058005202",
+        "phone_ext": "0",
+        "fax": "+86.01059920061",
+        "fax_ext": "0",
+        "email": "domainmaster@baidu.com"
+    }
+}

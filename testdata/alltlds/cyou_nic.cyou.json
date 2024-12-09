@@ -1,0 +1,79 @@
+{
+    "domain": {
+        "id": "D186154499-CNIC",
+        "domain": "nic.cyou",
+        "punycode": "nic.cyou",
+        "name": "nic",
+        "extension": "cyou",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.cyou",
+            "b.nic.cyou",
+            "c.nic.cyou",
+            "d.nic.cyou"
+        ],
+        "created_date": "2014-05-01T00:00:00.0Z",
+        "created_date_in_time": "2014-05-01T00:00:00Z",
+        "updated_date": "2023-08-31T16:52:45.0Z",
+        "updated_date_in_time": "2023-08-31T16:52:45Z",
+        "expiration_date": "2030-03-01T23:59:59.0Z",
+        "expiration_date_in_time": "2030-03-01T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "name": "Lars Jensen",
+        "organization": "Shortdot SA",
+        "street": "29 Boulevard de la Grande-Duchesse Charlotte",
+        "city": "Luxembourg",
+        "postal_code": "L-1331",
+        "country": "LU",
+        "phone": "+352.621811103",
+        "fax": "+352.27862529",
+        "email": "sales@nic.icu"
+    },
+    "administrative": {
+        "name": "Lars Jensen",
+        "organization": "Shortdot SA",
+        "street": "29 Boulevard de la Grande-Duchesse Charlotte",
+        "city": "Luxembourg",
+        "postal_code": "L-1331",
+        "country": "LU",
+        "phone": "+352.621811103",
+        "fax": "+352.27862529",
+        "email": "sales@nic.icu"
+    },
+    "technical": {
+        "name": "Lars Jensen",
+        "organization": "Shortdot SA",
+        "street": "29 Boulevard de la Grande-Duchesse Charlotte",
+        "city": "Luxembourg",
+        "postal_code": "L-1331",
+        "country": "LU",
+        "phone": "+352.621811103",
+        "fax": "+352.27862529",
+        "email": "sales@nic.icu"
+    },
+    "billing": {
+        "name": "Lars Jensen",
+        "organization": "Shortdot SA",
+        "street": "29 Boulevard de la Grande-Duchesse Charlotte",
+        "city": "Luxembourg",
+        "postal_code": "L-1331",
+        "country": "LU",
+        "phone": "+352.621811103",
+        "fax": "+352.27862529",
+        "email": "sales@nic.icu"
+    }
+}

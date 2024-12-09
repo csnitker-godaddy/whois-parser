@@ -1,0 +1,67 @@
+{
+    "domain": {
+        "id": "DO324813-GMO",
+        "domain": "nic.sharp",
+        "punycode": "nic.sharp",
+        "name": "nic",
+        "extension": "sharp",
+        "whois_server": "whois.nic.sharp",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2015-11-05T02:16:28.0Z",
+        "created_date_in_time": "2015-11-05T02:16:28Z",
+        "updated_date": "2024-11-06T00:19:02.0Z",
+        "updated_date_in_time": "2024-11-06T00:19:02Z",
+        "expiration_date": "2025-11-05T23:59:59.0Z",
+        "expiration_date_in_time": "2025-11-05T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Sharp Registry/Registrar",
+        "referral_url": "nic.sharp"
+    },
+    "registrant": {
+        "id": "HA1214939-GMO",
+        "name": "Domain Administrator",
+        "organization": "SHARP Corporation",
+        "street": "22-22, Nagaike-cho",
+        "city": "Abeno-ku",
+        "province": "Osaka",
+        "postal_code": "545-8522",
+        "country": "JP",
+        "phone": "+81.355210107",
+        "fax": "+81.355210117",
+        "email": "domain.master@brights.jp"
+    },
+    "administrative": {
+        "id": "HA1215032-GMO",
+        "name": "Mitsuaki Nakagawa",
+        "organization": "GMO BRAND SECURITY Inc.",
+        "street": "Cerulean Tower, 26-1 Sakuragaokacho",
+        "city": "Shibuya ku",
+        "province": "Tokyo",
+        "postal_code": "150-8512",
+        "country": "JP",
+        "phone": "+81.355210107",
+        "fax": "+81.355210117",
+        "email": "domain.master@brights.jp"
+    },
+    "technical": {
+        "id": "HA1215032-GMO",
+        "name": "Mitsuaki Nakagawa",
+        "organization": "GMO BRAND SECURITY Inc.",
+        "street": "Cerulean Tower, 26-1 Sakuragaokacho",
+        "city": "Shibuya ku",
+        "province": "Tokyo",
+        "postal_code": "150-8512",
+        "country": "JP",
+        "phone": "+81.355210107",
+        "fax": "+81.355210117",
+        "email": "domain.master@brights.jp"
+    }
+}

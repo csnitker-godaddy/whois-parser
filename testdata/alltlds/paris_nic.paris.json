@@ -1,0 +1,79 @@
+{
+    "domain": {
+        "id": "DOM000000000002-PARIS",
+        "domain": "nic.paris",
+        "punycode": "nic.paris",
+        "name": "nic",
+        "extension": "paris",
+        "whois_server": "whois.nic.paris",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "g.ext.nic.fr",
+            "ns1.nic.fr",
+            "ns2.nic.fr",
+            "ns3.nic.fr"
+        ],
+        "dnssec": true,
+        "created_date": "2014-02-13T16:45:56Z",
+        "created_date_in_time": "2014-02-13T16:45:56Z",
+        "updated_date": "2024-03-29T16:51:02.375334Z",
+        "updated_date_in_time": "2024-03-29T16:51:02.375334Z",
+        "expiration_date": "2025-02-13T16:45:56Z",
+        "expiration_date_in_time": "2025-02-13T16:45:56Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operations",
+        "referral_url": "http://mondomaine.paris.fr"
+    },
+    "registrant": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "administrative": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "technical": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "billing": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    }
+}

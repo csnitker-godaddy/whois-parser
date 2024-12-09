@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "ec2e8036a1b24fd5bc3218e13dca19e8-DONUTS",
+        "domain": "nic.jeep",
+        "punycode": "nic.jeep",
+        "name": "nic",
+        "extension": "jeep",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.jeep",
+            "b0.nic.jeep",
+            "c0.nic.jeep",
+            "a2.nic.jeep"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-22T23:34:37Z",
+        "created_date_in_time": "2016-01-22T23:34:37Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-22T23:34:37Z",
+        "expiration_date_in_time": "2025-01-22T23:34:37Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "a8b8e1bbc93c4594b999087aa26c0f37-DONUTS",
+        "name": "Sales & Marketing - IT Services Aftersales",
+        "organization": "FCA US LLC.",
+        "street": "1000 Chrysler Drive",
+        "city": "Auburn Hills",
+        "province": "MI",
+        "postal_code": "48326",
+        "country": "US",
+        "phone": "+1.2485122950",
+        "fax": "+1.2485124053",
+        "email": "ngtld-fca@cscglobal.com"
+    },
+    "administrative": {
+        "id": "abeb1b42bcd04fe8a5675a00693b0026-DONUTS",
+        "name": "Registry Operator",
+        "organization": "FCA US LLC",
+        "street": "1000 Chrysler Drive",
+        "city": "Auburn Hills",
+        "province": "MI",
+        "postal_code": "48326",
+        "country": "US",
+        "phone": "+1.2485122950",
+        "fax": "+1.2485124053",
+        "email": "ngtld-fca@cscglobal.com"
+    },
+    "technical": {
+        "id": "abeb1b42bcd04fe8a5675a00693b0026-DONUTS",
+        "name": "Registry Operator",
+        "organization": "FCA US LLC",
+        "street": "1000 Chrysler Drive",
+        "city": "Auburn Hills",
+        "province": "MI",
+        "postal_code": "48326",
+        "country": "US",
+        "phone": "+1.2485122950",
+        "fax": "+1.2485124053",
+        "email": "ngtld-fca@cscglobal.com"
+    }
+}

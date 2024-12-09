@@ -1,0 +1,77 @@
+{
+    "domain": {
+        "id": "D96313129-CNIC",
+        "domain": "nic.tui",
+        "punycode": "nic.tui",
+        "name": "nic",
+        "extension": "tui",
+        "whois_server": "whois.nic.tui",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "anycast1.dnsres.net",
+            "anycast2.dnsres.net"
+        ],
+        "created_date": "2014-06-23T11:29:32.0Z",
+        "created_date_in_time": "2014-06-23T11:29:32Z",
+        "updated_date": "2024-06-17T00:10:09.0Z",
+        "updated_date_in_time": "2024-06-17T00:10:09Z",
+        "expiration_date": "2025-06-23T23:59:59.0Z",
+        "expiration_date_in_time": "2025-06-23T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "TUI AG",
+        "phone": "+41.798319275",
+        "email": "tui@thomsentrampedach.com",
+        "referral_url": "http://www.nic.tui"
+    },
+    "registrant": {
+        "name": "TUI  AG",
+        "organization": "TUI AG",
+        "street": "Karl-Wiechert-Allee 4",
+        "city": "Hannover",
+        "province": "Niedersachsen",
+        "postal_code": "30625",
+        "country": "DE",
+        "phone": "+49.5115661111",
+        "email": "domain@tui.com"
+    },
+    "administrative": {
+        "name": "TUI  AG",
+        "organization": "TUI AG",
+        "street": "Karl-Wiechert-Allee 4",
+        "city": "Hannover",
+        "province": "Niedersachsen",
+        "postal_code": "30625",
+        "country": "DE",
+        "phone": "+49.5115661111",
+        "email": "domain@tui.com"
+    },
+    "technical": {
+        "name": "TUI  AG",
+        "organization": "TUI AG",
+        "street": "Karl-Wiechert-Allee 4",
+        "city": "Hannover",
+        "province": "Niedersachsen",
+        "postal_code": "30625",
+        "country": "DE",
+        "phone": "+49.5115661111",
+        "email": "domain@tui.com"
+    },
+    "billing": {
+        "name": "TUI  AG",
+        "organization": "TUI AG",
+        "street": "Karl-Wiechert-Allee 4",
+        "city": "Hannover",
+        "province": "Niedersachsen",
+        "postal_code": "30625",
+        "country": "DE",
+        "phone": "+49.5115661111",
+        "email": "domain@tui.com"
+    }
+}

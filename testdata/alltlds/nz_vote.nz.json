@@ -1,0 +1,27 @@
+{
+    "domain": {
+        "domain": "vote.nz",
+        "punycode": "vote.nz",
+        "name": "vote",
+        "extension": "nz",
+        "status": [
+            "200"
+        ],
+        "name_servers": [
+            "ns3.catalyst.net.nz",
+            "ns4.catalyst.net.nz",
+            "ns1.catalyst.net.nz",
+            "ns2.catalyst.net.nz"
+        ],
+        "updated_date": "2019-10-12T23:35:35+13:00",
+        "updated_date_in_time": "2019-10-12T23:35:35+13:00"
+    },
+    "registrar": {
+        "name": "Catalyst DNS Administrator",
+        "street": "PO Box 11-053",
+        "city": "Wellington",
+        "country": "NZ (NEW ZEALAND)",
+        "phone": "+64 4 499 2267",
+        "email": "dns@catalyst.net.nz"
+    }
+}

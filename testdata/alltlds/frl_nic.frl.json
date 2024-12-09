@@ -1,0 +1,50 @@
+{
+    "domain": {
+        "id": "D57926524-CNIC",
+        "domain": "nic.frl",
+        "punycode": "nic.frl",
+        "name": "nic",
+        "extension": "frl",
+        "whois_server": "whois.nic.frl",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "d.nic.frl",
+            "c.nic.frl",
+            "b.nic.frl",
+            "a.nic.frl"
+        ],
+        "dnssec": true,
+        "created_date": "2014-07-06T00:32:06.0Z",
+        "created_date_in_time": "2014-07-06T00:32:06Z",
+        "updated_date": "2024-06-30T00:05:32.0Z",
+        "updated_date_in_time": "2024-06-30T00:05:32Z",
+        "expiration_date": "2025-07-06T23:59:59.0Z",
+        "expiration_date_in_time": "2025-07-06T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "FRL Registry BV",
+        "phone": "+31.858885692",
+        "email": "abuse@metaregistar.com",
+        "referral_url": "https://nic.frl/"
+    },
+    "registrant": {
+        "organization": ".frl Registry's Registrar",
+        "country": "NL",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

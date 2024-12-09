@@ -1,0 +1,28 @@
+{
+    "domain": {
+        "domain": "gre.nz",
+        "punycode": "gre.nz",
+        "name": "gre",
+        "extension": "nz",
+        "status": [
+            "200"
+        ],
+        "name_servers": [
+            "ns-196-c.gandi.net",
+            "ns-110-a.gandi.net",
+            "ns-104-b.gandi.net"
+        ],
+        "updated_date": "2019-01-02T04:55:30+13:00",
+        "updated_date_in_time": "2019-01-02T04:55:30+13:00"
+    },
+    "registrar": {
+        "name": "Gandi",
+        "street": "63/65 bd. Massena",
+        "city": "Paris",
+        "postal_code": "75013",
+        "country": "FR (FRANCE)",
+        "phone": "+33 1 70393740",
+        "fax": "+33 1 43731851",
+        "email": "reg.nz-admin@gandi.net"
+    }
+}

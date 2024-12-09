@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "D0000000007-BERLIN",
+        "domain": "nic.berlin",
+        "punycode": "nic.berlin",
+        "name": "nic",
+        "extension": "berlin",
+        "whois_server": "whois.nic.berlin",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "sec1.rcode0.net",
+            "sec2.rcode0.net"
+        ],
+        "dnssec": true,
+        "created_date": "2013-12-12T10:02:52Z",
+        "created_date_in_time": "2013-12-12T10:02:52Z",
+        "updated_date": "2017-06-22T05:58:24Z",
+        "updated_date_in_time": "2017-06-22T05:58:24Z",
+        "expiration_date": "2024-12-12T10:02:52Z",
+        "expiration_date_in_time": "2024-12-12T10:02:52Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "dotBERLIN GmbH u. Co. KG",
+        "phone": "+49.304978",
+        "email": "abuse@dot.berlin",
+        "referral_url": "https://www.dot.berlin"
+    },
+    "technical": {
+        "id": "C0000000002-BERLIN",
+        "name": "TLDBOX",
+        "organization": "tldbox GmbH",
+        "street": "Jakob-Haringer-Strasse 8/V",
+        "city": "Salzburg",
+        "province": "Salzburg",
+        "postal_code": "5020",
+        "country": "AT",
+        "phone": "+43.662234548",
+        "phone_ext": "730",
+        "email": "iana@tld-box.at"
+    }
+}

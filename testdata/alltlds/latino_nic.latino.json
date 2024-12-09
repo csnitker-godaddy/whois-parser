@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "0694e45418fd462c9a735f2da94a39b7-DONUTS",
+        "domain": "nic.latino",
+        "punycode": "nic.latino",
+        "name": "nic",
+        "extension": "latino",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.latino",
+            "b0.nic.latino",
+            "c0.nic.latino",
+            "a2.nic.latino"
+        ],
+        "dnssec": true,
+        "created_date": "2019-06-06T13:29:52Z",
+        "created_date_in_time": "2019-06-06T13:29:52Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-06-06T13:29:52Z",
+        "expiration_date_in_time": "2025-06-06T13:29:52Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "6904f86e54f442ce8e412e015cb7bedd-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Dish DBS Corporation",
+        "street": "9601 S. Meridian Boulevard",
+        "city": "Englewood",
+        "province": "CO",
+        "postal_code": "80112",
+        "country": "US",
+        "phone": "+1.3037231000",
+        "fax": "+1.3037231699",
+        "email": "ngtld-dish@cscglobal.com"
+    },
+    "administrative": {
+        "id": "6904f86e54f442ce8e412e015cb7bedd-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Dish DBS Corporation",
+        "street": "9601 S. Meridian Boulevard",
+        "city": "Englewood",
+        "province": "CO",
+        "postal_code": "80112",
+        "country": "US",
+        "phone": "+1.3037231000",
+        "fax": "+1.3037231699",
+        "email": "ngtld-dish@cscglobal.com"
+    },
+    "technical": {
+        "id": "6904f86e54f442ce8e412e015cb7bedd-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Dish DBS Corporation",
+        "street": "9601 S. Meridian Boulevard",
+        "city": "Englewood",
+        "province": "CO",
+        "postal_code": "80112",
+        "country": "US",
+        "phone": "+1.3037231000",
+        "fax": "+1.3037231699",
+        "email": "ngtld-dish@cscglobal.com"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "domain": {
+        "id": "PANDI-DO328686",
+        "domain": "nic.id",
+        "punycode": "nic.id",
+        "name": "nic",
+        "extension": "id",
+        "status": [
+            "RESERVED"
+        ],
+        "created_date": "2014-08-16 04:40:01",
+        "created_date_in_time": "2014-08-16T04:40:01Z",
+        "updated_date": "2019-08-17 00:05:34",
+        "updated_date_in_time": "2019-08-17T00:05:34Z"
+    }
+}

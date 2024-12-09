@@ -1,0 +1,47 @@
+{
+    "domain": {
+        "id": "8-CoCCA",
+        "domain": "nic.рус",
+        "punycode": "nic.xn--p1acf",
+        "name": "nic",
+        "extension": "xn--p1acf",
+        "whois_server": "whois.nic.xn--p1acf",
+        "status": [
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "clientDeleteProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns1.desec.io",
+            "ns2.desec.org"
+        ],
+        "dnssec": true,
+        "created_date": "2014-10-02T20:45:48Z",
+        "created_date_in_time": "2014-10-02T20:45:48Z",
+        "updated_date": "2024-03-31T13:00:13Z",
+        "updated_date_in_time": "2024-03-31T13:00:13Z",
+        "expiration_date": "2023-10-02T20:45:48Z",
+        "expiration_date_in_time": "2023-10-02T20:45:48Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "RUSNAMES LIMITED",
+        "phone": "+79649772117",
+        "email": "alexeisozonov@rusnames.ru",
+        "referral_url": "http://rusnames.ru/"
+    },
+    "registrant": {
+        "id": "6-CoCCA",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "RUSNAMES LIMITED",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "RU",
+        "phone": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    }
+}

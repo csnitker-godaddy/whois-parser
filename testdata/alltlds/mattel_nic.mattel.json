@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "D511-MATTEL",
+        "domain": "nic.mattel",
+        "punycode": "nic.mattel",
+        "name": "nic",
+        "extension": "mattel",
+        "whois_server": "whois.nic.mattel",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.mattel",
+            "ns2.dns.nic.mattel",
+            "ns3.dns.nic.mattel",
+            "ns4.dns.nic.mattel",
+            "ns5.dns.nic.mattel",
+            "ns6.dns.nic.mattel"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T22:28:14Z",
+        "created_date_in_time": "2013-08-09T22:28:14Z",
+        "updated_date": "2024-10-09T16:14:08Z",
+        "updated_date_in_time": "2024-10-09T16:14:08Z",
+        "expiration_date": "2025-08-08T23:59:59Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Mattel, Inc."
+    },
+    "registrant": {
+        "id": "C1883-MATTEL",
+        "name": "Mattel, Inc.",
+        "organization": "Mattel, Inc.",
+        "street": "333 Continental Blvd.",
+        "city": "El Segundo",
+        "province": "CA",
+        "postal_code": "90245",
+        "country": "US",
+        "phone": "+1.3102524220",
+        "fax": "+1.3102524991",
+        "email": "registrycontact@mattel.com"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

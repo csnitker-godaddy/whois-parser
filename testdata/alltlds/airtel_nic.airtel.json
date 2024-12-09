@@ -1,0 +1,79 @@
+{
+    "domain": {
+        "id": "111897101_DOMAIN_AIRTEL-VRSN",
+        "domain": "nic.airtel",
+        "punycode": "nic.airtel",
+        "name": "nic",
+        "extension": "airtel",
+        "whois_server": "www.verisigninc.com",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "av1.nstld.com",
+            "av2.nstld.com",
+            "av3.nstld.com",
+            "av4.nstld.com"
+        ],
+        "created_date": "2015-04-02T16:28:53Z",
+        "created_date_in_time": "2015-04-02T16:28:53Z",
+        "updated_date": "2020-04-27T17:45:05Z",
+        "updated_date_in_time": "2020-04-27T17:45:05Z",
+        "expiration_date": "2025-04-02T16:28:53Z",
+        "expiration_date_in_time": "2025-04-02T16:28:53Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator Reserved Non-Billable",
+        "referral_url": "http://www.verisign.com"
+    },
+    "registrant": {
+        "id": "204046_CONTACT_AIRTEL-VRSN",
+        "name": "Mukesh Bhavnani",
+        "organization": "Bharti Airtel Limited",
+        "street": "Bharti Crescent, 1, Nelson Mandela Road Vasant Kunj Phase II",
+        "city": "New Delhi",
+        "province": "Delhi",
+        "postal_code": "110070",
+        "country": "IN",
+        "phone": "+91.1141666100",
+        "fax": "+91.1141666149",
+        "email": "domains.admin@bharti.in"
+    },
+    "administrative": {
+        "id": "202819_CONTACT_AIRTEL-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "province": "VA",
+        "postal_code": "20190",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "technical": {
+        "id": "202819_CONTACT_AIRTEL-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "province": "VA",
+        "postal_code": "20190",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "billing": {
+        "id": "202819_CONTACT_AIRTEL-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "province": "VA",
+        "postal_code": "20190",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    }
+}

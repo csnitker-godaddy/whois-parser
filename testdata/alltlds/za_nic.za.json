@@ -1,0 +1,80 @@
+{
+    "domain": {
+        "id": "dom_3X--1",
+        "domain": "nic.za",
+        "punycode": "nic.za",
+        "name": "nic",
+        "extension": "za",
+        "whois_server": "za-whois31.dns.net.za",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.lexsynergy.net",
+            "ns2.lexsynergy.us",
+            "ns3.lexsynergy.info"
+        ],
+        "dnssec": true,
+        "created_date": "2017-06-15T07:33:10Z",
+        "created_date_in_time": "2017-06-15T07:33:10Z",
+        "updated_date": "2019-07-16T10:14:49Z",
+        "updated_date_in_time": "2019-07-16T10:14:49Z",
+        "expiration_date": "2999-12-30T22:00:00Z",
+        "expiration_date_in_time": "2999-12-30T22:00:00Z"
+    },
+    "registrar": {
+        "name": ".ZADNA"
+    },
+    "registrant": {
+        "id": "C000157",
+        "name": ".ZADNA",
+        "organization": ".ZA Domain Name Authority",
+        "street": "44 Grand Central Blvd Sanofi House Halfway house",
+        "city": "Midrand",
+        "province": "Gauteng",
+        "postal_code": "1685",
+        "country": "ZA",
+        "phone": "+27.100203910",
+        "fax": "+27.100203919",
+        "email": "dnsadmin@zadna.org.za"
+    },
+    "administrative": {
+        "id": "C000157",
+        "name": ".ZADNA",
+        "organization": ".ZA Domain Name Authority",
+        "street": "44 Grand Central Blvd Sanofi House Halfway house",
+        "city": "Midrand",
+        "province": "Gauteng",
+        "postal_code": "1685",
+        "country": "ZA",
+        "phone": "+27.100203910",
+        "fax": "+27.100203919",
+        "email": "dnsadmin@zadna.org.za"
+    },
+    "technical": {
+        "id": "C000157",
+        "name": ".ZADNA",
+        "organization": ".ZA Domain Name Authority",
+        "street": "44 Grand Central Blvd Sanofi House Halfway house",
+        "city": "Midrand",
+        "province": "Gauteng",
+        "postal_code": "1685",
+        "country": "ZA",
+        "phone": "+27.100203910",
+        "fax": "+27.100203919",
+        "email": "dnsadmin@zadna.org.za"
+    },
+    "billing": {
+        "id": "C000157",
+        "name": ".ZADNA",
+        "organization": ".ZA Domain Name Authority",
+        "street": "44 Grand Central Blvd Sanofi House Halfway house",
+        "city": "Midrand",
+        "province": "Gauteng",
+        "postal_code": "1685",
+        "country": "ZA",
+        "phone": "+27.100203910",
+        "fax": "+27.100203919",
+        "email": "dnsadmin@zadna.org.za"
+    }
+}

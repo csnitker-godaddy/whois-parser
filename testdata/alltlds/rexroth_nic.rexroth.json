@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "9b28eeb273384a069cfbcedb965de1e0-DONUTS",
+        "domain": "nic.rexroth",
+        "punycode": "nic.rexroth",
+        "name": "nic",
+        "extension": "rexroth",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.rexroth",
+            "b0.nic.rexroth",
+            "a2.nic.rexroth",
+            "c0.nic.rexroth"
+        ],
+        "created_date": "2015-09-25T20:22:08Z",
+        "created_date_in_time": "2015-09-25T20:22:08Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-09-25T20:22:08Z",
+        "expiration_date_in_time": "2025-09-25T20:22:08Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "92b64c25368740a0957b037f28b57615-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "Robert Bosch GmbH",
+        "street": "Robert Bosch Platz 1",
+        "city": "Gerlingen-Schillerhoehe",
+        "postal_code": "70839",
+        "country": "DE",
+        "phone": "+49.71181133168",
+        "email": "admin@internationaladmin.com"
+    },
+    "administrative": {
+        "id": "5bb89e6e48d443409e928f518a4d4247-DONUTS",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "technical": {
+        "id": "5bb89e6e48d443409e928f518a4d4247-DONUTS",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    }
+}

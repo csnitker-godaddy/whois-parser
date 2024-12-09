@@ -1,0 +1,64 @@
+{
+    "domain": {
+        "id": "DNM_100000-SIDN",
+        "domain": "nic.politie",
+        "punycode": "nic.politie",
+        "name": "nic",
+        "extension": "politie",
+        "whois_server": "whois.nic.politie",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns3.sidn.nl",
+            "ns4.sidn.nl",
+            "ns5.sidn.nl"
+        ],
+        "dnssec": true,
+        "created_date": "2016-03-10T14:27:29Z",
+        "created_date_in_time": "2016-03-10T14:27:29Z",
+        "updated_date": "2024-03-10T00:15:01Z",
+        "updated_date_in_time": "2024-03-10T00:15:01Z",
+        "expiration_date": "2025-03-10T14:27:29Z",
+        "expiration_date_in_time": "2025-03-10T14:27:29Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Stichting Internet Domeinregistratie Nederland (Operationeel)",
+        "phone": "+31.0263525555",
+        "email": "support@sidn.nl",
+        "referral_url": "www.nic.politie"
+    },
+    "registrant": {
+        "id": "PRO000001-SIDN1",
+        "name": "Product line Cloud, Big Data & Internet",
+        "organization": "Politie Nederland",
+        "street": "Zeisterweg 1",
+        "city": "Odijk",
+        "postal_code": "3984NH",
+        "country": "NL",
+        "phone": "+31.0343534500",
+        "email": "cloud-bigdata-internet@politie.nl"
+    },
+    "administrative": {
+        "id": "PRO000001-SIDN1",
+        "name": "Product line Cloud, Big Data & Internet",
+        "organization": "Politie Nederland",
+        "street": "Zeisterweg 1",
+        "city": "Odijk",
+        "postal_code": "3984NH",
+        "country": "NL",
+        "phone": "+31.0343534500",
+        "email": "cloud-bigdata-internet@politie.nl"
+    },
+    "technical": {
+        "id": "SID000001-SIDN1",
+        "name": "SIDN NOC",
+        "street": "Meander 501",
+        "city": "Arnhem",
+        "postal_code": "6825MD",
+        "country": "NL",
+        "phone": "+31.0263525555",
+        "email": "support@sidn.nl"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "domain": {
+        "id": "D1465582-CNIC",
+        "domain": "nic.wme",
+        "punycode": "nic.wme",
+        "name": "nic",
+        "extension": "wme",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "a.nic.wme",
+            "b.nic.wme",
+            "c.nic.wme",
+            "d.nic.wme"
+        ],
+        "created_date": "2013-09-11T11:57:25.0Z",
+        "created_date_in_time": "2013-09-11T11:57:25Z",
+        "updated_date": "2024-09-05T00:01:06.0Z",
+        "updated_date_in_time": "2024-09-05T00:01:06Z",
+        "expiration_date": "2025-09-11T23:59:59.0Z",
+        "expiration_date_in_time": "2025-09-11T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "name": "Domain Administrator",
+        "organization": "CentralNic Ltd",
+        "street": "35-39 Moorgate",
+        "city": "London",
+        "postal_code": "EC2R 6AR",
+        "country": "GB",
+        "phone": "+44.2033880600",
+        "fax": "+44.2033880601",
+        "email": "domains@centralnic.com"
+    },
+    "administrative": {
+        "name": "Domain Administrator",
+        "organization": "CentralNic Ltd",
+        "street": "35-39 Moorgate",
+        "city": "London",
+        "postal_code": "EC2R 6AR",
+        "country": "GB",
+        "phone": "+44.2033880600",
+        "fax": "+44.2033880601",
+        "email": "domains@centralnic.com"
+    },
+    "technical": {
+        "name": "Domain Administrator",
+        "organization": "CentralNic Ltd",
+        "street": "35-39 Moorgate",
+        "city": "London",
+        "postal_code": "EC2R 6AR",
+        "country": "GB",
+        "phone": "+44.2033880600",
+        "fax": "+44.2033880601",
+        "email": "domains@centralnic.com"
+    },
+    "billing": {
+        "name": "Domain Administrator",
+        "organization": "CentralNic Ltd",
+        "street": "35-39 Moorgate",
+        "city": "London",
+        "postal_code": "EC2R 6AR",
+        "country": "GB",
+        "phone": "+44.2033880600",
+        "fax": "+44.2033880601",
+        "email": "domains@centralnic.com"
+    }
+}

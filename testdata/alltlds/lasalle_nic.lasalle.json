@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "445fe18493e54522adbfcf4b7a458941-DONUTS",
+        "domain": "nic.lasalle",
+        "punycode": "nic.lasalle",
+        "name": "nic",
+        "extension": "lasalle",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "autoRenewPeriod"
+        ],
+        "name_servers": [
+            "a0.nic.lasalle",
+            "a2.nic.lasalle",
+            "b0.nic.lasalle",
+            "c0.nic.lasalle"
+        ],
+        "dnssec": true,
+        "created_date": "2015-10-26T18:25:04Z",
+        "created_date_in_time": "2015-10-26T18:25:04Z",
+        "updated_date": "2024-10-26T18:26:01Z",
+        "updated_date_in_time": "2024-10-26T18:26:01Z",
+        "expiration_date": "2025-10-26T18:25:04Z",
+        "expiration_date_in_time": "2025-10-26T18:25:04Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "62ca15f978cd49b995505c1746377165-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Jones Lang Lasalle Incorporated",
+        "street": "200 E. Randolph Drive",
+        "city": "Chicago",
+        "province": "IL",
+        "postal_code": "60601",
+        "country": "US",
+        "phone": "+1.3026365401",
+        "fax": "+1.3026365454",
+        "email": "ngtld-lasalle@cscglobal.com"
+    },
+    "administrative": {
+        "id": "cea080c469174827a19941281f845ab8-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Jones Lang LaSalle Incorporated",
+        "street": "200 E. Randolph Drive",
+        "city": "Chicago",
+        "province": "IL",
+        "postal_code": "60601",
+        "country": "US",
+        "phone": "+1.3122282269",
+        "fax": "+1.3122282777",
+        "email": "ngtld-jll@cscglobal.com"
+    },
+    "technical": {
+        "id": "cea080c469174827a19941281f845ab8-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Jones Lang LaSalle Incorporated",
+        "street": "200 E. Randolph Drive",
+        "city": "Chicago",
+        "province": "IL",
+        "postal_code": "60601",
+        "country": "US",
+        "phone": "+1.3122282269",
+        "fax": "+1.3122282777",
+        "email": "ngtld-jll@cscglobal.com"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "domain": {
+        "id": "5058-nicgn",
+        "domain": "nic.gn",
+        "punycode": "nic.gn",
+        "name": "nic",
+        "extension": "gn",
+        "whois_server": "https://whois.ande.gov.gn",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns2.siteground.net",
+            "ns1.siteground.net"
+        ],
+        "created_date": "2024-01-31T15:08:23Z",
+        "created_date_in_time": "2024-01-31T15:08:23Z",
+        "expiration_date": "2025-01-31T15:08:23Z",
+        "expiration_date_in_time": "2025-01-31T15:08:23Z"
+    },
+    "registrar": {
+        "name": "Internal Registrars",
+        "street": "KIpé, Commune de Ratoma",
+        "country": "GN",
+        "phone": "+224 622298656",
+        "email": "abuse@ande.gov.gn",
+        "referral_url": "https://ande.gov.gn/dns-gn/"
+    }
+}

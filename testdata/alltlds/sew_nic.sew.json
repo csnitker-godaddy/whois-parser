@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "9170f70ca9ff43d5838ab07ccfb4e67a-DONUTS",
+        "domain": "nic.sew",
+        "punycode": "nic.sew",
+        "name": "nic",
+        "extension": "sew",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.sew",
+            "a2.nic.sew",
+            "b0.nic.sew",
+            "c0.nic.sew"
+        ],
+        "dnssec": true,
+        "created_date": "2015-04-02T14:27:29Z",
+        "created_date_in_time": "2015-04-02T14:27:29Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-04-02T14:27:29Z",
+        "expiration_date_in_time": "2025-04-02T14:27:29Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "4d5a61bb3a1c42c4bcf2f5c7572bc748-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "SEW-EURODRIVE GmbH & Co KG",
+        "street": "Ernst-Blickle-Str. 42",
+        "city": "Bruchsal",
+        "postal_code": "76646",
+        "country": "DE",
+        "phone": "+49.7251755228",
+        "fax": "+49.725175505229",
+        "email": "domains@sew-eurodrive.de"
+    },
+    "administrative": {
+        "id": "4d5a61bb3a1c42c4bcf2f5c7572bc748-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "SEW-EURODRIVE GmbH & Co KG",
+        "street": "Ernst-Blickle-Str. 42",
+        "city": "Bruchsal",
+        "postal_code": "76646",
+        "country": "DE",
+        "phone": "+49.7251755228",
+        "fax": "+49.725175505229",
+        "email": "domains@sew-eurodrive.de"
+    },
+    "technical": {
+        "id": "4d5a61bb3a1c42c4bcf2f5c7572bc748-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "SEW-EURODRIVE GmbH & Co KG",
+        "street": "Ernst-Blickle-Str. 42",
+        "city": "Bruchsal",
+        "postal_code": "76646",
+        "country": "DE",
+        "phone": "+49.7251755228",
+        "fax": "+49.725175505229",
+        "email": "domains@sew-eurodrive.de"
+    }
+}

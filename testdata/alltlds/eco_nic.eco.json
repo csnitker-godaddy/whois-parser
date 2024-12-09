@@ -1,0 +1,93 @@
+{
+    "domain": {
+        "id": "18724-ECO",
+        "domain": "nic.eco",
+        "punycode": "nic.eco",
+        "name": "nic",
+        "extension": "eco",
+        "whois_server": "whois.nic.eco",
+        "status": [
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "a.ns.nic.eco",
+            "b.ns.nic.eco",
+            "c.ns.nic.eco",
+            "d.ns.nic.eco"
+        ],
+        "dnssec": true,
+        "created_date": "2016-12-02T16:02:25Z",
+        "created_date_in_time": "2016-12-02T16:02:25Z",
+        "updated_date": "2024-03-12T16:11:02Z",
+        "updated_date_in_time": "2024-03-12T16:11:02Z",
+        "expiration_date": "3000-01-01T00:00:00Z",
+        "expiration_date_in_time": "3000-01-01T00:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Big Room Inc. (Non-billable)",
+        "referral_url": "bigroom.eco"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Big Room Inc.",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "BC",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "CA",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    }
+}

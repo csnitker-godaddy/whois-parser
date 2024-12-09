@@ -1,0 +1,47 @@
+{
+    "domain": {
+        "id": "D57873584-CNIC",
+        "domain": "nic.gent",
+        "punycode": "nic.gent",
+        "name": "nic",
+        "extension": "gent",
+        "whois_server": "whois.nic.gent",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "d.nic.gent",
+            "c.nic.gent",
+            "b.nic.gent",
+            "a.nic.gent"
+        ],
+        "dnssec": true,
+        "created_date": "2014-04-18T11:42:38.0Z",
+        "created_date_in_time": "2014-04-18T11:42:38Z",
+        "updated_date": "2024-04-19T00:11:21.0Z",
+        "updated_date_in_time": "2024-04-19T00:11:21Z",
+        "expiration_date": "2025-04-18T23:59:59.0Z",
+        "expiration_date_in_time": "2025-04-18T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Easyhost BV",
+        "phone": "+32.92187979",
+        "email": "tom.debast@combellgroup.com",
+        "referral_url": "https://nic.gent/"
+    },
+    "registrant": {
+        "organization": "COMBELL GROUP NV/SA",
+        "country": "BE",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "domain": {
+        "id": "2707346_DOMAIN_NET-VRSN",
+        "domain": "nic.net",
+        "punycode": "nic.net",
+        "name": "nic",
+        "extension": "net",
+        "whois_server": "whois.domain.com",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.domainbank.com",
+            "dns2.domainbank.com"
+        ],
+        "created_date": "1996-10-23T04:00:00Z",
+        "created_date_in_time": "1996-10-23T04:00:00Z",
+        "updated_date": "2024-09-23T03:47:17Z",
+        "updated_date_in_time": "2024-09-23T03:47:17Z",
+        "expiration_date": "2025-10-22T04:00:00Z",
+        "expiration_date_in_time": "2025-10-22T04:00:00Z"
+    },
+    "registrar": {
+        "id": "886",
+        "name": "Domain.com, LLC",
+        "phone": "602-226-2389",
+        "email": "compliance@domain-inc.net",
+        "referral_url": "http://www.domain.com"
+    }
+}

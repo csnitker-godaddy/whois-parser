@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "D1600-AMEX",
+        "domain": "nic.amex",
+        "punycode": "nic.amex",
+        "name": "nic",
+        "extension": "amex",
+        "whois_server": "whois.nic.amex",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.amex",
+            "ns2.dns.nic.amex",
+            "ns3.dns.nic.amex",
+            "ns4.dns.nic.amex",
+            "ns5.dns.nic.amex",
+            "ns6.dns.nic.amex"
+        ],
+        "dnssec": true,
+        "created_date": "2013-09-16T19:44:08Z",
+        "created_date_in_time": "2013-09-16T19:44:08Z",
+        "updated_date": "2024-10-31T00:00:02Z",
+        "updated_date_in_time": "2024-10-31T00:00:02Z",
+        "expiration_date": "2025-09-15T23:59:59Z",
+        "expiration_date_in_time": "2025-09-15T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "American Express Travel Related Services, Inc."
+    },
+    "registrant": {
+        "id": "C2675-AMEX",
+        "name": "American Express Travel Related Services, Inc",
+        "street": "200 Vesey Street",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10285",
+        "country": "US",
+        "phone": "+1.2126402000",
+        "fax": "+1.2126409212",
+        "email": "gtld@aexp.com"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

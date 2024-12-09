@@ -1,5 +1,5 @@
 /*
- * Copyright 2014-2023 Li Kexian
+ * Copyright 2014-2024 Li Kexian
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -66,6 +66,7 @@ func isNotFoundDomain(data string) bool {
 		"no match",
 		"not found",
 		"not match",
+		"not available",
 		"no data found",
 		"nothing found",
 		"no entries found",
@@ -87,7 +88,7 @@ func isExtNotFoundDomain(data, extension string) bool {
 	data = reBlank.ReplaceAllString(data, " ")
 
 	switch extension {
-	case "ai", "cx", "gs":
+	case "ai", "bw", "cx", "gs", "fj", "xn--mgbah1a3hjkrd", "xn--ogbpf8fl", "xn--mgbc0a9azcg":
 		if strings.Contains(data, "Domain Status: No Object Found") {
 			return true
 		}
@@ -177,6 +178,8 @@ func isLimitExceeded(data string) bool {
 		"due to query limit controls",
 		"you have exceeded your allotted number of",
 		"maximum daily connection limit reached",
+		"maximum query rate reached",
+		"number of allowed queries exceeded",
 	}
 
 	return containsIn(strings.ToLower(data), limitExceedKeys)

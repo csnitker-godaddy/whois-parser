@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "f543aa4f2a074f7696042ca6c7a3f281-DONUTS",
+        "domain": "nic.temasek",
+        "punycode": "nic.temasek",
+        "name": "nic",
+        "extension": "temasek",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.temasek",
+            "b0.nic.temasek",
+            "c0.nic.temasek",
+            "a2.nic.temasek"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-23T01:33:30Z",
+        "created_date_in_time": "2016-01-23T01:33:30Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-23T01:33:30Z",
+        "expiration_date_in_time": "2025-01-23T01:33:30Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "49c117c535894b65a850bb1f7236cd7d-DONUTS",
+        "name": "Business Development Executive",
+        "organization": "Temasek Holdings (Private) Limited",
+        "street": "60B Orchard Road #06-18 Tower 2 The Atrium@Orchard",
+        "city": "Singapore",
+        "postal_code": "238891",
+        "country": "SG",
+        "phone": "+65.68282568",
+        "fax": "+65.68211188",
+        "email": "ngtld-temasek@cscinfo.com"
+    },
+    "administrative": {
+        "id": "6e073a5cf679430289d40b1de622cbeb-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Temasek Holdings (Private) Limited",
+        "street": "60B Orchard Road #06-18 Tower 2 The Atrium Orchard",
+        "city": "Singapore",
+        "postal_code": "238891",
+        "country": "SG",
+        "phone": "+65.68282568",
+        "fax": "+65.68211188",
+        "email": "ngtld-temasek@cscinfo.com"
+    },
+    "technical": {
+        "id": "6e073a5cf679430289d40b1de622cbeb-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Temasek Holdings (Private) Limited",
+        "street": "60B Orchard Road #06-18 Tower 2 The Atrium Orchard",
+        "city": "Singapore",
+        "postal_code": "238891",
+        "country": "SG",
+        "phone": "+65.68282568",
+        "fax": "+65.68211188",
+        "email": "ngtld-temasek@cscinfo.com"
+    }
+}

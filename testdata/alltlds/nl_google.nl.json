@@ -1,0 +1,21 @@
+{
+    "domain": {
+        "domain": "google.nl",
+        "punycode": "google.nl",
+        "name": "google",
+        "extension": "nl",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ]
+    },
+    "registrar": {
+        "name": "MarkMonitor Inc.",
+        "street": "3540 East Longwing Lane, Suite 300, 83646 Meridian, United States of America"
+    }
+}

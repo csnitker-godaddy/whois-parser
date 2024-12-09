@@ -1,0 +1,32 @@
+{
+    "domain": {
+        "id": "DO194851-GMO",
+        "domain": "nic.kyoto",
+        "punycode": "nic.kyoto",
+        "name": "nic",
+        "extension": "kyoto",
+        "whois_server": "whois.nic.kyoto",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2014-11-28T04:43:52.0Z",
+        "created_date_in_time": "2014-11-28T04:43:52Z",
+        "updated_date": "2024-11-29T00:26:09.0Z",
+        "updated_date_in_time": "2024-11-29T00:26:09Z",
+        "expiration_date": "2025-11-28T23:59:59.0Z",
+        "expiration_date_in_time": "2025-11-28T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Kyoto Jyoho Gakuen",
+        "referral_url": "http://www.kcg.edu/"
+    },
+    "registrant": {
+        "province": "Kyoto",
+        "country": "JP"
+    }
+}

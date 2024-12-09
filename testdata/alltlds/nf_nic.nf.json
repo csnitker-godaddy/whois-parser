@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "463039-CoCCA",
+        "domain": "nic.nf",
+        "punycode": "nic.nf",
+        "name": "nic",
+        "extension": "nf",
+        "status": [
+            "clientRenewProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "a.nic.nf",
+            "b.nic.nf"
+        ],
+        "dnssec": true,
+        "created_date": "2010-10-01T02:38:45Z",
+        "created_date_in_time": "2010-10-01T02:38:45Z",
+        "updated_date": "2024-02-25T14:52:02Z",
+        "updated_date_in_time": "2024-02-25T14:52:02Z",
+        "expiration_date": "2025-12-31T00:00:00Z",
+        "expiration_date_in_time": "2025-12-31T00:00:00Z"
+    },
+    "registrar": {
+        "name": "CoCCA Registry Stub Zones"
+    },
+    "registrant": {
+        "id": "1923142-CoCCA",
+        "name": "Rob Ryan",
+        "organization": "Norfolk Island Data Services",
+        "street": "706 Collins Head Rd.",
+        "city": "Norfolk Island",
+        "province": "South Pacific",
+        "postal_code": "2899",
+        "country": "NF",
+        "phone": "+64.94466370",
+        "email": "support@coccaregistry.org"
+    },
+    "administrative": {
+        "id": "1923142-CoCCA",
+        "name": "Rob Ryan",
+        "organization": "Norfolk Island Data Services",
+        "street": "706 Collins Head Rd.",
+        "city": "Norfolk Island",
+        "province": "South Pacific",
+        "postal_code": "2899",
+        "country": "NF",
+        "phone": "+64.94466370",
+        "email": "support@coccaregistry.org"
+    },
+    "technical": {
+        "id": "1923142-CoCCA",
+        "name": "Rob Ryan",
+        "organization": "Norfolk Island Data Services",
+        "street": "706 Collins Head Rd.",
+        "city": "Norfolk Island",
+        "province": "South Pacific",
+        "postal_code": "2899",
+        "country": "NF",
+        "phone": "+64.94466370",
+        "email": "support@coccaregistry.org"
+    }
+}

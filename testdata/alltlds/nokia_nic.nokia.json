@@ -1,0 +1,50 @@
+{
+    "domain": {
+        "id": "D427425012-CNIC",
+        "domain": "nic.nokia",
+        "punycode": "nic.nokia",
+        "name": "nic",
+        "extension": "nokia",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.nokia",
+            "b.nic.nokia",
+            "c.nic.nokia",
+            "d.nic.nokia"
+        ],
+        "dnssec": true,
+        "created_date": "2016-03-10T22:00:33.0Z",
+        "created_date_in_time": "2016-03-10T22:00:33Z",
+        "updated_date": "2024-03-04T00:09:50.0Z",
+        "updated_date_in_time": "2024-03-04T00:09:50Z",
+        "expiration_date": "2025-03-10T23:59:59.0Z",
+        "expiration_date_in_time": "2025-03-10T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Managed by Safebrands",
+        "phone": "+33.488662222",
+        "email": "clientele@safebrands.com",
+        "referral_url": "http://www,safebrands.com"
+    },
+    "registrant": {
+        "organization": "Managed by Safebrands",
+        "country": "FR",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

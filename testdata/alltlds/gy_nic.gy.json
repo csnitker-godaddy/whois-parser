@@ -1,0 +1,46 @@
+{
+    "domain": {
+        "id": "573049-CoCCA",
+        "domain": "nic.gy",
+        "punycode": "nic.gy",
+        "name": "nic",
+        "extension": "gy",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns.nic.pch",
+            "gy-ns.anycast.pch.net"
+        ],
+        "created_date": "2008-08-21T10:15:43Z",
+        "created_date_in_time": "2008-08-21T10:15:43Z",
+        "updated_date": "2020-12-14T16:21:46Z",
+        "updated_date_in_time": "2020-12-14T16:21:46Z",
+        "expiration_date": "2025-12-31T04:00:00Z",
+        "expiration_date_in_time": "2025-12-31T04:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "GYNIC Direct"
+    },
+    "registrant": {
+        "id": "603622-CoCCA",
+        "name": "Administrator",
+        "organization": ".gy Domain Name Registry",
+        "street": "Turkeyen",
+        "city": "Georgetown",
+        "country": "GY",
+        "phone": "+592.2225405",
+        "email": "admin@registry.gy"
+    },
+    "administrative": {
+        "id": "603648-CoCCA",
+        "name": ".gy Registry",
+        "organization": "University of Guyana",
+        "street": "Turkeyen Campus",
+        "city": "Georgetown",
+        "country": "GY",
+        "phone": "+592.6444135",
+        "email": "admin@registry.gy"
+    }
+}

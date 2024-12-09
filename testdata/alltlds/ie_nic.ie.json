@@ -1,0 +1,43 @@
+{
+    "domain": {
+        "id": "656271-IEDR",
+        "domain": "nic.ie",
+        "punycode": "nic.ie",
+        "name": "nic",
+        "extension": "ie",
+        "whois_server": "whois.weare.ie",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.blacknight.com",
+            "ns2.blacknight.com"
+        ],
+        "created_date": "2001-04-10T23:00:00Z",
+        "created_date_in_time": "2001-04-10T23:00:00Z",
+        "updated_date": "2024-05-21T04:23:35Z",
+        "updated_date_in_time": "2024-05-21T04:23:35Z",
+        "expiration_date": "2025-04-11T16:35:54Z",
+        "expiration_date_in_time": "2025-04-11T16:35:54Z"
+    },
+    "registrar": {
+        "id": "not applicable",
+        "name": "Blacknight Solutions",
+        "phone": "+353.599183072",
+        "email": "abuse@blacknight.com",
+        "referral_url": "https://www.blacknight.com"
+    },
+    "registrant": {
+        "id": "353998-IEDR",
+        "name": "Network International Cargo Ltd"
+    },
+    "administrative": {
+        "id": "71736-IEDR"
+    },
+    "technical": {
+        "id": "3159-IEDR"
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY"
+    }
+}

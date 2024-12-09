@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "c95849d03d3c437389bb70a9db8f30db-DONUTS",
+        "domain": "nic.kerryhotels",
+        "punycode": "nic.kerryhotels",
+        "name": "nic",
+        "extension": "kerryhotels",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.kerryhotels",
+            "a2.nic.kerryhotels",
+            "b0.nic.kerryhotels",
+            "c0.nic.kerryhotels"
+        ],
+        "created_date": "2015-07-28T22:14:05Z",
+        "created_date_in_time": "2015-07-28T22:14:05Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-07-28T22:14:05Z",
+        "expiration_date_in_time": "2025-07-28T22:14:05Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "ba4c9051ccfb4d33b2786117f89efc57-DONUTS",
+        "name": "Legal Executive",
+        "organization": "Kerry Trading Co. Limited",
+        "street": "31/F Kerry Centre, 683 King’s Road",
+        "city": "Quarry Bay",
+        "province": "Hong Kong",
+        "country": "HK",
+        "phone": "+852.25257211",
+        "email": "ngtld-kerry4@cscinfo.com"
+    },
+    "administrative": {
+        "id": "ba4c9051ccfb4d33b2786117f89efc57-DONUTS",
+        "name": "Legal Executive",
+        "organization": "Kerry Trading Co. Limited",
+        "street": "31/F Kerry Centre, 683 King’s Road",
+        "city": "Quarry Bay",
+        "province": "Hong Kong",
+        "country": "HK",
+        "phone": "+852.25257211",
+        "email": "ngtld-kerry4@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

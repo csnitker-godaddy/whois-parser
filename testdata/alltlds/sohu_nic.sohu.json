@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "D20140328G10001G_08728627-sohu",
+        "domain": "nic.sohu",
+        "punycode": "nic.sohu",
+        "name": "nic",
+        "extension": "sohu",
+        "whois_server": "whois.gtld.knet.cn",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns11.sohu.com",
+            "ns12.sohu.com",
+            "ns13.sohu.com",
+            "ns14.sohu.com",
+            "ns15.sohu.com",
+            "ns16.sohu.com"
+        ],
+        "created_date": "2014-03-28T10:41:37Z",
+        "created_date_in_time": "2014-03-28T10:41:37Z",
+        "updated_date": "2023-06-19T06:35:50Z",
+        "updated_date_in_time": "2023-06-19T06:35:50Z",
+        "expiration_date": "2031-03-28T10:41:37Z",
+        "expiration_date_in_time": "2031-03-28T10:41:37Z"
+    },
+    "registrar": {
+        "id": "1723",
+        "name": "zdns",
+        "phone": "+86.01058813521",
+        "email": "tech-support@zdns.cn",
+        "referral_url": "http://www.zdns.cn/"
+    },
+    "registrant": {
+        "id": "C20230619C_81406692-sohu",
+        "name": "WangHuiZhen",
+        "organization": "BeiJingSouHuXinMeiTiXinXiJiShuYouXianGongSi",
+        "street": "HaiDianQuKeXueYuanNanLu2HaoYuan3HaoLouSouHuMeiTiDaXia",
+        "city": "BeiJing",
+        "province": "BeiJing",
+        "postal_code": "100190",
+        "country": "CN",
+        "phone": "+86.01056602146",
+        "fax": "+86.01056602146",
+        "email": "huizhenwang@sohu-inc.com"
+    },
+    "administrative": {
+        "id": "C20230619C_81406692-sohu",
+        "name": "WangHuiZhen",
+        "organization": "BeiJingSouHuXinMeiTiXinXiJiShuYouXianGongSi",
+        "street": "HaiDianQuKeXueYuanNanLu2HaoYuan3HaoLouSouHuMeiTiDaXia",
+        "city": "BeiJing",
+        "province": "BeiJing",
+        "postal_code": "100190",
+        "country": "CN",
+        "phone": "+86.01056602146",
+        "fax": "+86.01056602146",
+        "email": "huizhenwang@sohu-inc.com"
+    },
+    "technical": {
+        "id": "C20230619C_81406692-sohu",
+        "name": "WangHuiZhen",
+        "organization": "BeiJingSouHuXinMeiTiXinXiJiShuYouXianGongSi",
+        "street": "HaiDianQuKeXueYuanNanLu2HaoYuan3HaoLouSouHuMeiTiDaXia",
+        "city": "BeiJing",
+        "province": "BeiJing",
+        "postal_code": "100190",
+        "country": "CN",
+        "phone": "+86.01056602146",
+        "fax": "+86.01056602146",
+        "email": "huizhenwang@sohu-inc.com"
+    }
+}

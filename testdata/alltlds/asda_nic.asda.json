@@ -1,0 +1,72 @@
+{
+    "domain": {
+        "id": "5b51c68308c64666ad875b99964a5671-DONUTS",
+        "domain": "nic.asda",
+        "punycode": "nic.asda",
+        "name": "nic",
+        "extension": "asda",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.asda",
+            "b0.nic.asda",
+            "c0.nic.asda",
+            "a2.nic.asda"
+        ],
+        "dnssec": true,
+        "created_date": "2023-08-25T08:47:37Z",
+        "created_date_in_time": "2023-08-25T08:47:37Z",
+        "updated_date": "2024-10-09T08:48:07Z",
+        "updated_date_in_time": "2024-10-09T08:48:07Z",
+        "expiration_date": "2025-08-25T08:47:37Z",
+        "expiration_date_in_time": "2025-08-25T08:47:37Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "dfe5c92cc18041d0a8ed760a33e0e7de-DONUTS",
+        "name": "Project and Process Manager",
+        "organization": "Wal-Mart Stores, Inc.",
+        "street": "702 Southwest 8th Street",
+        "city": "Bentonville",
+        "province": "AR",
+        "postal_code": "72716",
+        "country": "US",
+        "phone": "+44.2070151717",
+        "email": "ngtld-walmart@cscglobal.com"
+    },
+    "administrative": {
+        "id": "dfe5c92cc18041d0a8ed760a33e0e7de-DONUTS",
+        "name": "Project and Process Manager",
+        "organization": "Wal-Mart Stores, Inc.",
+        "street": "702 Southwest 8th Street",
+        "city": "Bentonville",
+        "province": "AR",
+        "postal_code": "72716",
+        "country": "US",
+        "phone": "+44.2070151717",
+        "email": "ngtld-walmart@cscglobal.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

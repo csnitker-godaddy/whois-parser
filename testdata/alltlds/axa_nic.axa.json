@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "D1105-AXA",
+        "domain": "nic.axa",
+        "punycode": "nic.axa",
+        "name": "nic",
+        "extension": "axa",
+        "whois_server": "whois.nic.axa",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.axa",
+            "ns2.dns.nic.axa",
+            "ns3.dns.nic.axa",
+            "ns4.dns.nic.axa",
+            "ns5.dns.nic.axa",
+            "ns6.dns.nic.axa"
+        ],
+        "dnssec": true,
+        "created_date": "2013-09-16T19:50:43Z",
+        "created_date_in_time": "2013-09-16T19:50:43Z",
+        "updated_date": "2024-10-31T00:00:06Z",
+        "updated_date_in_time": "2024-10-31T00:00:06Z",
+        "expiration_date": "2025-09-15T23:59:59Z",
+        "expiration_date_in_time": "2025-09-15T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "AXA SA"
+    },
+    "registrant": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

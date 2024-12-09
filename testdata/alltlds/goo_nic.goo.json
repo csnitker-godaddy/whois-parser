@@ -1,0 +1,32 @@
+{
+    "domain": {
+        "id": "DO206930-GMO",
+        "domain": "nic.goo",
+        "punycode": "nic.goo",
+        "name": "nic",
+        "extension": "goo",
+        "whois_server": "whois.nic.goo",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.jp",
+            "ns1.gmointernet.com"
+        ],
+        "created_date": "2015-01-14T04:53:24.0Z",
+        "created_date_in_time": "2015-01-14T04:53:24Z",
+        "updated_date": "2024-03-26T04:42:56.0Z",
+        "updated_date_in_time": "2024-03-26T04:42:56Z",
+        "expiration_date": "2025-01-14T23:59:59.0Z",
+        "expiration_date_in_time": "2025-01-14T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "NTT DOCOMO, INC.",
+        "referral_url": "https://www.docomo.ne.jp/"
+    },
+    "registrant": {
+        "province": "Tokyo",
+        "country": "JP"
+    }
+}

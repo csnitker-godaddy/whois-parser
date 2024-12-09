@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "D3-GAL",
+        "domain": "nic.gal",
+        "punycode": "nic.gal",
+        "name": "nic",
+        "extension": "gal",
+        "whois_server": "whois.nic.gal",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-02-04T12:41:15.207Z",
+        "created_date_in_time": "2014-02-04T12:41:15.207Z",
+        "updated_date": "2024-08-21T10:17:23.478Z",
+        "updated_date_in_time": "2024-08-21T10:17:23.478Z",
+        "expiration_date": "2025-02-04T12:41:15.207Z",
+        "expiration_date_in_time": "2025-02-04T12:41:15.207Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Asociacion PuntoGal",
+        "phone": "+34.670226268",
+        "email": "administracion@dominio.gal",
+        "referral_url": "http://dominio.gal"
+    },
+    "registrant": {
+        "organization": "Asociacion puntoGAL",
+        "country": "ES",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

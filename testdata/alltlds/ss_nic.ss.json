@@ -1,0 +1,52 @@
+{
+    "domain": {
+        "id": "36-SSNIC",
+        "domain": "nic.ss",
+        "punycode": "nic.ss",
+        "name": "nic",
+        "extension": "ss",
+        "status": [
+            "serverRenewProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "clientUpdateProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.desec.io",
+            "ns2.desec.org"
+        ],
+        "created_date": "2019-02-08T09:26:48Z",
+        "created_date_in_time": "2019-02-08T09:26:48Z",
+        "updated_date": "2024-02-26T13:40:51Z",
+        "updated_date_in_time": "2024-02-26T13:40:51Z",
+        "expiration_date": "2099-10-30T14:30:00Z",
+        "expiration_date_in_time": "2099-10-30T14:30:00Z"
+    },
+    "registrar": {
+        "name": "SS NIC",
+        "street": "2nd Floor-Ministry of ICT & Postal Services Main Building",
+        "country": "SS",
+        "email": "admn@nic.ss"
+    },
+    "registrant": {
+        "id": "1303-SSNIC",
+        "name": "South Sudan Network Information Centre",
+        "organization": "South Sudan Network Information Centre",
+        "street": "Gumbo",
+        "city": "Juba",
+        "country": "SS",
+        "phone": "+211 54001154",
+        "email": "admin@nic.ss"
+    },
+    "administrative": {
+        "id": "1303-SSNIC",
+        "name": "South Sudan Network Information Centre",
+        "organization": "South Sudan Network Information Centre",
+        "street": "Gumbo",
+        "city": "Juba",
+        "country": "SS",
+        "phone": "+211 54001154",
+        "email": "admin@nic.ss"
+    }
+}

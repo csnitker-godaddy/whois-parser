@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "dad7f514885f410db57c06c8d95a58a3-DONUTS",
+        "domain": "nic.next",
+        "punycode": "nic.next",
+        "name": "nic",
+        "extension": "next",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.next",
+            "a2.nic.next",
+            "b0.nic.next",
+            "c0.nic.next"
+        ],
+        "created_date": "2016-03-03T21:59:13Z",
+        "created_date_in_time": "2016-03-03T21:59:13Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2026-03-03T21:59:13Z",
+        "expiration_date_in_time": "2026-03-03T21:59:13Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "dbfe9ae3d9604ee88d52a36467f32419-DONUTS",
+        "name": "Head of Ecommerce",
+        "organization": "Next plc",
+        "street": "Desford Road",
+        "city": "Enderby",
+        "province": "Leicestershire",
+        "postal_code": "LE19 4AT",
+        "country": "GB",
+        "phone": "+44.8448448888",
+        "email": "ngtld-next@cscinfo.com"
+    },
+    "administrative": {
+        "id": "dbfe9ae3d9604ee88d52a36467f32419-DONUTS",
+        "name": "Head of Ecommerce",
+        "organization": "Next plc",
+        "street": "Desford Road",
+        "city": "Enderby",
+        "province": "Leicestershire",
+        "postal_code": "LE19 4AT",
+        "country": "GB",
+        "phone": "+44.8448448888",
+        "email": "ngtld-next@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "8c62ed6d8ed94c399108c55fafb7478c-DONUTS",
+        "domain": "nic.extraspace",
+        "punycode": "nic.extraspace",
+        "name": "nic",
+        "extension": "extraspace",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.extraspace",
+            "b0.nic.extraspace",
+            "c0.nic.extraspace",
+            "a2.nic.extraspace"
+        ],
+        "dnssec": true,
+        "created_date": "2016-07-28T21:37:57Z",
+        "created_date_in_time": "2016-07-28T21:37:57Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-07-28T21:37:57Z",
+        "expiration_date_in_time": "2025-07-28T21:37:57Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "e919e917a5664e4380955044e9aeaaba-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "Extra Space Storage LLC",
+        "street": "2795 E Cottonwood Parkway Suite 400",
+        "city": "Salt Lake City",
+        "province": "UTAH",
+        "postal_code": "84121",
+        "country": "US",
+        "phone": "+1.2022239252",
+        "fax": "+1.2022239256",
+        "email": "extraspaceregistry@fairwindspartners.com"
+    },
+    "administrative": {
+        "id": "e919e917a5664e4380955044e9aeaaba-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "Extra Space Storage LLC",
+        "street": "2795 E Cottonwood Parkway Suite 400",
+        "city": "Salt Lake City",
+        "province": "UTAH",
+        "postal_code": "84121",
+        "country": "US",
+        "phone": "+1.2022239252",
+        "fax": "+1.2022239256",
+        "email": "extraspaceregistry@fairwindspartners.com"
+    },
+    "technical": {
+        "id": "e919e917a5664e4380955044e9aeaaba-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "Extra Space Storage LLC",
+        "street": "2795 E Cottonwood Parkway Suite 400",
+        "city": "Salt Lake City",
+        "province": "UTAH",
+        "postal_code": "84121",
+        "country": "US",
+        "phone": "+1.2022239252",
+        "fax": "+1.2022239256",
+        "email": "extraspaceregistry@fairwindspartners.com"
+    }
+}

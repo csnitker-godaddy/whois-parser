@@ -1,0 +1,72 @@
+{
+    "domain": {
+        "id": "D8988868-SKYPE",
+        "domain": "nic.skype",
+        "punycode": "nic.skype",
+        "name": "nic",
+        "extension": "skype",
+        "whois_server": "whois.nic.skype",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.skype",
+            "dns2.nic.skype",
+            "dns3.nic.skype",
+            "dns4.nic.skype",
+            "dnsa.nic.skype",
+            "dnsb.nic.skype",
+            "dnsc.nic.skype",
+            "dnsd.nic.skype"
+        ],
+        "dnssec": true,
+        "created_date": "2024-07-16T14:03:55Z",
+        "created_date_in_time": "2024-07-16T14:03:55Z",
+        "expiration_date": "2033-07-16T14:03:55Z",
+        "expiration_date_in_time": "2033-07-16T14:03:55Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Microsoft",
+        "phone": "+1.425706355",
+        "email": "tlddom@microsoft.com"
+    },
+    "registrant": {
+        "id": "C29353834-SKYPE",
+        "name": "Registrant Contact",
+        "organization": "Microsoft Corporation",
+        "street": "One Microsoft Way",
+        "city": "Redmond",
+        "province": "WA",
+        "postal_code": "98052",
+        "country": "US",
+        "phone": "+1.4257069191",
+        "email": "tlddom@microsoft.com"
+    },
+    "administrative": {
+        "id": "C29353834-SKYPE",
+        "name": "Registrant Contact",
+        "organization": "Microsoft Corporation",
+        "street": "One Microsoft Way",
+        "city": "Redmond",
+        "province": "WA",
+        "postal_code": "98052",
+        "country": "US",
+        "phone": "+1.4257069191",
+        "email": "tlddom@microsoft.com"
+    },
+    "technical": {
+        "id": "C29353834-SKYPE",
+        "name": "Registrant Contact",
+        "organization": "Microsoft Corporation",
+        "street": "One Microsoft Way",
+        "city": "Redmond",
+        "province": "WA",
+        "postal_code": "98052",
+        "country": "US",
+        "phone": "+1.4257069191",
+        "email": "tlddom@microsoft.com"
+    }
+}

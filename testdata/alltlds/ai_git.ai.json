@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "291858_nic_ai",
+        "domain": "git.ai",
+        "punycode": "git.ai",
+        "name": "git",
+        "extension": "ai",
+        "whois_server": "whois.nic.ai",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns2.onlydomains.com",
+            "ns1.onlydomains.com"
+        ],
+        "created_date": "2017-12-16T03:58:55.24Z",
+        "created_date_in_time": "2017-12-16T03:58:55.24Z",
+        "updated_date": "2018-02-27T17:13:41.976Z",
+        "updated_date_in_time": "2018-02-27T17:13:41.976Z",
+        "expiration_date": "2020-02-28T03:58:55.78Z",
+        "expiration_date_in_time": "2020-02-28T03:58:55.78Z"
+    },
+    "registrar": {
+        "name": "Instra"
+    },
+    "registrant": {
+        "id": "g3U4c-CbzD5",
+        "name": "aidomains@instra.com",
+        "organization": "Sumihiro Ueda",
+        "street": "426-17 Hikishou-haradera-cho",
+        "city": "Sakai-shi Higashi-ku",
+        "province": "Osaka",
+        "postal_code": "599-8112",
+        "country": "JP",
+        "phone": "+1.2645815398",
+        "email": "aidomains@instra.com"
+    },
+    "administrative": {
+        "id": "QTAQg-buRB1",
+        "name": "Ueda, Sumihiro",
+        "organization": "aidomains@instra.com",
+        "street": "426-17 Hikishou-haradera-cho",
+        "city": "Sakai-shi Higashi-ku",
+        "province": "Osaka",
+        "postal_code": "599-8112",
+        "country": "JP",
+        "phone": "+81.722869606",
+        "email": "aidomains@instra.com"
+    },
+    "technical": {
+        "id": "jigEf-DfyTO",
+        "name": "Lentino, Tony",
+        "organization": "Instra Corporation Pty Ltd",
+        "street": "GPO Box 988",
+        "city": "Melbourne",
+        "province": "Victoria",
+        "postal_code": "3001",
+        "country": "AU",
+        "phone": "+61.397831800",
+        "email": "aidomains@instra.com"
+    },
+    "billing": {
+        "id": "4NEPm-feDqg",
+        "name": "Lentino, Tony",
+        "organization": "Instra Corporation Pty Ltd",
+        "street": "GPO Box 988",
+        "city": "Melbourne",
+        "province": "Victoria",
+        "postal_code": "3001",
+        "country": "AU",
+        "phone": "+61.397831800",
+        "email": "aidomains@instra.com"
+    }
+}

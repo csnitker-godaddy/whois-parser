@@ -1,0 +1,48 @@
+{
+    "domain": {
+        "id": "3199999963251003_REGMKV-FIR",
+        "domain": "nic.xn--80adxhks",
+        "punycode": "nic.xn--80adxhks",
+        "name": "nic",
+        "extension": "xn--80adxhks",
+        "whois_server": "whois.flexireg.net",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns3-geo.nic.ru",
+            "ns4-geo.nic.ru",
+            "ns8-geo.nic.ru",
+            "ans1-moscow.nic.ru",
+            "ns1-cloud.nic.ru",
+            "ns2-cloud.nic.ru"
+        ],
+        "dnssec": true,
+        "created_date": "2014-03-12T18:52:50Z",
+        "created_date_in_time": "2014-03-12T18:52:50Z",
+        "updated_date": "2020-04-07T11:06:10Z",
+        "updated_date_in_time": "2020-04-07T11:06:10Z",
+        "expiration_date": "2029-03-12T19:52:50Z",
+        "expiration_date_in_time": "2029-03-12T19:52:50Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Foundation for Assistance for Internet Technologies and Infrastructure Development",
+        "phone": "+7 495 7898207",
+        "email": "info@faitid.org",
+        "referral_url": "http://www.faitid.org"
+    },
+    "registrant": {
+        "id": "Personal data, can not be publicly disclosed according to applicable laws.",
+        "name": "Personal data, can not be publicly disclosed according to applicable laws.",
+        "organization": "Personal data, can not be publicly disclosed according to applicable laws.",
+        "street": "Personal data, can not be publicly disclosed according to applicable laws.",
+        "city": "Personal data, can not be publicly disclosed according to applicable laws.",
+        "province": "Personal data, can not be publicly disclosed according to applicable laws.",
+        "postal_code": "Personal data, can not be publicly disclosed according to applicable laws.",
+        "country": "RU",
+        "phone": "Personal data, can not be publicly disclosed according to applicable laws.",
+        "fax": "Personal data, can not be publicly disclosed according to applicable laws.",
+        "email": "please check registrar rdds. personal data, can not be publicly disclosed according to applicable laws."
+    }
+}

@@ -1,3 +1,6 @@
 .DS_Store
 rule
 .idea
+testdata/noterror.orig
+testdata/notworking
+testdata/noterrorbackup

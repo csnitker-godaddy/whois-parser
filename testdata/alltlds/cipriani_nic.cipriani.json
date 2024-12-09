@@ -1,0 +1,72 @@
+{
+    "domain": {
+        "id": "7332057f6c614b74a8006bd38f03cece-DONUTS",
+        "domain": "nic.cipriani",
+        "punycode": "nic.cipriani",
+        "name": "nic",
+        "extension": "cipriani",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.cipriani",
+            "b0.nic.cipriani",
+            "c0.nic.cipriani",
+            "a2.nic.cipriani"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-22T20:41:10Z",
+        "created_date_in_time": "2016-01-22T20:41:10Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-22T20:41:10Z",
+        "expiration_date_in_time": "2025-01-22T20:41:10Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "2d88bb7371004516bc596cbe70f9fdb7-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Hotel Cipriani Srl",
+        "street": "Hotel Cipriani Srl",
+        "city": "Venice",
+        "province": "N/A",
+        "postal_code": "30133",
+        "country": "IT",
+        "phone": "+1.3026365401",
+        "fax": "+1.3026365454",
+        "email": "ngtld-cipriani@cscglobal.com"
+    },
+    "administrative": {
+        "id": "af49d99472534a13bcf71cd93e391670-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Hotel Cipriani Srl",
+        "street": "Giudecca 10",
+        "city": "Venice",
+        "postal_code": "30133",
+        "country": "IT",
+        "phone": "+44.2031171300",
+        "fax": "+44.2079214777",
+        "email": "ngtld-cipriani@cscglobal.com"
+    },
+    "technical": {
+        "id": "af49d99472534a13bcf71cd93e391670-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Hotel Cipriani Srl",
+        "street": "Giudecca 10",
+        "city": "Venice",
+        "postal_code": "30133",
+        "country": "IT",
+        "phone": "+44.2031171300",
+        "fax": "+44.2079214777",
+        "email": "ngtld-cipriani@cscglobal.com"
+    }
+}

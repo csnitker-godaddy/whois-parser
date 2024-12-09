@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "707d8757fcb24567845a2c11e91206ea-DONUTS",
+        "domain": "nic.abc",
+        "punycode": "nic.abc",
+        "name": "nic",
+        "extension": "abc",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n2.nic.abc",
+            "v2n1.nic.abc",
+            "v0n0.nic.abc",
+            "v0n3.nic.abc",
+            "v0n1.nic.abc",
+            "v2n0.nic.abc"
+        ],
+        "created_date": "2016-06-13T20:53:32Z",
+        "created_date_in_time": "2016-06-13T20:53:32Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2026-06-13T20:53:32Z",
+        "expiration_date_in_time": "2026-06-13T20:53:32Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "b871f248e74f49dcbc258297705e6ca6-DONUTS",
+        "name": "Disney Enterprises, Inc",
+        "street": "2300 Riverside Dr # 7034",
+        "city": "Burbank",
+        "province": "CA",
+        "postal_code": "91521",
+        "country": "US",
+        "phone": "+1.8184607997",
+        "email": "ngtld-abc@cscglobal.com"
+    },
+    "administrative": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "technical": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

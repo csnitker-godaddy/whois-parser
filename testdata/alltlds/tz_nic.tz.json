@@ -1,0 +1,30 @@
+{
+    "domain": {
+        "domain": "nic.tz",
+        "punycode": "nic.tz",
+        "name": "nic",
+        "extension": "tz",
+        "name_servers": [
+            "ns1.tznic.or.tz",
+            "b.ns.tznic.or.tz"
+        ],
+        "created_date": "28.01.2015 15:14:03",
+        "created_date_in_time": "2015-01-28T15:14:03Z",
+        "updated_date": "17.08.2022 18:23:46",
+        "updated_date_in_time": "2022-08-17T18:23:46Z",
+        "expiration_date": "28.01.2025",
+        "expiration_date_in_time": "2025-01-28T00:00:00Z"
+    },
+    "registrar": {
+        "name": "REG-TZNIC"
+    },
+    "registrant": {
+        "organization": "ADMIN-TZREGISTRY"
+    },
+    "administrative": {
+        "id": "ADMIN-TZREGISTRY"
+    },
+    "technical": {
+        "id": "MNT-TZNIC"
+    }
+}

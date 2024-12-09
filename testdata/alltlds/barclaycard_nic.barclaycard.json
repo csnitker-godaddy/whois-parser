@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "48568a825cab413c8196d9a3147fe03b-DONUTS",
+        "domain": "nic.barclaycard",
+        "punycode": "nic.barclaycard",
+        "name": "nic",
+        "extension": "barclaycard",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "c0.nic.barclaycard",
+            "a0.nic.barclaycard",
+            "a2.nic.barclaycard",
+            "b0.nic.barclaycard"
+        ],
+        "dnssec": true,
+        "created_date": "2015-01-12T12:48:49Z",
+        "created_date_in_time": "2015-01-12T12:48:49Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-12T12:48:49Z",
+        "expiration_date_in_time": "2025-01-12T12:48:49Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "b101995946c94894a907899e80004dc9-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "Barclays Bank PLC",
+        "street": "1 Churchill Place",
+        "city": "London",
+        "postal_code": "E145HP",
+        "country": "GB",
+        "phone": "+44.2071161000",
+        "fax": "+44.2071167663",
+        "email": "iplegal@barclays.com"
+    },
+    "administrative": {
+        "id": "b101995946c94894a907899e80004dc9-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "Barclays Bank PLC",
+        "street": "1 Churchill Place",
+        "city": "London",
+        "postal_code": "E145HP",
+        "country": "GB",
+        "phone": "+44.2071161000",
+        "fax": "+44.2071167663",
+        "email": "iplegal@barclays.com"
+    },
+    "technical": {
+        "id": "b101995946c94894a907899e80004dc9-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "Barclays Bank PLC",
+        "street": "1 Churchill Place",
+        "city": "London",
+        "postal_code": "E145HP",
+        "country": "GB",
+        "phone": "+44.2071161000",
+        "fax": "+44.2071167663",
+        "email": "iplegal@barclays.com"
+    }
+}

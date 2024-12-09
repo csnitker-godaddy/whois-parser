@@ -1,0 +1,20 @@
+{
+    "domain": {
+        "domain": "nic.be",
+        "punycode": "nic.be",
+        "name": "nic",
+        "extension": "be",
+        "status": [
+            "NOT"
+        ],
+        "name_servers": [
+            "ns3.combell.net",
+            "ns4.combell.net"
+        ],
+        "created_date": "Wed Apr 1 1998",
+        "created_date_in_time": "1998-04-01T00:00:00Z"
+    },
+    "registrant": {
+        "organization": "Not shown, please visit www.dnsbelgium.be for webbased whois."
+    }
+}

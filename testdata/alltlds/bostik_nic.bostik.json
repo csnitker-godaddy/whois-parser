@@ -1,0 +1,82 @@
+{
+    "domain": {
+        "id": "DOM000000000002-BOSTIK",
+        "domain": "nic.bostik",
+        "punycode": "nic.bostik",
+        "name": "nic",
+        "extension": "bostik",
+        "whois_server": "whois.nic.bostik",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "g.ext.nic.fr",
+            "ns1.nic.fr",
+            "ns2.nic.fr",
+            "ns3.nic.fr"
+        ],
+        "dnssec": true,
+        "created_date": "2015-08-28T15:12:54Z",
+        "created_date_in_time": "2015-08-28T15:12:54Z",
+        "updated_date": "2023-09-21T13:16:41.468701Z",
+        "updated_date_in_time": "2023-09-21T13:16:41.468701Z",
+        "expiration_date": "2025-08-28T15:12:54Z",
+        "expiration_date_in_time": "2025-08-28T15:12:54Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operations"
+    },
+    "registrant": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "Afnic Backend Registry Operator",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "administrative": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "Afnic Backend Registry Operator",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "technical": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "Afnic Backend Registry Operator",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "billing": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "Afnic Backend Registry Operator",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    }
+}

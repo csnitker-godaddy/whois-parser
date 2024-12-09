@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "b165e115ae344505bad60ed0654d1f36-DONUTS",
+        "domain": "nic.pnc",
+        "punycode": "nic.pnc",
+        "name": "nic",
+        "extension": "pnc",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.pnc",
+            "b0.nic.pnc",
+            "c0.nic.pnc",
+            "a2.nic.pnc"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-23T00:53:58Z",
+        "created_date_in_time": "2016-01-23T00:53:58Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-23T00:53:58Z",
+        "expiration_date_in_time": "2025-01-23T00:53:58Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "3439bba5b5ca42dbb2a9d5402e5cd4e7-DONUTS",
+        "name": "VP",
+        "organization": "PNC Domain Co., LLC",
+        "street": "249 Fifth Avenue",
+        "city": "Pittsburgh",
+        "postal_code": "15222-2707",
+        "country": "US",
+        "phone": "+1.4127622000",
+        "fax": "+1.4127683178",
+        "email": "ngtld-pnc@cscglobal.com"
+    },
+    "administrative": {
+        "id": "6d6dbff677bd44af969497b32e027031-DONUTS",
+        "name": "Registry Operator",
+        "organization": "PNC Domain Co., LLC",
+        "street": "249 Fifth Avenue",
+        "city": "Pittsburgh",
+        "province": "PA",
+        "postal_code": "15222-2707",
+        "country": "US",
+        "phone": "+1.4127622000",
+        "fax": "+1.4127683178",
+        "email": "ngtld-pnc@cscglobal.com"
+    },
+    "technical": {
+        "id": "6d6dbff677bd44af969497b32e027031-DONUTS",
+        "name": "Registry Operator",
+        "organization": "PNC Domain Co., LLC",
+        "street": "249 Fifth Avenue",
+        "city": "Pittsburgh",
+        "province": "PA",
+        "postal_code": "15222-2707",
+        "country": "US",
+        "phone": "+1.4127622000",
+        "fax": "+1.4127683178",
+        "email": "ngtld-pnc@cscglobal.com"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "domain": {
+        "domain": "git.nl",
+        "punycode": "git.nl",
+        "name": "git",
+        "extension": "nl",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns5.firstfind.net",
+            "ns4.firstfind.nl",
+            "ns3.firstfind.nl"
+        ],
+        "dnssec": true
+    },
+    "registrar": {
+        "name": "Realtime Register",
+        "street": "Ceintuurbaan 32a, 8024AA ZWOLLE, Netherlands"
+    },
+    "reseller": {
+        "name": "Yourhosting",
+        "street": "Ceintuurbaan 28, 8024AA Zwolle, Netherlands"
+    }
+}

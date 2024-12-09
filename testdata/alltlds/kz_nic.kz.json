@@ -1,0 +1,38 @@
+{
+    "domain": {
+        "domain": "nic.kz",
+        "punycode": "nic.kz",
+        "name": "nic",
+        "extension": "kz",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns.nic.kz",
+            "ns.relcom.kz",
+            "ns1.nic.kz"
+        ],
+        "created_date": "1999-08-17 21:34:57 (GMT)",
+        "created_date_in_time": "1999-08-17T21:34:57Z",
+        "updated_date": "2022-12-05 17:28:31 (GMT)",
+        "updated_date_in_time": "2022-12-05T17:28:31Z"
+    },
+    "registrar": {
+        "name": "KAZNIC"
+    },
+    "registrant": {
+        "name": "KazNIC",
+        "organization": "KazNIC",
+        "street": "Ilyashev str. 47/2",
+        "city": "Semey",
+        "postal_code": "071400",
+        "country": "KZ"
+    },
+    "administrative": {
+        "id": "PG134",
+        "name": "Gussev, Pavel M.",
+        "phone": "+77222600006",
+        "fax": "+77222604740",
+        "email": "pg@nic.kz"
+    }
+}

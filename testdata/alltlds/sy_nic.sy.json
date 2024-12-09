@@ -1,0 +1,47 @@
+{
+    "domain": {
+        "id": "38351-sy",
+        "domain": "nic.sy",
+        "punycode": "nic.sy",
+        "name": "nic",
+        "extension": "sy",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns237.ucg.ltd",
+            "ns2237.ucg.ltd"
+        ],
+        "created_date": "2018-05-28T09:50:15.912Z",
+        "created_date_in_time": "2018-05-28T09:50:15.912Z",
+        "expiration_date": "2025-05-27T21:00:00.0Z",
+        "expiration_date_in_time": "2025-05-27T21:00:00Z"
+    },
+    "registrar": {
+        "name": "?? ?? ?? UCG"
+    },
+    "registrant": {
+        "name": "united communication group",
+        "street": "al-marjeh sq",
+        "city": "damascus",
+        "postal_code": "30510",
+        "country": "SY",
+        "email": "admin@ucg.ae"
+    },
+    "technical": {
+        "name": "ola al-haffar",
+        "street": "marjeh sq",
+        "city": "????",
+        "postal_code": "30510",
+        "country": "SY",
+        "email": "ola@ucg.ae"
+    },
+    "billing": {
+        "name": "mahmoud al-sayed",
+        "street": "al-marjeh sq",
+        "city": "damascus",
+        "postal_code": "30510",
+        "country": "SY",
+        "email": "admin@ucg.ae"
+    }
+}

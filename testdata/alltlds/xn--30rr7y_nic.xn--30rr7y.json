@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "D20150112G10001G_26463586-cishan",
+        "domain": "nic.xn--30rr7y",
+        "punycode": "nic.xn--30rr7y",
+        "name": "nic",
+        "extension": "xn--30rr7y",
+        "whois_server": "whois.newgtld.cn",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ins1.zdnscloud.com",
+            "cns1.zdnscloud.net",
+            "vns1.zdnscloud.biz",
+            "dns1.zdnscloud.info"
+        ],
+        "created_date": "2015-01-12T04:00:57Z",
+        "created_date_in_time": "2015-01-12T04:00:57Z",
+        "updated_date": "2016-12-30T09:39:49Z",
+        "updated_date_in_time": "2016-12-30T09:39:49Z",
+        "expiration_date": "2025-01-12T04:00:57Z",
+        "expiration_date_in_time": "2025-01-12T04:00:57Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Excellent First Limited",
+        "phone": "+852.020-66215780",
+        "email": "info@yu-wei.cn",
+        "referral_url": "http://www.newgtld.cn"
+    },
+    "registrant": {
+        "id": "C20160307C_06105566-cishan",
+        "name": "Guangfeng Li",
+        "organization": "Guangzhou Yuwei Information and Technology Co.,Ltd",
+        "street": "No.3302 International Trade Center,No.1 Linhe West Road,, Tianhe District",
+        "city": "Guangzhou",
+        "province": "Guangdong",
+        "postal_code": "510000",
+        "country": "CN",
+        "phone": "+86.2066222813",
+        "fax": "+86.2066222813",
+        "email": "liguangfeng@yu-wei.cn"
+    },
+    "administrative": {
+        "id": "C20160307C_06105566-cishan",
+        "name": "Guangfeng Li",
+        "organization": "Guangzhou Yuwei Information and Technology Co.,Ltd",
+        "street": "No.3302 International Trade Center,No.1 Linhe West Road,, Tianhe District",
+        "city": "Guangzhou",
+        "province": "Guangdong",
+        "postal_code": "510000",
+        "country": "CN",
+        "phone": "+86.2066222813",
+        "fax": "+86.2066222813",
+        "email": "liguangfeng@yu-wei.cn"
+    },
+    "technical": {
+        "id": "C20160307C_06105566-cishan",
+        "name": "Guangfeng Li",
+        "organization": "Guangzhou Yuwei Information and Technology Co.,Ltd",
+        "street": "No.3302 International Trade Center,No.1 Linhe West Road,, Tianhe District",
+        "city": "Guangzhou",
+        "province": "Guangdong",
+        "postal_code": "510000",
+        "country": "CN",
+        "phone": "+86.2066222813",
+        "fax": "+86.2066222813",
+        "email": "liguangfeng@yu-wei.cn"
+    }
+}

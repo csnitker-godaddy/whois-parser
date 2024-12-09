@@ -1,0 +1,76 @@
+{
+    "domain": {
+        "id": "D5711949-REALTOR",
+        "domain": "nic.realtor",
+        "punycode": "nic.realtor",
+        "name": "nic",
+        "extension": "realtor",
+        "whois_server": "whois.nic.realtor",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.realtor",
+            "dns2.nic.realtor",
+            "dns3.nic.realtor",
+            "dns4.nic.realtor",
+            "dnsa.nic.realtor",
+            "dnsb.nic.realtor",
+            "dnsc.nic.realtor",
+            "dnsd.nic.realtor"
+        ],
+        "dnssec": true,
+        "created_date": "2021-06-03T10:16:06Z",
+        "created_date_in_time": "2021-06-03T10:16:06Z",
+        "updated_date": "2021-07-29T10:25:00Z",
+        "updated_date_in_time": "2021-07-29T10:25:00Z",
+        "expiration_date": "2030-06-03T10:16:06Z",
+        "expiration_date_in_time": "2030-06-03T10:16:06Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Real Estate Domains LLC",
+        "phone": "+44.1865332211",
+        "email": "abuse@nominet.uk"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "OH",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

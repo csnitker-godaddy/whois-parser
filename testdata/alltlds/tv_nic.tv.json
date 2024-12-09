@@ -1,0 +1,83 @@
+{
+    "domain": {
+        "id": "REDACTED FOR PRIVACY",
+        "domain": "nic.tv",
+        "punycode": "nic.tv",
+        "name": "nic",
+        "extension": "tv",
+        "whois_server": "whois.nic.tv",
+        "status": [
+            "serverUpdateProhibited",
+            "clientDeleteProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited",
+            "clientRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.tv",
+            "b.nic.tv",
+            "c.nic.tv",
+            "d.nic.tv"
+        ],
+        "dnssec": true,
+        "created_date": "2000-05-01T07:00:00Z",
+        "created_date_in_time": "2000-05-01T07:00:00Z",
+        "updated_date": "2023-12-14T00:41:59Z",
+        "updated_date_in_time": "2023-12-14T00:41:59Z",
+        "expiration_date": "2032-01-19T04:14:07Z",
+        "expiration_date_in_time": "2032-01-19T04:14:07Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "dotTV - Registry Services, LLC",
+        "phone": "+1.4806519999",
+        "email": "abuse@registry.godaddy"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Domains By Proxy, LLC",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Arizona",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

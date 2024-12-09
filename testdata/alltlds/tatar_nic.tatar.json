@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "NIC.TATAR",
+        "domain": "nic.tatar",
+        "punycode": "nic.tatar",
+        "name": "nic",
+        "extension": "tatar",
+        "whois_server": "whois.nic.tatar",
+        "status": [
+            "OK"
+        ],
+        "name_servers": [
+            "int2.ix.ru",
+            "int3.ix.ru",
+            "ns.msk-ix.ru"
+        ],
+        "dnssec": true,
+        "created_date": "2014-05-23T16:53:20Z",
+        "created_date_in_time": "2014-05-23T16:53:20Z",
+        "updated_date": "2021-02-04T17:00:25Z",
+        "updated_date_in_time": "2021-02-04T17:00:25Z",
+        "expiration_date": "2025-05-23T17:53:20Z",
+        "expiration_date_in_time": "2025-05-23T17:53:20Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Coordination Center of Regional Domain of Tatarstan Republic [CCTR-TATAR]",
+        "referral_url": "http://domain.tatar"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "CCTR",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "RU",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the registrar in this output for contact the registrant"
+    }
+}

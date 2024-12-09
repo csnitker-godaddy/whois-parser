@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "DOMAIN_1011-SCB",
+        "domain": "nic.scb",
+        "punycode": "nic.scb",
+        "name": "nic",
+        "extension": "scb",
+        "whois_server": "whois.nic.scb",
+        "status": [
+            "clientDeleteProhibited",
+            "clientRenewProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.nic.scb",
+            "ns2.nic.scb"
+        ],
+        "dnssec": true,
+        "created_date": "2014-05-01T00:00:00Z",
+        "created_date_in_time": "2014-05-01T00:00:00Z",
+        "updated_date": "2018-07-31T03:58:11Z",
+        "updated_date_in_time": "2018-07-31T03:58:11Z",
+        "expiration_date": "2033-05-01T00:00:00Z",
+        "expiration_date_in_time": "2033-05-01T00:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "THAI NAME SERVER CO., LTD.",
+        "referral_url": "http://www.nic.scb"
+    },
+    "registrant": {
+        "name": "Redacted for Data Protection",
+        "organization": "Thai Name Server Co., Ltd.",
+        "street": "Redacted for Data Protection",
+        "city": "Redacted for Data Protection",
+        "province": "Bangkok",
+        "postal_code": "Redacted for Data Protection",
+        "country": "TH",
+        "phone": "Redacted for Data Protection",
+        "fax": "Redacted for Data Protection",
+        "email": "please query the rdds service of the registrar for information on how to contact the registrant"
+    },
+    "administrative": {
+        "name": "Redacted for Data Protection",
+        "organization": "Redacted for Data Protection",
+        "street": "Redacted for Data Protection",
+        "city": "Redacted for Data Protection",
+        "province": "Redacted for Data Protection",
+        "postal_code": "Redacted for Data Protection",
+        "country": "TH",
+        "phone": "Redacted for Data Protection",
+        "fax": "Redacted for Data Protection",
+        "email": "please query the rdds service of the registrar for information on how to contact the admin contact"
+    },
+    "technical": {
+        "name": "Redacted for Data Protection",
+        "organization": "Redacted for Data Protection",
+        "street": "Redacted for Data Protection",
+        "city": "Redacted for Data Protection",
+        "province": "Redacted for Data Protection",
+        "postal_code": "Redacted for Data Protection",
+        "country": "TH",
+        "phone": "Redacted for Data Protection",
+        "fax": "Redacted for Data Protection",
+        "email": "please query the rdds service of the registrar for information on how to contact the tech contact"
+    }
+}

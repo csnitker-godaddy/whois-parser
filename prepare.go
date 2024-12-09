@@ -1,5 +1,5 @@
 /*
- * Copyright 2014-2023 Li Kexian
+ * Copyright 2014-2024 Li Kexian
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -65,6 +65,8 @@ func Prepare(text, ext string) (string, bool) { //nolint:cyclop
 		return prepareKR(text), true
 	case "nz":
 		return prepareNZ(text), true
+	case "tn":
+		return prepareTN(text), true
 	case "tk":
 		return prepareTK(text), true
 	case "nl":
@@ -93,6 +95,10 @@ func Prepare(text, ext string) (string, bool) { //nolint:cyclop
 		return prepareUA(text), true
 	case "sg":
 		return prepareSG(text), true
+	case "at":
+		return prepareAT(text), true
+	case "sk":
+		return prepareSK(text), true
 	default:
 		return text, false
 	}
@@ -266,7 +272,6 @@ func prepareINT(text string) string {
 
 // prepareKZ do prepare the .kz domain
 func prepareKZ(text string) string {
-
 	groupTokens := map[string]string{
 		"Organization Using Domain Name": "Registrant ",
 		"Administrative Contact/Agent":   "Administrative ",
@@ -325,6 +330,10 @@ func prepareKZ(text string) string {
 		}
 
 		v = fmt.Sprintf("%s: %s", key, value)
+
+		if strings.Contains(v, "(GMT") {
+			v = strings.SplitAfter(v, "(GMT")[0] + ")"
+		}
 
 		result += "\n" + v
 	}
@@ -489,6 +498,7 @@ func prepareTW(text string) string { //nolint:cyclop
 		for _, s := range []string{"Record created on", "Record expires on"} {
 			if strings.HasPrefix(v, s) {
 				v = strings.Replace(v, s, s+":", 1)
+				v = strings.Replace(v, " (YYYY-MM-DD)", "", 1)
 			}
 		}
 		if strings.Contains(v, ":") {
@@ -1054,6 +1064,10 @@ func prepareBR(text string) string {
 			if strings.TrimSpace(vs[0]) == "owner" {
 				v = fmt.Sprintf("registrant organization: %s", vs[1])
 			}
+			if strings.TrimSpace(vs[0]) == "created" {
+				values := strings.Split(strings.TrimSpace(vs[1]), " ")
+				v = fmt.Sprintf("created: %s", values[0])
+			}
 			if vv, ok := tokens[strings.TrimSpace(vs[0])]; ok {
 				for _, tt := range strings.Split(hdlMap[strings.TrimSpace(vs[1])], "\n") {
 					if strings.TrimSpace(tt) == "" {
@@ -1397,6 +1411,134 @@ func prepareUA(text string) string {
 		}
 		uniqueLine[v] = true
 		result += v + "\n"
+	}
+
+	return result
+}
+
+// Regular expression to match "GMT+N" or "GMT-N"
+var tnDateFormatRegex = regexp.MustCompile(`GMT([+-]\d{1,2})`)
+
+func prepareTN(text string) string {
+	// Replace the matched offset with a Go-compatible format
+	processedInput := tnDateFormatRegex.ReplaceAllStringFunc(text, func(match string) string {
+		offset := match[3:] // Extract "+1" or "-3", etc.
+		return offset + ":00"
+	})
+
+	return processedInput
+}
+
+// prepareAT prepares the .at domain
+func prepareAT(text string) string {
+	result := ""
+	registrantID := ""
+	techID := ""
+
+	tokens := map[string]string{
+		"street address": "address",
+		"postal code":    "address",
+		"city":           "address",
+		"country":        "address",
+		"e-mail":         "email",
+		"nic-hdl":        "id",
+		"personname":     "name",
+	}
+
+	formatLine := func(line, token string) string {
+		before, after, _ := strings.Cut(line, ":")
+		key := strings.TrimSpace(before)
+		if t, ok := tokens[key]; ok {
+			key = t
+		}
+		val := strings.TrimSpace(after)
+		return fmt.Sprintf("%s %s: %s", token, key, val)
+	}
+
+	for _, v := range strings.Split(text, "\n\n") {
+		v = strings.TrimSpace(v)
+		if strings.HasPrefix(v, "%") {
+			continue
+		}
+		if strings.Contains(v, ":") {
+			b := strings.Split(v, "\n")
+			if strings.HasPrefix(b[0], "domain") {
+				for _, l := range b {
+					w := ""
+					if before, after, ok := strings.Cut(l, ":"); ok {
+						key := strings.TrimSpace(before)
+						val := strings.TrimSpace(after)
+						switch key {
+						case "domain":
+							w = fmt.Sprintf("%s: %s", "domain name", val)
+						case "registrant":
+							registrantID = val
+						case "tech-c":
+							techID = val
+						case "changed":
+							w = fmt.Sprintf("%s: %s", "updated_date", val)
+						case "nserver":
+							w = fmt.Sprintf("%s: %s", "name_servers", val)
+						default:
+							w = fmt.Sprintf("domain %s: %s", key, val)
+						}
+						if w != "" {
+							result += w + "\n"
+						}
+					}
+				}
+			} else if strings.HasPrefix(b[0], "personname") {
+				token := ""
+				if strings.Contains(v, registrantID) {
+					token = "registrant"
+				} else if strings.Contains(v, techID) {
+					token = "technical contact"
+				}
+				for _, l := range strings.Split(v, "\n") {
+					result += formatLine(l, token) + "\n"
+				}
+			}
+		}
+	}
+
+	return result
+}
+
+// prepareSK do prepare the .sk domain
+func prepareSK(text string) string {
+	tokens := map[string]string{
+		"Domain registrant":      "Registrant",
+		"Authorised Registrar":   "Registrar",
+		"Administrative Contact": "Administrative",
+		"Technical Contact":      "Technical",
+	}
+
+	result := ""
+	prefix := ""
+
+	for _, v := range strings.Split(text, "\n") {
+
+		v = strings.TrimSpace(v)
+		v = strings.Replace(v, "\r", "", -1)
+
+		if v == "" {
+			continue
+		}
+
+		if strings.Contains(v, ":") {
+			vs := strings.SplitN(v, ":", 2)
+			value := strings.TrimSpace(vs[1])
+			token := strings.TrimSpace(vs[0])
+
+			if _, ok := tokens[token]; ok {
+				prefix = tokens[token]
+				prefix = fmt.Sprintf("%s ", prefix)
+			}
+
+			v = fmt.Sprintf("%s%s:%s", prefix, token, value)
+
+		}
+		result += "\n" + v
 	}
 
 	return result

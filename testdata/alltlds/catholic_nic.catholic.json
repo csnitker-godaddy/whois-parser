@@ -1,0 +1,63 @@
+{
+    "domain": {
+        "id": "DF7AB8B5B41D946E7A7CF866C2AE82E02-ARI",
+        "domain": "nic.catholic",
+        "punycode": "nic.catholic",
+        "name": "nic",
+        "extension": "catholic",
+        "whois_server": "Not Applicable",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "a.nic.catholic",
+            "b.nic.catholic",
+            "c.nic.catholic",
+            "d.nic.catholic"
+        ],
+        "dnssec": true,
+        "created_date": "2015-02-17T01:11:29Z",
+        "created_date_in_time": "2015-02-17T01:11:29Z",
+        "updated_date": "2024-04-02T01:11:30Z",
+        "updated_date_in_time": "2024-04-02T01:11:30Z",
+        "expiration_date": "2025-02-17T01:11:29Z",
+        "expiration_date_in_time": "2025-02-17T01:11:29Z"
+    },
+    "registrar": {
+        "id": "9998",
+        "name": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+        "referral_url": "Not Applicable"
+    },
+    "registrant": {
+        "id": "C2C05034B50A64AE196995383A171624E-NSR",
+        "name": "DotCatholic Office",
+        "organization": "Secretariat for Communications",
+        "street": "Piazza Pia, 3",
+        "city": "Citta del Vaticano",
+        "postal_code": "00120",
+        "country": "va",
+        "email": "info.catholictld@spc.va"
+    },
+    "administrative": {
+        "id": "C2C05034B50A64AE196995383A171624E-NSR",
+        "name": "DotCatholic Office",
+        "organization": "Secretariat for Communications",
+        "street": "Piazza Pia, 3",
+        "city": "Citta del Vaticano",
+        "postal_code": "00120",
+        "country": "va",
+        "email": "info.catholictld@spc.va"
+    },
+    "technical": {
+        "id": "C2C05034B50A64AE196995383A171624E-NSR",
+        "name": "DotCatholic Office",
+        "organization": "Secretariat for Communications",
+        "street": "Piazza Pia, 3",
+        "city": "Citta del Vaticano",
+        "postal_code": "00120",
+        "country": "va",
+        "email": "info.catholictld@spc.va"
+    }
+}

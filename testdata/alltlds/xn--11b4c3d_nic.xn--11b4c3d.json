@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "111994017_DOMAIN_XN__11B4C3D-VRSN",
+        "domain": "nic.xn--11b4c3d",
+        "punycode": "nic.xn--11b4c3d",
+        "name": "nic",
+        "extension": "xn--11b4c3d",
+        "whois_server": "www.verisigninc.com",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "av1.nstld.com",
+            "av2.nstld.com",
+            "av3.nstld.com",
+            "av4.nstld.com"
+        ],
+        "created_date": "2015-04-07T17:48:39Z",
+        "created_date_in_time": "2015-04-07T17:48:39Z",
+        "updated_date": "2020-04-23T17:18:22Z",
+        "updated_date_in_time": "2020-04-23T17:18:22Z",
+        "expiration_date": "2025-04-07T17:48:39Z",
+        "expiration_date_in_time": "2025-04-07T17:48:39Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator Reserved Non-Billable",
+        "referral_url": "http://www.verisign.com"
+    },
+    "registrant": {
+        "id": "202822_CONTACT_XN__11B4C3D-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "administrative": {
+        "id": "202822_CONTACT_XN__11B4C3D-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "technical": {
+        "id": "202822_CONTACT_XN__11B4C3D-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "billing": {
+        "id": "202822_CONTACT_XN__11B4C3D-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    }
+}

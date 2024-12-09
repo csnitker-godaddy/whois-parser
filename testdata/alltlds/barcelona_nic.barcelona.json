@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "D9-BARNA",
+        "domain": "nic.barcelona",
+        "punycode": "nic.barcelona",
+        "name": "nic",
+        "extension": "barcelona",
+        "whois_server": "whois.nic.barcelona",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2015-04-20T14:09:34.692Z",
+        "created_date_in_time": "2015-04-20T14:09:34.692Z",
+        "updated_date": "2024-08-21T09:27:16.616Z",
+        "updated_date_in_time": "2024-08-21T09:27:16.616Z",
+        "expiration_date": "2025-04-20T14:09:34.692Z",
+        "expiration_date_in_time": "2025-04-20T14:09:34.692Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": ".barcelona Internal Registrar",
+        "phone": "+34.671639461",
+        "email": "newgtlds@domini.cat",
+        "referral_url": "http://www.bcn.cat"
+    },
+    "registrant": {
+        "organization": "Ajuntament de Barcelona",
+        "province": "Catalunya",
+        "country": "ES",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "domain": {
+        "id": "6f5a11f7a78044879bebdcb099b7d8e1-DONUTS",
+        "domain": "nic.bofa",
+        "punycode": "nic.bofa",
+        "name": "nic",
+        "extension": "bofa",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n0.nic.bofa",
+            "v0n2.nic.bofa",
+            "v2n0.nic.bofa",
+            "v2n1.nic.bofa",
+            "v0n1.nic.bofa",
+            "v0n3.nic.bofa"
+        ],
+        "dnssec": true,
+        "created_date": "2016-06-22T18:49:56Z",
+        "created_date_in_time": "2016-06-22T18:49:56Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2026-06-22T18:49:56Z",
+        "expiration_date_in_time": "2026-06-22T18:49:56Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "5532ef16426e4067ab45cf9f5c91f757-DONUTS",
+        "name": "SVP, Digital Marketing Executive",
+        "organization": "Bank of America Corporation",
+        "street": "100 North Tryon Street",
+        "city": "Charlotte",
+        "province": "NC",
+        "postal_code": "28255",
+        "country": "US",
+        "phone": "+1.9803878445",
+        "fax": "+1.9803882014",
+        "email": "ngtld-bofa@cscinfo.com"
+    },
+    "administrative": {
+        "id": "5532ef16426e4067ab45cf9f5c91f757-DONUTS",
+        "name": "SVP, Digital Marketing Executive",
+        "organization": "Bank of America Corporation",
+        "street": "100 North Tryon Street",
+        "city": "Charlotte",
+        "province": "NC",
+        "postal_code": "28255",
+        "country": "US",
+        "phone": "+1.9803878445",
+        "fax": "+1.9803882014",
+        "email": "ngtld-bofa@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

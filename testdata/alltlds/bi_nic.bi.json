@@ -1,0 +1,46 @@
+{
+    "domain": {
+        "id": "4955NIC-BI",
+        "domain": "nic.bi",
+        "punycode": "nic.bi",
+        "name": "nic",
+        "extension": "bi",
+        "whois_server": "whois.nic.bi",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.nic.bi",
+            "ns.nic.bi"
+        ],
+        "created_date": "2011-07-21T18:19:26.512Z",
+        "created_date_in_time": "2011-07-21T18:19:26.512Z",
+        "updated_date": "2021-01-28T09:24:01.650Z",
+        "updated_date_in_time": "2021-01-28T09:24:01.65Z",
+        "expiration_date": "2030-12-30T22:00:00.0Z",
+        "expiration_date_in_time": "2030-12-30T22:00:00Z"
+    },
+    "registrar": {
+        "name": "CNI-ADMIN"
+    },
+    "registrant": {
+        "id": "sywcX-suAUW",
+        "name": "NIC ADMIN",
+        "organization": "NIC",
+        "street": "157, Chee P L Rwagasore",
+        "city": "Bujumbura",
+        "country": "BI",
+        "phone": "0724445740",
+        "email": "registry@nic.bi"
+    },
+    "administrative": {
+        "id": "MT9ci-Iwinm",
+        "name": "NIC ADMIN",
+        "organization": "NIC",
+        "street": "157 Chee P L Rwagasore",
+        "city": "Bujumbura",
+        "country": "BI",
+        "phone": "+257.22219230",
+        "email": "registry@nic.bi"
+    }
+}

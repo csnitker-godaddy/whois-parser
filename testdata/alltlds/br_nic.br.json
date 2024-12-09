@@ -1,0 +1,29 @@
+{
+    "domain": {
+        "domain": "nic.br",
+        "punycode": "nic.br",
+        "name": "nic",
+        "extension": "br",
+        "status": [
+            "published"
+        ],
+        "name_servers": [
+            "a.dns.br",
+            "b.dns.br",
+            "c.dns.br",
+            "d.dns.br",
+            "e.dns.br"
+        ],
+        "created_date": "19970711",
+        "created_date_in_time": "1997-07-11T00:00:00Z",
+        "updated_date": "20180327",
+        "updated_date_in_time": "2018-03-27T00:00:00Z"
+    },
+    "registrant": {
+        "name": "Frederico Augusto de Carvalho Neves",
+        "organization": "Núcleo de Inf. e Coord. do Ponto BR - NIC.BR"
+    },
+    "technical": {
+        "name": "Frederico Augusto de Carvalho Neves"
+    }
+}

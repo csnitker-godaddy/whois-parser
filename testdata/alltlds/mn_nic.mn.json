@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "bb7f4d2b054d4eb5a7d82b6a755ea2ac-DONUTS",
+        "domain": "nic.mn",
+        "punycode": "nic.mn",
+        "name": "nic",
+        "extension": "mn",
+        "whois_server": "whois.nic.mn",
+        "status": [
+            "serverDeleteProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns3.magic.mn",
+            "ns1.magic.mn",
+            "ns2.magic.mn"
+        ],
+        "created_date": "2000-04-10T00:00:00Z",
+        "created_date_in_time": "2000-04-10T00:00:00Z",
+        "updated_date": "2024-09-23T15:53:40Z",
+        "updated_date_in_time": "2024-09-23T15:53:40Z",
+        "expiration_date": "2026-12-31T00:00:00Z",
+        "expiration_date_in_time": "2026-12-31T00:00:00Z"
+    },
+    "registrar": {
+        "id": "800036",
+        "name": "Datacom Co., Ltd.",
+        "phone": "+976.70000505",
+        "email": "abuse@datacom.mn",
+        "referral_url": "https://datacom.mn/"
+    },
+    "registrant": {
+        "id": "41bfcea348224a969c179f1f3bf02c15-DONUTS",
+        "name": "Datacom Co., Ltd",
+        "organization": "CEO",
+        "street": "IT Park, Suite 110",
+        "city": "Ulaanbaatar",
+        "province": "Ulaanbaatar",
+        "postal_code": "11000",
+        "country": "MN",
+        "phone": "+976.327309",
+        "fax": "+976.320210",
+        "email": "ceo@datacom.mn"
+    },
+    "administrative": {
+        "id": "41bfcea348224a969c179f1f3bf02c15-DONUTS",
+        "name": "Datacom Co., Ltd",
+        "organization": "CEO",
+        "street": "IT Park, Suite 110",
+        "city": "Ulaanbaatar",
+        "province": "Ulaanbaatar",
+        "postal_code": "11000",
+        "country": "MN",
+        "phone": "+976.327309",
+        "fax": "+976.320210",
+        "email": "ceo@datacom.mn"
+    },
+    "technical": {
+        "id": "41bfcea348224a969c179f1f3bf02c15-DONUTS",
+        "name": "Datacom Co., Ltd",
+        "organization": "CEO",
+        "street": "IT Park, Suite 110",
+        "city": "Ulaanbaatar",
+        "province": "Ulaanbaatar",
+        "postal_code": "11000",
+        "country": "MN",
+        "phone": "+976.327309",
+        "fax": "+976.320210",
+        "email": "ceo@datacom.mn"
+    }
+}

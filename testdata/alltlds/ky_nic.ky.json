@@ -1,0 +1,67 @@
+{
+    "domain": {
+        "id": "DO_f39f88f686ccd2e17fbb88bf9d1861a8-UR",
+        "domain": "nic.ky",
+        "punycode": "nic.ky",
+        "name": "nic",
+        "extension": "ky",
+        "whois_server": "https://whois.kyregistry.ky/",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns21.netclues.com",
+            "ns22.netclues.com"
+        ],
+        "created_date": "2017-12-08T20:45:50.350Z",
+        "created_date_in_time": "2017-12-08T20:45:50.35Z",
+        "updated_date": "2017-12-13T20:46:06.850Z",
+        "updated_date_in_time": "2017-12-13T20:46:06.85Z",
+        "expiration_date": "2027-12-08T20:45:50.350Z",
+        "expiration_date_in_time": "2027-12-08T20:45:50.35Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Utility Regulation and Competition Office (OfReg)",
+        "phone": "+1.3457496263",
+        "email": "info+whois@uniregistry.com",
+        "referral_url": "http://uniregistry.com/"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "KY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

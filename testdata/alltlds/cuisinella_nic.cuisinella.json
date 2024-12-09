@@ -1,0 +1,62 @@
+{
+    "domain": {
+        "id": "DF21C5147A0424BDBA95B9499024183F5-ARI",
+        "domain": "nic.cuisinella",
+        "punycode": "nic.cuisinella",
+        "name": "nic",
+        "extension": "cuisinella",
+        "whois_server": "whois.nic.cuisinella",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a.nic.cuisinella",
+            "b.nic.cuisinella",
+            "c.nic.cuisinella",
+            "d.nic.cuisinella"
+        ],
+        "dnssec": true,
+        "created_date": "2014-06-20T00:39:36Z",
+        "created_date_in_time": "2014-06-20T00:39:36Z",
+        "updated_date": "2024-08-04T00:39:36Z",
+        "updated_date_in_time": "2024-08-04T00:39:36Z",
+        "expiration_date": "2025-06-20T00:39:36Z",
+        "expiration_date_in_time": "2025-06-20T00:39:36Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "cuisinella"
+    },
+    "registrant": {
+        "id": "C5A81BC0B4CD84EA68BCDA3C9A1A49171-ARI",
+        "name": "SALM S.A.S.",
+        "street": "5 rue Clemenceau",
+        "city": "LIEPVRE",
+        "postal_code": "68660",
+        "country": "fr",
+        "phone": "+33.389582400",
+        "email": "administrative-contact-cuisinella@salm.fr"
+    },
+    "administrative": {
+        "id": "C5A81BC0B4CD84EA68BCDA3C9A1A49171-ARI",
+        "name": "SALM S.A.S.",
+        "street": "5 rue Clemenceau",
+        "city": "LIEPVRE",
+        "postal_code": "68660",
+        "country": "fr",
+        "phone": "+33.389582400",
+        "email": "administrative-contact-cuisinella@salm.fr"
+    },
+    "technical": {
+        "id": "C5A81BC0B4CD84EA68BCDA3C9A1A49171-ARI",
+        "name": "SALM S.A.S.",
+        "street": "5 rue Clemenceau",
+        "city": "LIEPVRE",
+        "postal_code": "68660",
+        "country": "fr",
+        "phone": "+33.389582400",
+        "email": "administrative-contact-cuisinella@salm.fr"
+    }
+}

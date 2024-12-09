@@ -15,6 +15,7 @@ If there is any problem, please feel free to open a new issue.
 | . | [cn](cn_cn) | [cn](cn_cn.json) | √ |
 | . | [com](com_com) | [com](com_com.json) | √ |
 | . | [google](google_google) | [google](google_google.json) | √ |
+| . | [swiss](swiss_swiss) | [swiss](swiss_swiss.json) | √ |
 | .ac | [git.ac](ac_git.ac) | [git.ac](ac_git.ac.json) | √ |
 | .ac | [google.ac](ac_google.ac) | [google.ac](ac_google.ac.json) | √ |
 | .aero | [google.aero](aero_google.aero) | [google.aero](aero_google.aero.json) | √ |
@@ -25,6 +26,10 @@ If there is any problem, please feel free to open a new issue.
 | .aq | [ats.aq](aq_ats.aq) | [ats.aq](aq_ats.aq.json) | √ |
 | .asia | [git.asia](asia_git.asia) | [git.asia](asia_git.asia.json) | √ |
 | .asia | [google.asia](asia_google.asia) | [google.asia](asia_google.asia.json) | √ |
+| .at | [0wnz.at](at_0wnz.at) | [0wnz.at](at_0wnz.at.json) | √ |
+| .at | [elektro-rauter.at](at_elektro-rauter.at) | [elektro-rauter.at](at_elektro-rauter.at.json) | √ |
+| .at | [rerail.at](at_rerail.at) | [rerail.at](at_rerail.at.json) | √ |
+| .at | [samsung.at](at_samsung.at) | [samsung.at](at_samsung.at.json) | √ |
 | .au | [acma.gov.au](au_acma.gov.au) | [acma.gov.au](au_acma.gov.au.json) | √ |
 | .au | [google.com.au](au_google.com.au) | [google.com.au](au_google.com.au.json) | √ |
 | .berlin | [google.berlin](berlin_google.berlin) | [google.berlin](berlin_google.berlin.json) | √ |
@@ -171,6 +176,8 @@ If there is any problem, please feel free to open a new issue.
 | .sg | [google.sg](sg_google.sg) | [google.sg](sg_google.sg.json) | √ |
 | .sh | [git.sh](sh_git.sh) | [git.sh](sh_git.sh.json) | √ |
 | .sh | [google.sh](sh_google.sh) | [google.sh](sh_google.sh.json) | √ |
+| .sk | [alza.sk](sk_alza.sk) | [alza.sk](sk_alza.sk.json) | √ |
+| .sk | [google.sk](sk_google.sk) | [google.sk](sk_google.sk.json) | √ |
 | .su | [git.su](su_git.su) | [git.su](su_git.su.json) | √ |
 | .su | [google.su](su_google.su) | [google.su](su_google.su.json) | √ |
 | .tel | [github.tel](tel_github.tel) | [github.tel](tel_github.tel.json) | √ |

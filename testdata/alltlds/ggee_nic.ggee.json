@@ -1,0 +1,32 @@
+{
+    "domain": {
+        "id": "DO192462-GMO",
+        "domain": "nic.ggee",
+        "punycode": "nic.ggee",
+        "name": "nic",
+        "extension": "ggee",
+        "whois_server": "whois.nic.ggee",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2014-11-04T10:52:36.0Z",
+        "created_date_in_time": "2014-11-04T10:52:36Z",
+        "updated_date": "2024-11-05T00:19:57.0Z",
+        "updated_date_in_time": "2024-11-05T00:19:57Z",
+        "expiration_date": "2025-11-04T23:59:59.0Z",
+        "expiration_date_in_time": "2025-11-04T23:59:59Z"
+    },
+    "registrar": {
+        "id": "49",
+        "name": "GMO Internet, Inc.",
+        "referral_url": "https://www.gmo.jp/"
+    },
+    "registrant": {
+        "province": "Tokyo",
+        "country": "JP"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "domain": {
+        "id": "D68182594-CNIC",
+        "domain": "nic.best",
+        "punycode": "nic.best",
+        "name": "nic",
+        "extension": "best",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.best",
+            "b.nic.best",
+            "c.nic.best",
+            "d.nic.best"
+        ],
+        "created_date": "2013-09-16T19:56:06.0Z",
+        "created_date_in_time": "2013-09-16T19:56:06Z",
+        "updated_date": "2024-09-09T00:01:11.0Z",
+        "updated_date_in_time": "2024-09-09T00:01:11Z",
+        "expiration_date": "2025-09-15T23:59:59.0Z",
+        "expiration_date_in_time": "2025-09-15T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "organization": "THE BEST SAS",
+        "province": "VAL DE MARNE",
+        "country": "FR",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

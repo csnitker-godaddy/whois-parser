@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "DA615F2E7D5B64E34A5F2FD965A33A2E4-ARI",
+        "domain": "nic.afl",
+        "punycode": "nic.afl",
+        "name": "nic",
+        "extension": "afl",
+        "whois_server": "whois.nic.afl",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a.nic.afl",
+            "b.nic.afl",
+            "c.nic.afl",
+            "d.nic.afl"
+        ],
+        "dnssec": true,
+        "created_date": "2015-02-17T01:03:27Z",
+        "created_date_in_time": "2015-02-17T01:03:27Z",
+        "updated_date": "2024-04-02T01:03:28Z",
+        "updated_date_in_time": "2024-04-02T01:03:28Z",
+        "expiration_date": "2025-02-17T01:03:27Z",
+        "expiration_date_in_time": "2025-02-17T01:03:27Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Australian Football League"
+    },
+    "registrant": {
+        "id": "CC952F07F22F348F1B6D8C91973ACE2E8-ARI",
+        "name": "Australian Football League",
+        "street": "140 Harbour Esplanade",
+        "city": "Docklands",
+        "province": "VIC",
+        "postal_code": "3008",
+        "country": "au",
+        "phone": "+61.396431999",
+        "email": "dnsadmin@afl.com.au"
+    },
+    "administrative": {
+        "id": "CC952F07F22F348F1B6D8C91973ACE2E8-ARI",
+        "name": "Australian Football League",
+        "street": "140 Harbour Esplanade",
+        "city": "Docklands",
+        "province": "VIC",
+        "postal_code": "3008",
+        "country": "au",
+        "phone": "+61.396431999",
+        "email": "dnsadmin@afl.com.au"
+    },
+    "technical": {
+        "id": "CC952F07F22F348F1B6D8C91973ACE2E8-ARI",
+        "name": "Australian Football League",
+        "street": "140 Harbour Esplanade",
+        "city": "Docklands",
+        "province": "VIC",
+        "postal_code": "3008",
+        "country": "au",
+        "phone": "+61.396431999",
+        "email": "dnsadmin@afl.com.au"
+    }
+}

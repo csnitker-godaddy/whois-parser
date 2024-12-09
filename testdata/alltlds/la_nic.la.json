@@ -1,0 +1,45 @@
+{
+    "domain": {
+        "id": "D472370-LANIC",
+        "domain": "nic.la",
+        "punycode": "nic.la",
+        "name": "nic",
+        "extension": "la",
+        "whois_server": "whois.nic.la",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "ns0.centralnic-dns.com",
+            "ns1.centralnic-dns.com",
+            "ns2.centralnic-dns.com",
+            "ns3.centralnic-dns.com",
+            "ns4.centralnic-dns.com",
+            "ns5.centralnic-dns.com"
+        ],
+        "created_date": "2000-11-20T01:00:00.0Z",
+        "created_date_in_time": "2000-11-20T01:00:00Z",
+        "updated_date": "2016-10-17T04:13:14.0Z",
+        "updated_date_in_time": "2016-10-17T04:13:14Z",
+        "expiration_date": "2026-11-20T23:59:59.0Z",
+        "expiration_date_in_time": "2026-11-20T23:59:59Z"
+    },
+    "registrar": {
+        "name": "TLD Registrar Solutions Ltd",
+        "phone": "+44.2033880600",
+        "email": "abuse@centralnic.com"
+    },
+    "registrant": {
+        "email": "https://whois.nic.la/contact/nic.la/registrant"
+    },
+    "administrative": {
+        "email": "https://whois.nic.la/contact/nic.la/admin"
+    },
+    "technical": {
+        "email": "https://whois.nic.la/contact/nic.la/tech"
+    }
+}

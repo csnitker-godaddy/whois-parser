@@ -1,0 +1,31 @@
+{
+    "domain": {
+        "domain": "nic.tc",
+        "punycode": "nic.tc",
+        "name": "nic",
+        "extension": "tc",
+        "whois_server": "whois.nic.tc",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.nic.tc",
+            "ns2.nic.tc",
+            "ns3.nic.tc",
+            "ns4.nic.tc"
+        ],
+        "created_date": "1998-08-25T21:00:00.000Z",
+        "created_date_in_time": "1998-08-25T21:00:00Z",
+        "expiration_date": "2034-12-31T22:00:00.000Z",
+        "expiration_date_in_time": "2034-12-31T22:00:00Z"
+    },
+    "registrar": {
+        "id": "--",
+        "name": "NICTC Internal",
+        "country": "TC",
+        "referral_url": "https://www.nic.tc"
+    },
+    "registrant": {
+        "organization": "NICTC Internet Services LTD"
+    }
+}

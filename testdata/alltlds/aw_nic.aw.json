@@ -1,0 +1,24 @@
+{
+    "domain": {
+        "domain": "nic.aw",
+        "punycode": "nic.aw",
+        "name": "nic",
+        "extension": "aw",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns3.sidn.nl",
+            "ns4.sidn.nl",
+            "ns5.sidn.nl"
+        ],
+        "dnssec": true,
+        "created_date": "2014-02-25",
+        "created_date_in_time": "2014-02-25T00:00:00Z",
+        "updated_date": "2021-11-18",
+        "updated_date_in_time": "2021-11-18T00:00:00Z"
+    },
+    "registrar": {
+        "name": "SETAR N.V.,Administration Building,Seroe Blanco 29A,Oranjestad,Aruba"
+    }
+}

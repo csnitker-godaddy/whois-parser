@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "0c11effb5a3c477cbb2a2202f11da672-DONUTS",
+        "domain": "nic.itv",
+        "punycode": "nic.itv",
+        "name": "nic",
+        "extension": "itv",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.itv",
+            "b0.nic.itv",
+            "c0.nic.itv",
+            "a2.nic.itv"
+        ],
+        "dnssec": true,
+        "created_date": "2016-09-19T16:41:33Z",
+        "created_date_in_time": "2016-09-19T16:41:33Z",
+        "updated_date": "2024-11-03T16:41:56Z",
+        "updated_date_in_time": "2024-11-03T16:41:56Z",
+        "expiration_date": "2025-09-19T16:41:33Z",
+        "expiration_date_in_time": "2025-09-19T16:41:33Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "62084c794f8f4618b2db49912edf7e99-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "ITV Services Limited",
+        "street": "The London Television Centre Upper Ground",
+        "city": "London",
+        "province": "GB",
+        "postal_code": "SE1 9LT",
+        "country": "GB",
+        "phone": "+44.3026365401",
+        "fax": "+44.3026365454",
+        "email": "newgtlds@cscglobal.com"
+    },
+    "administrative": {
+        "id": "62084c794f8f4618b2db49912edf7e99-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "ITV Services Limited",
+        "street": "The London Television Centre Upper Ground",
+        "city": "London",
+        "province": "GB",
+        "postal_code": "SE1 9LT",
+        "country": "GB",
+        "phone": "+44.3026365401",
+        "fax": "+44.3026365454",
+        "email": "newgtlds@cscglobal.com"
+    },
+    "technical": {
+        "id": "62084c794f8f4618b2db49912edf7e99-DONUTS",
+        "name": "Premium Reserved Names",
+        "organization": "ITV Services Limited",
+        "street": "The London Television Centre Upper Ground",
+        "city": "London",
+        "province": "GB",
+        "postal_code": "SE1 9LT",
+        "country": "GB",
+        "phone": "+44.3026365401",
+        "fax": "+44.3026365454",
+        "email": "newgtlds@cscglobal.com"
+    }
+}

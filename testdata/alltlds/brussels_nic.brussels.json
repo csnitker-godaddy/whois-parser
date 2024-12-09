@@ -1,0 +1,79 @@
+{
+    "domain": {
+        "id": "D0000000007-BRUSSELS",
+        "domain": "nic.brussels",
+        "punycode": "nic.brussels",
+        "name": "nic",
+        "extension": "brussels",
+        "whois_server": "whois.nic.brussels",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "ns2.nic.brussels",
+            "ns3.nic.brussels",
+            "ns1.nic.brussels",
+            "ns5.nic.brussels"
+        ],
+        "dnssec": true,
+        "created_date": "2014-03-26T12:09:34Z",
+        "created_date_in_time": "2014-03-26T12:09:34Z",
+        "updated_date": "2024-06-13T15:55:49Z",
+        "updated_date_in_time": "2024-06-13T15:55:49Z",
+        "expiration_date": "2025-03-26T12:09:34Z",
+        "expiration_date_in_time": "2025-03-26T12:09:34Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "DNS Belgium vzw/asbl",
+        "phone": "+32.16284970",
+        "email": "admin@dnsbelgium.be",
+        "referral_url": "http://www.nic.brussels/"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "DNS Belgium vzw/asbl",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Leuven",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "BE",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the admin contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the tech contact of the queried domain name."
+    }
+}

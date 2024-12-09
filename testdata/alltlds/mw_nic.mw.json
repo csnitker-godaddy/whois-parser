@@ -1,0 +1,32 @@
+{
+    "domain": {
+        "domain": "nic.mw",
+        "punycode": "nic.mw",
+        "name": "nic",
+        "extension": "mw",
+        "name_servers": [
+            "chambo.sdnp.org.mw",
+            "domwe.sdn.mw",
+            "domwe.nic.mw",
+            "rip.psg.com"
+        ],
+        "created_date": "17.09.2014 11:26:09",
+        "created_date_in_time": "2014-09-17T11:26:09Z",
+        "updated_date": "30.09.2019 13:53:30",
+        "updated_date_in_time": "2019-09-30T13:53:30Z",
+        "expiration_date": "17.12.2027",
+        "expiration_date_in_time": "2027-12-17T00:00:00Z"
+    },
+    "registrar": {
+        "name": "mw_system_reg"
+    },
+    "registrant": {
+        "organization": "NIC-MW-REG"
+    },
+    "administrative": {
+        "id": "SDNP-ORG-MW-BILLING"
+    },
+    "technical": {
+        "id": "SDNP-ORG-MW-TECH"
+    }
+}

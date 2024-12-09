@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "513806a2cda5458eb86635a39a0bb476-DONUTS",
+        "domain": "nic.saxo",
+        "punycode": "nic.saxo",
+        "name": "nic",
+        "extension": "saxo",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n0.nic.saxo",
+            "v0n1.nic.saxo",
+            "v0n2.nic.saxo",
+            "v0n3.nic.saxo",
+            "v2n0.nic.saxo",
+            "v2n1.nic.saxo"
+        ],
+        "dnssec": true,
+        "created_date": "2015-02-04T07:49:21Z",
+        "created_date_in_time": "2015-02-04T07:49:21Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-02-04T07:49:21Z",
+        "expiration_date_in_time": "2025-02-04T07:49:21Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "7ca20e67b562437facf2cc73f04a9cb8-DONUTS",
+        "name": "Domain Manager",
+        "organization": "Saxo Bank A/S",
+        "street": "Philip Heymans Alle 15",
+        "city": "Hellerup",
+        "postal_code": "2300",
+        "country": "dk",
+        "phone": "+45.39774000",
+        "fax": "+45.39774000",
+        "email": "domainregistration@saxobank.com"
+    },
+    "administrative": {
+        "id": "7ca20e67b562437facf2cc73f04a9cb8-DONUTS",
+        "name": "Domain Manager",
+        "organization": "Saxo Bank A/S",
+        "street": "Philip Heymans Alle 15",
+        "city": "Hellerup",
+        "postal_code": "2300",
+        "country": "dk",
+        "phone": "+45.39774000",
+        "fax": "+45.39774000",
+        "email": "domainregistration@saxobank.com"
+    },
+    "technical": {
+        "id": "7ca20e67b562437facf2cc73f04a9cb8-DONUTS",
+        "name": "Domain Manager",
+        "organization": "Saxo Bank A/S",
+        "street": "Philip Heymans Alle 15",
+        "city": "Hellerup",
+        "postal_code": "2300",
+        "country": "dk",
+        "phone": "+45.39774000",
+        "fax": "+45.39774000",
+        "email": "domainregistration@saxobank.com"
+    }
+}

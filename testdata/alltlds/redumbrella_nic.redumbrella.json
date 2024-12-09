@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "af1f0f15a33746bab24b23c25a9e5aeb-DONUTS",
+        "domain": "nic.redumbrella",
+        "punycode": "nic.redumbrella",
+        "name": "nic",
+        "extension": "redumbrella",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.redumbrella",
+            "b0.nic.redumbrella",
+            "c0.nic.redumbrella",
+            "a2.nic.redumbrella"
+        ],
+        "dnssec": true,
+        "created_date": "2016-04-21T20:01:33Z",
+        "created_date_in_time": "2016-04-21T20:01:33Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-04-21T20:01:33Z",
+        "expiration_date_in_time": "2025-04-21T20:01:33Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "e3ee4431e9064edc9d8072295deae0cd-DONUTS",
+        "name": "2VP, Enterprise Web and Mobile",
+        "organization": "Travelers TLD, LLC",
+        "street": "One Tower Square",
+        "city": "Hartford",
+        "postal_code": "6183",
+        "country": "US",
+        "phone": "+1.8602775150",
+        "fax": "+1.8602775147",
+        "email": "ngtld-travelers@cscglobal.com"
+    },
+    "administrative": {
+        "id": "e3ee4431e9064edc9d8072295deae0cd-DONUTS",
+        "name": "2VP, Enterprise Web and Mobile",
+        "organization": "Travelers TLD, LLC",
+        "street": "One Tower Square",
+        "city": "Hartford",
+        "postal_code": "6183",
+        "country": "US",
+        "phone": "+1.8602775150",
+        "fax": "+1.8602775147",
+        "email": "ngtld-travelers@cscglobal.com"
+    },
+    "technical": {
+        "id": "e3ee4431e9064edc9d8072295deae0cd-DONUTS",
+        "name": "2VP, Enterprise Web and Mobile",
+        "organization": "Travelers TLD, LLC",
+        "street": "One Tower Square",
+        "city": "Hartford",
+        "postal_code": "6183",
+        "country": "US",
+        "phone": "+1.8602775150",
+        "fax": "+1.8602775147",
+        "email": "ngtld-travelers@cscglobal.com"
+    }
+}

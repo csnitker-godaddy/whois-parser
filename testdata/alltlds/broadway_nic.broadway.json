@@ -1,0 +1,79 @@
+{
+    "domain": {
+        "id": "226122_MMc1-BROADWAY",
+        "domain": "nic.broadway",
+        "punycode": "nic.broadway",
+        "name": "nic",
+        "extension": "broadway",
+        "whois_server": "whois.nic.broadway",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited",
+            "clientUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.broadway",
+            "dns2.nic.broadway",
+            "dns3.nic.broadway",
+            "dns4.nic.broadway",
+            "dnsa.nic.broadway",
+            "dnsb.nic.broadway",
+            "dnsc.nic.broadway",
+            "dnsd.nic.broadway"
+        ],
+        "dnssec": true,
+        "created_date": "2015-11-05T22:47:36Z",
+        "created_date_in_time": "2015-11-05T22:47:36Z",
+        "updated_date": "2022-02-22T12:10:49Z",
+        "updated_date_in_time": "2022-02-22T12:10:49Z",
+        "expiration_date": "2031-11-05T22:47:36Z",
+        "expiration_date_in_time": "2031-11-05T22:47:36Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Broadway Internal Registrar",
+        "email": "abuse@nominet.uk",
+        "referral_url": "http://www.nic.broadway"
+    },
+    "registrant": {
+        "id": "C_0003B5B4_A38E487332E2460990D285487623C840_000001586C3ADE63-BROADWAY",
+        "name": "Administrator",
+        "organization": "Celebrate Broadway, Inc.",
+        "street": "729 Seventh Ave, 7th Floor",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10019",
+        "country": "US",
+        "phone": "+1.2127640866",
+        "fax": "+1.6467640866",
+        "email": "admin@admin.broadway"
+    },
+    "administrative": {
+        "id": "C_0003B5B4_A38E487332E2460990D285487623C840_000001586C3ADE63-BROADWAY",
+        "name": "Administrator",
+        "organization": "Celebrate Broadway, Inc.",
+        "street": "729 Seventh Ave, 7th Floor",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10019",
+        "country": "US",
+        "phone": "+1.2127640866",
+        "fax": "+1.6467640866",
+        "email": "admin@admin.broadway"
+    },
+    "technical": {
+        "id": "C_0003B5B5_D9111E60F4594547B202568791712328_000001586C3CA608-BROADWAY",
+        "name": "Technical Manager",
+        "organization": "Com Laude",
+        "street": "28-30 Little Russell Street",
+        "city": "London",
+        "postal_code": "WC1A 2HN",
+        "country": "GB",
+        "phone": "+44.2074218250",
+        "fax": "+44.8700118187",
+        "email": "hostmaster@comlaude.com"
+    }
+}

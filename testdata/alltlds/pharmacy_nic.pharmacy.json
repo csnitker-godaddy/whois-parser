@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "D_5124656-PHARMACY",
+        "domain": "nic.pharmacy",
+        "punycode": "nic.pharmacy",
+        "name": "nic",
+        "extension": "pharmacy",
+        "whois_server": "whois.nic.pharmacy",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.pharmacy",
+            "dns2.nic.pharmacy",
+            "dns3.nic.pharmacy",
+            "dns4.nic.pharmacy",
+            "dnsa.nic.pharmacy",
+            "dnsb.nic.pharmacy",
+            "dnsc.nic.pharmacy",
+            "dnsd.nic.pharmacy"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T21:45:25Z",
+        "created_date_in_time": "2013-08-09T21:45:25Z",
+        "updated_date": "2024-02-19T11:16:37Z",
+        "updated_date_in_time": "2024-02-19T11:16:37Z",
+        "expiration_date": "2025-08-09T21:45:25Z",
+        "expiration_date_in_time": "2025-08-09T21:45:25Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "National Association of Boards of Pharmacy",
+        "phone": "+44.1865332211",
+        "email": "abuse@nominet.uk",
+        "referral_url": "http://www.nic.pharmacy"
+    },
+    "registrant": {
+        "id": "C24160654-PHARMACY",
+        "name": "National Association of Boards of Pharmacy",
+        "organization": "National Association of Boards of Pharmacy",
+        "street": "1600 Feehanville Drive",
+        "city": "Mount Prospect",
+        "province": "IL",
+        "postal_code": "60056",
+        "country": "US",
+        "phone": "+1.8473914497",
+        "email": "registry@safe.pharmacy"
+    },
+    "administrative": {
+        "id": "C24160654-PHARMACY",
+        "name": "National Association of Boards of Pharmacy",
+        "organization": "National Association of Boards of Pharmacy",
+        "street": "1600 Feehanville Drive",
+        "city": "Mount Prospect",
+        "province": "IL",
+        "postal_code": "60056",
+        "country": "US",
+        "phone": "+1.8473914497",
+        "email": "registry@safe.pharmacy"
+    },
+    "technical": {
+        "id": "C24160654-PHARMACY",
+        "name": "National Association of Boards of Pharmacy",
+        "organization": "National Association of Boards of Pharmacy",
+        "street": "1600 Feehanville Drive",
+        "city": "Mount Prospect",
+        "province": "IL",
+        "postal_code": "60056",
+        "country": "US",
+        "phone": "+1.8473914497",
+        "email": "registry@safe.pharmacy"
+    }
+}

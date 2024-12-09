@@ -1,0 +1,83 @@
+{
+    "domain": {
+        "id": "DO_5a2933c776a04ecf0df0e268a4abb1af-INAMING",
+        "domain": "nic.forum",
+        "punycode": "nic.forum",
+        "name": "nic",
+        "extension": "forum",
+        "whois_server": "whois.tucowsregistry.net",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns03.trs-dns.com",
+            "ns03.trs-dns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2024-03-25T21:10:55.899Z",
+        "created_date_in_time": "2024-03-25T21:10:55.899Z",
+        "updated_date": "2024-04-02T17:23:53.422Z",
+        "updated_date_in_time": "2024-04-02T17:23:53.422Z",
+        "expiration_date": "2034-03-25T21:10:55.899Z",
+        "expiration_date_in_time": "2034-03-25T21:10:55.899Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Tucows Registry Services",
+        "phone": "+1.8003716992",
+        "email": "ry-services@tucows.com",
+        "referral_url": "https://tucowsregistry.com"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Dog Beach, LLC c/o Identity Digital Limited",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "WA",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

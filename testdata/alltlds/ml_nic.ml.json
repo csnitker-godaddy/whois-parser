@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "236-nicml",
+        "domain": "nic.ml",
+        "punycode": "nic.ml",
+        "name": "nic",
+        "extension": "ml",
+        "status": [
+            "active",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "d.nic.ml",
+            "ns1.gouv.ml",
+            "b.nic.ml",
+            "c.nic.ml"
+        ],
+        "created_date": "2023-06-19T00:00:00Z",
+        "created_date_in_time": "2023-06-19T00:00:00Z",
+        "updated_date": "2023-08-02T09:31:21Z",
+        "updated_date_in_time": "2023-08-02T09:31:21Z",
+        "expiration_date": "2024-06-19T00:00:00Z",
+        "expiration_date_in_time": "2024-06-19T00:00:00Z"
+    },
+    "registrar": {
+        "name": "NIC Réservé",
+        "email": "nkamate@agetic.gouv.ml",
+        "referral_url": "null"
+    },
+    "registrant": {
+        "id": "4-nicml",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "ML",
+        "phone": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    }
+}

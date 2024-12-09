@@ -1,0 +1,66 @@
+{
+    "domain": {
+        "id": "DO468424-GMO",
+        "domain": "nic.playstation",
+        "punycode": "nic.playstation",
+        "name": "nic",
+        "extension": "playstation",
+        "whois_server": "whois.nic.playstation",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2015-02-17T02:12:27.0Z",
+        "created_date_in_time": "2015-02-17T02:12:27Z",
+        "updated_date": "2024-04-03T00:26:48.0Z",
+        "updated_date_in_time": "2024-04-03T00:26:48Z",
+        "expiration_date": "2025-02-17T23:59:59.0Z",
+        "expiration_date_in_time": "2025-02-17T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "GMO Brights Consulting"
+    },
+    "registrant": {
+        "id": "HA1299275-GMO",
+        "name": "Domain Master",
+        "organization": "Sony Computer Entertainment Inc.",
+        "street": "1-7-1, Konan",
+        "city": "Minato-ku",
+        "province": "Tokyo",
+        "postal_code": "108-0075",
+        "country": "JP",
+        "phone": "+81.5038070508",
+        "fax": "+81.355210117",
+        "email": "domain.master@brights.jp"
+    },
+    "administrative": {
+        "id": "HA1299276-GMO",
+        "name": "Mitsuaki Nakagawa",
+        "organization": "Brights Consulting Inc.",
+        "street": "30F, Kasumigaseki Bldg, 3-2-5 Kasumigaseki",
+        "city": "Chiyoda-ku",
+        "province": "Tokyo",
+        "postal_code": "100-6030",
+        "country": "JP",
+        "phone": "+81.355210107",
+        "fax": "+81.355210117",
+        "email": "domain.master@brights.jp"
+    },
+    "technical": {
+        "id": "HA1299277-GMO",
+        "name": "Mitsuaki Nakagawa",
+        "organization": "Brights Consulting Inc.",
+        "street": "30F, Kasumigaseki Bldg., 3-2-5 Kasumigaseki",
+        "city": "Chiyoda-ku",
+        "province": "Tokyo",
+        "postal_code": "100-6030",
+        "country": "JP",
+        "phone": "+81.355210107",
+        "fax": "+81.355210117",
+        "email": "domain.master@brights.jp"
+    }
+}

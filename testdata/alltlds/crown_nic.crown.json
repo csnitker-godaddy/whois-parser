@@ -1,0 +1,81 @@
+{
+    "domain": {
+        "id": "303-CROWN",
+        "domain": "nic.crown",
+        "punycode": "nic.crown",
+        "name": "nic",
+        "extension": "crown",
+        "whois_server": "whois.crown.fury.ca",
+        "status": [
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "a.ns.nic.crown",
+            "b.ns.nic.crown",
+            "c.ns.nic.crown",
+            "d.ns.nic.crown"
+        ],
+        "dnssec": true,
+        "created_date": "2023-05-11T12:48:54Z",
+        "created_date_in_time": "2023-05-11T12:48:54Z",
+        "updated_date": "2024-10-23T20:07:58Z",
+        "updated_date_in_time": "2024-10-23T20:07:58Z",
+        "expiration_date": "3000-01-01T00:00:00Z",
+        "expiration_date_in_time": "3000-01-01T00:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator Reserved Non-Billable",
+        "referral_url": "www.crown.com"
+    },
+    "registrant": {
+        "id": "727-CROWN",
+        "name": "Crown Equipment Corp.",
+        "organization": "Crown Equipment Corp.",
+        "street": "44 S. Washington Street",
+        "city": "New Bremen",
+        "province": "OH",
+        "postal_code": "45869",
+        "country": "US",
+        "phone": "+1.4196292311",
+        "email": "registryops@crown.com"
+    },
+    "administrative": {
+        "id": "728-CROWN",
+        "name": "CIRA Registry Services",
+        "organization": "CIRA",
+        "street": "979 Bank Street, Suite 400",
+        "city": "Ottawa",
+        "province": "ON",
+        "postal_code": "K1S5K5",
+        "country": "CA",
+        "phone": "+1.6132375335",
+        "email": "support@fury.ca"
+    },
+    "technical": {
+        "id": "728-CROWN",
+        "name": "CIRA Registry Services",
+        "organization": "CIRA",
+        "street": "979 Bank Street, Suite 400",
+        "city": "Ottawa",
+        "province": "ON",
+        "postal_code": "K1S5K5",
+        "country": "CA",
+        "phone": "+1.6132375335",
+        "email": "support@fury.ca"
+    },
+    "billing": {
+        "id": "728-CROWN",
+        "name": "CIRA Registry Services",
+        "organization": "CIRA",
+        "street": "979 Bank Street, Suite 400",
+        "city": "Ottawa",
+        "province": "ON",
+        "postal_code": "K1S5K5",
+        "country": "CA",
+        "phone": "+1.6132375335",
+        "email": "support@fury.ca"
+    }
+}

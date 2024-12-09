@@ -1,0 +1,62 @@
+{
+    "domain": {
+        "id": "D5EA0591CB23846439F0E81F57B9EAB52-ARI",
+        "domain": "nic.anz",
+        "punycode": "nic.anz",
+        "name": "nic",
+        "extension": "anz",
+        "whois_server": "whois.nic.anz",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a.nic.anz",
+            "b.nic.anz",
+            "c.nic.anz",
+            "d.nic.anz"
+        ],
+        "dnssec": true,
+        "created_date": "2015-02-17T01:04:18Z",
+        "created_date_in_time": "2015-02-17T01:04:18Z",
+        "updated_date": "2024-04-02T01:04:19Z",
+        "updated_date_in_time": "2024-04-02T01:04:19Z",
+        "expiration_date": "2025-02-17T01:04:18Z",
+        "expiration_date_in_time": "2025-02-17T01:04:18Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Australia and New Zealand Banking Group Limited"
+    },
+    "registrant": {
+        "id": "CB096812D1ECE4547A8F2E96917DF5198-ARI",
+        "name": "Australia and New Zealand Banking Group Limited",
+        "street": "ANZ Centre Melbourne, Level 8, 833 Collins St Docklands",
+        "city": "Melbourne",
+        "province": "Victoria",
+        "postal_code": "3008",
+        "country": "au",
+        "email": "ngtld-anz@cscinfo.com"
+    },
+    "administrative": {
+        "id": "CB096812D1ECE4547A8F2E96917DF5198-ARI",
+        "name": "Australia and New Zealand Banking Group Limited",
+        "street": "ANZ Centre Melbourne, Level 8, 833 Collins St Docklands",
+        "city": "Melbourne",
+        "province": "Victoria",
+        "postal_code": "3008",
+        "country": "au",
+        "email": "ngtld-anz@cscinfo.com"
+    },
+    "technical": {
+        "id": "CB096812D1ECE4547A8F2E96917DF5198-ARI",
+        "name": "Australia and New Zealand Banking Group Limited",
+        "street": "ANZ Centre Melbourne, Level 8, 833 Collins St Docklands",
+        "city": "Melbourne",
+        "province": "Victoria",
+        "postal_code": "3008",
+        "country": "au",
+        "email": "ngtld-anz@cscinfo.com"
+    }
+}

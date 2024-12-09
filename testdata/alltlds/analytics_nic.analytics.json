@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "D1105-NALYTICS",
+        "domain": "nic.analytics",
+        "punycode": "nic.analytics",
+        "name": "nic",
+        "extension": "analytics",
+        "whois_server": "whois.nic.analytics",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.analytics",
+            "ns2.dns.nic.analytics",
+            "ns3.dns.nic.analytics",
+            "ns4.dns.nic.analytics",
+            "ns5.dns.nic.analytics",
+            "ns6.dns.nic.analytics"
+        ],
+        "dnssec": true,
+        "created_date": "2013-09-16T19:49:06Z",
+        "created_date_in_time": "2013-09-16T19:49:06Z",
+        "updated_date": "2024-10-31T00:00:01Z",
+        "updated_date_in_time": "2024-10-31T00:00:01Z",
+        "expiration_date": "2025-09-15T23:59:59Z",
+        "expiration_date_in_time": "2025-09-15T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "SAS Registry Operator"
+    },
+    "registrant": {
+        "id": "C9209-NALYTICS",
+        "name": "Campus IP LLC",
+        "street": "100 Matrix Drive",
+        "city": "Cary",
+        "province": "NC",
+        "postal_code": "27513",
+        "country": "US",
+        "phone": "+1.9195316016",
+        "fax": "+1.9196774444",
+        "email": "gtldinfo@sas.com"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

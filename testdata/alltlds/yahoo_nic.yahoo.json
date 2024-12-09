@@ -1,0 +1,72 @@
+{
+    "domain": {
+        "id": "69a284c009324d72968d8f324dd5d5b1-DONUTS",
+        "domain": "nic.yahoo",
+        "punycode": "nic.yahoo",
+        "name": "nic",
+        "extension": "yahoo",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n2.nic.yahoo",
+            "v2n1.nic.yahoo",
+            "v0n0.nic.yahoo",
+            "v0n3.nic.yahoo",
+            "v0n1.nic.yahoo",
+            "v2n0.nic.yahoo"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T23:15:33Z",
+        "created_date_in_time": "2013-08-09T23:15:33Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-08-08T23:59:59Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "cb42307388704e8cb36c635b9526cec7-DONUTS",
+        "name": "YAHOO",
+        "street": "770 Broadway",
+        "city": "New York",
+        "country": "US",
+        "phone": "+1.7032653206",
+        "email": "ngtld-oath@cscglobal.com"
+    },
+    "administrative": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "technical": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

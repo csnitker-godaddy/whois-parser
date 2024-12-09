@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "c106e9d747dc441dad6f658f6fce64ab-DONUTS",
+        "domain": "nic.sanofi",
+        "punycode": "nic.sanofi",
+        "name": "nic",
+        "extension": "sanofi",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.sanofi",
+            "a2.nic.sanofi",
+            "b0.nic.sanofi",
+            "c0.nic.sanofi"
+        ],
+        "dnssec": true,
+        "created_date": "2015-05-08T12:20:56Z",
+        "created_date_in_time": "2015-05-08T12:20:56Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-05-08T12:20:56Z",
+        "expiration_date_in_time": "2025-05-08T12:20:56Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "e1796f0525cf4940978311e6a565506e-DONUTS",
+        "name": "Hosting and Domain name manager",
+        "organization": "Sanofi",
+        "street": "54, rue La Boétie",
+        "city": "Paris",
+        "postal_code": "75008",
+        "country": "FR",
+        "phone": "+33.141245216",
+        "email": "ngtld-sanofi@cscinfo.com"
+    },
+    "administrative": {
+        "id": "e1796f0525cf4940978311e6a565506e-DONUTS",
+        "name": "Hosting and Domain name manager",
+        "organization": "Sanofi",
+        "street": "54, rue La Boétie",
+        "city": "Paris",
+        "postal_code": "75008",
+        "country": "FR",
+        "phone": "+33.141245216",
+        "email": "ngtld-sanofi@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

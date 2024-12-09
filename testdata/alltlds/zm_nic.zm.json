@@ -1,0 +1,41 @@
+{
+    "domain": {
+        "id": "6490-zicta",
+        "domain": "nic.zm",
+        "punycode": "nic.zm",
+        "name": "nic",
+        "extension": "zm",
+        "status": [
+            "serverRenewProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "b.nic.zm",
+            "a.nic.zm"
+        ],
+        "created_date": "2013-04-01T06:45:45Z",
+        "created_date_in_time": "2013-04-01T06:45:45Z",
+        "updated_date": "2022-06-30T10:00:22Z",
+        "updated_date_in_time": "2022-06-30T10:00:22Z",
+        "expiration_date": "2023-12-30T14:30:00Z",
+        "expiration_date_in_time": "2023-12-30T14:30:00Z"
+    },
+    "registrar": {
+        "name": "ZICTA Reserved",
+        "country": "AF",
+        "email": "default@cc.tld"
+    },
+    "registrant": {
+        "id": "10950-zicta",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    }
+}

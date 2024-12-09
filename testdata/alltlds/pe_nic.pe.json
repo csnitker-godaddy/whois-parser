@@ -1,0 +1,25 @@
+{
+    "domain": {
+        "domain": "nic.pe",
+        "punycode": "nic.pe",
+        "name": "nic",
+        "extension": "pe",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns.rcp.net.pe",
+            "ns2.rcp.net.pe"
+        ]
+    },
+    "registrar": {
+        "name": "NIC.PE"
+    },
+    "registrant": {
+        "name": "red cientifica peruana"
+    },
+    "administrative": {
+        "name": "Karina Tello",
+        "email": "ktello@rcp.pe"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "D12482-IN",
+        "domain": "nic.in",
+        "punycode": "nic.in",
+        "name": "nic",
+        "extension": "in",
+        "whois_server": "whois.nic.in",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns6.nic.in",
+            "nicnet.nic.in",
+            "ns8.nic.in",
+            "ns4.nic.in"
+        ],
+        "dnssec": true,
+        "created_date": "2004-12-23T20:45:40Z",
+        "created_date_in_time": "2004-12-23T20:45:40Z",
+        "updated_date": "2024-02-06T20:45:41Z",
+        "updated_date_in_time": "2024-02-06T20:45:41Z",
+        "expiration_date": "2024-12-23T20:45:40Z",
+        "expiration_date_in_time": "2024-12-23T20:45:40Z"
+    },
+    "registrar": {
+        "id": "800111",
+        "name": "National Informatics Centre",
+        "referral_url": "http://registry.gov.in"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Delhi",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "IN",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please contact the registrar listed above"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please contact the registrar listed above"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please contact the registrar listed above"
+    }
+}

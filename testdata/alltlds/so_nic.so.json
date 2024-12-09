@@ -1,0 +1,47 @@
+{
+    "domain": {
+        "id": "31099-sonic",
+        "domain": "nic.so",
+        "punycode": "nic.so",
+        "name": "nic",
+        "extension": "so",
+        "status": [
+            "clientRenewProhibited",
+            "serverRenewProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "clientUpdateProhibited",
+            "serverUpdateProhibited",
+            "clientDeleteProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "b.nic.so",
+            "a.nic.so"
+        ],
+        "created_date": "2010-10-31T00:00:00Z",
+        "created_date_in_time": "2010-10-31T00:00:00Z",
+        "updated_date": "2024-07-14T07:04:38Z",
+        "updated_date_in_time": "2024-07-14T07:04:38Z",
+        "expiration_date": "2031-10-31T00:00:00Z",
+        "expiration_date_in_time": "2031-10-31T00:00:00Z"
+    },
+    "registrar": {
+        "name": "SONIC",
+        "street": "Mogadishu",
+        "country": "SO",
+        "email": "info@sonic.so"
+    },
+    "registrant": {
+        "id": "268579-sonic",
+        "name": "SONIC",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "SO",
+        "phone": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "domain": {
+        "id": "86413629_DOMAIN_CC-VRSN",
+        "domain": "nic.cc",
+        "punycode": "nic.cc",
+        "name": "nic",
+        "extension": "cc",
+        "whois_server": "whois.corporatedomains.com",
+        "status": [
+            "clientTransferProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "av1.nstld.com",
+            "av2.nstld.com",
+            "av3.nstld.com",
+            "av4.nstld.com"
+        ],
+        "created_date": "1997-10-01T04:00:00Z",
+        "created_date_in_time": "1997-10-01T04:00:00Z",
+        "updated_date": "2024-11-29T05:59:20Z",
+        "updated_date_in_time": "2024-11-29T05:59:20Z",
+        "expiration_date": "2025-12-31T05:00:00Z",
+        "expiration_date_in_time": "2025-12-31T05:00:00Z"
+    },
+    "registrar": {
+        "id": "299",
+        "name": "CSC Corporate Domains, Inc.",
+        "phone": "8887802723",
+        "email": "domainabuse@cscglobal.com",
+        "referral_url": "http://cscdbs.com"
+    }
+}

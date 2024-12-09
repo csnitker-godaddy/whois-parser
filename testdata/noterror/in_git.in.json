@@ -5,8 +5,9 @@
         "punycode": "git.in",
         "name": "git",
         "extension": "in",
+        "whois_server": "whois.nic.in",
         "status": [
-            "clienttransferprohibited"
+            "clientTransferProhibited"
         ],
         "name_servers": [
             "ns1.parkingcrew.net",

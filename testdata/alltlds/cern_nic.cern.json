@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "d58a5652fbfd4a36ba35fb07c4d6126d-DONUTS",
+        "domain": "nic.cern",
+        "punycode": "nic.cern",
+        "name": "nic",
+        "extension": "cern",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.cern",
+            "a2.nic.cern",
+            "b0.nic.cern",
+            "c0.nic.cern"
+        ],
+        "dnssec": true,
+        "created_date": "2014-10-01T14:56:30Z",
+        "created_date_in_time": "2014-10-01T14:56:30Z",
+        "updated_date": "2024-11-15T14:57:01Z",
+        "updated_date_in_time": "2024-11-15T14:57:01Z",
+        "expiration_date": "2025-10-01T14:56:30Z",
+        "expiration_date_in_time": "2025-10-01T14:56:30Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "902403b7fd744f10bad1ba45e2069819-DONUTS",
+        "name": "Registry Operator",
+        "organization": "European Organization for Nuclear Research (\"CERN\")",
+        "street": "5 Churchill Place, 10th Floor",
+        "city": "London",
+        "postal_code": "E14 5HU",
+        "country": "GB",
+        "phone": "+41.227673559",
+        "fax": "+41.227679599",
+        "email": "cern.gtld@cern.ch"
+    },
+    "administrative": {
+        "id": "902403b7fd744f10bad1ba45e2069819-DONUTS",
+        "name": "Registry Operator",
+        "organization": "European Organization for Nuclear Research (\"CERN\")",
+        "street": "5 Churchill Place, 10th Floor",
+        "city": "London",
+        "postal_code": "E14 5HU",
+        "country": "GB",
+        "phone": "+41.227673559",
+        "fax": "+41.227679599",
+        "email": "cern.gtld@cern.ch"
+    },
+    "technical": {
+        "id": "902403b7fd744f10bad1ba45e2069819-DONUTS",
+        "name": "Registry Operator",
+        "organization": "European Organization for Nuclear Research (\"CERN\")",
+        "street": "5 Churchill Place, 10th Floor",
+        "city": "London",
+        "postal_code": "E14 5HU",
+        "country": "GB",
+        "phone": "+41.227673559",
+        "fax": "+41.227679599",
+        "email": "cern.gtld@cern.ch"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "domain": {
+        "id": "DO_860ea9ea03495bc8aae0762b229abb4d-UR",
+        "domain": "nic.hiv",
+        "punycode": "nic.hiv",
+        "name": "nic",
+        "extension": "hiv",
+        "whois_server": "whois.tucowsregistry.net",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns03.trs-dns.com",
+            "ns03.trs-dns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2015-09-29T18:16:06.210Z",
+        "created_date_in_time": "2015-09-29T18:16:06.21Z",
+        "updated_date": "2024-02-27T17:49:51.006Z",
+        "updated_date_in_time": "2024-02-27T17:49:51.006Z",
+        "expiration_date": "2025-09-29T18:16:06.210Z",
+        "expiration_date_in_time": "2025-09-29T18:16:06.21Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Tucows Registry Services",
+        "email": "dhernandez@tucows.com",
+        "referral_url": "https://tucowsregistry.com"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Uniregistry, Corp",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "George Town",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "KY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "domain": {
+        "domain": "nic.si",
+        "punycode": "nic.si",
+        "name": "nic",
+        "extension": "si",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "dns1.arnes.si",
+            "dns2.arnes.si",
+            "dns3.arnes.si"
+        ],
+        "created_date": "2008-10-28",
+        "created_date_in_time": "2008-10-28T00:00:00Z",
+        "expiration_date": "2025-10-28",
+        "expiration_date_in_time": "2025-10-28T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Arnes",
+        "referral_url": "http://www.arnes.si/storitve/splet-posta-strezniki/registracija-si-domene.html"
+    },
+    "registrant": {
+        "organization": "G31071"
+    },
+    "technical": {
+        "organization": "NOT DISCLOSED,,%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%"
+    }
+}

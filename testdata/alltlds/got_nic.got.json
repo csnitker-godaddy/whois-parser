@@ -1,0 +1,78 @@
+{
+    "domain": {
+        "id": "D_2503416-GOT",
+        "domain": "nic.got",
+        "punycode": "nic.got",
+        "name": "nic",
+        "extension": "got",
+        "whois_server": "whois.nic.got",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.got",
+            "dns2.nic.got",
+            "dns3.nic.got",
+            "dns4.nic.got",
+            "dnsa.nic.got",
+            "dnsb.nic.got",
+            "dnsc.nic.got",
+            "dnsd.nic.got"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T21:03:43Z",
+        "created_date_in_time": "2013-08-09T21:03:43Z",
+        "updated_date": "2023-08-01T10:32:51Z",
+        "updated_date_in_time": "2023-08-01T10:32:51Z",
+        "expiration_date": "2032-08-09T21:03:43Z",
+        "expiration_date_in_time": "2032-08-09T21:03:43Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Amazon Registry Services, Inc. (Registry)",
+        "phone": "1.2062661000",
+        "email": "contactamazonregistry@amazon.com",
+        "referral_url": "http://www.nic.got"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Amazon Registry Services, Inc.",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Washington",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

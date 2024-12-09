@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "D5507512-ABBVIE",
+        "domain": "nic.abbvie",
+        "punycode": "nic.abbvie",
+        "name": "nic",
+        "extension": "abbvie",
+        "whois_server": "whois.nic.abbvie",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.abbvie",
+            "dns2.nic.abbvie",
+            "dns3.nic.abbvie",
+            "dns4.nic.abbvie",
+            "dnsa.nic.abbvie",
+            "dnsb.nic.abbvie",
+            "dnsc.nic.abbvie",
+            "dnsd.nic.abbvie"
+        ],
+        "dnssec": true,
+        "created_date": "2021-03-31T09:03:38Z",
+        "created_date_in_time": "2021-03-31T09:03:38Z",
+        "updated_date": "2022-03-10T10:03:34Z",
+        "updated_date_in_time": "2022-03-10T10:03:34Z",
+        "expiration_date": "2031-03-31T09:03:38Z",
+        "expiration_date_in_time": "2031-03-31T09:03:38Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "AbbVie Inc."
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "AbbVie Inc.",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Illinois",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "domain": {
+        "id": "D201562958-CNIC",
+        "domain": "nic.skin",
+        "punycode": "nic.skin",
+        "name": "nic",
+        "extension": "skin",
+        "whois_server": "whois.nic.xyz",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.skin",
+            "b.nic.skin",
+            "c.nic.skin",
+            "d.nic.skin"
+        ],
+        "created_date": "2015-10-07T20:01:48.0Z",
+        "created_date_in_time": "2015-10-07T20:01:48Z",
+        "updated_date": "2023-08-31T16:53:09.0Z",
+        "updated_date_in_time": "2023-08-31T16:53:09Z",
+        "expiration_date": "2025-10-07T23:59:59.0Z",
+        "expiration_date_in_time": "2025-10-07T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "XYZ.com, LLC",
+        "phone": "+1.8009998422",
+        "email": "xyz_abuse@gen.xyz",
+        "referral_url": "https://gen.xyz/"
+    },
+    "registrant": {
+        "organization": "L'Oreal",
+        "province": "NY",
+        "country": "US",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

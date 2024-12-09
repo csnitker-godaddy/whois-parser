@@ -1,0 +1,18 @@
+{
+    "domain": {
+        "domain": "nic.sa",
+        "punycode": "nic.sa",
+        "name": "nic",
+        "extension": "sa",
+        "dnssec": true
+    },
+    "registrant": {
+        "organization": "SaudiNIC- CITC المركز السعودي لمعلومات الشبكة - هيئة الاتصالات وتقنية المعلومات"
+    },
+    "administrative": {
+        "name": "هشام ***** ***** *****"
+    },
+    "technical": {
+        "name": "هشام ***** ***** *****"
+    }
+}

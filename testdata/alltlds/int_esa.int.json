@@ -1,0 +1,38 @@
+{
+    "domain": {
+        "domain": "esa.int",
+        "punycode": "esa.int",
+        "name": "esa",
+        "extension": "int",
+        "name_servers": [
+            "dns1.esa.int",
+            "dns2.esa.int",
+            "dns3.esa.int",
+            "dns4.esa.int",
+            "dns5.esa.int",
+            "dns6.esa.int"
+        ],
+        "created_date": "1996-08-23",
+        "created_date_in_time": "1996-08-23T00:00:00Z",
+        "updated_date": "2009-03-19",
+        "updated_date_in_time": "2009-03-19T00:00:00Z"
+    },
+    "registrant": {
+        "organization": "European Space Agency (ESA)",
+        "street": "8-10, Rue Mario Nikis, Paris N/A 75738 Paris Cedex 15, France"
+    },
+    "administrative": {
+        "name": "ESANIC - Role Account",
+        "organization": "ESA's European Space Operations Centre (ESA-ESOC)",
+        "street": "Via Galileo Galilei, snr, Frascati  I-00044, Italy",
+        "phone": "+39 06941 88 688 (Please include country prefix)",
+        "email": "esanic@esa.int"
+    },
+    "technical": {
+        "name": "ESANOC - Role Account",
+        "organization": "ESA's European Space Research Institute (ESA-ESRIN)",
+        "street": "Via Galileo Galilei, snr, Frascati  I-00044, Italy",
+        "phone": "+39 06 941 80 205",
+        "email": "esanoc@esa.int"
+    }
+}

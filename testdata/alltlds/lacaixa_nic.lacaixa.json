@@ -1,0 +1,44 @@
+{
+    "domain": {
+        "id": "D9-LACAIXA",
+        "domain": "nic.lacaixa",
+        "punycode": "nic.lacaixa",
+        "name": "nic",
+        "extension": "lacaixa",
+        "whois_server": "whois.nic.lacaixa",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-02-06T15:08:51.677Z",
+        "created_date_in_time": "2014-02-06T15:08:51.677Z",
+        "updated_date": "2024-08-21T10:18:20.812Z",
+        "updated_date_in_time": "2024-08-21T10:18:20.812Z",
+        "expiration_date": "2025-02-06T15:08:51.677Z",
+        "expiration_date_in_time": "2025-02-06T15:08:51.677Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Lacaixa internal Registrar",
+        "phone": "+34.934046000",
+        "email": "assessoria.juridica.cepb@lacaixa.com",
+        "referral_url": "http://lacaixa.com"
+    },
+    "registrant": {
+        "organization": "Fundación Bancaria “la Caixa”",
+        "province": "Catalonia",
+        "country": "ES",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

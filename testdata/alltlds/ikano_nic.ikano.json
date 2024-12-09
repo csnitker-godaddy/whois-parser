@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "D0000000007-IKANO",
+        "domain": "nic.ikano",
+        "punycode": "nic.ikano",
+        "name": "nic",
+        "extension": "ikano",
+        "whois_server": "whois.nic.ikano",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "sec1.rcode0.net",
+            "sec2.rcode0.net"
+        ],
+        "dnssec": true,
+        "created_date": "2016-05-13T09:21:27Z",
+        "created_date_in_time": "2016-05-13T09:21:27Z",
+        "updated_date": "2017-06-22T05:57:46Z",
+        "updated_date_in_time": "2017-06-22T05:57:46Z",
+        "expiration_date": "2025-05-13T09:21:27Z",
+        "expiration_date_in_time": "2025-05-13T09:21:27Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Ikano S.A.",
+        "phone": "+352.264422225",
+        "email": "ikano@ebrandservices.com",
+        "referral_url": "http://www.nic.ikano/"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Ikano S.A.",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Luxembourg",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "LU",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "C0000000002-IKANO",
+        "name": "TLDBOX",
+        "organization": "tldbox GmbH",
+        "street": "Jakob-Haringer-Strasse 8/V",
+        "city": "Salzburg",
+        "province": "Salzburg",
+        "postal_code": "5020",
+        "country": "AT",
+        "phone": "+43.662234548",
+        "phone_ext": "730",
+        "email": "iana@tld-box.at"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "d95bf50e766b476caa429bc0d612af06-DONUTS",
+        "domain": "nic.thd",
+        "punycode": "nic.thd",
+        "name": "nic",
+        "extension": "thd",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.thd",
+            "b0.nic.thd",
+            "c0.nic.thd",
+            "a2.nic.thd"
+        ],
+        "dnssec": true,
+        "created_date": "2018-01-31T16:09:42Z",
+        "created_date_in_time": "2018-01-31T16:09:42Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-31T16:09:42Z",
+        "expiration_date_in_time": "2025-01-31T16:09:42Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "21ba4ae73f6a4087bb8bb06ba9213013-DONUTS",
+        "name": "Senior Corporate Counsel",
+        "organization": "Home Depot Product Authority, LLC",
+        "street": "2455 Paces Ferry Road, NW",
+        "city": "Atlanta",
+        "province": "GA",
+        "postal_code": "30339",
+        "country": "US",
+        "phone": "+1.7704338211",
+        "fax": "+1.7703842293",
+        "email": "ngtld-thd@cscglobal.com"
+    },
+    "administrative": {
+        "id": "733a09a52e0f446ca7c267c8f07c114e-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Homer TLC, Inc.",
+        "street": "1007 Orange Street Suite 1424",
+        "city": "Wilmington",
+        "province": "DE",
+        "postal_code": "19801",
+        "country": "US",
+        "phone": "+1.7704338211",
+        "fax": "+1.7703842293",
+        "email": "ngtld-thd@cscglobal.com"
+    },
+    "technical": {
+        "id": "733a09a52e0f446ca7c267c8f07c114e-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Homer TLC, Inc.",
+        "street": "1007 Orange Street Suite 1424",
+        "city": "Wilmington",
+        "province": "DE",
+        "postal_code": "19801",
+        "country": "US",
+        "phone": "+1.7704338211",
+        "fax": "+1.7703842293",
+        "email": "ngtld-thd@cscglobal.com"
+    }
+}

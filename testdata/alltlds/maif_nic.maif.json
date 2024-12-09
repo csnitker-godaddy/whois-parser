@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "53058a87c5fb4cdf9d23f15cfa8a43df-DONUTS",
+        "domain": "nic.maif",
+        "punycode": "nic.maif",
+        "name": "nic",
+        "extension": "maif",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v2n0.nic.maif",
+            "v0n2.nic.maif",
+            "v0n0.nic.maif",
+            "v0n3.nic.maif",
+            "v0n1.nic.maif",
+            "v2n1.nic.maif"
+        ],
+        "dnssec": true,
+        "created_date": "2014-12-12T16:35:56Z",
+        "created_date_in_time": "2014-12-12T16:35:56Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2024-12-12T16:35:56Z",
+        "expiration_date_in_time": "2024-12-12T16:35:56Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "1debc29e37804a5d94b58e2edd7e6528-DONUTS",
+        "name": "Mutuelle Assurance Instituteur France (MAIF)",
+        "street": "200 Avenue Salvador Allende BP 303",
+        "city": "Niort CEDEX 9",
+        "postal_code": "79038",
+        "country": "FR",
+        "phone": "+33.549738209",
+        "email": "admin@internationaladmin.com"
+    },
+    "administrative": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "technical": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

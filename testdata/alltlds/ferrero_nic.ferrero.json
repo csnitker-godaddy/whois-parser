@@ -1,0 +1,68 @@
+{
+    "domain": {
+        "id": "D808-FERRERO",
+        "domain": "nic.ferrero",
+        "punycode": "nic.ferrero",
+        "name": "nic",
+        "extension": "ferrero",
+        "whois_server": "whois.nic.ferrero",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.ferrero",
+            "ns2.dns.nic.ferrero",
+            "ns3.dns.nic.ferrero",
+            "ns4.dns.nic.ferrero",
+            "ns5.dns.nic.ferrero",
+            "ns6.dns.nic.ferrero"
+        ],
+        "dnssec": true,
+        "created_date": "2013-09-16T20:16:05Z",
+        "created_date_in_time": "2013-09-16T20:16:05Z",
+        "updated_date": "2024-10-31T00:00:01Z",
+        "updated_date_in_time": "2024-10-31T00:00:01Z",
+        "expiration_date": "2025-09-15T23:59:59Z",
+        "expiration_date_in_time": "2025-09-15T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Ferrero Trading Lux S.A."
+    },
+    "registrant": {
+        "id": "C4160-FERRERO",
+        "name": "Stefano Marzocchi",
+        "organization": "Ferrero Trading Lux S.A.",
+        "street": "Rue de Treves, Findel Business Center Complexe B Findel",
+        "city": "Luxembourg City",
+        "postal_code": "L-2632",
+        "country": "LU",
+        "phone": "+352.3497119506",
+        "email": "stefano.marzocchi@ferrero.com"
+    },
+    "administrative": {
+        "id": "C4160-FERRERO",
+        "name": "Stefano Marzocchi",
+        "organization": "Ferrero Trading Lux S.A.",
+        "street": "Rue de Treves, Findel Business Center Complexe B Findel",
+        "city": "Luxembourg City",
+        "postal_code": "L-2632",
+        "country": "LU",
+        "phone": "+352.3497119506",
+        "email": "stefano.marzocchi@ferrero.com"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

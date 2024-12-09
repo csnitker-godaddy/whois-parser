@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "07deb4878e7e41bb949eea7c23f0f361-DONUTS",
+        "domain": "nic.progressive",
+        "punycode": "nic.progressive",
+        "name": "nic",
+        "extension": "progressive",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.progressive",
+            "b0.nic.progressive",
+            "c0.nic.progressive",
+            "a2.nic.progressive"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-23T00:59:33Z",
+        "created_date_in_time": "2016-01-23T00:59:33Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-23T00:59:33Z",
+        "expiration_date_in_time": "2025-01-23T00:59:33Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "816710064c9c49808e14e6301f490f82-DONUTS",
+        "name": "Senior Manager, Digital Strategy and Experience",
+        "organization": "Progressive Casualty Insurance Company",
+        "street": "6300 Wilson Mills Road",
+        "city": "Mayfield Village",
+        "postal_code": "44143",
+        "country": "US",
+        "phone": "+1.4404615000",
+        "fax": "+1.4404467168",
+        "email": "ngtld-progressive@cscglobal.com"
+    },
+    "administrative": {
+        "id": "a805104bd02e4ac9b2c335a9951a743b-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Progressive Casualty Insurance Company",
+        "street": "6300 Wilson Mills Road",
+        "city": "Mayfield Village",
+        "province": "OH",
+        "postal_code": "44143",
+        "country": "US",
+        "phone": "+1.4404615000",
+        "fax": "+1.4404467168",
+        "email": "ngtld-progressive@cscglobal.com"
+    },
+    "technical": {
+        "id": "a805104bd02e4ac9b2c335a9951a743b-DONUTS",
+        "name": "Registry Operator",
+        "organization": "Progressive Casualty Insurance Company",
+        "street": "6300 Wilson Mills Road",
+        "city": "Mayfield Village",
+        "province": "OH",
+        "postal_code": "44143",
+        "country": "US",
+        "phone": "+1.4404615000",
+        "fax": "+1.4404467168",
+        "email": "ngtld-progressive@cscglobal.com"
+    }
+}

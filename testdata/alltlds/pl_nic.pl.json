@@ -1,0 +1,26 @@
+{
+    "domain": {
+        "domain": "nic.pl",
+        "punycode": "nic.pl",
+        "name": "nic",
+        "extension": "pl",
+        "whois_server": "https://dns.pl/en/whois",
+        "name_servers": [
+            "ns-01.hyperone-dns.com",
+            "ns-01.hyperone-dns.net",
+            "ns-01.hyperone-dns.pl"
+        ],
+        "created_date": "1998.03.11 12:00:00",
+        "created_date_in_time": "1998-03-11T12:00:00Z",
+        "updated_date": "2021.02.12 13:35:25",
+        "updated_date_in_time": "2021-02-12T13:35:25Z",
+        "expiration_date": "2025.03.10 13:00:00",
+        "expiration_date_in_time": "2025-03-10T13:00:00Z"
+    },
+    "registrar": {
+        "name": "Warsaw Data Center sp. z o.o.",
+        "street": "ul. Boduena 4",
+        "country": "Polska/Poland",
+        "email": "nfo@domains.wdc.pl"
+    }
+}

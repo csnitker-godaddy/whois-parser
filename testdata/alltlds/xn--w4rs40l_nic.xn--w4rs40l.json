@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "119057692_DOMAIN_XN__W4RS40L-VRSN",
+        "domain": "nic.xn--w4rs40l",
+        "punycode": "nic.xn--w4rs40l",
+        "name": "nic",
+        "extension": "xn--w4rs40l",
+        "whois_server": "www.verisigninc.com",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "av1.nstld.com",
+            "av2.nstld.com",
+            "av3.nstld.com",
+            "av4.nstld.com"
+        ],
+        "created_date": "2015-12-23T19:07:20Z",
+        "created_date_in_time": "2015-12-23T19:07:20Z",
+        "updated_date": "2020-04-23T17:17:38Z",
+        "updated_date_in_time": "2020-04-23T17:17:38Z",
+        "expiration_date": "2025-12-23T19:07:20Z",
+        "expiration_date_in_time": "2025-12-23T19:07:20Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator Reserved Non-Billable",
+        "referral_url": "http://www.verisign.com"
+    },
+    "registrant": {
+        "id": "545132_CONTACT_XN__W4RS40L-VRSN",
+        "name": "Domain Administrator",
+        "organization": "Kerry Trading Co. Limited",
+        "street": "31/F Kerry Centre 683 Kings Road Quarry Bay",
+        "city": "Hong Kong",
+        "country": "HK",
+        "phone": "+852.28200418",
+        "email": "admin@internationaladmin.com"
+    },
+    "administrative": {
+        "id": "544534_CONTACT_XN__W4RS40L-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "technical": {
+        "id": "544534_CONTACT_XN__W4RS40L-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "billing": {
+        "id": "544534_CONTACT_XN__W4RS40L-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "domain": {
+        "domain": "nic.mk",
+        "punycode": "nic.mk",
+        "name": "nic",
+        "extension": "mk",
+        "name_servers": [
+            "ns4.com-domain.com",
+            "ns3.com-domain.com",
+            "ns0.com-domain.com"
+        ],
+        "created_date": "07.05.2008 14:00:00",
+        "created_date_in_time": "2008-07-05T14:00:00Z",
+        "updated_date": "27.04.2024 19:03:24",
+        "updated_date_in_time": "2024-04-27T19:03:24Z",
+        "expiration_date": "07.05.2025",
+        "expiration_date_in_time": "2025-07-05T00:00:00Z"
+    },
+    "registrar": {
+        "name": "MARCOM-REG"
+    },
+    "registrant": {
+        "organization": "MARCOM-R7100"
+    },
+    "administrative": {
+        "id": "MARCOM-C7747"
+    },
+    "technical": {
+        "id": "MARCOM-C7747"
+    }
+}

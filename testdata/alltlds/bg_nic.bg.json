@@ -1,0 +1,13 @@
+{
+    "domain": {
+        "domain": "nic.bg",
+        "punycode": "nic.bg",
+        "name": "nic",
+        "extension": "bg",
+        "status": [
+            "busy",
+            "active"
+        ],
+        "dnssec": true
+    }
+}

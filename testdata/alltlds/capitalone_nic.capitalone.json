@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "124262448_DOMAIN_CAPITALONE-VRSN",
+        "domain": "nic.capitalone",
+        "punycode": "nic.capitalone",
+        "name": "nic",
+        "extension": "capitalone",
+        "whois_server": "www.verisigninc.com",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "av1.nstld.com",
+            "av2.nstld.com",
+            "av3.nstld.com",
+            "av4.nstld.com"
+        ],
+        "created_date": "2016-07-05T15:52:55Z",
+        "created_date_in_time": "2016-07-05T15:52:55Z",
+        "updated_date": "2020-04-23T17:20:38Z",
+        "updated_date_in_time": "2020-04-23T17:20:38Z",
+        "expiration_date": "2026-07-05T15:52:55Z",
+        "expiration_date_in_time": "2026-07-05T15:52:55Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator Reserved Non-Billable",
+        "referral_url": "http://www.verisign.com"
+    },
+    "registrant": {
+        "id": "1252340_CONTACT_CAPITALONE-VRSN",
+        "name": "Capital One Financial Corporation",
+        "street": "15020 Capital One Drive",
+        "city": "Richmond",
+        "province": "VA",
+        "postal_code": "23238",
+        "country": "US",
+        "phone": "+1.8042826140",
+        "email": "domainmgr@capitalone.com"
+    },
+    "administrative": {
+        "id": "1248176_CONTACT_CAPITALONE-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "technical": {
+        "id": "1248176_CONTACT_CAPITALONE-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    },
+    "billing": {
+        "id": "1248176_CONTACT_CAPITALONE-VRSN",
+        "name": "Verisign Customer Service",
+        "organization": "Verisign, Inc.",
+        "street": "12061 Bluemont Way",
+        "city": "Reston",
+        "country": "US",
+        "phone": "+1.7039256999",
+        "email": "info@verisign-grs.com"
+    }
+}

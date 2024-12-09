@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "c0d3a750c77a4c65b51a2f7a0983eab3-DONUTS",
+        "domain": "nic.fage",
+        "punycode": "nic.fage",
+        "name": "nic",
+        "extension": "fage",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "autoRenewPeriod"
+        ],
+        "name_servers": [
+            "a0.nic.fage",
+            "a2.nic.fage",
+            "b0.nic.fage",
+            "c0.nic.fage"
+        ],
+        "dnssec": true,
+        "created_date": "2015-11-12T16:27:27Z",
+        "created_date_in_time": "2015-11-12T16:27:27Z",
+        "updated_date": "2024-11-12T16:27:41Z",
+        "updated_date_in_time": "2024-11-12T16:27:41Z",
+        "expiration_date": "2025-11-12T16:27:27Z",
+        "expiration_date_in_time": "2025-11-12T16:27:27Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "b50e661f960240948fb049c3063fd44c-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Fage International S.A.",
+        "street": "5 rue du Kiem",
+        "city": "Luxembourg",
+        "province": "Grand Duchy of Luxembourg",
+        "postal_code": "L-1857",
+        "country": "LU",
+        "phone": "+1.3026365401",
+        "fax": "+1.3026365454",
+        "email": "ngtld-fage@cscglobal.com"
+    },
+    "administrative": {
+        "id": "b50e661f960240948fb049c3063fd44c-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Fage International S.A.",
+        "street": "5 rue du Kiem",
+        "city": "Luxembourg",
+        "province": "Grand Duchy of Luxembourg",
+        "postal_code": "L-1857",
+        "country": "LU",
+        "phone": "+1.3026365401",
+        "fax": "+1.3026365454",
+        "email": "ngtld-fage@cscglobal.com"
+    },
+    "technical": {
+        "id": "b50e661f960240948fb049c3063fd44c-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Fage International S.A.",
+        "street": "5 rue du Kiem",
+        "city": "Luxembourg",
+        "province": "Grand Duchy of Luxembourg",
+        "postal_code": "L-1857",
+        "country": "LU",
+        "phone": "+1.3026365401",
+        "fax": "+1.3026365454",
+        "email": "ngtld-fage@cscglobal.com"
+    }
+}

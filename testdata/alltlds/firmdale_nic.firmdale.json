@@ -1,0 +1,38 @@
+{
+    "domain": {
+        "id": "FD-76",
+        "domain": "nic.firmdale",
+        "punycode": "nic.firmdale",
+        "name": "nic",
+        "extension": "firmdale",
+        "whois_server": "whois.nic.firmdale",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns4.nic.firmdale",
+            "ns3.nic.firmdale"
+        ],
+        "created_date": "2014-11-01T14:38:50Z",
+        "created_date_in_time": "2014-11-01T14:38:50Z",
+        "updated_date": "2018-11-03T01:37:14Z",
+        "updated_date_in_time": "2018-11-03T01:37:14Z",
+        "expiration_date": "2022-11-01T14:38:50Z",
+        "expiration_date_in_time": "2022-11-01T14:38:50Z"
+    },
+    "registrar": {
+        "id": "9998",
+        "name": "FIRMDALE HOLDINGS LIMITED"
+    },
+    "registrant": {
+        "id": "FD9T",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "FIRMDALE HOLDINGS LIMITED",
+        "street": "21 GOLDEN SQUARE",
+        "city": "LONDON",
+        "postal_code": "W1F 9JN",
+        "country": "UK",
+        "phone": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    }
+}

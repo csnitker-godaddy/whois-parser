@@ -1,0 +1,62 @@
+{
+    "domain": {
+        "id": "20-nictd",
+        "domain": "nic.td",
+        "punycode": "nic.td",
+        "name": "nic",
+        "extension": "td",
+        "whois_server": "whois.nic.td",
+        "status": [
+            "serverRenewProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "ns2.desec.org",
+            "ns1.desec.io"
+        ],
+        "created_date": "2015-09-05T04:00:00.0Z",
+        "created_date_in_time": "2015-09-05T04:00:00Z",
+        "updated_date": "2023-11-28T16:46:31.999Z",
+        "updated_date_in_time": "2023-11-28T16:46:31.999Z",
+        "expiration_date": "2025-12-30T05:00:00.0Z",
+        "expiration_date_in_time": "2025-12-30T05:00:00Z"
+    },
+    "registrar": {
+        "name": "La liste des sous-domaine .td"
+    },
+    "registrant": {
+        "id": "23Gm7-uKUdR",
+        "name": "ADETIC",
+        "organization": "Agence de Développement des TIC",
+        "street": "Rue de Colonel Hassan Moursal Kourda",
+        "city": "N'Djamena",
+        "postal_code": "240",
+        "country": "TD",
+        "phone": "+235.66231668",
+        "email": "info@adetic.td"
+    },
+    "administrative": {
+        "id": "wrIdr-ZwNg8",
+        "name": "Batrane Mahamat Ali",
+        "organization": "Agence de Développement des TIC",
+        "street": "Rue de Colonel Hassan Moursal Kourda",
+        "city": "N'Djamena",
+        "postal_code": "240",
+        "country": "TD",
+        "phone": "+235.66865586",
+        "email": "batrane.mahamat@adetic.td"
+    },
+    "technical": {
+        "id": "JtJKX-mU86v",
+        "name": "Mahamat Hamid Haggar",
+        "organization": "Agence de Développement des TIC",
+        "street": "Rue de Colonel Hassan Moursal Kourda",
+        "city": "N'Djamena",
+        "postal_code": "240",
+        "country": "TD",
+        "phone": "+235.66231668",
+        "email": "mahamat.hamid@adetic.td"
+    }
+}

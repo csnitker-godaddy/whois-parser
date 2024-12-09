@@ -1,0 +1,76 @@
+{
+    "domain": {
+        "id": "D_5222352-MTN",
+        "domain": "nic.mtn",
+        "punycode": "nic.mtn",
+        "name": "nic",
+        "extension": "mtn",
+        "whois_server": "whois.nic.mtn",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.mtn",
+            "dns2.nic.mtn",
+            "dns3.nic.mtn",
+            "dns4.nic.mtn",
+            "dnsa.nic.mtn",
+            "dnsb.nic.mtn",
+            "dnsc.nic.mtn",
+            "dnsd.nic.mtn"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T21:04:07Z",
+        "created_date_in_time": "2013-08-09T21:04:07Z",
+        "updated_date": "2022-02-22T12:10:24Z",
+        "updated_date_in_time": "2022-02-22T12:10:24Z",
+        "expiration_date": "2032-01-11T12:26:00Z",
+        "expiration_date_in_time": "2032-01-11T12:26:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "MTN Dubai Limited",
+        "email": "abuse@nominet.uk"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "MTN",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Dubai",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "AE",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "domain": {
+        "id": "D5711918-JOBS",
+        "domain": "nic.jobs",
+        "punycode": "nic.jobs",
+        "name": "nic",
+        "extension": "jobs",
+        "whois_server": "whois.nic.jobs",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "dns1.nic.jobs",
+            "dns2.nic.jobs",
+            "dns3.nic.jobs",
+            "dns4.nic.jobs",
+            "dnsa.nic.jobs",
+            "dnsb.nic.jobs",
+            "dnsc.nic.jobs",
+            "dnsd.nic.jobs"
+        ],
+        "dnssec": true,
+        "created_date": "2021-06-03T09:42:44Z",
+        "created_date_in_time": "2021-06-03T09:42:44Z",
+        "updated_date": "2021-07-29T10:23:11Z",
+        "updated_date_in_time": "2021-07-29T10:23:11Z",
+        "expiration_date": "2030-06-03T09:42:44Z",
+        "expiration_date_in_time": "2030-06-03T09:42:44Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Employ Media LLC",
+        "phone": "+44.1865332211",
+        "email": "abuse@nominet.uk"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Employ Media LLC",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "OH",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

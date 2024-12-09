@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "D511-MINT",
+        "domain": "nic.mint",
+        "punycode": "nic.mint",
+        "name": "nic",
+        "extension": "mint",
+        "whois_server": "whois.nic.mint",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.mint",
+            "ns2.dns.nic.mint",
+            "ns3.dns.nic.mint",
+            "c.nic.mint",
+            "b.nic.mint",
+            "a.nic.mint"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T22:32:51Z",
+        "created_date_in_time": "2013-08-09T22:32:51Z",
+        "updated_date": "2024-10-09T16:12:16Z",
+        "updated_date_in_time": "2024-10-09T16:12:16Z",
+        "expiration_date": "2025-08-08T23:59:59Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Intuit Inc."
+    },
+    "registrant": {
+        "id": "C1883-MINT",
+        "name": "Intuit Inc.",
+        "street": "7535 Torrey Santa Fe Road",
+        "city": "San Diego",
+        "province": "CA",
+        "postal_code": "92129",
+        "country": "US",
+        "phone": "+1.8582158000",
+        "email": "nadmin@intuit.com"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

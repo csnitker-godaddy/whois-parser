@@ -1,0 +1,32 @@
+{
+    "domain": {
+        "id": "DO206926-GMO",
+        "domain": "nic.goldpoint",
+        "punycode": "nic.goldpoint",
+        "name": "nic",
+        "extension": "goldpoint",
+        "whois_server": "whois.nic.goldpoint",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2015-01-14T04:32:13.0Z",
+        "created_date_in_time": "2015-01-14T04:32:13Z",
+        "updated_date": "2024-01-15T00:14:30.0Z",
+        "updated_date_in_time": "2024-01-15T00:14:30Z",
+        "expiration_date": "2025-01-14T23:59:59.0Z",
+        "expiration_date_in_time": "2025-01-14T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "YODOBASHI CAMERA CO.,LTD.",
+        "referral_url": "http://www.yodobashi.co.jp"
+    },
+    "registrant": {
+        "province": "Tokyo",
+        "country": "JP"
+    }
+}

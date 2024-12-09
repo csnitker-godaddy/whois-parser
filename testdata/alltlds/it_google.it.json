@@ -1,0 +1,37 @@
+{
+    "domain": {
+        "domain": "google.it",
+        "punycode": "google.it",
+        "name": "google",
+        "extension": "it",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.google.com",
+            "ns2.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ],
+        "created_date": "1999-12-10 00:00:00",
+        "created_date_in_time": "1999-12-10T00:00:00Z",
+        "updated_date": "2019-05-07 01:04:50",
+        "updated_date_in_time": "2019-05-07T01:04:50Z",
+        "expiration_date": "2020-04-21",
+        "expiration_date_in_time": "2020-04-21T00:00:00Z"
+    },
+    "registrar": {
+        "name": "MARKMONITOR-REG",
+        "organization": "MarkMonitor International Limited",
+        "referral_url": "https://www.markmonitor.com/"
+    },
+    "registrant": {
+        "organization": "Google Ireland Holdings Unlimited Company",
+        "street": "70 Sir John Rogerson's Quay, Dublin, 2, Dublin, IE"
+    },
+    "administrative": {
+        "name": "Christina Chiou",
+        "organization": "Google LLC",
+        "street": "1600 Amphitheatre Parkway, Mountain View, 94043, CA, US"
+    }
+}

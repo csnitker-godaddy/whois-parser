@@ -1,0 +1,82 @@
+{
+    "domain": {
+        "id": "DOM000000000059-OVH",
+        "domain": "nic.ovh",
+        "punycode": "nic.ovh",
+        "name": "nic",
+        "extension": "ovh",
+        "whois_server": "whois.nic.ovh",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "g.ext.nic.fr",
+            "ns1.nic.fr",
+            "ns2.nic.fr",
+            "ns3.nic.fr"
+        ],
+        "dnssec": true,
+        "created_date": "2014-02-06T16:38:02Z",
+        "created_date_in_time": "2014-02-06T16:38:02Z",
+        "updated_date": "2024-03-22T16:46:59.452901Z",
+        "updated_date_in_time": "2024-03-22T16:46:59.452901Z",
+        "expiration_date": "2025-02-06T16:38:02Z",
+        "expiration_date_in_time": "2025-02-06T16:38:02Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operations"
+    },
+    "registrant": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "AFNIC REGISTRY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "administrative": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "AFNIC REGISTRY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "technical": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "AFNIC REGISTRY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "billing": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "AFNIC REGISTRY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    }
+}

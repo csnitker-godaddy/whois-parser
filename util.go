@@ -1,5 +1,5 @@
 /*
- * Copyright 2014-2023 Li Kexian
+ * Copyright 2014-2024 Li Kexian
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -24,6 +24,8 @@ import (
 	"sort"
 	"strings"
 	"time"
+
+	"github.com/itlightning/dateparse"
 )
 
 // isDNSSecEnabled returns if domain dnssec is enabled
@@ -72,8 +74,8 @@ func searchKeyName(key string) string {
 func fixDomainStatus(status []string) []string {
 	for k, v := range status {
 		names := strings.Split(strings.TrimSpace(v), " ")
-		status[k] = strings.ToLower(names[0])
-		if status[k] == "not" && len(names) > 1 && strings.ToLower(names[1]) == "delegated" {
+		status[k] = names[0]
+		if strings.ToLower(status[k]) == "not" && len(names) > 1 && strings.ToLower(names[1]) == "delegated" {
 			status[k] = "not delegated"
 		}
 	}
@@ -118,16 +120,94 @@ func keys(m map[string]string) []string {
 // parseDateString attempts to parse a given date using a collection of common
 // format strings. Date formats containing time components are tried first
 // before attempts are made using date-only formats.
-func parseDateString(dateString string) (time.Time, error) {
-	formats := [...]string{
+func parseDateString(datetime string) (time.Time, error) {
+	datetime = strings.Trim(datetime, ".")
+	datetime = strings.ReplaceAll(datetime, ". ", "-")
 
+	result, err := dateparse.ParseAny(datetime,
+		dateparse.RetryAmbiguousDateWithSwap(true),
+		dateparse.AllowPartialStringMatch(true))
+	if err != nil {
+		formats := [...]string{
+			// Date & time formats
+			"2006-01-02 15:04:05",
+			"2006.01.02 15:04:05",
+			"02/01/2006 15:04:05",
+			"02.01.2006 15:04:05",
+			"02.1.2006 15:04:05",
+			"2.1.2006 15:04:05",
+			"02-Jan-2006 15:04:05",
+			"20060102 15:04:05",
+			time.ANSIC,
+			time.Stamp,
+			time.StampMilli,
+			time.StampMicro,
+			time.StampNano,
+
+			// Date, time & time zone formats
+			"before 2 January 2006",
+			"2006-01-02T15:04:05Z",
+			"2006-01-02 15:04:05-07",
+			"2006-01-02 15:04:05 MST",
+			"2006-01-02 15:04:05 (MST+3)",
+			"2006-01-02-T15:04:05Z",
+			time.UnixDate,
+			time.RubyDate,
+			time.RFC822,
+			time.RFC822Z,
+			time.RFC850,
+			time.RFC1123,
+			time.RFC1123Z,
+			time.RFC3339,
+			time.RFC3339Nano,
+
+			// Date only formats
+			"2006-01-02",
+			"02-Jan-2006",
+			"02.01.2006",
+			"02-01-2006",
+			"January _2 2006",
+			"Mon Jan _2 2006",
+			"02/01/2006",
+			"01/02/2006",
+			"2006/01/02",
+			"2006-Jan-02",
+			"before Jan-2006",
+			"Before 2006",
+			"before 2006",
+		}
+
+		for _, format := range formats {
+			result, err := time.Parse(format, datetime)
+			if err != nil {
+				continue
+			}
+			return result, nil
+		}
+
+		return time.Now(), fmt.Errorf("could not parse %s as a date", datetime)
+	}
+
+	return result, nil
+}
+
+// parseDateString attempts to parse a given date using a collection of common
+// format strings. Date formats containing time components are tried first
+// before attempts are made using date-only formats.
+func parseDateStringOld(datetime string) (time.Time, error) {
+	datetime = strings.Trim(datetime, ".")
+	datetime = strings.ReplaceAll(datetime, ". ", "-")
+
+	formats := [...]string{
 		// Date & time formats
 		"2006-01-02 15:04:05",
+		"2006.01.02 15:04:05",
 		"02/01/2006 15:04:05",
 		"02.01.2006 15:04:05",
 		"02.1.2006 15:04:05",
 		"2.1.2006 15:04:05",
 		"02-Jan-2006 15:04:05",
+		"20060102 15:04:05",
 		time.ANSIC,
 		time.Stamp,
 		time.StampMilli,
@@ -151,25 +231,27 @@ func parseDateString(dateString string) (time.Time, error) {
 
 		// Date only formats
 		"2006-01-02",
-		"2006. 01. 02.",
 		"02-Jan-2006",
 		"02.01.2006",
 		"02-01-2006",
 		"January _2 2006",
+		"Mon Jan _2 2006",
 		"02/01/2006",
 		"01/02/2006",
+		"2006/01/02",
 		"2006-Jan-02",
-		"2006-Jan-02.",
 		"before Jan-2006",
+		"Before 2006",
+		"before 2006",
 	}
 
 	for _, format := range formats {
-		result, err := time.Parse(format, dateString)
+		result, err := time.Parse(format, datetime)
 		if err != nil {
 			continue
 		}
 		return result, nil
 	}
 
-	return time.Now(), fmt.Errorf("could not parse %s as a date", dateString)
+	return time.Now(), fmt.Errorf("could not parse %s as a date", datetime)
 }

@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "D1-IFM",
+        "domain": "nic.ifm",
+        "punycode": "nic.ifm",
+        "name": "nic",
+        "extension": "ifm",
+        "whois_server": "whois.nic.ifm",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-09-18T16:18:42.971Z",
+        "created_date_in_time": "2014-09-18T16:18:42.971Z",
+        "updated_date": "2023-07-28T12:46:21.503Z",
+        "updated_date_in_time": "2023-07-28T12:46:21.503Z",
+        "expiration_date": "2027-09-18T16:18:42.971Z",
+        "expiration_date_in_time": "2027-09-18T16:18:42.971Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "ifm Internal Registrar",
+        "phone": "+49.20124220",
+        "email": "info@ifm.com",
+        "referral_url": "https://www.ifm.com"
+    },
+    "registrant": {
+        "country": "DE",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

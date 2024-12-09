@@ -1,0 +1,16 @@
+{
+    "domain": {
+        "name": "nic",
+        "extension": "lu",
+        "name_servers": [
+            "ns1.restena.lu",
+            "ns2.restena.lu"
+        ]
+    },
+    "registrar": {
+        "name": "Fondation Restena",
+        "country": "LU",
+        "email": "info@my.lu",
+        "referral_url": "https://my.lu"
+    }
+}

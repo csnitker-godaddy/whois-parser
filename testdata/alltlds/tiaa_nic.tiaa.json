@@ -1,0 +1,75 @@
+{
+    "domain": {
+        "id": "c96c08c4ae694fc3974b09ef8ac0d33f-DONUTS",
+        "domain": "nic.tiaa",
+        "punycode": "nic.tiaa",
+        "name": "nic",
+        "extension": "tiaa",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n2.nic.tiaa",
+            "v0n3.nic.tiaa",
+            "v0n1.nic.tiaa",
+            "v2n1.nic.tiaa",
+            "v0n0.nic.tiaa",
+            "v2n0.nic.tiaa"
+        ],
+        "dnssec": true,
+        "created_date": "2016-02-11T20:30:16Z",
+        "created_date_in_time": "2016-02-11T20:30:16Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2026-02-11T20:30:16Z",
+        "expiration_date_in_time": "2026-02-11T20:30:16Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "c344a620fcd245c68880a50efd584aac-DONUTS",
+        "name": "Teachers Insurance and Annuity Association of America",
+        "organization": "TIAA",
+        "street": "730 Third Avenue",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10017",
+        "country": "US",
+        "phone": "+1.2129131784",
+        "email": "ngtld-tiaa@cscinfo.com"
+    },
+    "administrative": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    },
+    "technical": {
+        "id": "ac11766109cc49e68207f3a0cf6287a5-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc.",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

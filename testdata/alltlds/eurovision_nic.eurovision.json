@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "D9-EUROVISN",
+        "domain": "nic.eurovision",
+        "punycode": "nic.eurovision",
+        "name": "nic",
+        "extension": "eurovision",
+        "whois_server": "whois.nic.eurovision",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2014-07-22T13:43:01.190Z",
+        "created_date_in_time": "2014-07-22T13:43:01.19Z",
+        "updated_date": "2024-09-05T14:15:54.703Z",
+        "updated_date_in_time": "2024-09-05T14:15:54.703Z",
+        "expiration_date": "2025-07-22T13:43:01.190Z",
+        "expiration_date_in_time": "2025-07-22T13:43:01.19Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "European Broadcasting Union",
+        "phone": "+41.227172158",
+        "email": "directiongeneraltlds@ebu.ch",
+        "referral_url": "http://www.eurovision.com"
+    },
+    "registrant": {
+        "id": "C7-EUROVISN",
+        "name": "European Broadcasting Union",
+        "street": "L'Ancienne-Route 17A",
+        "city": "Le Grand-Saconnex",
+        "postal_code": "1218",
+        "country": "CH",
+        "phone": "+41.227172158",
+        "fax": "+41.227474158",
+        "email": "directiongeneraltlds@ebu.ch"
+    },
+    "technical": {
+        "id": "C7-EUROVISN",
+        "name": "European Broadcasting Union",
+        "street": "L'Ancienne-Route 17A",
+        "city": "Le Grand-Saconnex",
+        "postal_code": "1218",
+        "country": "CH",
+        "phone": "+41.227172158",
+        "fax": "+41.227474158",
+        "email": "directiongeneraltlds@ebu.ch"
+    },
+    "billing": {
+        "id": "C7-EUROVISN",
+        "name": "European Broadcasting Union",
+        "street": "L'Ancienne-Route 17A",
+        "city": "Le Grand-Saconnex",
+        "postal_code": "1218",
+        "country": "CH",
+        "phone": "+41.227172158",
+        "fax": "+41.227474158",
+        "email": "directiongeneraltlds@ebu.ch"
+    }
+}

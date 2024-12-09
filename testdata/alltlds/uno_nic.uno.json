@@ -1,0 +1,80 @@
+{
+    "domain": {
+        "id": "D175367939-CNIC",
+        "domain": "nic.uno",
+        "punycode": "nic.uno",
+        "name": "nic",
+        "extension": "uno",
+        "whois_server": "whois.nic.host",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "d.nic.uno",
+            "c.nic.uno",
+            "a.nic.uno",
+            "b.nic.uno"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T23:09:38.0Z",
+        "created_date_in_time": "2013-08-09T23:09:38Z",
+        "updated_date": "2024-08-02T00:01:13.0Z",
+        "updated_date_in_time": "2024-08-02T00:01:13Z",
+        "expiration_date": "2025-08-08T23:59:59.0Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Radix FZC",
+        "phone": "+971.0000000",
+        "email": "abuse.alert@radix.email",
+        "referral_url": "http://www.radixregistry.com"
+    },
+    "registrant": {
+        "name": "Registry Super User Account",
+        "organization": "Radix FZC",
+        "street": "F/19, BC1, Ras Al Khaimah FTZ, P.O Box # 16113",
+        "city": "Ras Al Khaimah",
+        "province": "Ras al-Khaimah",
+        "postal_code": "16113",
+        "country": "AE",
+        "phone": "+971.0000000",
+        "email": "registrycontact@radix.email"
+    },
+    "administrative": {
+        "name": "Registry Super User Account",
+        "organization": "Radix FZC",
+        "street": "F/19, BC1, Ras Al Khaimah FTZ, P.O Box # 16113",
+        "city": "Ras Al Khaimah",
+        "province": "Ras al-Khaimah",
+        "postal_code": "16113",
+        "country": "AE",
+        "phone": "+971.0000000",
+        "email": "registrycontact@radix.email"
+    },
+    "technical": {
+        "name": "Registry Super User Account",
+        "organization": "Radix FZC",
+        "street": "F/19, BC1, Ras Al Khaimah FTZ, P.O Box # 16113",
+        "city": "Ras Al Khaimah",
+        "province": "Ras al-Khaimah",
+        "postal_code": "16113",
+        "country": "AE",
+        "phone": "+971.0000000",
+        "email": "registrycontact@radix.email"
+    },
+    "billing": {
+        "name": "Registry Super User Account",
+        "organization": "Radix FZC",
+        "street": "F/19, BC1, Ras Al Khaimah FTZ, P.O Box # 16113",
+        "city": "Ras Al Khaimah",
+        "province": "Ras al-Khaimah",
+        "postal_code": "16113",
+        "country": "AE",
+        "phone": "+971.0000000",
+        "email": "registrycontact@radix.email"
+    }
+}

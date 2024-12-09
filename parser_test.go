@@ -1,5 +1,5 @@
 /*
- * Copyright 2014-2023 Li Kexian
+ * Copyright 2014-2024 Li Kexian
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -25,9 +25,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/likexian/gokit/assert"
 	"github.com/likexian/gokit/xfile"
 	"github.com/likexian/gokit/xjson"
+	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/idna"
 )
 
@@ -96,109 +96,131 @@ func TestParse(t *testing.T) {
 			extension = domain[strings.LastIndex(domain, ".")+1:]
 		}
 
-		if assert.IsContains([]string{"pre", "json"}, extension) {
+		if IsContains([]string{"pre", "json"}, extension) {
 			continue
 		}
 
-		whoisRaw, err := xfile.ReadText(noterrorDir + "/" + v.Name)
-		assert.Nil(t, err)
+		t.Run(v.Name, func(t *testing.T) {
+			whoisRaw, err := xfile.ReadText(noterrorDir + "/" + v.Name)
+			assert.Nil(t, err)
 
-		whoisInfo, err := Parse(whoisRaw)
-		assert.Nil(t, err, v.Name)
+			whoisInfo, err := Parse(whoisRaw)
+			assert.Nil(t, err, v.Name)
 
-		assert.Equal(t, whoisInfo.Domain.Punycode, domain)
-		assert.Equal(t, whoisInfo.Domain.Extension, extension)
+			assert.Equal(t, whoisInfo.Domain.Punycode, domain)
+			assert.Equal(t, whoisInfo.Domain.Extension, extension)
 
-		if !assert.IsContains([]string{"", "aq", "br", "ch", "de", "edu", "eu", "fr", "gov", "hk",
-			"hm", "int", "it", "jp", "kr", "kz", "mo", "nl", "nz", "pl", "pm", "re", "ro", "ru", "su", "tf", "ee",
-			"tk", "travel", "tv", "tw", "uk", "wf", "yt", "ir", "fi", "rs", "dk", "by", "ua",
-			"xn--mgba3a4f16a", "xn--p1ai", "se", "sg", "nu", "hu"}, extension) {
-			assert.NotZero(t, whoisInfo.Domain.ID)
-		}
+			if !IsContains([]string{
+				"", "at", "aq", "br", "ch", "de", "edu", "eu", "fr", "gov", "hk",
+				"hm", "int", "it", "jp", "kr", "kz", "mo", "nl", "nz", "pl", "pm", "re", "ro", "ru", "su", "tf", "ee",
+				"tk", "travel", "tv", "tw", "uk", "wf", "yt", "ir", "fi", "rs", "dk", "by", "ua",
+				"xn--mgba3a4f16a", "xn--p1ai", "se", "sg", "sk", "nu", "hu",
+			}, extension) {
+				assert.NotZero(t, whoisInfo.Domain.ID, v.Name)
+			}
 
-		if !assert.IsContains([]string{"ch", "edu", "eu", "int", "kr", "mo", "tw", "ir", "pl", "tk", "by",
-			"xn--mgba3a4f16a", "hu"}, extension) {
-			assert.NotZero(t, whoisInfo.Domain.Status)
-		}
+			if !IsContains([]string{
+				"at", "ch", "edu", "eu", "int", "kr", "mo", "tw", "ir", "pl", "tk", "by",
+				"xn--mgba3a4f16a", "hu",
+			}, extension) {
+				assert.NotZero(t, whoisInfo.Domain.Status)
+			}
 
-		if assert.IsContains([]string{"aftermarket.pl", "nazwa.pl", "git.nl", "git.wf", "by",
-			"switch.ch", "git.xyz", "emilstahl.dk", "folketinget.dk", "nic.nu", "xn--fl-fka.se"}, domain) {
-			assert.True(t, whoisInfo.Domain.DNSSec)
-		} else {
-			assert.False(t, whoisInfo.Domain.DNSSec)
-		}
+			if IsContains([]string{
+				"aftermarket.pl", "nazwa.pl", "git.nl", "git.wf", "by",
+				"switch.ch", "git.xyz", "emilstahl.dk", "folketinget.dk", "nic.nu", "xn--fl-fka.se",
+			}, domain) {
+				assert.True(t, whoisInfo.Domain.DNSSec)
+			} else {
+				assert.False(t, whoisInfo.Domain.DNSSec)
+			}
 
-		if !assert.IsContains([]string{"aero", "aq", "asia", "berlin", "biz", "br", "ch", "cn",
-			"co", "cymru", "de", "edu", "eu", "fr", "gov", "hk", "hm", "in", "int", "it", "jp", "kr",
-			"la", "london", "me", "mo", "museum", "name", "nl", "nz", "pm", "re", "ro", "ru", "sh",
-			"kz", "su", "tel", "ee", "tf", "tk", "travel", "tw", "uk", "us", "wales", "wf", "xxx",
-			"yt", "ir", "fi", "rs", "dk", "by", "ua", "sg", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai",
-			"se", "nu", "hu"}, extension) {
-			assert.NotZero(t, whoisInfo.Domain.WhoisServer, whoisInfo.Domain)
-		}
+			if !IsContains([]string{
+				"aero", "ai", "at", "aq", "asia", "berlin", "biz", "br", "ch", "cn",
+				"co", "cymru", "de", "edu", "eu", "fr", "gov", "hk", "hm", "in", "int", "it", "jp", "kr",
+				"la", "london", "me", "mo", "museum", "name", "nl", "nz", "pm", "re", "ro", "ru", "sh", "sk",
+				"kz", "su", "tel", "ee", "tf", "tk", "travel", "tw", "uk", "us", "wales", "wf", "xxx",
+				"yt", "ir", "fi", "rs", "dk", "by", "ua", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai",
+				"se", "sg", "nu", "hu",
+			}, extension) {
+				assert.NotZero(t, whoisInfo.Domain.WhoisServer)
+			}
 
-		if !assert.IsContains([]string{"gov", "name", "tw", "hu"}, extension) {
-			assert.NotZero(t, whoisInfo.Domain.NameServers)
-		}
+			if !IsContains([]string{"gov", "name", "tw", "hu"}, extension) {
+				assert.NotZero(t, whoisInfo.Domain.NameServers)
+			}
 
-		if !assert.IsContains([]string{"aq", "au", "de", "eu", "gov", "hm", "name", "nl", "nz", "ir", "tk",
-			"xn--mgba3a4f16a"}, extension) &&
-			!strings.Contains(domain, "ac.jp") &&
-			!strings.Contains(domain, "co.jp") &&
-			!strings.Contains(domain, "go.jp") &&
-			!strings.Contains(domain, "ne.jp") {
-			assert.NotZero(t, whoisInfo.Domain.CreatedDate)
-			assert.NotNil(t, whoisInfo.Domain.CreatedDateInTime)
-		}
+			if !IsContains([]string{
+				"aq", "ai", "at", "au", "de", "eu", "gov", "hm", "name", "nl", "nz", "ir", "tk",
+				"xn--mgba3a4f16a",
+			}, extension) &&
+				!strings.Contains(domain, "ac.jp") &&
+				!strings.Contains(domain, "co.jp") &&
+				!strings.Contains(domain, "go.jp") &&
+				!strings.Contains(domain, "ne.jp") {
+				assert.NotZero(t, whoisInfo.Domain.CreatedDate)
+				assert.NotNil(t, whoisInfo.Domain.CreatedDateInTime, whoisInfo.Domain.CreatedDate)
+			}
 
-		if !assert.IsContains([]string{"aq", "ch", "cn", "eu", "gov", "hk", "hm", "mo",
-			"name", "nl", "ro", "ru", "su", "tk", "tw", "dk", "xn--fiqs8s", "xn--p1ai", "hu"}, extension) {
-			assert.NotZero(t, whoisInfo.Domain.UpdatedDate)
-			assert.NotNil(t, whoisInfo.Domain.UpdatedDateInTime)
-		}
+			if !IsContains([]string{
+				"aq", "ai", "at", "ch", "cn", "eu", "gov", "hk", "hm", "mo",
+				"name", "nl", "ro", "ru", "su", "tk", "tw", "dk", "xn--fiqs8s", "xn--p1ai", "hu",
+			}, extension) {
+				assert.NotZero(t, whoisInfo.Domain.UpdatedDate)
+				assert.NotNil(t, whoisInfo.Domain.UpdatedDateInTime)
+			}
 
-		if !assert.IsContains([]string{"", "aq", "au", "br", "ch", "de", "eu", "gov", "ee",
-			"hm", "int", "name", "nl", "nz", "tk", "kz", "hu"}, extension) &&
-			!strings.Contains(domain, "ac.jp") &&
-			!strings.Contains(domain, "co.jp") &&
-			!strings.Contains(domain, "go.jp") &&
-			!strings.Contains(domain, "ne.jp") {
-			assert.NotZero(t, whoisInfo.Domain.ExpirationDate)
-			assert.NotNil(t, whoisInfo.Domain.ExpirationDateInTime)
-		}
+			if !IsContains([]string{
+				"", "ai", "at", "aq", "au", "br", "ch", "de", "eu", "gov", "ee",
+				"hm", "int", "name", "nl", "nz", "tk", "kz", "hu",
+			}, extension) &&
+				!strings.Contains(domain, "ac.jp") &&
+				!strings.Contains(domain, "co.jp") &&
+				!strings.Contains(domain, "go.jp") &&
+				!strings.Contains(domain, "ne.jp") {
+				assert.NotZero(t, whoisInfo.Domain.ExpirationDate)
+				assert.NotNil(t, whoisInfo.Domain.ExpirationDateInTime)
+			}
 
-		if !assert.IsContains([]string{"", "ai", "aq", "au", "br", "ca", "ch", "cn", "cx", "de",
-			"edu", "eu", "fr", "gov", "gs", "hk", "hm", "int", "it", "jp", "kr", "kz", "la", "mo", "nl",
-			"nz", "pl", "pm", "re", "ro", "ru", "su", "sg", "tf", "tk", "tw", "uk", "wf", "yt", "ir", "fi", "rs",
-			"ee", "dk", "by", "ua", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai", "se", "nu", "hu"}, extension) {
-			assert.NotZero(t, whoisInfo.Registrar.ID)
-		}
+			if !IsContains([]string{
+				"", "ai", "at", "aq", "au", "br", "ca", "ch", "cn", "cx", "de",
+				"edu", "eu", "fr", "gov", "gs", "hk", "hm", "int", "it", "jp", "kr", "kz", "la", "mo", "nl",
+				"nz", "pl", "pm", "re", "ro", "ru", "su", "sg", "sk", "tf", "tk", "tw", "uk", "wf", "yt", "ir", "fi",
+				"rs", "ee", "dk", "by", "ua", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai", "se", "nu", "hu",
+			}, extension) {
+				assert.NotZero(t, whoisInfo.Registrar.ID)
+			}
 
-		if !assert.IsContains([]string{"", "aq", "br", "de",
-			"edu", "gov", "hm", "int", "jp", "mo", "tk", "ir", "dk", "xn--mgba3a4f16a", "hu"}, extension) {
-			assert.NotZero(t, whoisInfo.Registrar.Name)
-		}
+			if !IsContains([]string{
+				"", "at", "aq", "br", "de",
+				"edu", "gov", "hm", "int", "jp", "mo", "tk", "ir", "dk", "xn--mgba3a4f16a", "hu",
+			}, extension) {
+				assert.NotZero(t, whoisInfo.Registrar.Name)
+			}
 
-		if !assert.IsContains([]string{"", "aero", "ai", "aq", "asia", "au", "br", "ch", "cn", "de",
-			"edu", "gov", "hk", "hm", "int", "jp", "kr", "kz", "la", "london", "love", "mo",
-			"museum", "name", "nl", "nz", "pl", "ru", "sg", "su", "tk", "top", "ir", "fi", "rs", "dk", "by", "ua",
-			"xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai", "se", "nu", "hu"}, extension) {
-			assert.NotZero(t, whoisInfo.Registrar.ReferralURL)
-		}
+			if !IsContains([]string{
+				"", "aero", "ai", "at", "aq", "asia", "au", "br", "ch", "cn", "de",
+				"edu", "gov", "hk", "hm", "int", "jp", "kr", "kz", "la", "london", "love", "mo",
+				"museum", "name", "nl", "nz", "pl", "ru", "sk", "sg", "su", "tk", "top", "ir", "fi", "rs", "dk", "by",
+				"ua", "xn--mgba3a4f16a", "xn--fiqs8s", "xn--p1ai", "se", "nu", "hu",
+			}, extension) {
+				assert.NotZero(t, whoisInfo.Registrar.ReferralURL)
+			}
 
-		err = xjson.Dump(noterrorDir+"/"+v.Name+".json", whoisInfo)
-		assert.Nil(t, err)
+			err = xjson.Dump(noterrorDir+"/"+v.Name+".json", whoisInfo)
+			assert.Nil(t, err)
 
-		extension, _ = idna.ToUnicode(extension)
-		if !assert.IsContains(extensions, extension) {
-			extensions = append(extensions, extension)
-		}
+			extension, _ = idna.ToUnicode(extension)
+			if !IsContains(extensions, extension) {
+				extensions = append(extensions, extension)
+			}
 
-		if _, ok := domains[extension]; !ok {
-			domains[extension] = []string{}
-		}
+			if _, ok := domains[extension]; !ok {
+				domains[extension] = []string{}
+			}
 
-		domains[extension] = append(domains[extension], domain)
+			domains[extension] = append(domains[extension], domain)
+		})
 	}
 
 	sort.Strings(extensions)

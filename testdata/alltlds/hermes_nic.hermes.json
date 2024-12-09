@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "d9289384e66648e6b96ce39af9c0739e-DONUTS",
+        "domain": "nic.hermes",
+        "punycode": "nic.hermes",
+        "name": "nic",
+        "extension": "hermes",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.hermes",
+            "a2.nic.hermes",
+            "b0.nic.hermes",
+            "c0.nic.hermes"
+        ],
+        "dnssec": true,
+        "created_date": "2015-05-28T17:49:13Z",
+        "created_date_in_time": "2015-05-28T17:49:13Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-05-28T17:49:13Z",
+        "expiration_date_in_time": "2025-05-28T17:49:13Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "fa63e40a556f44729d9d543ec6f4b6f8-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "Hermes International",
+        "street": "24, rue du Faubourg Saint-Honore",
+        "city": "Paris",
+        "postal_code": "75008",
+        "country": "FR",
+        "phone": "+33.140174720",
+        "email": "ngtld-hermes@cscglobal.com"
+    },
+    "administrative": {
+        "id": "fa63e40a556f44729d9d543ec6f4b6f8-DONUTS",
+        "name": "Domain Administrator",
+        "organization": "Hermes International",
+        "street": "24, rue du Faubourg Saint-Honore",
+        "city": "Paris",
+        "postal_code": "75008",
+        "country": "FR",
+        "phone": "+33.140174720",
+        "email": "ngtld-hermes@cscglobal.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

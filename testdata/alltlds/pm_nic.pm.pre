@@ -1,0 +1,87 @@
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+domain:                        nic.pm
+status:                        ACTIVE
+eppstatus:                     serverTransferProhibited
+eppstatus:                     serverDeleteProhibited
+hold:                          NO
+holder-c:                      NF100-FRNIC
+admin-c:                       NF100-FRNIC
+tech-c:                        VL100-FRNIC
+registrar:                     Registry Operations
+Expiry Date:                   2029-12-31T23:00:00Z
+created:                       1995-01-01T00:00:00Z
+last-update:                   2024-09-10T13:53:32.257287Z
+source:                        FRNIC
+nserver:                       ns4.nic.fr
+nserver:                       ns6.ext.nic.fr
+nserver:                       ns7.ext.nic.fr
+source:                        FRNIC
+key1-tag:                      32674
+key1-algo:                     13 [ECDSAP256SHA256]
+key1-dgst-t:                   2 [SHA256]
+key1-dgst:                     CE1CB57BC0303C433B87E2F6D23C3C5AD4FE4602BF4A22898A78E7C6CDDE951D
+source:                        FRNIC
+registrar name: Registry Operations
+registrar address:                       AFNIC
+registrar address:                       immeuble le Stephenson
+registrar address:                       1, rue Stephenson
+registrar address:                       78180 Montigny-Le-Bretonneux
+registrar country:                       FR
+registrar phone:                         +33.139308300
+registrar fax-no:                        +33.139308301
+registrar e-mail:                        support@afnic.fr
+registrar website:                       https://www.afnic.fr
+registrar anonymous:                     No
+registrar registered:                    2014-07-29T15:35:33Z
+registrar source:                        FRNIC
+tech nic-hdl:                       VL100-FRNIC
+tech type:                          PERSON
+tech contact:                       Registry Vincent Levigneron
+tech address:                       7, avenue du 8 mai 1945
+tech address:                       78280 Guyancourt
+tech country:                       FR
+tech phone:                         +33.139308300
+tech fax-no:                        +33.139308301
+tech e-mail:                        vincent.levigneron@afnic.fr
+tech registrar:                     Registry Operations
+tech changed:                       2024-03-11T13:42:42.070174Z
+tech anonymous:                     NO
+tech obsoleted:                     NO
+tech eppstatus:                     associated
+tech eppstatus:                     active
+tech eligstatus:                    ok
+tech reachstatus:                   ok
+tech reachmedia:                    phone
+tech reachsource:                   REGISTRAR
+tech reachdate:                     2024-03-11T13:42:42.070255Z
+tech source:                        FRNIC
+admin nic-hdl:                       NF100-FRNIC
+admin type:                          ORGANIZATION
+admin contact:                       Nic pm
+admin address:                       Afnic Backend Registry Operator
+admin address:                       immeuble le Stephenson
+admin address:                       1, rue Stephenson
+admin address:                       78180 Montigny le Bretonneux
+admin country:                       FR
+admin phone:                         +33.139308300
+admin fax-no:                        +33.139308301
+admin e-mail:                        support+fr@nic.fr
+admin registrar:                     Registry Operations
+admin anonymous:                     NO
+admin obsoleted:                     NO
+admin eppstatus:                     associated
+admin eppstatus:                     active
+admin eligstatus:                    ok
+admin eligdate:                      2014-12-11T00:00:00Z
+admin reachstatus:                   ok
+admin reachmedia:                    email
+admin source:                        FRNIC
+admin >>> Last update of WHOIS database: 2024-12-04T22:12:07.45004Z <<<

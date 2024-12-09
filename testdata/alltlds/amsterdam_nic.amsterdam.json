@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "DNM_100037-SIDN",
+        "domain": "nic.amsterdam",
+        "punycode": "nic.amsterdam",
+        "name": "nic",
+        "extension": "amsterdam",
+        "whois_server": "whois.nic.amsterdam",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns3.sidn.nl",
+            "ns4.sidn.nl",
+            "ns5.sidn.nl"
+        ],
+        "dnssec": true,
+        "created_date": "2014-11-28T16:19:59Z",
+        "created_date_in_time": "2014-11-28T16:19:59Z",
+        "updated_date": "2024-11-28T00:15:00Z",
+        "updated_date_in_time": "2024-11-28T00:15:00Z",
+        "expiration_date": "2025-11-28T16:19:59Z",
+        "expiration_date_in_time": "2025-11-28T16:19:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Stichting Internet Domeinregistratie Nederland (Operationeel)",
+        "phone": "+31.0263525555",
+        "email": "support@sidn.nl",
+        "referral_url": "sidn.nl"
+    },
+    "registrant": {
+        "id": "Redacted for privacy",
+        "name": "Redacted for privacy",
+        "street": "Redacted for privacy",
+        "city": "Redacted for privacy",
+        "postal_code": "Redacted for privacy",
+        "country": "NL",
+        "phone": "Redacted for privacy",
+        "fax": "Redacted for privacy",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "Redacted for privacy",
+        "name": "Redacted for privacy",
+        "organization": "Redacted for privacy",
+        "street": "Redacted for privacy",
+        "city": "Redacted for privacy",
+        "postal_code": "Redacted for privacy",
+        "country": "Redacted for privacy",
+        "phone": "Redacted for privacy",
+        "fax": "Redacted for privacy",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "Redacted for privacy",
+        "name": "Redacted for privacy",
+        "organization": "Redacted for privacy",
+        "street": "Redacted for privacy",
+        "city": "Redacted for privacy",
+        "postal_code": "Redacted for privacy",
+        "country": "Redacted for privacy",
+        "phone": "Redacted for privacy",
+        "fax": "Redacted for privacy",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

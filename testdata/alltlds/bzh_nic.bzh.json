@@ -1,0 +1,83 @@
+{
+    "domain": {
+        "id": "DOM000000000002-BZH",
+        "domain": "nic.bzh",
+        "punycode": "nic.bzh",
+        "name": "nic",
+        "extension": "bzh",
+        "whois_server": "whois.nic.bzh",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "g.ext.nic.fr",
+            "ns1.nic.fr",
+            "ns2.nic.fr",
+            "ns3.nic.fr"
+        ],
+        "dnssec": true,
+        "created_date": "2014-03-04T17:10:29Z",
+        "created_date_in_time": "2014-03-04T17:10:29Z",
+        "updated_date": "2024-04-18T17:15:54.131761Z",
+        "updated_date_in_time": "2024-04-18T17:15:54.131761Z",
+        "expiration_date": "2025-03-04T17:10:29Z",
+        "expiration_date_in_time": "2025-03-04T17:10:29Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operations"
+    },
+    "registrant": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "Association www.bzh",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "administrative": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "AFNIC REGISTRY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "technical": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "AFNIC REGISTRY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "billing": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "AFNIC REGISTRY",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    }
+}

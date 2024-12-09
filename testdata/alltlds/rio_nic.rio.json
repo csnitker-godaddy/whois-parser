@@ -1,0 +1,67 @@
+{
+    "domain": {
+        "id": "D54-RIO",
+        "domain": "nic.rio",
+        "punycode": "nic.rio",
+        "name": "nic",
+        "extension": "rio",
+        "whois_server": "whois.gtlds.nic.br",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns.dns.br",
+            "ns2.dns.br"
+        ],
+        "dnssec": true,
+        "created_date": "2014-05-19T22:46:02Z",
+        "created_date_in_time": "2014-05-19T22:46:02Z",
+        "updated_date": "2018-04-09T19:01:41Z",
+        "updated_date_in_time": "2018-04-09T19:01:41Z",
+        "expiration_date": "2025-05-19T22:46:02Z",
+        "expiration_date_in_time": "2025-05-19T22:46:02Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "NIC.br New gTLD Back-End Registry Services",
+        "phone": "+55.1155093511",
+        "email": "novossufixos@registro.br",
+        "referral_url": "http://gtlds.nic.br"
+    },
+    "registrant": {
+        "id": "C4R3-NICBR",
+        "name": "Empresa Municipal de Informatica SA - IPLANRIO",
+        "organization": "73.214.439/0001-90",
+        "street": "Av. Presidente Vargas 3131 Sala 1204",
+        "city": "Rio de Janeiro",
+        "province": "RJ",
+        "postal_code": "20210-030",
+        "country": "BR",
+        "phone": "+55.2139711818",
+        "email": "gtlds-rio@registro.br"
+    },
+    "administrative": {
+        "id": "C4R3-NICBR",
+        "name": "Empresa Municipal de Informatica SA - IPLANRIO",
+        "organization": "73.214.439/0001-90",
+        "street": "Av. Presidente Vargas 3131 Sala 1204",
+        "city": "Rio de Janeiro",
+        "province": "RJ",
+        "postal_code": "20210-030",
+        "country": "BR",
+        "phone": "+55.2139711818",
+        "email": "gtlds-rio@registro.br"
+    },
+    "technical": {
+        "id": "C4R3-NICBR",
+        "name": "Empresa Municipal de Informatica SA - IPLANRIO",
+        "organization": "73.214.439/0001-90",
+        "street": "Av. Presidente Vargas 3131 Sala 1204",
+        "city": "Rio de Janeiro",
+        "province": "RJ",
+        "postal_code": "20210-030",
+        "country": "BR",
+        "phone": "+55.2139711818",
+        "email": "gtlds-rio@registro.br"
+    }
+}

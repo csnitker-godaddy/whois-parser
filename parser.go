@@ -1,5 +1,5 @@
 /*
- * Copyright 2014-2023 Li Kexian
+ * Copyright 2014-2024 Li Kexian
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@ import (
 
 // Version returns package version
 func Version() string {
-	return "1.24.8"
+	return "1.24.20"
 }
 
 // Author returns package author
@@ -273,9 +273,10 @@ func parseContact(contact *Contact, name, value string) {
 }
 
 var searchDomainRx1 = regexp.MustCompile(`(?i)\[?domain\:?(\s*\_?name)?\]?[\s\.]*\:?` +
-	`\s*([^\s\,\;\(\)]+)\.([^\s\,\;\(\)\.]{2,})`)
+	`\s*([^\s\,\;\@\(\)]+)\.([^\s\,\;\(\)\.]{2,})`)
+
 var searchDomainRx2 = regexp.MustCompile(`(?i)\[?domain\:?(\s*\_?name)?\]?[\s\.]*\:?` +
-	`\s*([^\s\,\;\(\)\.]{2,})\n`)
+	`\s*([^\s\,\;\@\(\)\.]{2,})\n`)
 
 // searchDomain finds domain name and extension from whois information
 func searchDomain(text string) (name, extension string) {

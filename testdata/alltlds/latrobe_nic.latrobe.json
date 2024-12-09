@@ -1,0 +1,66 @@
+{
+    "domain": {
+        "id": "D564FEA6EEC2248448A78FDCEC40EA9F5-ARI",
+        "domain": "nic.latrobe",
+        "punycode": "nic.latrobe",
+        "name": "nic",
+        "extension": "latrobe",
+        "whois_server": "whois.nic.latrobe",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited",
+            "autoRenewPeriod"
+        ],
+        "name_servers": [
+            "a.nic.latrobe",
+            "b.nic.latrobe",
+            "c.nic.latrobe",
+            "d.nic.latrobe"
+        ],
+        "dnssec": true,
+        "created_date": "2014-11-24T05:52:22Z",
+        "created_date_in_time": "2014-11-24T05:52:22Z",
+        "updated_date": "2024-01-08T05:52:23Z",
+        "updated_date_in_time": "2024-01-08T05:52:23Z",
+        "expiration_date": "2024-11-24T05:52:22Z",
+        "expiration_date_in_time": "2024-11-24T05:52:22Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "La Trobe University"
+    },
+    "registrant": {
+        "id": "C1BA0E24E7BB74770B83DA204DC1750E8-ARI",
+        "name": "La Trobe University",
+        "street": "Cnr Plenty Road and Kingsbury Drive",
+        "city": "Bundoora",
+        "province": "VIC",
+        "postal_code": "3086",
+        "country": "au",
+        "phone": "+61.394791111",
+        "email": "dns-admins@latrobe.edu.au"
+    },
+    "administrative": {
+        "id": "C1BA0E24E7BB74770B83DA204DC1750E8-ARI",
+        "name": "La Trobe University",
+        "street": "Cnr Plenty Road and Kingsbury Drive",
+        "city": "Bundoora",
+        "province": "VIC",
+        "postal_code": "3086",
+        "country": "au",
+        "phone": "+61.394791111",
+        "email": "dns-admins@latrobe.edu.au"
+    },
+    "technical": {
+        "id": "C1BA0E24E7BB74770B83DA204DC1750E8-ARI",
+        "name": "La Trobe University",
+        "street": "Cnr Plenty Road and Kingsbury Drive",
+        "city": "Bundoora",
+        "province": "VIC",
+        "postal_code": "3086",
+        "country": "au",
+        "phone": "+61.394791111",
+        "email": "dns-admins@latrobe.edu.au"
+    }
+}

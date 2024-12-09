@@ -1,0 +1,42 @@
+{
+    "domain": {
+        "id": "D1-LEMRA",
+        "domain": "nic.aco",
+        "punycode": "nic.aco",
+        "name": "nic",
+        "extension": "aco",
+        "whois_server": "whois.nic.aco",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "sec2.rcode0.net",
+            "sec1.rcode0.net"
+        ],
+        "dnssec": true,
+        "created_date": "2015-11-25T20:33:53.090Z",
+        "created_date_in_time": "2015-11-25T20:33:53.09Z",
+        "updated_date": "2024-11-25T00:32:26.591Z",
+        "updated_date_in_time": "2024-11-25T00:32:26.591Z",
+        "expiration_date": "2025-11-25T00:00:00.000Z",
+        "expiration_date_in_time": "2025-11-25T00:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "ACO Severin Ahlmann GmbH & Co. KG",
+        "phone": "+49.4615050350",
+        "email": "acoregistry@lemarit.com",
+        "referral_url": "http://www.aco.com"
+    },
+    "registrant": {
+        "organization": "ACO Severin Ahlmann GmbH & Co. KG",
+        "country": "DE",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

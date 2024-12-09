@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "D_2115-WED",
+        "domain": "nic.wed",
+        "punycode": "nic.wed",
+        "name": "nic",
+        "extension": "wed",
+        "whois_server": "whois.nic.wed",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "dns1.emdns.uk",
+            "dns2.emdns.uk",
+            "dns3.emdns.uk",
+            "dns4.emdns.uk",
+            "dnsa.emdns.uk",
+            "dnsb.emdns.uk",
+            "dnsc.emdns.uk",
+            "dnsd.emdns.uk"
+        ],
+        "dnssec": true,
+        "created_date": "2017-12-07T14:28:00Z",
+        "created_date_in_time": "2017-12-07T14:28:00Z",
+        "expiration_date": "2019-12-07T14:28:00Z",
+        "expiration_date_in_time": "2019-12-07T14:28:00Z"
+    },
+    "registrar": {
+        "id": "119",
+        "name": "Nominet UK",
+        "email": "barbara.bellis@nominet.uk",
+        "referral_url": "http://www.nominet.uk"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Please Contact Nominet UK Customer Service for Resolution",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Oxfordshire",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "GB",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

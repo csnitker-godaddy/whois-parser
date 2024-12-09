@@ -1,0 +1,76 @@
+{
+    "domain": {
+        "id": "652bb547010346a28cde19461a7718a7-LROR",
+        "domain": "nic.xn--nqv7fs00ema",
+        "punycode": "nic.xn--nqv7fs00ema",
+        "name": "nic",
+        "extension": "xn--nqv7fs00ema",
+        "whois_server": "https://whois.publicinterestregistry.org/",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "a0.nic.xn--nqv7fs00ema",
+            "b0.nic.xn--nqv7fs00ema",
+            "c0.nic.xn--nqv7fs00ema",
+            "a2.nic.xn--nqv7fs00ema"
+        ],
+        "dnssec": true,
+        "created_date": "2019-08-15T18:31:01Z",
+        "created_date_in_time": "2019-08-15T18:31:01Z",
+        "updated_date": "2024-09-29T18:31:27Z",
+        "updated_date_in_time": "2024-09-29T18:31:27Z",
+        "expiration_date": "2025-08-15T18:31:01Z",
+        "expiration_date_in_time": "2025-08-15T18:31:01Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "PIR Internal (9999)",
+        "referral_url": "https://thenew.org/"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Public Interest Registry",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "VA",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

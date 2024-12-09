@@ -1,0 +1,63 @@
+{
+    "domain": {
+        "id": "D75FBDF6217DB487CAAEA3B21B076630A-ARI",
+        "domain": "nic.auspost",
+        "punycode": "nic.auspost",
+        "name": "nic",
+        "extension": "auspost",
+        "whois_server": "Not Applicable",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "a.nic.auspost",
+            "b.nic.auspost",
+            "c.nic.auspost",
+            "d.nic.auspost"
+        ],
+        "dnssec": true,
+        "created_date": "2015-02-17T01:04:51Z",
+        "created_date_in_time": "2015-02-17T01:04:51Z",
+        "updated_date": "2024-10-30T21:05:12Z",
+        "updated_date_in_time": "2024-10-30T21:05:12Z",
+        "expiration_date": "2025-09-15T21:05:12Z",
+        "expiration_date_in_time": "2025-09-15T21:05:12Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Australian Postal Corporation",
+        "referral_url": "Not Applicable"
+    },
+    "registrant": {
+        "id": "C6F4985D30CB74CB78A2972FB32DF2418-ARI",
+        "name": "Australian Postal Corporation",
+        "street": "111 Bourke Street",
+        "city": "Melbourne",
+        "province": "Victoria",
+        "postal_code": "3000",
+        "country": "au",
+        "email": "ngtld-auspost@cscinfo.com"
+    },
+    "administrative": {
+        "id": "C6F4985D30CB74CB78A2972FB32DF2418-ARI",
+        "name": "Australian Postal Corporation",
+        "street": "111 Bourke Street",
+        "city": "Melbourne",
+        "province": "Victoria",
+        "postal_code": "3000",
+        "country": "au",
+        "email": "ngtld-auspost@cscinfo.com"
+    },
+    "technical": {
+        "id": "C6F4985D30CB74CB78A2972FB32DF2418-ARI",
+        "name": "Australian Postal Corporation",
+        "street": "111 Bourke Street",
+        "city": "Melbourne",
+        "province": "Victoria",
+        "postal_code": "3000",
+        "country": "au",
+        "email": "ngtld-auspost@cscinfo.com"
+    }
+}

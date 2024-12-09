@@ -1,0 +1,25 @@
+{
+    "domain": {
+        "domain": "nic.nl",
+        "punycode": "nic.nl",
+        "name": "nic",
+        "extension": "nl",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns3.sidn.nl",
+            "ns5.sidn.nl",
+            "ns4.sidn.nl"
+        ],
+        "dnssec": true,
+        "created_date": "1994-12-31",
+        "created_date_in_time": "1994-12-31T00:00:00Z",
+        "updated_date": "2021-10-14",
+        "updated_date_in_time": "2021-10-14T00:00:00Z"
+    },
+    "registrar": {
+        "name": "Stichting Internet Domeinregistratie Nederland",
+        "street": "Meander 501, 6825MD Arnhem, Netherlands"
+    }
+}

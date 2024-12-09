@@ -1,0 +1,83 @@
+{
+    "domain": {
+        "id": "REDACTED FOR PRIVACY",
+        "domain": "nic.grocery",
+        "punycode": "nic.grocery",
+        "name": "nic",
+        "extension": "grocery",
+        "whois_server": "whois.nic.walmart",
+        "status": [
+            "serverRenewProhibited",
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a.nic.grocery",
+            "b.nic.grocery",
+            "c.nic.grocery",
+            "x.nic.grocery",
+            "y.nic.grocery",
+            "z.nic.grocery"
+        ],
+        "dnssec": true,
+        "created_date": "2024-08-01T02:15:51Z",
+        "created_date_in_time": "2024-08-01T02:15:51Z",
+        "updated_date": "2024-11-19T03:06:27Z",
+        "updated_date_in_time": "2024-11-19T03:06:27Z",
+        "expiration_date": "2025-08-01T02:15:51Z",
+        "expiration_date_in_time": "2025-08-01T02:15:51Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Wal-Mart Stores, Inc.",
+        "phone": "+1.4242624238",
+        "email": "techsupport@registry.godaddy",
+        "referral_url": "nic.walmart"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Wal-Mart Stores, Inc.",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "AR",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "US",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

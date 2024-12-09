@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "D865CD2901BB835CE040010AAB015FFF",
+        "domain": "nic.ws",
+        "punycode": "nic.ws",
+        "name": "nic",
+        "extension": "ws",
+        "whois_server": "whois.website.ws",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns2.ncsdi.ws",
+            "ns3.ncsdi.ws",
+            "ns4.ncsdi.ws",
+            "ns5.ncsdi.ws"
+        ],
+        "created_date": "2003-03-09T18:11:00Z",
+        "created_date_in_time": "2003-03-09T18:11:00Z",
+        "updated_date": "2021-05-27T23:21:28Z",
+        "updated_date_in_time": "2021-05-27T23:21:28Z",
+        "expiration_date": "2028-03-09T18:11:00Z",
+        "expiration_date_in_time": "2028-03-09T18:11:00Z"
+    },
+    "registrar": {
+        "id": "1463",
+        "name": "GLOBAL DOMAINS INTERNATIONAL",
+        "phone": "+1.7606023000",
+        "email": "abuse@website.ws",
+        "referral_url": "http://www.website.ws/"
+    },
+    "registrant": {
+        "name": "Global Domains International",
+        "organization": "Domain Admin",
+        "street": "701 Palomar Airport Road #300",
+        "city": "Carlsbad",
+        "province": "CA",
+        "postal_code": "92011",
+        "country": "US",
+        "phone": "+1.7606023000",
+        "email": "ws_support@website.ws"
+    },
+    "administrative": {
+        "name": "Global Domains International",
+        "organization": "Domain Admin",
+        "street": "701 Palomar Airport Road #300",
+        "city": "Carlsbad",
+        "province": "CA",
+        "postal_code": "92011",
+        "country": "US",
+        "phone": "+1.7606023000",
+        "email": "ws_support@website.ws"
+    },
+    "technical": {
+        "name": "Global Domains International",
+        "organization": "Domain Admin",
+        "street": "701 Palomar Airport Road #300",
+        "city": "Carlsbad",
+        "province": "CA",
+        "postal_code": "92011",
+        "country": "US",
+        "phone": "+1.7606023000",
+        "email": "ws_support@website.ws"
+    }
+}

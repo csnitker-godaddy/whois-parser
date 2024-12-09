@@ -1,0 +1,48 @@
+{
+    "domain": {
+        "id": "D57955684-CNIC",
+        "domain": "nic.lidl",
+        "punycode": "nic.lidl",
+        "name": "nic",
+        "extension": "lidl",
+        "whois_server": "whois.nic.schwarz",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "autoRenewPeriod"
+        ],
+        "name_servers": [
+            "a.nic.lidl",
+            "b.nic.lidl",
+            "c.nic.lidl",
+            "d.nic.lidl"
+        ],
+        "dnssec": true,
+        "created_date": "2014-10-22T11:49:46.0Z",
+        "created_date_in_time": "2014-10-22T11:49:46Z",
+        "updated_date": "2024-10-23T00:06:31.0Z",
+        "updated_date_in_time": "2024-10-23T00:06:31Z",
+        "expiration_date": "2025-10-22T23:59:59.0Z",
+        "expiration_date_in_time": "2025-10-22T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Lidl Stiftung",
+        "phone": "+49.7132304014",
+        "email": "gtld@mail.schwarz",
+        "referral_url": "http://www.nic.schwarz"
+    },
+    "registrant": {
+        "organization": ".lidl Registry",
+        "country": "DE",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

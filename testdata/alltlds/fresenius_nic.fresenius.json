@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "D97146984-CNIC",
+        "domain": "nic.fresenius",
+        "punycode": "nic.fresenius",
+        "name": "nic",
+        "extension": "fresenius",
+        "whois_server": "whois.nic.fresenius",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "clientTransferProhibited",
+            "clientDeleteProhibited"
+        ],
+        "name_servers": [
+            "anycast1.dnsres.net",
+            "anycast2.dnsres.net"
+        ],
+        "created_date": "2015-07-20T09:55:55.0Z",
+        "created_date_in_time": "2015-07-20T09:55:55Z",
+        "updated_date": "2023-08-31T16:51:39.0Z",
+        "updated_date_in_time": "2023-08-31T16:51:39Z",
+        "expiration_date": "2025-07-20T23:59:59.0Z",
+        "expiration_date_in_time": "2025-07-20T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Fresenius Immobilien-Verwaltungs-GmbH",
+        "phone": "+49.8954886700",
+        "email": "bettinger@bettinger.de",
+        "referral_url": "https://whois.nic.fresenius"
+    },
+    "registrant": {
+        "name": "Domain  Manager",
+        "organization": "Fresenius Immobilien-Verwaltungs-GmbH",
+        "street": "Else-Kroener-Strasse 1",
+        "city": "Bad Homburg",
+        "province": "Hessen",
+        "postal_code": "61352",
+        "country": "DE",
+        "phone": "+49.61726080",
+        "email": "mail@freseniusregistry.com"
+    },
+    "administrative": {
+        "name": "Domain  Manager",
+        "organization": "Fresenius Immobilien-Verwaltungs-GmbH",
+        "street": "Else-Kroener-Strasse 1",
+        "city": "Bad Homburg",
+        "province": "Hessen",
+        "postal_code": "61352",
+        "country": "DE",
+        "phone": "+49.61726080",
+        "email": "mail@freseniusregistry.com"
+    },
+    "technical": {
+        "name": "Domain  Manager",
+        "organization": "Fresenius Immobilien-Verwaltungs-GmbH",
+        "street": "Else-Kroener-Strasse 1",
+        "city": "Bad Homburg",
+        "province": "Hessen",
+        "postal_code": "61352",
+        "country": "DE",
+        "phone": "+49.61726080",
+        "email": "mail@freseniusregistry.com"
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "domain": {
+        "id": "D949898-CNIC",
+        "domain": "nic.pw",
+        "punycode": "nic.pw",
+        "name": "nic",
+        "extension": "pw",
+        "whois_server": "whois.centralnic.com",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "ns1.nic.pw",
+            "ns2.nic.pw",
+            "ns5.nic.pw",
+            "ns6.nic.pw"
+        ],
+        "created_date": "2012-10-12T10:19:46.0Z",
+        "created_date_in_time": "2012-10-12T10:19:46Z",
+        "updated_date": "2023-12-26T00:04:37.0Z",
+        "updated_date_in_time": "2023-12-26T00:04:37Z",
+        "expiration_date": "2025-01-01T23:59:59.0Z",
+        "expiration_date_in_time": "2025-01-01T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "CentralNic Ltd",
+        "phone": "+44.2033880600",
+        "email": "ops@centralnic.com",
+        "referral_url": "https://www.centralnic.com/"
+    },
+    "registrant": {
+        "email": "https://whois.nic.pw/contact/nic.pw/registrant"
+    },
+    "administrative": {
+        "email": "https://whois.nic.pw/contact/nic.pw/admin"
+    },
+    "technical": {
+        "email": "https://whois.nic.pw/contact/nic.pw/tech"
+    },
+    "billing": {
+        "email": "https://whois.nic.pw/contact/nic.pw/billing"
+    }
+}

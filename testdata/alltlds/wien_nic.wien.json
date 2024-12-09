@@ -1,0 +1,91 @@
+{
+    "domain": {
+        "id": "dom_85F--1",
+        "domain": "nic.wien",
+        "punycode": "nic.wien",
+        "name": "nic",
+        "extension": "wien",
+        "whois_server": "whois.nic.wien",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "ns1.ryce-rsp.com",
+            "ns1.dns.business"
+        ],
+        "created_date": "2013-12-12T12:02:52Z",
+        "created_date_in_time": "2013-12-12T12:02:52Z",
+        "updated_date": "2023-12-12T12:15:03Z",
+        "updated_date_in_time": "2023-12-12T12:15:03Z",
+        "expiration_date": "2024-12-12T12:02:52Z",
+        "expiration_date_in_time": "2024-12-12T12:02:52Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "punkt.wien GmbH",
+        "phone": "+43.1981160",
+        "email": "abuse@nic.wien",
+        "referral_url": "https://www.nic.wien"
+    },
+    "registrant": {
+        "id": "REDACTED",
+        "name": "REDACTED",
+        "organization": "punkt.wien GmbH",
+        "street": "REDACTED",
+        "city": "REDACTED",
+        "province": "REDACTED",
+        "postal_code": "REDACTED",
+        "country": "AT",
+        "phone": "REDACTED",
+        "phone_ext": "REDACTED",
+        "fax": "REDACTED",
+        "fax_ext": "REDACTED",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin or tech contacts of the domain name."
+    },
+    "administrative": {
+        "id": "REDACTED",
+        "name": "REDACTED",
+        "organization": "REDACTED",
+        "street": "REDACTED",
+        "city": "REDACTED",
+        "province": "REDACTED",
+        "postal_code": "REDACTED",
+        "country": "REDACTED",
+        "phone": "REDACTED",
+        "phone_ext": "REDACTED",
+        "fax": "REDACTED",
+        "fax_ext": "REDACTED",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin or tech contacts of the domain name."
+    },
+    "technical": {
+        "id": "REDACTED",
+        "name": "REDACTED",
+        "organization": "REDACTED",
+        "street": "REDACTED",
+        "city": "REDACTED",
+        "province": "REDACTED",
+        "postal_code": "REDACTED",
+        "country": "REDACTED",
+        "phone": "REDACTED",
+        "phone_ext": "REDACTED",
+        "fax": "REDACTED",
+        "fax_ext": "REDACTED",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin or tech contacts of the domain name."
+    },
+    "billing": {
+        "id": "REDACTED",
+        "name": "REDACTED",
+        "organization": "REDACTED",
+        "street": "REDACTED",
+        "city": "REDACTED",
+        "province": "REDACTED",
+        "postal_code": "REDACTED",
+        "country": "REDACTED",
+        "phone": "REDACTED",
+        "phone_ext": "REDACTED",
+        "fax": "REDACTED",
+        "fax_ext": "REDACTED",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin or tech contacts of the domain name."
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "D412-GAP",
+        "domain": "nic.gap",
+        "punycode": "nic.gap",
+        "name": "nic",
+        "extension": "gap",
+        "whois_server": "whois.nic.gap",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.gap",
+            "ns2.dns.nic.gap",
+            "ns3.dns.nic.gap",
+            "ns4.dns.nic.gap",
+            "ns5.dns.nic.gap",
+            "ns6.dns.nic.gap"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T22:03:31Z",
+        "created_date_in_time": "2013-08-09T22:03:31Z",
+        "updated_date": "2024-10-09T17:03:35Z",
+        "updated_date_in_time": "2024-10-09T17:03:35Z",
+        "expiration_date": "2025-08-08T23:59:59Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "The Gap, Inc."
+    },
+    "registrant": {
+        "id": "C1784-GAP",
+        "name": "The Gap, Inc.",
+        "street": "2 Folsom Street",
+        "city": "San Francisco",
+        "province": "CA",
+        "postal_code": "94105",
+        "country": "US",
+        "phone": "+1.4154270100",
+        "fax": "+1.4154270275",
+        "email": "hostmaster@gap.com"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "D20140313G10001G_08728387-zhongxin",
+        "domain": "nic.xn--fiq64b",
+        "punycode": "nic.xn--fiq64b",
+        "name": "nic",
+        "extension": "xn--fiq64b",
+        "whois_server": "202.173.11.141",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ins1.zdnscloud.com",
+            "cns1.zdnscloud.net",
+            "vns1.zdnscloud.biz",
+            "dns1.zdnscloud.info"
+        ],
+        "created_date": "2014-03-13T06:29:57Z",
+        "created_date_in_time": "2014-03-13T06:29:57Z",
+        "updated_date": "2017-11-01T06:32:56Z",
+        "updated_date_in_time": "2017-11-01T06:32:56Z",
+        "expiration_date": "2033-03-13T06:29:57Z",
+        "expiration_date_in_time": "2033-03-13T06:29:57Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "knet",
+        "phone": "+86.01058813521",
+        "email": "tech-supprot@zdns.cn",
+        "referral_url": "http://www.knet.cn"
+    },
+    "registrant": {
+        "id": "C20140312C_00001284-zhongxin",
+        "name": "中国中信集团有限公司",
+        "organization": "Operation and Maintenance Engineer",
+        "street": "Rm.1006 Capital Mansion, 6 Xinyuannanlu, Chaoyang District",
+        "city": "Beijing",
+        "province": "Beijing",
+        "postal_code": "100004",
+        "country": "CN",
+        "phone": "+86.01059661035",
+        "fax": "+86.01059660035",
+        "email": "yangqf@citic.com"
+    },
+    "administrative": {
+        "id": "C20140312C_00001284-zhongxin",
+        "name": "中国中信集团有限公司",
+        "organization": "Operation and Maintenance Engineer",
+        "street": "Rm.1006 Capital Mansion, 6 Xinyuannanlu, Chaoyang District",
+        "city": "Beijing",
+        "province": "Beijing",
+        "postal_code": "100004",
+        "country": "CN",
+        "phone": "+86.01059661035",
+        "fax": "+86.01059660035",
+        "email": "yangqf@citic.com"
+    },
+    "technical": {
+        "id": "C20140312C_00001282-zhongxin",
+        "name": "Ji XiaoHui",
+        "organization": "Network & Equipment Division",
+        "street": "intstreet1new, Rm.1006 Capital Mansion, 6 Xinyuannanlu, Chaoyang District",
+        "city": "Beijing",
+        "province": "Beijing",
+        "postal_code": "100004",
+        "country": "CN",
+        "phone": "+86.01059661016",
+        "fax": "+86.01059660035",
+        "email": "jixh@citic.com"
+    }
+}

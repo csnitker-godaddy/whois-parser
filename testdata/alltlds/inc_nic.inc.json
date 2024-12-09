@@ -1,0 +1,51 @@
+{
+    "domain": {
+        "id": "D235786333-CNIC",
+        "domain": "nic.inc",
+        "punycode": "nic.inc",
+        "name": "nic",
+        "extension": "inc",
+        "whois_server": "whois.nic.inc",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.inc",
+            "b.nic.inc",
+            "c.nic.inc",
+            "d.nic.inc"
+        ],
+        "dnssec": true,
+        "created_date": "2018-05-01T23:32:47.0Z",
+        "created_date_in_time": "2018-05-01T23:32:47Z",
+        "updated_date": "2023-08-31T16:54:34.0Z",
+        "updated_date_in_time": "2023-08-31T16:54:34Z",
+        "expiration_date": "2028-05-01T23:59:59.0Z",
+        "expiration_date_in_time": "2028-05-01T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Intercap Registry Inc.",
+        "phone": "+44.123456789",
+        "email": "abuse@my.box",
+        "referral_url": "https://intercap.inc/"
+    },
+    "registrant": {
+        "organization": "Uniregistry, Corp",
+        "province": "George Town",
+        "country": "KY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

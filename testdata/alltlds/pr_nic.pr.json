@@ -1,0 +1,73 @@
+{
+    "domain": {
+        "id": "d5ec795a745242a3988872216d037d97-DONUTS",
+        "domain": "nic.pr",
+        "punycode": "nic.pr",
+        "name": "nic",
+        "extension": "pr",
+        "whois_server": "whois.nic.pr",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "c0.pr.afilias-nst.info",
+            "a0.pr.afilias-nst.info",
+            "a2.pr.afilias-nst.info",
+            "b0.pr.afilias-nst.org",
+            "b2.pr.afilias-nst.org",
+            "d0.pr.afilias-nst.org"
+        ],
+        "dnssec": true,
+        "created_date": "2005-09-09T00:00:00Z",
+        "created_date_in_time": "2005-09-09T00:00:00Z",
+        "updated_date": "2020-11-10T19:46:12Z",
+        "updated_date_in_time": "2020-11-10T19:46:12Z",
+        "expiration_date": "2028-01-07T16:00:00Z",
+        "expiration_date_in_time": "2028-01-07T16:00:00Z"
+    },
+    "registrar": {
+        "id": "802172",
+        "name": "Internet Technology Solutions"
+    },
+    "registrant": {
+        "id": "058c1d01883c4880b932b5508b36f9b6-DONUTS",
+        "name": "required for registry escrow",
+        "organization": "Gauss Research Laboratory, Inc.",
+        "street": "Vesta 801",
+        "city": "Rio Piedras",
+        "province": "PR",
+        "postal_code": "00924",
+        "country": "PR",
+        "phone": "+1.7879986450",
+        "fax": "+1.7879986450",
+        "email": "custserv@nic.pr"
+    },
+    "administrative": {
+        "id": "a54d8da0667643989e5cc127262f0ebe-DONUTS",
+        "name": "Oscar Moreno",
+        "organization": "Gauss Research Laboratory, Inc.",
+        "street": "Vesta 801",
+        "city": "Rio Piedras",
+        "province": "PR",
+        "postal_code": "00924",
+        "country": "PR",
+        "phone": "+1.7879986450",
+        "fax": "+1.7879986450",
+        "email": "tech@nic.pr"
+    },
+    "technical": {
+        "id": "257a7b6f6c474830beffaefe98d947da-DONUTS",
+        "name": "Oscar Moreno",
+        "organization": "Gauss Research Laboratory, Inc.",
+        "street": "Vesta 801",
+        "city": "Rio Piedras",
+        "province": "PR",
+        "postal_code": "00924",
+        "country": "PR",
+        "phone": "+1.7873723804",
+        "fax": "+1.7879986450",
+        "email": "tech@nic.pr"
+    }
+}

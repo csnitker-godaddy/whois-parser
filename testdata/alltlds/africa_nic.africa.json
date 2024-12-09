@@ -1,0 +1,44 @@
+{
+    "domain": {
+        "id": "dom_2--1",
+        "domain": "nic.africa",
+        "punycode": "nic.africa",
+        "name": "nic",
+        "extension": "africa",
+        "whois_server": "http://www.dns.net.za/whois",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.nic.africa",
+            "ns1.dnservices.co.za",
+            "nsp.netnod.se"
+        ],
+        "created_date": "2017-02-15T21:20:26Z",
+        "created_date_in_time": "2017-02-15T21:20:26Z",
+        "updated_date": "2017-05-29T12:13:55Z",
+        "updated_date_in_time": "2017-05-29T12:13:55Z",
+        "expiration_date": "2999-12-12T21:59:59Z",
+        "expiration_date_in_time": "2999-12-12T21:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "DNS Africa",
+        "phone": "+27.115682800",
+        "email": "abuse@registry.net.za",
+        "referral_url": "http://dns.business"
+    },
+    "registrant": {
+        "country": "ZA",
+        "email": "please contact the rdds service of the listed registrar for registrant, admin, or tech contact information."
+    },
+    "administrative": {
+        "email": "please contact the rdds service of the listed registrar for registrant, admin, or tech contact information."
+    },
+    "technical": {
+        "email": "please contact the rdds service of the listed registrar for registrant, admin, or tech contact information."
+    },
+    "billing": {
+        "email": "please contact the rdds service of the listed registrar for registrant, admin, or tech contact information."
+    }
+}

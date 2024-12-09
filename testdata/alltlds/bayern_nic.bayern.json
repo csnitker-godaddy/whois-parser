@@ -1,0 +1,78 @@
+{
+    "domain": {
+        "id": "Dezzd11-BAYERN",
+        "domain": "nic.bayern",
+        "punycode": "nic.bayern",
+        "name": "nic",
+        "extension": "bayern",
+        "whois_server": "whois.nic.bayern",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "autoRenewPeriod"
+        ],
+        "name_servers": [
+            "ns22.irondns.net",
+            "ns23.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2021-11-25T13:30:03.399Z",
+        "created_date_in_time": "2021-11-25T13:30:03.399Z",
+        "updated_date": "2024-01-09T14:00:29.831Z",
+        "updated_date_in_time": "2024-01-09T14:00:29.831Z",
+        "expiration_date": "2024-11-25T13:30:03.399Z",
+        "expiration_date_in_time": "2024-11-25T13:30:03.399Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Bayern Connect GmbH",
+        "phone": "+34.343434343",
+        "email": "abuse@registry.godaddy",
+        "referral_url": "http://www.nic.bayern"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "dotBayern",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Bavaria",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "DE",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

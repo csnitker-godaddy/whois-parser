@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "D412-HSBC",
+        "domain": "nic.hsbc",
+        "punycode": "nic.hsbc",
+        "name": "nic",
+        "extension": "hsbc",
+        "whois_server": "whois.nic.hsbc",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.hsbc",
+            "ns2.dns.nic.hsbc",
+            "ns3.dns.nic.hsbc",
+            "ns4.dns.nic.hsbc",
+            "ns5.dns.nic.hsbc",
+            "ns6.dns.nic.hsbc"
+        ],
+        "dnssec": true,
+        "created_date": "2013-08-09T22:09:32Z",
+        "created_date_in_time": "2013-08-09T22:09:32Z",
+        "updated_date": "2024-10-09T15:37:38Z",
+        "updated_date_in_time": "2024-10-09T15:37:38Z",
+        "expiration_date": "2025-08-08T23:59:59Z",
+        "expiration_date_in_time": "2025-08-08T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "HSBC Global Services (UK) Limited"
+    },
+    "registrant": {
+        "id": "C1885-HSBC",
+        "name": "HSBC Group Management Services Limited",
+        "organization": "HSBC",
+        "street": "8 Canada Square",
+        "city": "London",
+        "postal_code": "E14 5HQ",
+        "country": "GB",
+        "phone": "+44.8455855555",
+        "fax": "+44.1142827445",
+        "email": "dns.hsbc@hsbc.com"
+    },
+    "administrative": {
+        "id": "C1884-HSBC",
+        "name": "The DNS Team Network Services",
+        "organization": "HSBC",
+        "street": "Griffin House, 41 Silver Street Head",
+        "city": "Sheffield",
+        "postal_code": "S1 3GG",
+        "country": "GB",
+        "phone": "+44.8455855555",
+        "fax": "+44.1142827445",
+        "email": "dns.hsbc@hsbc.com"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

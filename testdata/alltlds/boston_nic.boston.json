@@ -1,0 +1,81 @@
+{
+    "domain": {
+        "id": "REDACTED FOR PRIVACY",
+        "domain": "nic.boston",
+        "punycode": "nic.boston",
+        "name": "nic",
+        "extension": "boston",
+        "whois_server": "whois.dnrs.godaddy",
+        "status": [
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "b.nic.boston",
+            "c.nic.boston",
+            "d.nic.boston",
+            "a.nic.boston"
+        ],
+        "dnssec": true,
+        "created_date": "2021-09-07T04:15:49Z",
+        "created_date_in_time": "2021-09-07T04:15:49Z",
+        "updated_date": "2024-10-22T04:15:49Z",
+        "updated_date_in_time": "2024-10-22T04:15:49Z",
+        "expiration_date": "2025-09-07T04:15:49Z",
+        "expiration_date_in_time": "2025-09-07T04:15:49Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "MMX",
+        "phone": "+61.398663710",
+        "email": "reg-support@godaddy.registry",
+        "referral_url": "http://registry.godaddy"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Godaddy Registry",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Victoria",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "au",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY, REDACTED FOR PRIVACY, REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

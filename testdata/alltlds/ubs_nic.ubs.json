@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "c98bcfd69a3e482aab8593610da1efda-DONUTS",
+        "domain": "nic.ubs",
+        "punycode": "nic.ubs",
+        "name": "nic",
+        "extension": "ubs",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a2.nic.ubs",
+            "a0.nic.ubs",
+            "c0.nic.ubs",
+            "b0.nic.ubs"
+        ],
+        "created_date": "2015-04-24T18:49:44Z",
+        "created_date_in_time": "2015-04-24T18:49:44Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-04-24T18:49:44Z",
+        "expiration_date_in_time": "2025-04-24T18:49:44Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "31ea62c059634a7e9c9fd5e621dda011-DONUTS",
+        "name": "Legal Counsel ⁄ Executive Director",
+        "organization": "UBS AG",
+        "street": "Bahnhofstrasse 45",
+        "city": "Zurich",
+        "postal_code": "CH-8098",
+        "country": "CH",
+        "phone": "+44.2075687648",
+        "email": "ngtld-ubs@cscinfo.com"
+    },
+    "administrative": {
+        "id": "31ea62c059634a7e9c9fd5e621dda011-DONUTS",
+        "name": "Legal Counsel ⁄ Executive Director",
+        "organization": "UBS AG",
+        "street": "Bahnhofstrasse 45",
+        "city": "Zurich",
+        "postal_code": "CH-8098",
+        "country": "CH",
+        "phone": "+44.2075687648",
+        "email": "ngtld-ubs@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

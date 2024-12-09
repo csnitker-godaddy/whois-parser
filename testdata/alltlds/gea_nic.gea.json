@@ -1,0 +1,43 @@
+{
+    "domain": {
+        "id": "D332-LEMRA",
+        "domain": "nic.gea",
+        "punycode": "nic.gea",
+        "name": "nic",
+        "extension": "gea",
+        "whois_server": "whois.nic.gea",
+        "status": [
+            "clientDeleteProhibited",
+            "clientTransferProhibited"
+        ],
+        "name_servers": [
+            "sec2.rcode0.net",
+            "sec1.rcode0.net"
+        ],
+        "dnssec": true,
+        "created_date": "2015-11-27T21:35:14.068Z",
+        "created_date_in_time": "2015-11-27T21:35:14.068Z",
+        "updated_date": "2024-11-27T00:32:26.583Z",
+        "updated_date_in_time": "2024-11-27T00:32:26.583Z",
+        "expiration_date": "2025-11-27T00:00:00.000Z",
+        "expiration_date_in_time": "2025-11-27T00:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "GEA Group Aktiengesellschaft",
+        "phone": "+49.4615050350",
+        "email": "gearegistry@lemarit.com",
+        "referral_url": "http://www.gea.com"
+    },
+    "registrant": {
+        "organization": "GEA Group Aktiengesellschaft",
+        "country": "DE",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "domain": {
+        "id": "D248315059-CNIC",
+        "domain": "nic.london",
+        "punycode": "nic.london",
+        "name": "nic",
+        "extension": "london",
+        "whois_server": "whois.nic.london",
+        "status": [
+            "serverTransferProhibited",
+            "serverUpdateProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "a.nic.london",
+            "b.nic.london",
+            "c.nic.london",
+            "d.nic.london"
+        ],
+        "dnssec": true,
+        "created_date": "2014-02-25T14:42:32.0Z",
+        "created_date_in_time": "2014-02-25T14:42:32Z",
+        "updated_date": "2023-08-31T16:54:58.0Z",
+        "updated_date_in_time": "2023-08-31T16:54:58Z",
+        "expiration_date": "2031-02-25T23:59:59.0Z",
+        "expiration_date_in_time": "2031-02-25T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Dot London Domains Limited",
+        "phone": "+1.8777344783",
+        "email": "dot-london@londonandpartners.com",
+        "referral_url": "https://domains.london/"
+    },
+    "registrant": {
+        "organization": "Dot London Domains Ltd",
+        "province": "London",
+        "country": "GB",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

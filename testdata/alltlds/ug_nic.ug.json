@@ -1,0 +1,50 @@
+{
+    "domain": {
+        "domain": "nic.ug",
+        "punycode": "nic.ug",
+        "name": "nic",
+        "extension": "ug",
+        "status": [
+            "INACTIVE"
+        ],
+        "name_servers": [
+            "a.dnspod.com",
+            "b.dnspod.com",
+            "c.dnspod.com"
+        ],
+        "created_date": "2018-01-10",
+        "created_date_in_time": "2018-01-10T00:00:00Z",
+        "expiration_date": "2024-12-08",
+        "expiration_date_in_time": "2024-12-08T00:00:00Z"
+    },
+    "registrant": {
+        "name": "Yifei Liu",
+        "organization": "Liu Yifei",
+        "street": "Quchi5-902",
+        "city": "Shanghai",
+        "postal_code": "200000",
+        "country": "Outside Uganda",
+        "phone": "+862175847783",
+        "email": "lyf@fansx.com"
+    },
+    "administrative": {
+        "name": "Yifei Liu",
+        "organization": "Liu Yifei",
+        "street": "Quchi5-902",
+        "city": "Shanghai",
+        "postal_code": "200000",
+        "country": "Outside Uganda",
+        "phone": "+862175847783",
+        "email": "lyf@fansx.com"
+    },
+    "technical": {
+        "name": "Yifei Liu",
+        "organization": "Liu Yifei",
+        "street": "Quchi5-902",
+        "city": "Shanghai",
+        "postal_code": "200000",
+        "country": "Outside Uganda",
+        "phone": "+862175847783",
+        "email": "lyf@fansx.com"
+    }
+}

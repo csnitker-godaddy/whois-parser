@@ -1,0 +1,35 @@
+{
+    "domain": {
+        "id": "682abd9e96be4b70a51cab2bff3e5868-AU",
+        "domain": "nic.au",
+        "punycode": "nic.au",
+        "name": "nic",
+        "extension": "au",
+        "whois_server": "whois.auda.org.au",
+        "status": [
+            "serverRenewProhibited"
+        ],
+        "name_servers": [
+            "ns1.instradns.com",
+            "ns2.instradns.com",
+            "ns3.instradns.com"
+        ],
+        "updated_date": "2024-09-05T16:29:45Z",
+        "updated_date_in_time": "2024-09-05T16:29:45Z"
+    },
+    "registrar": {
+        "name": "Domain Directors Pty Ltd trading as Instra",
+        "phone": "+49.68949396850",
+        "email": "abuse@key-systems.net",
+        "referral_url": "https://www.instra.com/en/about-us/contact-us"
+    },
+    "registrant": {
+        "id": "ABN 55110054610",
+        "name": "Domain Administrator",
+        "organization": "INSTRA CORPORATION PTY LTD"
+    },
+    "technical": {
+        "id": "9a401fe2c58041df92aaba96c22c41c3-AU",
+        "name": "Domain Administrator"
+    }
+}

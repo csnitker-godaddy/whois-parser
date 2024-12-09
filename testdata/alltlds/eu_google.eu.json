@@ -1,0 +1,21 @@
+{
+    "domain": {
+        "domain": "google.eu",
+        "punycode": "google.eu",
+        "name": "google",
+        "extension": "eu",
+        "name_servers": [
+            "ns3.google.com",
+            "ns4.google.com",
+            "ns1.google.com",
+            "ns2.google.com"
+        ]
+    },
+    "registrar": {
+        "name": "MarkMonitor Inc.",
+        "referral_url": "https://www.markmonitor.com/"
+    },
+    "registrant": {
+        "organization": "NOT DISCLOSED!"
+    }
+}

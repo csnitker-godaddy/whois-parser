@@ -1,0 +1,82 @@
+{
+    "domain": {
+        "id": "DOM000000000003-MMA",
+        "domain": "nic.mma",
+        "punycode": "nic.mma",
+        "name": "nic",
+        "extension": "mma",
+        "whois_server": "whois.nic.mma",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "g.ext.nic.fr",
+            "ns1.nic.fr",
+            "ns2.nic.fr",
+            "ns3.nic.fr"
+        ],
+        "dnssec": true,
+        "created_date": "2014-10-09T09:22:29Z",
+        "created_date_in_time": "2014-10-09T09:22:29Z",
+        "updated_date": "2024-11-23T09:27:32.314095Z",
+        "updated_date_in_time": "2024-11-23T09:27:32.314095Z",
+        "expiration_date": "2025-10-09T09:22:29Z",
+        "expiration_date_in_time": "2025-10-09T09:22:29Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operations"
+    },
+    "registrant": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "MMA",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "administrative": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "MMA",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "technical": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "MMA",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    },
+    "billing": {
+        "id": "REDACTED_FOR_PRIVACY",
+        "name": "REDACTED_FOR_PRIVACY",
+        "organization": "Afnic Backend Registry Operator",
+        "street": "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY",
+        "city": "REDACTED_FOR_PRIVACY",
+        "province": "REDACTED_FOR_PRIVACY",
+        "postal_code": "REDACTED_FOR_PRIVACY",
+        "country": "REDACTED_FOR_PRIVACY",
+        "phone": "REDACTED_FOR_PRIVACY",
+        "fax": "REDACTED_FOR_PRIVACY",
+        "email": "redacted_for_privacy"
+    }
+}

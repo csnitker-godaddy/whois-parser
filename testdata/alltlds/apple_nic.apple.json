@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "ee7f591fe1154f4f84e39a1a53147c6c-DONUTS",
+        "domain": "nic.apple",
+        "punycode": "nic.apple",
+        "name": "nic",
+        "extension": "apple",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.apple",
+            "b0.nic.apple",
+            "c0.nic.apple",
+            "a2.nic.apple"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-22T21:18:49Z",
+        "created_date_in_time": "2016-01-22T21:18:49Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-22T21:18:49Z",
+        "expiration_date_in_time": "2025-01-22T21:18:49Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "41ccce173ad94daa9f861edf7bcbeb41-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Apple Inc.",
+        "street": "1 Infinite Loop",
+        "city": "Cupertino",
+        "province": "CA",
+        "postal_code": "95014",
+        "country": "US",
+        "phone": "+1.4089961010",
+        "fax": "+1.4089741560",
+        "email": "domains@apple.com"
+    },
+    "administrative": {
+        "id": "41ccce173ad94daa9f861edf7bcbeb41-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Apple Inc.",
+        "street": "1 Infinite Loop",
+        "city": "Cupertino",
+        "province": "CA",
+        "postal_code": "95014",
+        "country": "US",
+        "phone": "+1.4089961010",
+        "fax": "+1.4089741560",
+        "email": "domains@apple.com"
+    },
+    "technical": {
+        "id": "41ccce173ad94daa9f861edf7bcbeb41-DONUTS",
+        "name": "TLD Admin",
+        "organization": "Apple Inc.",
+        "street": "1 Infinite Loop",
+        "city": "Cupertino",
+        "province": "CA",
+        "postal_code": "95014",
+        "country": "US",
+        "phone": "+1.4089961010",
+        "fax": "+1.4089741560",
+        "email": "domains@apple.com"
+    }
+}

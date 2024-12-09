@@ -1,0 +1,67 @@
+{
+    "domain": {
+        "domain": "nic.gov",
+        "punycode": "nic.gov",
+        "name": "nic",
+        "extension": "gov",
+        "whois_server": "whois.nic.gov",
+        "status": [
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "e.ns.gov",
+            "f.ns.gov"
+        ],
+        "dnssec": true,
+        "created_date": "2004-06-30T07:30:45Z",
+        "created_date_in_time": "2004-06-30T07:30:45Z",
+        "updated_date": "2024-05-16T16:15:15Z",
+        "updated_date_in_time": "2024-05-16T16:15:15Z",
+        "expiration_date": "2025-12-08T00:00:00Z",
+        "expiration_date_in_time": "2025-12-08T00:00:00Z"
+    },
+    "registrar": {
+        "id": "8888888",
+        "name": "get.gov",
+        "referral_url": "https://get.gov"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "redacted for privacy"
+    }
+}

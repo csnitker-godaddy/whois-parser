@@ -1,0 +1,65 @@
+{
+    "domain": {
+        "id": "8255d4cb7fa042e3a20fd20729290336-DONUTS",
+        "domain": "nic.bm",
+        "punycode": "nic.bm",
+        "name": "nic",
+        "extension": "bm",
+        "whois_server": "whois.nic.bm",
+        "status": [
+            "serverDeleteProhibited",
+            "clientTransferProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.bmnic.bm",
+            "ns2.bmnic.bm",
+            "ns3.bmnic.bm",
+            "ns4.bmnic.bm"
+        ],
+        "created_date": "2024-01-14T10:44:38Z",
+        "created_date_in_time": "2024-01-14T10:44:38Z",
+        "updated_date": "2024-09-23T15:58:12Z",
+        "updated_date_in_time": "2024-09-23T15:58:12Z",
+        "expiration_date": "2025-01-14T10:44:38Z",
+        "expiration_date_in_time": "2025-01-14T10:44:38Z"
+    },
+    "registrar": {
+        "id": "801154",
+        "name": "The Registry General, Government of Bermuda"
+    },
+    "registrant": {
+        "id": "782cdd11d28d4e419ff2f2d0d5256edd-DONUTS",
+        "name": "BermudaNIC",
+        "organization": "Registry General",
+        "street": "Government Administration Building",
+        "city": "Hamilton",
+        "postal_code": "HM11",
+        "country": "BM",
+        "phone": "+1.2977708",
+        "email": "dnsmanager@gov.bm"
+    },
+    "administrative": {
+        "id": "782cdd11d28d4e419ff2f2d0d5256edd-DONUTS",
+        "name": "BermudaNIC",
+        "organization": "Registry General",
+        "street": "Government Administration Building",
+        "city": "Hamilton",
+        "postal_code": "HM11",
+        "country": "BM",
+        "phone": "+1.2977708",
+        "email": "dnsmanager@gov.bm"
+    },
+    "technical": {
+        "id": "782cdd11d28d4e419ff2f2d0d5256edd-DONUTS",
+        "name": "BermudaNIC",
+        "organization": "Registry General",
+        "street": "Government Administration Building",
+        "city": "Hamilton",
+        "postal_code": "HM11",
+        "country": "BM",
+        "phone": "+1.2977708",
+        "email": "dnsmanager@gov.bm"
+    }
+}

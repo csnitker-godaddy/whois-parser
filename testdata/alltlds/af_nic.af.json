@@ -1,0 +1,62 @@
+{
+    "domain": {
+        "id": "24477-CoCCA",
+        "domain": "nic.af",
+        "punycode": "nic.af",
+        "name": "nic",
+        "extension": "af",
+        "status": [
+            "active"
+        ],
+        "name_servers": [
+            "ns1.desec.io",
+            "ns2.desec.org"
+        ],
+        "created_date": "2006-01-02T11:00:00Z",
+        "created_date_in_time": "2006-01-02T11:00:00Z",
+        "updated_date": "2023-11-16T06:09:04Z",
+        "updated_date_in_time": "2023-11-16T06:09:04Z",
+        "expiration_date": "2033-03-14T00:00:00Z",
+        "expiration_date_in_time": "2033-03-14T00:00:00Z"
+    },
+    "registrar": {
+        "name": "AFGNIC Registrar",
+        "referral_url": "http://nic.af"
+    },
+    "registrant": {
+        "id": "488169-CoCCA",
+        "name": "NIC",
+        "organization": "Ministry of Communications and IT",
+        "street": "Mohammad Jan Khan Watt",
+        "city": "Kabul",
+        "province": "Kabul",
+        "postal_code": "2600",
+        "country": "AF",
+        "phone": "+93.202102684",
+        "email": "registry@nic.af"
+    },
+    "administrative": {
+        "id": "488169-CoCCA",
+        "name": "NIC",
+        "organization": "Ministry of Communications and IT",
+        "street": "Mohammad Jan Khan Watt",
+        "city": "Kabul",
+        "province": "Kabul",
+        "postal_code": "2600",
+        "country": "AF",
+        "phone": "+93.202102684",
+        "email": "registry@nic.af"
+    },
+    "technical": {
+        "id": "488169-CoCCA",
+        "name": "NIC",
+        "organization": "Ministry of Communications and IT",
+        "street": "Mohammad Jan Khan Watt",
+        "city": "Kabul",
+        "province": "Kabul",
+        "postal_code": "2600",
+        "country": "AF",
+        "phone": "+93.202102684",
+        "email": "registry@nic.af"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "domain": {
+        "id": "e02e27ec0efc4865872b99765745a5e0-DONUTS",
+        "domain": "nic.gi",
+        "punycode": "nic.gi",
+        "name": "nic",
+        "extension": "gi",
+        "whois_server": "whois.nic.gi",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns-1215.awsdns-23.org",
+            "ns-398.awsdns-49.com",
+            "ns-1854.awsdns-39.co.uk",
+            "ns-794.awsdns-35.net"
+        ],
+        "created_date": "2000-07-01T04:00:00Z",
+        "created_date_in_time": "2000-07-01T04:00:00Z",
+        "updated_date": "2024-09-23T15:54:33Z",
+        "updated_date_in_time": "2024-09-23T15:54:33Z",
+        "expiration_date": "2032-07-01T04:00:00Z",
+        "expiration_date_in_time": "2032-07-01T04:00:00Z"
+    },
+    "registrar": {
+        "id": "800072",
+        "name": "GibNet Registrar"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Broadband Gibraltar Limited",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "PO Box 797",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "GI",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

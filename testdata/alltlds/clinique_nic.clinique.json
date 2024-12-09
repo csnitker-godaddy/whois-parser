@@ -1,0 +1,74 @@
+{
+    "domain": {
+        "id": "ffa9ea6dfd6848f797dcc2bbc45233f6-DONUTS",
+        "domain": "nic.clinique",
+        "punycode": "nic.clinique",
+        "name": "nic",
+        "extension": "clinique",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a0.nic.clinique",
+            "b0.nic.clinique",
+            "c0.nic.clinique",
+            "a2.nic.clinique"
+        ],
+        "dnssec": true,
+        "created_date": "2016-01-22T21:52:59Z",
+        "created_date_in_time": "2016-01-22T21:52:59Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2025-01-22T21:52:59Z",
+        "expiration_date_in_time": "2025-01-22T21:52:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "adea101f381840439cfece39f02a8c00-DONUTS",
+        "name": "Associate Counsel",
+        "organization": "The Estee Lauder Companies Inc.",
+        "street": "767 Fifth Avenue",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10153",
+        "country": "US",
+        "phone": "+1.2125724200",
+        "fax": "+1.2122772355",
+        "email": "ngtld-estee@cscglobal.com"
+    },
+    "administrative": {
+        "id": "7cd0a0007cb042eea257e0dfea3551b4-DONUTS",
+        "name": "Registry Operator",
+        "organization": "The Estee Lauder Companies Inc.",
+        "street": "767 Fifth Avenue",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10153",
+        "country": "US",
+        "phone": "+1.2125724200",
+        "fax": "+1.2122772355",
+        "email": "ngtld-estee@cscglobal.com"
+    },
+    "technical": {
+        "id": "7cd0a0007cb042eea257e0dfea3551b4-DONUTS",
+        "name": "Registry Operator",
+        "organization": "The Estee Lauder Companies Inc.",
+        "street": "767 Fifth Avenue",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10153",
+        "country": "US",
+        "phone": "+1.2125724200",
+        "fax": "+1.2122772355",
+        "email": "ngtld-estee@cscglobal.com"
+    }
+}

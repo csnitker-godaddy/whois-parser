@@ -1,0 +1,70 @@
+{
+    "domain": {
+        "id": "D1006-VINKLEIN",
+        "domain": "nic.calvinklein",
+        "punycode": "nic.calvinklein",
+        "name": "nic",
+        "extension": "calvinklein",
+        "whois_server": "whois.nic.calvinklein",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.calvinklein",
+            "ns2.dns.nic.calvinklein",
+            "ns3.dns.nic.calvinklein",
+            "ns4.dns.nic.calvinklein",
+            "ns5.dns.nic.calvinklein",
+            "ns6.dns.nic.calvinklein"
+        ],
+        "dnssec": true,
+        "created_date": "2013-09-16T19:57:31Z",
+        "created_date_in_time": "2013-09-16T19:57:31Z",
+        "updated_date": "2024-10-31T00:00:02Z",
+        "updated_date_in_time": "2024-10-31T00:00:02Z",
+        "expiration_date": "2025-09-15T23:59:59Z",
+        "expiration_date_in_time": "2025-09-15T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "PVH gTLD Holdings LLC"
+    },
+    "registrant": {
+        "id": "C2180-VINKLEIN",
+        "name": "PVH gTLD Holdings LLC",
+        "street": "200 Madison Avenue 18th Floor",
+        "city": "New York",
+        "province": "NY",
+        "postal_code": "10016",
+        "country": "US",
+        "phone": "+1.2123813500",
+        "fax": "+1.2123813950",
+        "email": "ckregistry@fairwindspartners.com"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "domain": {
+        "id": "38661-KIWI",
+        "domain": "nic.kiwi",
+        "punycode": "nic.kiwi",
+        "name": "nic",
+        "extension": "kiwi",
+        "whois_server": "whois.nic.kiwi",
+        "status": [
+            "clientDeleteProhibited",
+            "clientRenewProhibited",
+            "clientTransferProhibited",
+            "serverDeleteProhibited",
+            "serverRenewProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "a.ns.nic.kiwi",
+            "b.ns.nic.kiwi",
+            "c.ns.nic.kiwi",
+            "d.ns.nic.kiwi"
+        ],
+        "dnssec": true,
+        "created_date": "2013-12-11T16:07:06Z",
+        "created_date_in_time": "2013-12-11T16:07:06Z",
+        "updated_date": "2024-03-12T16:13:35Z",
+        "updated_date_in_time": "2024-03-12T16:13:35Z",
+        "expiration_date": "3000-01-01T00:00:00Z",
+        "expiration_date_in_time": "3000-01-01T00:00:00Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Administrator",
+        "referral_url": "www.fury.kiwi"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Dot Kiwi Limited",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Auckland",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "NZ",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please ask the registrar of record identified in this output for information on how to contact the registrant, admin, or other contacts of the queried domain name"
+    }
+}

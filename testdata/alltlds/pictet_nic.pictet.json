@@ -1,0 +1,72 @@
+{
+    "domain": {
+        "id": "e39fca884a8646b9936d9c0240c09877-DONUTS",
+        "domain": "nic.pictet",
+        "punycode": "nic.pictet",
+        "name": "nic",
+        "extension": "pictet",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "v0n0.nic.pictet",
+            "v2n0.nic.pictet",
+            "v0n3.nic.pictet",
+            "v0n2.nic.pictet",
+            "v2n1.nic.pictet",
+            "v0n1.nic.pictet"
+        ],
+        "dnssec": true,
+        "created_date": "2014-08-13T16:20:13Z",
+        "created_date_in_time": "2014-08-13T16:20:13Z",
+        "updated_date": "2024-09-27T16:20:48Z",
+        "updated_date_in_time": "2024-09-27T16:20:48Z",
+        "expiration_date": "2025-08-13T16:20:13Z",
+        "expiration_date_in_time": "2025-08-13T16:20:13Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "2c83ec0131bf4508b0542cc189281a63-DONUTS",
+        "name": "Senior Web Publisher/Editor",
+        "organization": "Banque Pictet & Cie SA",
+        "street": "Route des Acacias 60",
+        "city": "Geneva",
+        "postal_code": "CH-1211",
+        "country": "CH",
+        "phone": "+41.583232323",
+        "email": "ngtld-pictet@cscglobal.com"
+    },
+    "administrative": {
+        "id": "2c83ec0131bf4508b0542cc189281a63-DONUTS",
+        "name": "Senior Web Publisher/Editor",
+        "organization": "Banque Pictet & Cie SA",
+        "street": "Route des Acacias 60",
+        "city": "Geneva",
+        "postal_code": "CH-1211",
+        "country": "CH",
+        "phone": "+41.583232323",
+        "email": "ngtld-pictet@cscglobal.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}

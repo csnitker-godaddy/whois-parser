@@ -1,0 +1,52 @@
+{
+    "domain": {
+        "domain": "nic.wf",
+        "punycode": "nic.wf",
+        "name": "nic",
+        "extension": "wf",
+        "status": [
+            "ACTIVE"
+        ],
+        "name_servers": [
+            "ns4.nic.fr",
+            "ns6.ext.nic.fr",
+            "ns7.ext.nic.fr"
+        ],
+        "created_date": "1995-01-01T00:00:00Z",
+        "created_date_in_time": "1995-01-01T00:00:00Z",
+        "updated_date": "2024-09-10T13:56:13.729491Z",
+        "updated_date_in_time": "2024-09-10T13:56:13.729491Z",
+        "expiration_date": "2029-12-31T23:00:00Z",
+        "expiration_date_in_time": "2029-12-31T23:00:00Z"
+    },
+    "registrar": {
+        "name": "Registry Operations",
+        "street": "AFNIC, immeuble le Stephenson, 1, rue Stephenson, 78180 Montigny-Le-Bretonneux",
+        "country": "FR",
+        "phone": "+33.139308300",
+        "fax": "+33.139308301",
+        "email": "support@afnic.fr",
+        "referral_url": "https://www.afnic.fr"
+    },
+    "registrant": {
+        "id": "NF100-FRNIC"
+    },
+    "administrative": {
+        "id": "NF100-FRNIC",
+        "name": "Nic wf",
+        "street": "Afnic Backend Registry Operator, immeuble le Stephenson, 1, rue Stephenson, 78180 Montigny le Bretonneux",
+        "country": "FR",
+        "phone": "+33.139308300",
+        "fax": "+33.139308301",
+        "email": "support+fr@nic.fr"
+    },
+    "technical": {
+        "id": "VL100-FRNIC",
+        "name": "Registry Vincent Levigneron",
+        "street": "7, avenue du 8 mai 1945, 78280 Guyancourt",
+        "country": "FR",
+        "phone": "+33.139308300",
+        "fax": "+33.139308301",
+        "email": "vincent.levigneron@afnic.fr"
+    }
+}

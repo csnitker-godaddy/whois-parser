@@ -1,0 +1,43 @@
+{
+    "domain": {
+        "id": "DTSMNGYQOLP9-RADIO",
+        "domain": "nic.radio",
+        "punycode": "nic.radio",
+        "name": "nic",
+        "extension": "radio",
+        "whois_server": "whois.nic.radio",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "anycast1.irondns.net",
+            "anycast2.irondns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2016-08-17T16:20:44.852Z",
+        "created_date_in_time": "2016-08-17T16:20:44.852Z",
+        "updated_date": "2024-10-01T17:11:32.895Z",
+        "updated_date_in_time": "2024-10-01T17:11:32.895Z",
+        "expiration_date": "2025-08-17T16:20:44.852Z",
+        "expiration_date_in_time": "2025-08-17T16:20:44.852Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "European Broadcasting Union",
+        "phone": "+41.227172158",
+        "email": "directiongeneraltlds@ebu.ch",
+        "referral_url": "http://www.eurovision.com"
+    },
+    "registrant": {
+        "organization": "European Broadcasting Union",
+        "country": "CH",
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "email": "please query the whois service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

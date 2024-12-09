@@ -1,0 +1,81 @@
+{
+    "domain": {
+        "id": "TWDOMAIN0000272063-twnic",
+        "domain": "nic.政府",
+        "punycode": "nic.xn--mxtq1m",
+        "name": "nic",
+        "extension": "xn--mxtq1m",
+        "whois_server": "whois.nic.政府",
+        "status": [
+            "serverDeleteProhibited"
+        ],
+        "name_servers": [
+            "dns.nic.xn--mxtq1m",
+            "dns2.nic.xn--mxtq1m"
+        ],
+        "created_date": "2014-04-24",
+        "created_date_in_time": "2014-04-24T00:00:00Z",
+        "updated_date": "2017-02-07",
+        "updated_date_in_time": "2017-02-07T00:00:00Z",
+        "expiration_date": "2025-04-04",
+        "expiration_date_in_time": "2025-04-04T00:00:00Z"
+    },
+    "registrar": {
+        "id": "001897",
+        "name": "Taiwan Network Information Center",
+        "phone": "+886.23411313 #500",
+        "email": "tech@twnic.net.tw"
+    },
+    "registrant": {
+        "id": "t001",
+        "name": "tech department",
+        "organization": "twnic",
+        "street": "4F-2, No. 9, Roosevelt Rd., Sec. 2, Taipei 100, Taiwan, R.O.C.",
+        "city": "taipei",
+        "province": "taiwan",
+        "postal_code": "100",
+        "country": "TW",
+        "phone": "+886.223411313",
+        "fax": "+886.223411313",
+        "email": "test2@twnic.net.tw"
+    },
+    "administrative": {
+        "id": "t002",
+        "name": "nic",
+        "organization": "TWNIC",
+        "street": "4F-2, No. 9, Roosevelt Rd., Sec. 2, Taipei 100, Taiwan, R.O.C.",
+        "city": "taipei",
+        "province": "Taiwan",
+        "postal_code": "100",
+        "country": "TW",
+        "phone": "+886.223411313",
+        "fax": "+886.223411313",
+        "email": "tech@twnic.net.tw"
+    },
+    "technical": {
+        "id": "t002",
+        "name": "nic",
+        "organization": "TWNIC",
+        "street": "4F-2, No. 9, Roosevelt Rd., Sec. 2, Taipei 100, Taiwan, R.O.C.",
+        "city": "taipei",
+        "province": "Taiwan",
+        "postal_code": "100",
+        "country": "TW",
+        "phone": "+886.223411313",
+        "fax": "+886.223411313",
+        "email": "tech@twnic.net.tw"
+    },
+    "billing": {
+        "id": "t002",
+        "name": "nic",
+        "organization": "TWNIC",
+        "street": "4F-2, No. 9, Roosevelt Rd., Sec. 2, Taipei 100, Taiwan, R.O.C.",
+        "city": "taipei",
+        "province": "Taiwan",
+        "postal_code": "100",
+        "country": "TW",
+        "phone": "+886.223411313",
+        "fax": "+886.223411313",
+        "email": "tech@twnic.net.tw"
+    }
+}

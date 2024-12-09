@@ -1,0 +1,85 @@
+{
+    "domain": {
+        "id": "DO_59f76c35d72c849fba8b632e12102b0d-COOP",
+        "domain": "nic.coop",
+        "punycode": "nic.coop",
+        "name": "nic",
+        "extension": "coop",
+        "whois_server": "whois.registry.coop",
+        "status": [
+            "serverDeleteProhibited",
+            "serverUpdateProhibited",
+            "serverTransferProhibited"
+        ],
+        "name_servers": [
+            "ns03.trs-dns.com",
+            "ns03.trs-dns.net"
+        ],
+        "dnssec": true,
+        "created_date": "2022-11-07T19:55:44.638Z",
+        "created_date_in_time": "2022-11-07T19:55:44.638Z",
+        "updated_date": "2024-02-26T19:59:18.927Z",
+        "updated_date_in_time": "2024-02-26T19:59:18.927Z",
+        "expiration_date": "2032-11-07T19:55:44.638Z",
+        "expiration_date_in_time": "2032-11-07T19:55:44.638Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "DotCoop",
+        "phone": "+44.1865403136",
+        "email": "info+whois@registry.coop",
+        "referral_url": "https://identity.coop"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "DootCoop",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Oxford",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "GB",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "billing": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

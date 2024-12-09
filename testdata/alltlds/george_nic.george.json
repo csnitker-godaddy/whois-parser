@@ -1,0 +1,77 @@
+{
+    "domain": {
+        "id": "DDDFE2EE289B148B4B93905A107149DAA-GDREG",
+        "domain": "nic.george",
+        "punycode": "nic.george",
+        "name": "nic",
+        "extension": "george",
+        "whois_server": "whois.nic.walmart",
+        "status": [
+            "serverRenewProhibited",
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "a.nic.george",
+            "b.nic.george",
+            "c.nic.george",
+            "x.nic.george",
+            "y.nic.george",
+            "z.nic.george"
+        ],
+        "dnssec": true,
+        "created_date": "2024-08-01T02:04:25Z",
+        "created_date_in_time": "2024-08-01T02:04:25Z",
+        "updated_date": "2024-11-19T03:06:59Z",
+        "updated_date_in_time": "2024-11-19T03:06:59Z",
+        "expiration_date": "2025-08-01T02:04:25Z",
+        "expiration_date_in_time": "2025-08-01T02:04:25Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Wal-Mart Stores, Inc.",
+        "phone": "+1.4242624238",
+        "email": "techsupport@registry.godaddy",
+        "referral_url": "nic.walmart"
+    },
+    "registrant": {
+        "id": "CFEB8AC65A7A149F3AAA8A4F1ACD0783E-GDREG",
+        "name": "Wal-Mart Stores, Inc.",
+        "organization": "Wal-Mart Stores, Inc.",
+        "street": "702 Southwest 8th Street",
+        "city": "Bentonville",
+        "province": "AR",
+        "postal_code": "72716",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4242624238",
+        "email": "techsupport@registry.godaddy"
+    },
+    "administrative": {
+        "id": "CFEB8AC65A7A149F3AAA8A4F1ACD0783E-GDREG",
+        "name": "Wal-Mart Stores, Inc.",
+        "organization": "Wal-Mart Stores, Inc.",
+        "street": "702 Southwest 8th Street",
+        "city": "Bentonville",
+        "province": "AR",
+        "postal_code": "72716",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4242624238",
+        "email": "techsupport@registry.godaddy"
+    },
+    "technical": {
+        "id": "CFEB8AC65A7A149F3AAA8A4F1ACD0783E-GDREG",
+        "name": "Wal-Mart Stores, Inc.",
+        "organization": "Wal-Mart Stores, Inc.",
+        "street": "702 Southwest 8th Street",
+        "city": "Bentonville",
+        "province": "AR",
+        "postal_code": "72716",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4242624238",
+        "email": "techsupport@registry.godaddy"
+    }
+}

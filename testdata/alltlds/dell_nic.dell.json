@@ -1,0 +1,69 @@
+{
+    "domain": {
+        "id": "D907-DELL",
+        "domain": "nic.dell",
+        "punycode": "nic.dell",
+        "name": "nic",
+        "extension": "dell",
+        "whois_server": "whois.nic.dell",
+        "status": [
+            "serverTransferProhibited",
+            "serverDeleteProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "ns1.dns.nic.dell",
+            "ns2.dns.nic.dell",
+            "ns3.dns.nic.dell",
+            "ns4.dns.nic.dell",
+            "ns5.dns.nic.dell",
+            "ns6.dns.nic.dell"
+        ],
+        "dnssec": true,
+        "created_date": "2013-09-16T20:09:24Z",
+        "created_date_in_time": "2013-09-16T20:09:24Z",
+        "updated_date": "2024-10-31T00:00:04Z",
+        "updated_date_in_time": "2024-10-31T00:00:04Z",
+        "expiration_date": "2025-09-15T23:59:59Z",
+        "expiration_date_in_time": "2025-09-15T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Dell Inc."
+    },
+    "registrant": {
+        "id": "C6437-DELL",
+        "name": "Dell Inc.",
+        "street": "1 Dell Way",
+        "city": "Round Rock",
+        "province": "TX",
+        "postal_code": "78682",
+        "country": "US",
+        "phone": "+1.5127283500",
+        "email": "dnsadmin@dell.com"
+    },
+    "administrative": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    },
+    "technical": {
+        "id": "C591-BIZ",
+        "name": "Registry Services, LLC",
+        "organization": "Registry Services, LLC",
+        "street": "2155 E GoDaddy Way",
+        "city": "Tempe",
+        "province": "AZ",
+        "postal_code": "85284",
+        "country": "US",
+        "phone": "+1.4806519999",
+        "email": "registry-help@registry.godaddy"
+    }
+}

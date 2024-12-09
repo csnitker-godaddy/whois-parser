@@ -1,0 +1,77 @@
+{
+    "domain": {
+        "id": "D20140415G10001G_08729508-wangzhi",
+        "domain": "nic.xn--ses554g",
+        "punycode": "nic.xn--ses554g",
+        "name": "nic",
+        "extension": "xn--ses554g",
+        "whois_server": "202.173.11.141",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "dns1.zdnscloud.info",
+            "cns1.zdnscloud.net",
+            "ins1.zdnscloud.com",
+            "vns1.zdnscloud.biz"
+        ],
+        "created_date": "2014-04-15T03:09:53Z",
+        "created_date_in_time": "2014-04-15T03:09:53Z",
+        "updated_date": "2018-04-19T02:20:22Z",
+        "updated_date_in_time": "2018-04-19T02:20:22Z",
+        "expiration_date": "2033-04-15T03:09:53Z",
+        "expiration_date_in_time": "2033-04-15T03:09:53Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "knet",
+        "phone": "+86.01058813521",
+        "email": "tech-supprot@zdns.cn",
+        "referral_url": "http://www.knet.cn"
+    },
+    "registrant": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "Knet",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "Beijing",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "CN",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record  identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "administrative": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record  identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    },
+    "technical": {
+        "id": "REDACTED FOR PRIVACY",
+        "name": "REDACTED FOR PRIVACY",
+        "organization": "REDACTED FOR PRIVACY",
+        "street": "REDACTED FOR PRIVACY",
+        "city": "REDACTED FOR PRIVACY",
+        "province": "REDACTED FOR PRIVACY",
+        "postal_code": "REDACTED FOR PRIVACY",
+        "country": "REDACTED FOR PRIVACY",
+        "phone": "REDACTED FOR PRIVACY",
+        "phone_ext": "REDACTED FOR PRIVACY",
+        "fax": "REDACTED FOR PRIVACY",
+        "fax_ext": "REDACTED FOR PRIVACY",
+        "email": "please query the rdds service of the registrar of record  identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name."
+    }
+}

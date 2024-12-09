@@ -1,0 +1,32 @@
+{
+    "domain": {
+        "id": "DO326687-GMO",
+        "domain": "nic.mitsubishi",
+        "punycode": "nic.mitsubishi",
+        "name": "nic",
+        "extension": "mitsubishi",
+        "whois_server": "whois.nic.mitsubishi",
+        "status": [
+            "ok"
+        ],
+        "name_servers": [
+            "ns1.gmointernet.com",
+            "ns1.gmointernet.jp"
+        ],
+        "created_date": "2015-12-09T00:59:36.0Z",
+        "created_date_in_time": "2015-12-09T00:59:36Z",
+        "updated_date": "2023-12-10T00:16:19.0Z",
+        "updated_date_in_time": "2023-12-10T00:16:19Z",
+        "expiration_date": "2024-12-09T23:59:59.0Z",
+        "expiration_date_in_time": "2024-12-09T23:59:59Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Mitsubishi Corporation",
+        "referral_url": "nic.mitsubishi"
+    },
+    "registrant": {
+        "province": "Tokyo",
+        "country": "JP"
+    }
+}

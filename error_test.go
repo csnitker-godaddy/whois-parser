@@ -1,5 +1,5 @@
 /*
- * Copyright 2014-2023 Li Kexian
+ * Copyright 2014-2024 Li Kexian
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -134,4 +134,11 @@ func TestAsisLimitExceeded(t *testing.T) {
 	data = `Domain Name: LIKEXIAN.COM
 	Registry Domain ID: 1665843940_DOMAIN_COM-VRSN`
 	assert.False(t, isLimitExceeded(data))
+
+	data = `%% Maximum query rate reached`
+	assert.True(t, isLimitExceeded(data))
+
+	// GoDaddy (when blocking all queries)
+	data = "Number of allowed queries exceeded\r\n"
+	assert.True(t, isLimitExceeded(data))
 }

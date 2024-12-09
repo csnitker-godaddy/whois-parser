@@ -1,0 +1,71 @@
+{
+    "domain": {
+        "id": "32e26806f9c742248ad83dc16951ac77-DONUTS",
+        "domain": "nic.vanguard",
+        "punycode": "nic.vanguard",
+        "name": "nic",
+        "extension": "vanguard",
+        "whois_server": "whois.identitydigital.services",
+        "status": [
+            "serverDeleteProhibited",
+            "serverTransferProhibited",
+            "serverUpdateProhibited"
+        ],
+        "name_servers": [
+            "b0.nic.vanguard",
+            "a0.nic.vanguard",
+            "a2.nic.vanguard",
+            "c0.nic.vanguard"
+        ],
+        "created_date": "2016-03-29T19:05:03Z",
+        "created_date_in_time": "2016-03-29T19:05:03Z",
+        "updated_date": "2024-09-23T15:51:12Z",
+        "updated_date_in_time": "2024-09-23T15:51:12Z",
+        "expiration_date": "2026-03-29T19:05:03Z",
+        "expiration_date_in_time": "2026-03-29T19:05:03Z"
+    },
+    "registrar": {
+        "id": "9999",
+        "name": "Registry Operator acts as Registrar (9999)",
+        "phone": "+1.6664447777",
+        "email": "abuse@identity.digital",
+        "referral_url": "https://identity.digital"
+    },
+    "registrant": {
+        "id": "54c12250c8f04f8d98c4ef80e2c26e8f-DONUTS",
+        "name": "Manager",
+        "organization": "The Vanguard Group, Inc.",
+        "street": "100 Vanguard Boulevard",
+        "city": "Malvern",
+        "province": "PA",
+        "postal_code": "19355",
+        "country": "US",
+        "phone": "+1.6106691000",
+        "email": "ngtld-vanguard@cscinfo.com"
+    },
+    "administrative": {
+        "id": "54c12250c8f04f8d98c4ef80e2c26e8f-DONUTS",
+        "name": "Manager",
+        "organization": "The Vanguard Group, Inc.",
+        "street": "100 Vanguard Boulevard",
+        "city": "Malvern",
+        "province": "PA",
+        "postal_code": "19355",
+        "country": "US",
+        "phone": "+1.6106691000",
+        "email": "ngtld-vanguard@cscinfo.com"
+    },
+    "technical": {
+        "id": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+        "name": "DNS Administrator",
+        "organization": "Identity Digital Inc",
+        "street": "10500 NE 8th Street Suite 750",
+        "city": "Bellevue",
+        "province": "WA",
+        "postal_code": "98004",
+        "country": "US",
+        "phone": "+1.4242624238",
+        "fax": "+1.4252235351",
+        "email": "dnsadmin@identity.digital"
+    }
+}
