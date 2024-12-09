@@ -20,12 +20,9 @@
 package whoisparser
 
 import (
-	"reflect"
 	"regexp"
 	"strings"
 
-	"github.com/likexian/gokit/assert"
-	"github.com/likexian/gokit/xslice"
 	"golang.org/x/net/idna"
 )
 
@@ -73,16 +70,16 @@ func Parse(text string) (whoisInfo WhoisInfo, err error) { //nolint:cyclop
 	whoisLines := strings.Split(whoisText, "\n")
 	for i := 0; i < len(whoisLines); i++ {
 		line := strings.TrimSpace(whoisLines[i])
-		if len(line) < 5 || !strings.Contains(line, ":") {
+		if len(line) < 5 || strings.IndexByte(line, ':') == -1 {
 			continue
 		}
 
-		fChar := line[:1]
-		if assert.IsContains([]string{"-", "*", "%", ">", ";"}, fChar) {
+		fChar := line[0]
+		if fChar == '-' || fChar == '*' || fChar == '%' || fChar == '>' || fChar == ';' {
 			continue
 		}
 
-		if line[len(line)-1:] == ":" {
+		if line[len(line)-1] == ':' {
 			i++
 			for ; i < len(whoisLines); i++ {
 				thisLine := strings.TrimSpace(whoisLines[i])
@@ -95,9 +92,13 @@ func Parse(text string) (whoisInfo WhoisInfo, err error) { //nolint:cyclop
 			i--
 		}
 
-		lines := strings.SplitN(line, ":", 2)
-		name := strings.TrimSpace(lines[0])
-		value := strings.TrimSpace(lines[1])
+		idx := strings.IndexByte(line, ':')
+		if idx < 0 {
+			continue
+		}
+
+		name := strings.TrimSpace(line[:idx])
+		value := strings.TrimSpace(line[idx+1:])
 		value = strings.TrimSpace(strings.Trim(value, ":"))
 
 		if value == "" {
@@ -185,8 +186,8 @@ func Parse(text string) (whoisInfo WhoisInfo, err error) { //nolint:cyclop
 	domain.NameServers = fixNameServers(domain.NameServers)
 	domain.Status = fixDomainStatus(domain.Status)
 
-	domain.NameServers = xslice.Unique(domain.NameServers).([]string)
-	domain.Status = xslice.Unique(domain.Status).([]string)
+	domain.NameServers = uniqueStrings(domain.NameServers)
+	domain.Status = uniqueStrings(domain.Status)
 
 	whoisInfo.Domain = domain
 	if !isContactEmpty(registrar) {
@@ -221,7 +222,21 @@ func Parse(text string) (whoisInfo WhoisInfo, err error) { //nolint:cyclop
 }
 
 func isContactEmpty(c *Contact) bool {
-	return reflect.DeepEqual(*c, Contact{})
+	return c.ID == "" &&
+		c.Name == "" &&
+		c.Organization == "" &&
+		c.Street == "" &&
+		c.City == "" &&
+		c.Province == "" &&
+		c.PostalCode == "" &&
+		c.Country == "" &&
+		c.Phone == "" &&
+		c.PhoneExt == "" &&
+		c.Fax == "" &&
+		c.FaxExt == "" &&
+		c.Email == "" &&
+		c.ReferralURL == "" &&
+		(len(c.ExtendedData) == 0)
 }
 
 // parseContact do parse contact info
